@@ -1,4 +1,5 @@
 collections:
   school-info:
     output: true
-    order: []
+    order:
+      - Income Family Micro Insurance and Savings Scheme (IFMISS).md
