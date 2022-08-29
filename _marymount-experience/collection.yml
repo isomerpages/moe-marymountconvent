@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - MCS Library/MCS Library.md
       - MCS Library/Online Services.md
       - MCS Library/Programmes.md
       - MCS Library/Reading Lists.md
