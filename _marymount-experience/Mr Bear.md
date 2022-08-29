@@ -12,3 +12,17 @@ description: ""
 <p>Through Mr Bear, she hopes that our girls will be nudged to do more and at the same time, generate a culture of affirmation and positivity.</p>
 <p><em>Fun fact: Mr Bear is actually dressed in our school's staff tee and school shorts!&nbsp;</em></p>
 <h4><strong>Photo Gallery</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/bear1.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/bear2.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/bear3.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/bear4.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/bear5.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/bear6.jpg"></td>
+</tr>
+</tbody>
+</table>
