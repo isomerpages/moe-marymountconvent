@@ -87,3 +87,7 @@ third_nav_title: MCS Library
 </tr>
 </tbody>
 </table>
+<p>In view of the Covid-19 situation, various safe management measures (SMMs) have been put in place for the health and safety of all pupils. Do remember to stay in line with the SMMs!</p>
+<img src="/images/lib6.jpg">
+<p><strong>Gallery&nbsp;</strong></p>
+<img src="/images/lib7.jpg">
