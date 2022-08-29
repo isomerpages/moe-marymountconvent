@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Signature Programmes/.keep
       - Our Marymount Tradition/.keep
       - Our Marymount Tradition/Our Marymount Tradition.md
       - Our Marymount Tradition/Light Ceremony.md
