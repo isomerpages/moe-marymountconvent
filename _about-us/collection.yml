@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
+      - Our Heritage/.keep
+      - Our Heritage/Our Heritage.md
       - Our Heritage/Our Foundress.md
       - Our Heritage/Good Shepherd Order.md
       - Our Heritage/History of Marymount.md
       - Our Heritage/Daughters of Marymount.md
       - Our Heritage/Pillars of Strength.md
-      - Our Heritage/Our Heritage.md
-      - Our Heritage/.keep
       - Principal's Message.md
       - Pupils' Creed.md
       - School Crest.md
