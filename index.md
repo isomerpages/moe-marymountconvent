@@ -14,9 +14,8 @@ sections:
           url: https://google.com
         - title: Calendar of Events
           description: ""
-          url: https://gmail.com
+          url: /calendar-of-events
         - title: Useful Links
           description: ""
           url: /privacy/
 ---
-
