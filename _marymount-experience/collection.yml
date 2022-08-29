@@ -1,4 +1,5 @@
 collections:
   marymount-experience:
     output: true
-    order: []
+    order:
+      - MCS Library/.keep
