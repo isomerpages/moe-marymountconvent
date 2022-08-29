@@ -21,3 +21,11 @@ third_nav_title: Our Heritage
 <p>She believed that we should &ldquo;Do all for love. Do as I did. I was not possessed of great talents. I did nothing great&hellip; I only loved&hellip; but I loved with all the strength of my soul&hellip; Nothing is impossible to one who loves.&rdquo;</p>
 <p>She was canonised by Pope Pius XII in 1940 and known as Saint Mary Euphrasia.</p>
 <p style="text-align: center;">Her dying words:&nbsp;<br /><sub>&ldquo;Say to my dear children that I tenderly bless them, that no one has been forgotten. I died a daughter of the holy, Catholic and Apostolic Church.&rdquo;</sub></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/found1.png"></td>
+<td style="width: 50%;"><img src="/images/found2.png"></td>
+</tr>
+</tbody>
+</table>
