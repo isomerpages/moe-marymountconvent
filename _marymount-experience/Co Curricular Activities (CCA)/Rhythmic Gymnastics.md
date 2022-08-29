@@ -115,8 +115,9 @@ third_nav_title: Co Curricular Activities (CCA)
 </td>
 <td style="text-align: center;">
 <p>Junior Division: 3<sup>rd</sup>&nbsp;Group Freehand</p>
-<p>Senior Division: 1<sup>st</sup>&nbsp;Group Freehand</p>
-Various individual achievements</td>
+<p>Senior Division: 1<sup>st</sup> Group Freehand</p>
+<p>Various individual achievements</p>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">2020 RG Virtual Competition&nbsp;</td>
@@ -133,7 +134,8 @@ Various individual achievements</td>
 </td>
 <td style="text-align: center;">
 <p>2nd Place Team All Around</p>
-Various individual achievements&nbsp;</td>
+<p>Various individual achievements&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
