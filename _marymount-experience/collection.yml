@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Co Curricular Activities (CCA)/.keep
       - Signature Programmes/Signature Programmes.md
       - Signature Programmes/Learning for Life Programme (Aesthetics).md
       - Signature Programmes/Learning for Life Program (Sports & Outdoor
