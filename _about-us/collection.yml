@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Teacher's Profile.md
       - Teaching Staff (2022).md
       - FAQs.md
       - Privacy Policy.md
