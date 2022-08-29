@@ -68,3 +68,22 @@ third_nav_title: MCS Library
 </table>
 <p><strong>Lost / Damaged Items<br /></strong>Pupils are responsible for any library items borrowed from the library. For every item lost or damaged, pupils are required to&nbsp;<strong>replace the item in kind</strong>.</p>
 <p>Please contact the librarian for more details&nbsp;<a href="mailto:rebecca@marymount.edu.sg" target="">here</a>.</p>
+<p><strong>Library Dos and Don'ts</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 55%;"><img src="/images/lib5.jpg"></td>
+<td style="width: 45%;"><p>To make the library a quiet and pleasant place, we need all pupils to help observe the following rules:</p>
+<ul>
+<li>Speak softly at all times</li>
+<li>Walk slowly, do not run</li>
+<li>Do not eat or drink</li>
+<li>Do not play</li>
+<li>Keep the library clean and tidy</li>
+<li>Take care of all library items</li>
+<li>Return books to the original shelves or leave them in the trolley after reading</li>
+<li>Borrow the books at the borrowing station before taking them out of the library</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
