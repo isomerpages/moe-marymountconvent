@@ -38,3 +38,33 @@ third_nav_title: MCS Library
 </tr>
 </tbody>
 </table>
+<p><strong>Library Policies<br /></strong>All pupils are automatically registered as members of the school library. They can use their EZ-Link cards to borrow library items.</p>
+<p><strong>Borrowing Privileges</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="100"><strong>User</strong></td>
+<td style="text-align: center;" width="150"><strong>Number of items</strong></td>
+<td style="text-align: center;" width="104"><strong>Borrowing duration</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="100">Primary 1 to 3</td>
+<td style="text-align: center;" width="150">
+<div>Maximum 2 books</div>
+<div>(English or Mother Tongue)</div>
+</td>
+<td style="text-align: center;" width="104">14 days</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="100">Primary 4 to 6</td>
+<td style="text-align: center;" width="150">
+<div>Maximum 4 books
+<div>(English or Mother Tongue)</div>
+</div>
+</td>
+<td style="text-align: center;" width="104">14 days</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lost / Damaged Items<br /></strong>Pupils are responsible for any library items borrowed from the library. For every item lost or damaged, pupils are required to&nbsp;<strong>replace the item in kind</strong>.</p>
+<p>Please contact the librarian for more details&nbsp;<a href="mailto:rebecca@marymount.edu.sg" target="">here</a>.</p>
