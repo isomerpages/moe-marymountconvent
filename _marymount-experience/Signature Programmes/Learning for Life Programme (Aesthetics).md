@@ -37,3 +37,12 @@ third_nav_title: Signature Programmes
 </tr>
 </tbody>
 </table>
+<p><strong>Assembly Shows</strong></p>
+<p>Through assembly shows, we expose students to art forms out of the curriculum in the Visual Art, Music, Dance and Drama domains.</p>
+<img style="width: 65%;" src="/images/lp6.jpg" />
+<p style="text-align: center;">Pupils watching a Music Assembly programme</p>
+<p><strong>Early Bird Programme</strong></p>
+<p>Art and Music sharing, like community singing, are shared through this platform.</p>
+<img style="width: 75%;" src="/images/lp7.jpg" />
+<p><strong>Aesthetics Talent Identification Programme</strong></p>
+<p>Opportunities will be given for students who are interested and talented to develop further in the art domains. Identified students are invited to the Aesthetics CCAs of their talent area, which will provide them with platforms and opportunities to further stretch their potential.&nbsp;</p>
