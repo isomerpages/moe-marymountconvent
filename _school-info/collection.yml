@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - Rationale For Car Decals.md
       - School Attire.md
       - School Books.md
       - School Bus.md
