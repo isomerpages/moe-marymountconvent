@@ -29,11 +29,11 @@ third_nav_title: Signature Programmes
 <table>
 <tbody>
 <tr>
-<th style="text-align: center; width: 442px;" colspan="2">P5 Leather Pouch and Placard Making<br />(for Changi Exhibition Centre Frontline Workers 2020)&nbsp;</th>
+<th style="text-align: center; width: 440px;" colspan="2">P5 Leather Pouch and Placard Making<br />(for Changi Exhibition Centre Frontline Workers 2020)&nbsp;</th>
 </tr>
 <tr>
-<td style="width: 213px;"><img src="/images/lp4.jpg"></td>
-<td style="width: 223px;"><img src="/images/lp5.jpg"></td>
+<td style="width: 220px;"><img src="/images/lp4.jpg"></td>
+<td style="width: 220px;"><img src="/images/lp5.jpg"></td>
 </tr>
 </tbody>
 </table>
