@@ -68,14 +68,14 @@ third_nav_title: Co Curricular Activities (CCA)
 <li><span class="" lang="EN">side split leap </span>&nbsp;</li>
 </ul>
 </td>
-<td style="width: 50%;"><img src="/images/rg4.jpeg"></td>
+<td style="width: 50%;"><img style="width: 80%;" src="/images/rg4.jpeg" /></td>
 </tr>
 <tr>
 <td style="width: 50%;">
 <p class=""><strong class="">Apparatus Handling</strong></p>
 <p class=""><span class="">Learning to handle different apparatus, like ball, rope, hoop and clubs.</span>&nbsp;</p>
 </td>
-<td style="width: 50%;"><img src="/images/rg5.jpeg"></td>
+<td style="width: 50%;"><img style="width: 80%;" src="/images/rg5.jpeg" /></td>
 </tr>
 </tbody>
 </table>
