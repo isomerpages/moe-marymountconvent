@@ -3,3 +3,12 @@ title: Rationale For Car Decals
 permalink: /school-info/rationale-for-car-decals
 description: ""
 ---
+<p>With the implementation of car decals, security barriers and post, the school has been able to monitor the entry of vehicles, the flow of traffic and the admission of visitors stringently to strengthen the security in the school.&nbsp;</p>
+<p>All visitors, including parents to the school, would be screened at the gates before entry to the school. Other than staff members who have passes and our pupils, all visitors coming into the school would need to provide evidence of identity and purpose of visit at the security post.</p>
+<p><strong>To facilitate speedy identification of authorised vehicles, all parents / guardians who drive in to drop off and pick up your girls are advised to purchase car decals.</strong></p>
+<p>The display of car decal also allows us to recognise that you are one of our parents/guardians should you need to park the car for official matters such as meeting with our teachers or School events, as well as those who would need to fetch your child or children from the Student Care.</p>
+<p>These car decals are to be affixed prominently at the top left hand corner of the windscreen for authorised entry (except gate closing hours) of all vehicles. We urge all parents to co-operate with the school and purchase the car decals to ease the traffic flow and minimize inconveniences.</p>
+<p>Car decals are non-transferable. Families which have more than 1 vehicle coming into the compound to drop off or pick up your girls therefore would have to apply for the appropriate number of decals.</p>
+<p>We would like to emphasis that we must not take security for granted and hence urge all parents to continue to collaborate with the school on security regulations when you are coming into the school.</p>
+<p><strong>Please understand the roles of the security guards and cooperate with them at all times.</strong></p>
+<p>We appreciate your understanding and collaboration in ensuring a safe and secure school environment for our girls.</p>
