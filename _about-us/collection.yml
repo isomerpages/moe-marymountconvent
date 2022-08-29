@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Heritage/Our Heritage.md
       - Our Heritage/.keep
       - Principal's Message.md
       - Pupils' Creed.md
