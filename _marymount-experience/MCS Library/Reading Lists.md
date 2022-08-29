@@ -25,3 +25,48 @@ third_nav_title: MCS Library
 </tr>
 </tbody>
 </table>
+<h4><strong>Chinese Language</strong></h4>
+<table>
+<tbody>
+<tr>
+<th><a href="/files/P1-P2%20Chinese%20Book%20List%202022.pdf"><img src="/images/read4.jpg"></a></th>
+<th><a href="/files/P3-P4%20Chinese%20Book%20List%202022.pdf"><img src="/images/read5.jpg"></a></th>
+<th><a href="/files/P5-P6%20Chinese%20Book%20List%202022.pdf"><img src="/images/read6.jpg"></a></th>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
+<td style="text-align: center;"><strong>&nbsp;P3 &amp; P4</strong></td>
+<td style="text-align: center;"><strong>P5 &amp; P6&nbsp;</strong></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Malay Language</strong></h4>
+<table>
+<tbody>
+<tr>
+<th><a href="/files/P1-P2%20Malay%20Book%20List%202022%20min.pdf"><img src="/images/read7.jpg"></a></th>
+<th><a href="/files/P3-P4%20Malay%20Book%20List%202022%20min.pdf"><img src="/images/read8.jpg"></a></th>
+<th><a href="/files/P5-P6%20Malay%20Book%20List%202022%20min.pdf"><img src="/images/read9.jpg"></a></th>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
+<td style="text-align: center;"><strong>&nbsp;P3 &amp; P4</strong></td>
+<td style="text-align: center;"><strong>P5 &amp; P6&nbsp;</strong></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Tamil Language</strong></h4>
+<table>
+<tbody>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
+<td style="text-align: center;"><strong>&nbsp;P3 &amp; P4</strong></td>
+<td style="text-align: center;"><strong>P5 &amp; P6&nbsp;</strong></td>
+</tr>
+</tbody>
+</table>
