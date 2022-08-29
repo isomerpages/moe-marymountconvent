@@ -2,7 +2,7 @@
 layout: homepage
 title: Marymount Convent School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/crest.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /useful-links
 ---
+
