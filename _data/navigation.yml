@@ -52,6 +52,21 @@ links:
         url: /school-info/schemes-for-students-from-low-income-families
       - title: IFMISS
         url: /school-info/income-family-micro-insurance-and-savings-scheme-ifmiss
+  - title: Marymount Experience
+    url: /marymount-experience/curriculum
+    sublinks:
+      - title: Curriculum
+        url: /marymount-experience/curriculum
+      - title: Co-Curricular Activities (CCA)
+        url: /marymount-experience/co-curricular-activities-cca
+      - title: Signature Programmes
+        url: /marymount-experience/signature-programmes
+      - title: Our Marymount Tradition
+        url: /marymount-experience/our-marymount-tradition
+      - title: Mr Bear
+        url: /marymount-experience/mr-bear
+      - title: MCS Library
+        url: /marymount-experience/mcs-library
   - title: For Parents
     url: /for-parents/parent-support-group
     sublinks:
