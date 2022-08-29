@@ -20,5 +20,5 @@ description: ""
 <li>For inpatient claims&ndash; please submit the original tax invoice, receipts and Inpatient discharge summary/attending physician&rsquo;s medical report to Income</li>
 <li>Confirmation&nbsp;email will be sent to parents</li>
 </ol>
-<p>Please click&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" target="_blank" rel="noopener">here</a>&nbsp;to submit your claim.&nbsp;</p>
+<p>Please click&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" target="_blank" rel="noopener">here</a> to submit your claim.</p>
 <p>Parents who have made online submission are also able to check on the status of their Accident Claim from&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" target="_blank" rel="noopener">here</a>.&nbsp;</p>
