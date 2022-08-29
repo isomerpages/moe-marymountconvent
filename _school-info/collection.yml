@@ -2,5 +2,4 @@ collections:
   school-info:
     output: true
     order:
-      - Schemes for Students/.keep
       - Income Family Micro Insurance and Savings Scheme (IFMISS).md
