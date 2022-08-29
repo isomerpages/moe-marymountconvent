@@ -9,7 +9,7 @@ locations:
       - Marymount Road
       - Singapore 297754
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/H3W2GPV6AU1raZE5A
     title: Address
 contacts:
   - content:
