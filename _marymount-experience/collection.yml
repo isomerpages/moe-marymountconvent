@@ -2,6 +2,8 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Signature Programmes/Learning for Life Program (Sports & Outdoor
+        Education).md
       - Signature Programmes/Week of Experiential Learning (WELL).md
       - Signature Programmes/Our Expanded Learning Experience (OELE).md
       - Signature Programmes/.keep
