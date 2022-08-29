@@ -78,11 +78,9 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <div>Ms Audrey Chew</div>
-<div>
 <div>Head of Department&nbsp;</div>
 <div>Mother Tongue&nbsp;</div>
 <div>chew_sor_teng@moe.edu.sg</div>
-</div>
 </td>
 <td style="text-align: center;">
 <div>Ms Tay Ai Ling</div>
@@ -92,26 +90,22 @@ description: ""
 </td>
 <td style="text-align: center;">
 <div>Ms Chen Mun Hui Jane</div>
-<div>
 <div>Level Head</div>
 <div>Mathematics</div>
 <div>chen_mun_hui_jane@moe.edu.sg</div>
-</div>
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td><img style="width: 70%;" src="/images/kp12.png" /></td>
+<td><img style="width: 62%;" src="/images/kp13.jpg" /></td>
+<td><img style="width: 70%;" src="/images/kp14.jpeg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
 <div>Ms Lynn Ngui</div>
-<div>
 <div>Head of Department</div>
 <div>English Language</div>
 <div>ngui_shiyan_lynn@moe.edu.sg</div>
-</div>
 </td>
 <td style="text-align: center;">
 <div>Ms Wong Lai Lin</div>
@@ -126,9 +120,9 @@ description: ""
 sally_neo@moe.edu.sg</td>
 </tr>
 <tr>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td><img style="width: 60%;" src="/images/kp15.jpg" /></td>
+<td><img style="width: 60%;" src="/images/kp16.jpg" /></td>
+<td><img style="width: 60%;" src="/images/kp17.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -139,25 +133,21 @@ sally_neo@moe.edu.sg</td>
 </td>
 <td style="text-align: center;">
 <div>Mr Mohammad Faizal Ramli</div>
-<div>
 <div>Subject Head</div>
 <div>Information and Communication Technology</div>
 <div>mohammad_faizal_ramli@moe.edu.sg</div>
-</div>
 </td>
 <td style="text-align: center;">
 <div>Ms Dulcia Ong</div>
-<div>
 <div>Subject Head</div>
 <div>Aesthetics</div>
 <div>ong_tian_nu_dulcia@moe.edu.sg</div>
-</div>
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td><img style="width: 60%;" src="/images/kp18.jpg" /></td>
+<td><img style="width: 57%;" src="/images/kp19.jpg" /></td>
+<td><img style="width: 60%;" src="/images/kp20.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -175,16 +165,14 @@ sally_neo@moe.edu.sg</td>
 <td style="text-align: center;">
 <div>Mdm Suah Jun</div>
 <div>Head of Department</div>
-<div>
 <div>Student Development</div>
 <div>suah_jun@moe.edu.sg</div>
-</div>
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td><img style="width: 60%;" src="/images/kp21.jpg" /></td>
+<td><img style="width: 60%;" src="/images/kp22.jpg" /></td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -198,7 +186,6 @@ sally_neo@moe.edu.sg</td>
 <div>Ms Susan Tham</div>
 <div>Head of Department</div>
 <div>Physical Ed &amp; CCA</div>
-</div>
 <div>susan_tham_miew_peng@moe.edu.sg</div>
 </td>
 <td>&nbsp;</td>
