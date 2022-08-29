@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Heritage/Daughters of Marymount.md
       - Our Heritage/Pillars of Strength.md
       - Our Heritage/Our Heritage.md
       - Our Heritage/.keep
