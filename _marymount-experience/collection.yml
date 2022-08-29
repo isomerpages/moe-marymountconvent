@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Our Marymount Tradition/Light Ceremony.md
       - Our Marymount Tradition/.keep
       - Mr Bear.md
       - MCS Library/MCS Library.md
