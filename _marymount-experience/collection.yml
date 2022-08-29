@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Our Marymount Tradition/.keep
       - Mr Bear.md
       - MCS Library/MCS Library.md
       - MCS Library/Online Services.md
