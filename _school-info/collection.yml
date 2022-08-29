@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - School Dental.md
       - School Alumnae.md
       - Schemes for Students from Low Income Families.md
       - Income Family Micro Insurance and Savings Scheme (IFMISS).md
