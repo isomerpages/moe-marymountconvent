@@ -29,12 +29,12 @@ third_nav_title: MCS Library
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/lib3.jpeg"></td>
-<td style="width: 50%;"><img src="/images/lib4.jpeg"></td>
+<td style="width: 40%;"><img src="/images/lib3.jpeg"></td>
+<td style="width: 60%;"><img src="/images/lib4.jpeg"></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;">Outside Library</td>
-<td style="width: 50%; text-align: center;">Outside General Office</td>
+<td style="width: 40%; text-align: center;">Outside Library</td>
+<td style="width: 60%; text-align: center;">Outside General Office</td>
 </tr>
 </tbody>
 </table>
