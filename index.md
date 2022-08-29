@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Marymount Convent School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /privacy/
 ---
+
