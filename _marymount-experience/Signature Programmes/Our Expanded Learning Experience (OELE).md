@@ -57,6 +57,8 @@ third_nav_title: Signature Programmes
 <li>kitchen safety, food hygiene, equipment to be used and recipe brief.</li>
 <li>basic culinary/baking skills like folding, measuring, kneading, peeling, chopping etc.&nbsp;</li>
 </ul>
+<img style="width: 48%;" src="/images/oele5.jpg" align = "left" />
+<img style="width: 48%;" src="/images/oele6.jpg" align = "right" />
 </td>
 </tr>
 <tr>
@@ -69,6 +71,8 @@ third_nav_title: Signature Programmes
 <li>plan and create photographs and photographic-based imageries.</li>
 <li>develop and hone skills using digital photography tools.&nbsp;</li>
 </ul>
+<img style="width: 45%;" src="/images/oele8.jpg"><br>
+<img style="width: 65%;" src="/images/oele7.jpg">
 </td>
 </tr>
 <tr>
@@ -80,6 +84,8 @@ third_nav_title: Signature Programmes
 <li>learn good leadership traits.</li>
 <li>understand different leadership styles and identify their own style of leadership.&nbsp;</li>
 </ul>
+<img style="width: 65%;" src="/images/oele9.jpg"><br>
+<img style="width: 45%;" src="/images/oele10.jpg">
 </td>
 </tr>
 <tr>
