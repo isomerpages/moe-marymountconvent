@@ -11,11 +11,11 @@ sections:
       key_highlights:
         - title: News & Announcements
           description: ""
-          url: https://google.com
+          url: /news-n-announcements
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events
         - title: Useful Links
           description: ""
-          url: /privacy/
+          url: /useful-links
 ---
