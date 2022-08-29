@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Primary One Registration Exercise.md
       - Parent Volunteer for Primary 1 in 2023.md
       - Group Personal Accident (GPA) Insurance for Students.md
       - Replacement of School Smart Card.md
