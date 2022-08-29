@@ -1,6 +1,31 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/vision-and-mission
+    sublinks:
+      - title: Vision and Mission
+        url: /about-us/vision-and-mission
+      - title: Motto and Values
+        url: /about-us/motto-and-values
+      - title: Our Heritage
+        url: /about-us/our-heritage
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Pupils' Creed
+        url: /about-us/pupils-creed
+      - title: School Crest
+        url: /about-us/school-crest
+      - title: School Song
+        url: /about-us/school-song
+      - title: Board Members
+        url: /about-us/board-members
+      - title: Key Personnel
+        url: /about-us/key-personnel
+      - title: Teacher's Profile
+        url: /about-us/teachers-profile
+      - title: Teaching Staff (2022)
+        url: /about-us/teaching-staff-2022
+      - title: FAQ
+        url: /about-us/faq
+      - title: Privacy Policy
+        url: /about-us/privacy-policy
