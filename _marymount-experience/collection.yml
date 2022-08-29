@@ -2,4 +2,5 @@ collections:
   marymount-experience:
     output: true
     order:
+      - MCS Library/Reading Lists.md
       - MCS Library/.keep
