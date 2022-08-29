@@ -104,3 +104,37 @@ third_nav_title: Signature Programmes
 </tbody>
 </table>
 <h4><strong>Our Programmes</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p><strong><u>P2: Trip to the Singapore Botanic Gardens</u></strong></p>
+<p>The students&rsquo; visit to Singapore&rsquo;s first UNESCO World Heritage Site will have them appreciate the flora and fauna, as well as the opportunity to understand how the different subjects&nbsp;are integrated and found all around&nbsp;them.</p></td>
+<td style="width: 50%;"><img src="/images/well1.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong><u>P2: Values-In-Action (Budgeting and Purchasing Items at the Supermarket)</u></strong></p>
+<p>The students are first taught to understand the needs of their target audience (the elderly) through lessons in school, as well as deliberate Math infusion to provide them with the knowledge to work within a given budget. During the learning journey to the supermarket, the students will select suitable items for the elderly, which they will pack into gift packs at the end of the day.</p></td>
+<td style="width: 50%;"><img src="/images/well2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong><u>P3: Outdoor Cooking</u></strong></p>
+<p>The students will work collaboratively to cook a dish using local ingredients. This provides them with the opportunity to listen to different opinions and to take into consideration the preferences of those whom they work with. Through this activity, they learn to respect and be sensitive to others&rsquo; feelings, beliefs and needs.&nbsp;</p></td>
+<td style="width: 50%;"><img src="/images/well3.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong><u>P4: Trekking at Coney Island</u></strong></p>
+<p>The students trek through Coney Island and Lorong Halus, where they learnt about its past and how it had transformed from a swampland to what it is now.&nbsp;</p></td>
+<td style="width: 50%;"><img src="/images/well4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong><u>P5: Visit to Dragon Kiln</u></strong></p>
+<p>At the Dragon Kiln, the students&nbsp;got to appreciate the cultural icon as well as the traditions and heritage of Chinese Culture. They also had the opportunity to create their own pottery, which symbolizes the harnessing of their hopes and dreams.</p></td>
+<td style="width: 50%;"><img src="/images/well5.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong><u>P6: Art Legacy</u></strong></p>
+<p>Every year, before the P6s leave the school they leave behind an Art Legacy. The legacy is an artwork that is not only created for its Aesthetic value but for the key message the P6s want to impart to their younger Marymount sisters.&nbsp;</p></td>
+<td style="width: 50%;"><img src="/images/well6.jpg"></td>
+</tr>
+</tbody>
+</table>
