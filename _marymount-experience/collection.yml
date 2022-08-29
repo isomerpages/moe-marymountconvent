@@ -2,10 +2,10 @@ collections:
   marymount-experience:
     output: true
     order:
-      - Our Marymount Tradition/Foundress Day and Prize Giving Ceremony.md
+      - Our Marymount Tradition/.keep
       - Our Marymount Tradition/Our Marymount Tradition.md
       - Our Marymount Tradition/Light Ceremony.md
-      - Our Marymount Tradition/.keep
+      - Our Marymount Tradition/Foundress Day and Prize Giving Ceremony.md
       - Mr Bear.md
       - MCS Library/MCS Library.md
       - MCS Library/Online Services.md
