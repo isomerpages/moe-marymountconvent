@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - FAQs.md
       - Privacy Policy.md
