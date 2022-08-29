@@ -79,3 +79,16 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
+<p><strong>Performance</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/rg6.jpg"></td>
+<td style="width: 50%;"><img src="/images/rg7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">P1 Orientation</td>
+<td style="width: 50%; text-align: center;">Prize Giving&nbsp;Day</td>
+</tr>
+</tbody>
+</table>
