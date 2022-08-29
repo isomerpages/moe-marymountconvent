@@ -29,3 +29,26 @@ links:
         url: /about-us/faq
       - title: Privacy Policy
         url: /about-us/privacy-policy
+  - title: School Info
+    url: /school-info/school-rules-code-of-conduct-for-pupils
+    sublinks:
+      - title: School Rules / Code of Conduct
+        url: /school-info/school-rules-code-of-conduct-for-pupils
+      - title: Safety & Security Procedures
+        url: /school-info/safety-n-security-procedures
+      - title: Rationale For Car Decals
+        url: /school-info/rationale-for-car-decals
+      - title: School Attire
+        url: /school-info/school-attire
+      - title: School Books
+        url: /school-info/school-books
+      - title: School Bus
+        url: /school-info/school-bus
+      - title: School Dental
+        url: /school-info/school-dental
+      - title: School Alumnae
+        url: /school-info/school-alumnae
+      - title: Schemes for Students
+        url: /school-info/schemes-for-students-from-low-income-families
+      - title: IFMISS
+        url: /school-info/income-family-micro-insurance-and-savings-scheme-ifmiss
