@@ -92,3 +92,48 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
+<h4><strong>CCA Achievements</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;"><strong>Competition</strong></th>
+<th style="text-align: center;"><strong>Level (Div)</strong></th>
+<th style="text-align: center;"><strong>Achievement</strong></th>
+</tr>
+<tr>
+<td style="text-align: center;">National School Games 2019</td>
+<td style="text-align: center;">
+<table width="0">
+<tbody>
+<tr>
+<td width="624">
+<p>Junior &amp; Senior Division</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="text-align: center;">
+<p>Junior Division: 3<sup>rd</sup>&nbsp;Group Freehand</p>
+<p>Senior Division: 1<sup>st</sup>&nbsp;Group Freehand</p>
+Various individual achievements</td>
+</tr>
+<tr>
+<td style="text-align: center;">2020 RG Virtual Competition&nbsp;</td>
+<td style="text-align: center;">
+<table width="0">
+<tbody>
+<tr>
+<td width="624">
+<p>Junior &amp; Senior Division</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="text-align: center;">
+<p>2nd Place Team All Around</p>
+Various individual achievements&nbsp;</td>
+</tr>
+</tbody>
+</table>
