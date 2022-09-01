@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Choir.md
       - Co Curricular Activities (CCA)/Dance Ensemble.md
       - Co Curricular Activities (CCA)/Drama Club.md
       - Co Curricular Activities (CCA)/Environmental Science Club.md
