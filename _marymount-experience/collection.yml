@@ -2,6 +2,8 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
       - Curriculum/English.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
@@ -12,8 +14,6 @@ collections:
       - Curriculum/Character and Citizenship Education (CCE).md
       - Curriculum/Information, Communication and Technology (ICT).md
       - Curriculum/Programme for Active Learning (PAL).md
-      - Curriculum/Curriculum.md
-      - Curriculum/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/Art Club.md
       - Co Curricular Activities (CCA)/Artistic Gymnastics.md
