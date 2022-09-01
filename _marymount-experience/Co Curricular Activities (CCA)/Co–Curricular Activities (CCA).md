@@ -23,11 +23,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr style="height: 36px;">
 <td style="width: 33.3333%; height: 36px; text-align: center;"><a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club"><img src="images/cca7.jpg"></a>ENVIRONMENTAL SCIENCE CLUB</td>
 <td style="width: 33.3333%; height: 36px; text-align: center;"><a href="/marymount-experience/co-curricular-activities-cca/netball"><img src="images/cca8.jpg"></a>NETBALL</td>
-<td style="width: 33.3333%; height: 36px; text-align: center;">PERCUSSION ENSEMBLE</td>
+<td style="width: 33.3333%; height: 36px; text-align: center;"><a href="/marymount-experience/co-curricular-activities-cca/percussion-ensemble"><img src="images/cca9.jpg"></a>PERCUSSION ENSEMBLE</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px; text-align: center;">RHYTHMIC GYMNASTICS</td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">TENNIS</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;"><a href="/marymount-experience/co-curricular-activities-cca/rhythmic-gymnastics"><img src="images/cca10.jpg"></a>RHYTHMIC GYMNASTICS</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;"><a href="/marymount-experience/co-curricular-activities-cca/tennis"><img src="images/cca11.jpg"></a>TENNIS</td>
 <td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
