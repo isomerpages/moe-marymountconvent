@@ -2,5 +2,6 @@ collections:
   dance-ensemble:
     output: true
     order:
+      - Modern Dance.md
       - Chinese Dance.md
       - Dance Ensemble.md
