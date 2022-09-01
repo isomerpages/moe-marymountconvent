@@ -17,3 +17,51 @@ third_nav_title: Curriculum
 <h4><strong>Our Department Programmes</strong></h4>
 <p><strong><u>Mother Tongue Fortnight</u></strong><br /><br />Delightful two weeks filled with Mother Tongue activities. Pupils can look forward to experiencing traditional craft activities where they get to discover and learn more about their culture. Pupils also learn to appreciate their Mother Tongue languages through fun and challenging class activities or competitions.</p>
 <img src="/images/mt1.png">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<p><u>Festive Celebrations<br /></u>In the Marymount Family, we learn to respect different races and cultures. Festivals are the best platforms to learn to appreciate others&rsquo; cultures and traditions. When friends from other races celebrate the festivals close to their hearts, we share the joy with them too!</p>
+</td>
+<td style="width: 50%;"><img src="/images/mt2.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mt3.jpg"></td>
+<td style="width: 50%;"><img src="/images/mt4.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Library Programmes<br /></u></strong>Reading is the foundation for language learning. In Marymount, we aim to bring about a vibrant reading environment to support our pupils&rsquo; learning. The reading programme includes reading workshops for parents, scheduled library visits, class library, book fairs, reading projects and more!</p>
+<img style="width: 75%;" src="/images/mt5.jpg" />
+<h4><strong>Our Mother Tongue Talent Development Programmes</strong></h4>
+<p><strong>Our Philosophy</strong></p>
+<ul>
+<li>Believe that every pupil is endowed with talent in specific domains and can be developed into her fullest potential;</li>
+<li>Strive to enable each pupil to discover and develop her core academics talents;</li>
+<li>Believe in empowering every pupil to enhance their strengths and pursue their passions for lifelong learning.</li>
+</ul>
+<p><strong>Our Approach<br /></strong>Our Mother Tongue Talent Development Programme aims to provide opportunities for P3 &ndash; P5 pupils who have the passion and desire in Mother Tongue to:</p>
+<ul>
+<li>explore and deepen their interest in Mother Tongue;</li>
+<li>broaden their exposure in Mother Tongue-related disciplines;</li>
+<li>be creative and eloquent speakers;</li>
+<li>interact and collaborate with other budding Mother Tongue talents.</li>
+</ul>
+<p>The programme seeks to develop pupils who</p>
+<ul>
+<li>demonstrates a keen interest in Mother Tongue (e.g. by active participation in Mother Tongue-related enrichment activities, projects or competitions);</li>
+<li>obtained excellent results in school-based Mother Tongue assessments; and</li>
+<li>has a good record in Conduct.&nbsp;</li>
+</ul>
+<p>As part of their development, pupils in our Mother Tongue Talent Development Programme can look forward to participation in the following:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<p><strong>Speech and Drama (P1 and P2)</strong></p>
+<p>We aim to ignite our young pupils&rsquo; passion in their Mother Tongue languages through in-curriculum Speech and Drama courses. The opportunity to present before an audience would also build pupils&rsquo; confidence in speaking the languages. This is in line with our school&rsquo;s vision of nurturing our pupils to be eloquent speakers.</p>
+</td>
+<td style="width: 50%;"><img src="/images/mt6.jpg"><img src="/images/mt7.jpg"></td>
+</tr>
+</tbody>
+</table>
