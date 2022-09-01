@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Environmental Science Club.md
       - Co Curricular Activities (CCA)/Netball.md
       - Co Curricular Activities (CCA)/Percussion Ensemble.md
       - Co Curricular Activities (CCA)/Rhythmic Gymnastics.md
