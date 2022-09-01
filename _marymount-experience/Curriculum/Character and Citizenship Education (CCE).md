@@ -56,3 +56,33 @@ third_nav_title: Curriculum
 <h4><strong>National Education (NE)</strong></h4>
 <p>The philosophy of MCS&rsquo; National Education (NE) is to provide depth in values education and a sense of social responsibility with citizenship taking root in the hearts of our girls. Our National Education activities further provide pupils with the learning experiences to know (facts) and appreciate Singapore. After each selected NE events, pupils are encouraged to reflect and create meanings to their experiences in relation to their roles as daughters of Singapore.</p>
 <h4><strong>Key NE Activities @ MCS</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3807%; text-align: center;"><strong>Total Defence Day</strong></td>
+<td style="width: 66.6193%;"><img src="/images/cce3.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 33.3807%; text-align: center;"><strong>Racial Harmony Day</strong></td>
+<td style="width: 66.6193%;"><img src="/images/cce4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3807%; text-align: center;"><strong>National Day Celebrations</strong></td>
+<td style="width: 66.6193%;"><img src="/images/cce5.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>NE Ambassadors</strong></h4>
+<p>The NE Ambassadors are appointed to champion National Education in the school. The NE Ambassadors lend their support to CCE-organised commemorative events and are the driving force in relating NE messages to the school.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 63%;"><img src="/images/cce6.jpg"></td>
+<td style="width: 37%;"><img src="/images/cce7.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Cyber Wellness @ MCS</strong></h4>
+<p>Cyber Wellness @ MCS focusses on the well-being of our students as they navigate cyberspace, equipping them with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace, and be safe and responsible users of ICT.&nbsp;</p>
+<p>Cyber Wellness Education is conducted through CCE lessons during curriculum time, school-based sharing and initiatives, and learning opportunities beyond school curriculum time.</p>
+<img src="/images/cce8.png">
