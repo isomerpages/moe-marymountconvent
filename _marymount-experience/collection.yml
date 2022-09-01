@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Curriculum/Character and Citizenship Education (CCE).md
       - Curriculum/Information, Communication and Technology (ICT).md
       - Curriculum/Programme for Active Learning (PAL).md
       - Curriculum/Curriculum.md
