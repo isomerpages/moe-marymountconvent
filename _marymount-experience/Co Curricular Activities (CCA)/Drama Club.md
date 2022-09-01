@@ -34,3 +34,16 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
+<h4><strong>CCA Highlights</strong></h4>
+<p><strong>Warm-up sessions</strong></p>
+<p>At the start of every session, the coach gets them to do warm-up exercises to project their voices, articulate clearly, respect the personal space of others and extend their vocal range.</p>
+<img src="/images/dram2.png">
+<p><strong>Acting Games</strong></p>
+<p>A variety of acting games are played with the objective of breaking the ice, building group dynamics, improving focus and encouraging creativity.</p>
+<img style="width: 65%;" src="/images/dram3.jpg" />
+<p><strong>Script Writing</strong>&nbsp;</p>
+<p>The seniors pair up with the juniors to improve the juniors&rsquo; monologue pieces at one of the sessions; passing on their knowledge and experience gained from their years in the club.</p>
+<img src="/images/dram4.png">
+<p><strong>Presentation</strong></p>
+<p>In pairs or groups of three, pupils write and present their skits. Their audience (other members) highlight the areas of strengths and weaknesses in their skits in terms of projection of voice, expressiveness, use of body and immersion into the character.</p>
+<img src="/images/dram5.png">
