@@ -29,3 +29,52 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p><strong>Warming up, keeping cool</strong></p>
+<p>The pupils warming up before the big showdown in the Netball South Zone Finals! Preparation has always been a key factor in helping our netballers calm their nerves and play to the best of their ability.</p></td>
+<td style="width: 50%;"><img src="/images/nb2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/nb3.jpg"></td>
+<td style="width: 50%;"><p><strong>Cheerleading parents</strong></p>
+<p>Parents play an important role in supporting the team! Our strong parental support means our netballers are able to manage their tough schedule of both academic rigor and CCA training.</p></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Training hard</strong></p>
+<p>The netballers&rsquo; love and dedication for the sport shows in their time and effort spent in training not only during CCA sessions but also during recess and holiday training during competition periods. They are always striving for excellence!</p></td>
+<td style="width: 50%;"><img src="/images/nb4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/nb5.jpg"></td>
+<td style="width: 50%;"><p><strong>Taking the shot</strong></p>
+<p>Our netballers are always eager to participate in plenty of external tournaments to broaden their range of experience. They always enjoy the time spent together competing as a team!</p></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Achievements</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">A</th>
+<th style="text-align: center;">B</th>
+<th style="text-align: center;">C</th>
+</tr>
+<tr>
+<td style="text-align: center;">National School Games Netball Championship 2019</td>
+<td style="text-align: center;">Junior</td>
+<td style="text-align: center;">2<sup>nd</sup></td>
+</tr>
+<tr>
+<td style="text-align: center;">National School Games &ndash; South Zone Netball Championship 2019</td>
+<td style="text-align: center;">Junior</td>
+<td style="text-align: center;">2<sup>nd</sup></td>
+</tr>
+<tr>
+<td style="text-align: center;">National School Games &ndash; South Zone Netball Championship 2019&nbsp;</td>
+<td style="text-align: center;">Senior&nbsp;</td>
+<td style="text-align: center;">&nbsp;4<sup>th</sup></td>
+</tr>
+</tbody>
+</table>
