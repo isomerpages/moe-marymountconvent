@@ -20,3 +20,35 @@ third_nav_title: Curriculum
 <p>P4: Exploring Stem Cuttings</p>
 <p>P5: Hydroponics</p>
 <p>P6: Building a Terrarium</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%; text-align: center;"><strong>P3 'Every Child a Seed'</strong></td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;"><img style="width: 50%;" src="/images/sci2.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%; text-align: center;"><strong>P4 Exploring Stem Cuttings</strong></td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;"><img src="/images/sci3.jpg"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><strong>P5 Hydroponics</strong></td>
+<td style="width: 50%; text-align: center;"><strong>P6 Terrarium</strong></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/sci4.jpg"></td>
+<td style="width: 50%;"><img src="/images/sci5.jpg"></td>
+</tr>
+</tbody>
+</table>
