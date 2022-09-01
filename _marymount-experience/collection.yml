@@ -2,7 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
-      - Curriculum/Example Title.md
+      - Curriculum/Curriculum.md
       - Curriculum/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/Art Club.md
