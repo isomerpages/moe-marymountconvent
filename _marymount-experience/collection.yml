@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Curriculum/Information, Communication and Technology (ICT).md
       - Curriculum/Programme for Active Learning (PAL).md
       - Curriculum/Curriculum.md
       - Curriculum/.keep
