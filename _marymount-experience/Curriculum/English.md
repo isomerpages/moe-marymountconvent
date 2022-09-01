@@ -27,3 +27,28 @@ third_nav_title: Curriculum
 <p>Term 3: Books by Local Authors</p>
 <p>Term 4: Realistic Fiction Genre</p>
 <p>The termly book sharing is done during the school&rsquo;s Early Bird Programme (a programme that meaningfully engages our students before school starts). The books that we recommend can be found in our school library so that students have access to them. More information on MCS&rsquo; library programmes may be found at the following link:&nbsp;<a href="/marymount-experience/mcs-library">https://marymountconvent.moe.edu.sg/marymount-experience/mcs-library</a></p>
+<h4><strong>Our English Talent Development Programmes</strong></h4>
+<p><strong>Our Philosophy</strong></p>
+<ul>
+<li>We believe that every student is endowed with talent in specific domains and can be developed to her fullest potential;</li>
+<li>We strive to enable each student to discover and develop her core academic talents;</li>
+<li>We believe in empowering every student to enhance their strengths and pursue their passions for lifelong learning.</li>
+</ul>
+<p><strong>Our Approach</strong></p>
+<p>Our English Talent Development Programme aims to provide opportunities for P3 &ndash; P6 students who have the passion and desire in English to:</p>
+<ul>
+<li>Explore and deepen their interest in the English language;</li>
+<li>Broaden their exposure in English-related disciplines;</li>
+<li>Become creative, imaginative writers;</li>
+<li>Interact and collaborate with other budding English talents.</li>
+</ul>
+<p>The programme seeks to develop students who</p>
+<ul>
+<li>Demonstrate a keen interest in the English language (e.g. through active participation in English-related enrichment activities, projects or competitions);</li>
+<li>Obtain excellent results in school-based English assessments; and</li>
+<li>Have a good record in their conduct.&nbsp;</li>
+</ul>
+<p>As part of their development, students in our English Talent Development Programme can look forward to participation in the following:</p>
+<img src="/images/el2.jpg">
+<p><strong>Creative Writing Programme</strong></p>
+<p>The Creative Writing Programme seeks to further hone our students&rsquo; ambitions and abilities in writing.&nbsp;Through the guidance of our English teachers, our students will explore different text types and genres of writing. They will produce a portfolio of writing pieces that capture their personal voice, interest and style. Some students may also&nbsp;have the opportunity to participate in international writing competitions.</p>
