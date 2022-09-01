@@ -2,6 +2,7 @@ collections:
   marymount-experience:
     output: true
     order:
+      - Curriculum/Mother Tongue Languages.md
       - Curriculum/Physical Education.md
       - "Curriculum/Aesthetics: Art.md"
       - "Curriculum/Aesthetics: Music.md"
