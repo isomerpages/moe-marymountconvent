@@ -35,3 +35,21 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p><strong>Floor Exercise</strong></p>
+<p>Pupils learn and master acrobatic moves as well as techniques on a padded floor. This apparatus trains pupils in their strength, flexibility and coordination.</p></td>
+<td style="width: 50%;"><img src="/images/ag2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Balance Beam</strong></p>
+<p>Pupils learn basic walks, turns and poses, before gradually progressing to jumps, leaps and handstands on the balance beam. This beam event incorporates strength, balance and coordination, as well as an awareness of body position.&nbsp;</p></td>
+<td style="width: 50%;"><img src="/images/ag3.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Vault</strong></p>
+<p>Pupils practise running, jumping and hurdling herself onto a springboard. Starting with beginner drills, they gradually advance to vaults that are of higher difficulty levels. This apparatus trains pupils&rsquo; in their strength, agility as well as athletic ability.&nbsp;</p>
+<p><strong>Uneven Bars</strong></p>
+<p>Pupils acquire swings and pullover techniques, before progressing to more advanced skills such as handstands, release, flipping or twisting moves. This apparatus trains them in their strength, agility and coordination.</p>
