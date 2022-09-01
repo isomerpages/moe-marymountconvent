@@ -52,3 +52,25 @@ third_nav_title: Curriculum
 </tr>
 </tbody>
 </table>
+<h4><strong>Our Science Talent Development Programmes</strong></h4>
+<p><strong>Our Philosophy</strong></p>
+<ul>
+<li>Believe that every pupil is endowed with talent in specific domains and can be developed into her fullest potential;</li>
+<li>Strive to enable each pupil to discover and develop her core academics talents;</li>
+<li>Believe in empowering every pupil to enhance their strengths and pursue their passions for lifelong learning.</li>
+</ul>
+<p>Our Science Talent Development Programme aims to provide opportunities for P3 &ndash; P6 pupils who have the passion and desire in Science to:</p>
+<ul>
+<li>explore and deepen their interest in Science;</li>
+<li>be critical and inventive thinkers;</li>
+<li>interact and collaborate with other Science talents.</li>
+</ul>
+<p><strong>Our Approach</strong></p>
+<p>The programme seeks to develop pupils who</p>
+<ul>
+<li>demonstrates a keen interest in science (e.g. by active participation during class discussions / science related activities during recess or curriculum.)</li>
+<li>obtained excellent results in school-based science assessments; and</li>
+<li>has a good record in Conduct.</li>
+</ul>
+<p>As part of their development, pupils in our Science Talent Development Programme can look forward to participation in the following:</p>
+<img src="/images/sci6.jpg">
