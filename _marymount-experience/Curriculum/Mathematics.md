@@ -30,3 +30,61 @@ third_nav_title: Curriculum
 <p><strong>Reasoning &amp; Communication @MCS</strong></p>
 <p>Reasoning and communication @ MCS in action!&nbsp;Pupils presenting solutions in class.</p>
 <img style="width: 45%;" src="/images/math3.jpg" />
+<p><strong>MCS MATHS STARS</strong></p>
+<p>MCS Mathematics Pupils Taking Actions and Responsibility for Success<br />(MCS MATHS STARS)</p>
+<img src="/images/math4.png">
+<p>Objectives:</p>
+<ul>
+<li>To encourage pupils to work hard and increase their enthusiasm in mathematics;</li>
+<li>To recognise, celebrate and affirm achievements in mathematics learning.</li>
+</ul>
+<p>Mathematics teachers play an important role in motivating their pupils. Through their observations in class and of work submitted, teachers reward pupils with the MCS MATHS STARS cards to affirm them of their effort. Upon collection of ten cards, pupils will receive a customised MCS MATHS STARS badge and get a chance to meet Mr Bear!</p>
+<p><strong>Mathematics Games @ MCS</strong></p>
+<p>On the last Friday of every month, all our Maths teachers will conduct 30 minutes of In-Class Mathematics Games for all Primary 1 to Primary 6 girls. The games include a series of Mathematics-related puzzles and quizzes, which have been carefully curated by the Maths Department, so as to give our girls opportunities to experience a wide genre of games from Primary 1 to Primary 6.</p>
+<img src="/images/math5.png">
+<p>The Maths Department will also run the Mathematics Recess Games once a month. The genre of games will follow that of the In-Class Games closely, so as to give our girls opportunities to practise what they have learnt in class.&nbsp;</p>
+<img src="/images/math6.jpg">
+<p>Game play promotes Mathematics Talk and give pupils opportunities to explore fundamental number concepts and applying these concepts in a wide variety of contexts, in a fun and engaging way.</p>
+<img src="/images/math7.jpg">
+<h4><strong>Our Mathematics Talent Development Programmes</strong></h4>
+<p><strong>Our Philosophy</strong></p>
+<ul>
+<li>Believe that every pupil is endowed with talent in specific domains and can be developed into her fullest potential;</li>
+<li>Strive to enable each pupil to discover and develop her core academics talents;</li>
+<li>Believe in empowering every pupil to enhance their strengths and pursue their passions for lifelong learning.</li>
+</ul>
+<p><strong>Our Approach</strong></p>
+<ul>
+<li>Our Mathematics Talent Development Programme aims to provide opportunities for P3 &ndash; P6 pupils who have the passion and desire in Mathematics to:</li>
+<li>explore and deepen their interest in mathematics;</li>
+<li>broaden their exposure in mathematics-related disciplines;</li>
+<li>be critical and creative problem solvers;</li>
+<li>interact and collaborate with other budding mathematics talents.</li>
+</ul>
+<p>The programme seeks to develop pupils who:</p>
+<ul>
+<li>demonstrates a keen interest in mathematics (e.g. by active participation in mathematics-related enrichment activities, projects or competitions);</li>
+<li>obtained excellent results in school-based Maths assessments; and</li>
+<li>has a good record in Conduct.</li>
+</ul>
+<p>As part of their development, pupils in our Maths Talent Development Programme can look forward to participation in the following:</p>
+<img src="/images/math8.jpg">
+<p><strong><u>P3 Maths Numb3r5 D&rsquo;Light Programme</u></strong></p>
+<p>The objectives of the P3 Mathematics Numb3r5 D&rsquo;Light Enrichment Programme are to allow pupils to:</p>
+<ul>
+<li>explore and develop their analytical, critical thinking, reasoning and communication skills;</li>
+<li>strengthen their competence, confidence and commitment in the mathematics discipline through engaging activities.</li>
+</ul>
+<p>The Numb3r5 D&rsquo;Light Programme offers pupils a chance to solve real world problems using the &lsquo;What&rsquo; strategies facilitated by our teachers.&nbsp;</p>
+<p>In preparation for the programme, our teachers go through a series of training sessions conducted by renowned Singaporean mathematician, Dr Berinderjeet Kaur.&nbsp;</p>
+<img src="/images/math9.png">
+<p><strong><u>P4 and P5 Maths E2K Programme</u></strong></p>
+<p>This programme is offered to pupils who have demonstrated both interest and ability in Mathematics. The programme is adapted from Israel&rsquo;s E2K Programme which was developed by the Israel Centre for Excellence through Education (ICEE).&nbsp;</p>
+<p>The programme aims to:</p>
+<ul>
+<li>develop in pupils&rsquo; mathematical reasoning skills;</li>
+<li>deepen pupils&rsquo; conceptual understanding through inquiry approach.&nbsp;</li>
+</ul>
+<p>Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematics explorations. The rich learning experiences offered by this programme serve to help pupils to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.&nbsp;</p>
+<p>This programme is conducted by trained Maths E2K teachers in the school.</p>
+<img src="/images/math10.png">
