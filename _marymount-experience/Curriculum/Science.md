@@ -74,3 +74,23 @@ third_nav_title: Curriculum
 </ul>
 <p>As part of their development, pupils in our Science Talent Development Programme can look forward to participation in the following:</p>
 <img src="/images/sci6.jpg">
+<p><u>P4 &amp; P5 Science E2K</u></p>
+<p>A customised 2 years training programme which provides opportunities to:</p>
+<ul>
+<li>develop scientific inquiry process skills among high-ability primary pupils in Science;</li>
+<li>nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills in our pupils.</li>
+</ul>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/sci7.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/sci8.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/sci9.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">Young Scientists at work</td>
+<td style="width: 33.3333%; text-align: center;">Creative solutions by pupils</td>
+<td style="width: 33.3333%; text-align: center;">Testing out solutions</td>
+</tr>
+</tbody>
+</table>
