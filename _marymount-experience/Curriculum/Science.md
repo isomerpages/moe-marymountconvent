@@ -94,3 +94,27 @@ third_nav_title: Curriculum
 </tr>
 </tbody>
 </table>
+<p><u>P5 Science Olympiad Training</u></p>
+<p>The Science Olympiad Programme follows closely the MOE Primary Science syllabus and a typical primary Science Olympiad syllabus. Central to the programme structure is the inculcation of the spirit of scientific inquiry through inquiry-based instruction.</p>
+<p>The duration of each lesson is typically 2 hours, filled with hands-on inquiry-based experiments, followed by typical Science Olympiad MCQ questions. The whole programme also aimed to develop the various scientific process skills which are essential in any science curriculum.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/sci10.jpg"></td>
+<td style="width: 67%;"><img src="/images/sci11.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 33%; text-align: center;">Proving Scientific Laws</td>
+<td style="width: 67%; text-align: center;">Investigating how sound travels</td>
+</tr>
+</tbody>
+</table>
+<p><u>P5 South Zone Cluster Run Workshops</u></p>
+<p>A series of various workshops to raise pupils&rsquo; awareness and interest in the learning of Sciences. The series of workshops will focus on both Life and Physical Sciences activities and experiments and is open to High-Progress pupils from Primary 5 classes in the S3 cluster primary schools.</p>
+<p>Participating pupils can look forward to completing various scientific tasks, experiments and hands-on challenges. Through their participation, it is hoped that students will appreciate the academic and humanistic aspects of Sciences and enjoy the process of exploring and enquiring science through fun and engaging experiences.</p>
+<p style="text-align: center;"><strong>Interacting and collaborating with science talents in the cluster</strong></p>
+<img src="/images/sci12.jpeg"><br>
+<img src="/images/sci13.jpeg">
+<p style="text-align: center;"><strong>Investigating Time</strong></p>
+<img src="/images/sci14.jpeg"><br>
+<img src="/images/sci15.jpeg">
