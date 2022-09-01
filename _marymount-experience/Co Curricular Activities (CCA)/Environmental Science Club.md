@@ -50,3 +50,49 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
+<h4><strong>CCA Achievements</strong></h4>
+<table width="0">
+<tbody>
+<tr>
+<td style="text-align: center;" width="197">
+<p><strong>Competition</strong></p>
+</td>
+<td style="text-align: center;" width="219">
+<p><strong>Level (Div)</strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong>Achievement</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="197">
+<p>National Environment Quiz&nbsp;2018</p>
+</td>
+<td style="text-align: center;" width="219">
+<p>Primary</p>
+</td>
+<td style="text-align: center;" width="208">
+<p>Isabelle Ho&nbsp;<br />13<sup>th</sup>&nbsp;Place (Individual)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p><strong>World Water Day</strong></p>
+<p>On World Water Day, our club members took charge of the water rationing activities during recess. They also shared a presentation about the importance of water to encourage the whole school community to save water.</p></td>
+<td style="width: 50%;"><img src="/images/ess6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Youth for Environment / Earth Week</strong></p>
+<p>Every year, our school celebrates Earth Day on 22 April. To demonstrate our support for environmental protection, our members carried out upcycling activities during recess to promote environmental awareness and inspire others to save the Earth.</p></td>
+<td style="width: 50%;"><img src="/images/ess7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>World Animal Day</strong></p>
+<p>To save animals in the world, our members carried out a research project on endangered animals and created posters that were used for one of the activities on Children&rsquo;s Day, in conjunction with World Animal Day.</p></td>
+<td style="width: 50%;"><img src="/images/ess8.png"></td>
+</tr>
+</tbody>
+</table>
