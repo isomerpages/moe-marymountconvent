@@ -4,3 +4,49 @@ permalink: /marymount-experience/co-curricular-activities-cca/environmental-scie
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<img style="width: 65%;" src="/images/ess1.jpg" />
+<h4><strong>CCA Information</strong></h4>
+<p>The Environmental Science Club aims to promote environmental awareness within and beyond the school community by engaging others in meaningful environment activities. Through hands-on activities, research and investigation as well as collaboration with peers, members will be equipped with the knowledge and skills to drive key initiatives in nature conservation and the 3Rs: Reduce, Reuse and Recycle.&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Training Day / Time</strong></td>
+<td style="text-align: center;">
+<p><strong>P3 &ndash; P6<br /></strong>Mondays<br />2.15 p.m. &ndash; 4.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Training Venue</strong></td>
+<td style="text-align: center;">Science Lab</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
+<td style="text-align: center;">Mrs Ong-Low York Sheng</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Highlights</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p><strong>Greening Our School</strong></p>
+<p>Our club carries out gardening activities to grow plants to beautify the school environment. Members learn about the gardening techniques and plant propagation methods such as stem-cutting and leaf-cutting through hands-on sessions, supported by the use of technology.</p></td>
+<td style="width: 50%;"><img src="/images/ess2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Nurturing Passion Through Inquiry</strong></p>
+<p>Members carried out experiments in groups to find out how edible plants grow in water are different from plants that grow in soil. They also build their own simple plant hydroponics system by upcycling plastic bottles.</p></td>
+<td style="width: 50%;"><img src="/images/ess3.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Upcycling Our Way To Sustainability</strong></p>
+<p>Through upcycling activities, our members explore how materials can be reused to reduce waste. During one of the sessions, they tear, soak, blend and sieve unwanted paper in order to make them into new usable paper.</p></td>
+<td style="width: 50%;"><img src="/images/ess4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Enriching Learning Beyond School</strong></p>
+<p>During the trip to the Clean &amp; Green Carnival organised by the National Environment Agency, our members learnt more about caring for our environment and adopting a clean, green and sustainable lifestyle.</p></td>
+<td style="width: 50%;"><img src="/images/ess5.jpg"></td>
+</tr>
+</tbody>
+</table>
