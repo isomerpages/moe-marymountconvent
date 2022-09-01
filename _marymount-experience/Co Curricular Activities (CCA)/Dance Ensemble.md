@@ -53,7 +53,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <h4><strong>CCA Achievements</strong></h4>
 <p><strong>Performance at St Theresa&rsquo;s Nursing Home</strong></p>
 <p>Pupils brought smiles and joy to the residence of St Theresa&rsquo;s Nursing Home with their lively and jovial dance item.</p>
-<img style="width: 85%;" src="/images/de5.jpg" />
+<img style="width: 85%;" src="/images/de5.jpg" /><br>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
