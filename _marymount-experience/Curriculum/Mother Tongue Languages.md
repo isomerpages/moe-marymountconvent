@@ -16,3 +16,4 @@ third_nav_title: Curriculum
 </ol>
 <h4><strong>Our Department Programmes</strong></h4>
 <p><strong><u>Mother Tongue Fortnight</u></strong><br /><br />Delightful two weeks filled with Mother Tongue activities. Pupils can look forward to experiencing traditional craft activities where they get to discover and learn more about their culture. Pupils also learn to appreciate their Mother Tongue languages through fun and challenging class activities or competitions.</p>
+<img src="/images/mt1.png">
