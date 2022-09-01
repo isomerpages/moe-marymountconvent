@@ -65,3 +65,14 @@ third_nav_title: Curriculum
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<p style="text-align: center;"><strong>Speech and Drama (P1 and P2)</strong></p>
+<p>We aim to ignite our young pupils&rsquo; passion in their Mother Tongue languages through in-curriculum Speech and Drama courses. The opportunity to present before an audience would also build pupils&rsquo; confidence in speaking the languages. This is in line with our school&rsquo;s vision of nurturing our pupils to be eloquent speakers.</p>
+</td>
+<td style="width: 50%;"><img src="/images/mt8.jpg"></td>
+</tr>
+</tbody>
+</table>
