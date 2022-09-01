@@ -2,4 +2,4 @@ collections:
   dance-ensemble:
     output: true
     order:
-      - Example Title.md
+      - Dance Ensemble.md
