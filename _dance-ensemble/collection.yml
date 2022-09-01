@@ -1,4 +1,5 @@
 collections:
   dance-ensemble:
     output: true
-    order: []
+    order:
+      - Example Title.md
