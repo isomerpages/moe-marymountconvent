@@ -50,3 +50,26 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
+<h4><strong>CCA Achievements</strong></h4>
+<p><strong>Performance at St Theresa&rsquo;s Nursing Home</strong></p>
+<p>Pupils brought smiles and joy to the residence of St Theresa&rsquo;s Nursing Home with their lively and jovial dance item.</p>
+<img style="width: 85%;" src="/images/de5.jpg" />
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p><strong>Assisi&rsquo;s Hospice Christmas Performance</strong></p>
+<p>The Dance Ensemble members went through a virtual lesson to master the dance. Through these bubbly dance moves, they brought joy to the patients in the Hospice during the time of the pandemic.&nbsp;</p></td>
+<td style="width: 50%;"><img src="/images/de6.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Chingay Performance</strong></p>
+<p>The Dance Ensemble participated in Chingay and the performance that they were in was awarded as one of the Best performances of Chingay in 2019.</p></td>
+<td style="width: 50%;"><img src="/images/de7.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>National Day Parade</strong></p>
+<p>Our Dance Ensemble participated in the National Parade in 2018. Through the experience of performing on the national stage, they have learnt to project more stage presence and built up their self-confidence. This experience has also built greater cohesion among the students and their willingness to help one another.</p></td>
+<td style="width: 50%;"><img src="/images/de8.jpeg"></td>
+</tr>
+</tbody>
+</table>
