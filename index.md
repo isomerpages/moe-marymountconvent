@@ -4,19 +4,18 @@ title: Marymount Convent School
 description: Brief site description here
 image: /images/crest.jpg
 permalink: /
-notification: ""
+notification: Marymount Convent School
 sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: News & Announcements
+        - title: About Us
           description: ""
-          url: /news-n-announcements
+          url: /about-us
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events
-        - title: Useful Links
+        - title: News & Announcements
           description: ""
-          url: /useful-links
+          url: /news-n-announcements
 ---
-
