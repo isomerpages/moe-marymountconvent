@@ -18,11 +18,4 @@ sections:
         - title: News & Announcements
           description: ""
           url: /news-n-announcements
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Marymount Convent School Facebook
-      button: Button Text
-      url: http://www.facebook.com/marymountconvent
-      alt: Image alt text
 ---
