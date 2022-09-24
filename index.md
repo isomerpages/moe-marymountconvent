@@ -25,4 +25,8 @@ sections:
       button: Button Text
       url: http://www.facebook.com/marymountconvent
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
