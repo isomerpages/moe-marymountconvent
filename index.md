@@ -18,7 +18,8 @@ sections:
         - title: News & Announcements
           description: ""
           url: /news-n-announcements
-  - infobar:
-      subtitle: MCS Facebook
-      url: Http://www.Facebook.com/marymountconvent
+  - infopic:
+      title: Our MCS Facebook
+      url: http://www.facebook.com/marymountconvent
+      alt: Image alt text
 ---
