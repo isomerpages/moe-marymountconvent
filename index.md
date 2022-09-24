@@ -19,7 +19,9 @@ sections:
           description: ""
           url: /news-n-announcements
   - infopic:
-      title: Our MCS Facebook
       url: http://www.facebook.com/marymountconvent
       alt: Image alt text
+      subtitle: "MCS Facebook "
+      description: "We hope to share daily snippets of our girls learning at Marymount
+        Convent School. "
 ---
