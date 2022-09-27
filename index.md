@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: About Us
-          description: ""
-          url: /about-us
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events
