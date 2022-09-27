@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /about-us/key-personnel
+permalink: /about-us/key-personnel/
 description: ""
 ---
 <img style="width: 25%;" src="/images/kp1.jpg" />
@@ -40,9 +40,6 @@ description: ""
 <div>Operations Manager (OM)</div>
 <div>lee_yang_juay@moe.edu.sg</div>
 </td>
-</tr>
-</tbody>
-</table>
 <table border="1">
 <tbody>
 <tr>
