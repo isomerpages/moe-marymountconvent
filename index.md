@@ -4,7 +4,7 @@ title: Marymount Convent School
 description: Brief site description here
 image: /images/crest.jpg
 permalink: /
-notification: Marymount Convent School
+notification: ""
 sections:
   - hero:
       background: /images/banner.gif
