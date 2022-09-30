@@ -3,6 +3,25 @@ title: Key Personnel
 permalink: /about-us/key-personnel/
 description: ""
 ---
+<table\>  
+  <tr\>  
+    <th\>Company</th\>  
+    <th\>Contact</th\>  
+    <th\>Country</th\>  
+  </tr\>  
+  <tr\>  
+    <td\>Alfreds Futterkiste</td\>  
+    <td\>Maria Anders</td\>  
+    <td\>Germany</td\>  
+  </tr\>  
+  <tr\>  
+    <td\>Centro comercial Moctezuma</td\>  
+    <td\>Francisco Chang</td\>  
+    <td\>Mexico</td\>  
+  </tr\>  
+</table\>
+
+
 <img style="width: 25%;" src="/images/kp1.jpg" />
 <div style="text-align: center;">Mrs Allison Lim</div>
 <div style="text-align: center;">Principal</div>
