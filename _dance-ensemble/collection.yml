@@ -1,5 +1,4 @@
 collections:
   dance-ensemble:
     output: true
-    order:
-      - Dance Ensemble.md
+    order: []
