@@ -3,35 +3,54 @@ title: Key Personnel (Trial)
 permalink: /about-us/permalink/
 description: ""
 ---
-<html>
+<head>
 <style>
-table, th, td {
-  border:1px solid black;
+table {font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: middle;
+  padding: 10px;
 }
+tr {background-color: #AFE1AF}
 </style>
+</head>
 <body>
+<h2>Key Personnels</h2>
+<table>
+  <tr>
+  <img style="width: 25%;" src="/images/kp1.jpg" />
+    <th>Principal <br/>
+            Mrs Allison Lim <br/>
+            allison_lim@moe.edu.sg
+    </th>
 
-<h2>A basic HTML table</h2>
+<table>
+  <tr>
+  <img style="width: 25%;" src="/images/kp1.jpg"/>
+    <th>Vice-Principal<br/>
+    Mdm Anna Tan <br/>
+    tan\_mei\_mei@moe.edu.sg
 
-<table style="width:100%">
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+    </th>
+
+    <img style="width: 25%;" src="/images/kp1.jpg"/>
+
+    <th>Vice-Principal <br/>
+
+    Mrs Debbie Chow <br/>
+
+    debbie\_chow@moe.edu.sg
+
+    </th>
+
+  </tr>
+
 </table>
 
 </body>
+
 </html>
 
 <img style="width: 25%;" src="/images/kp1.jpg" />
