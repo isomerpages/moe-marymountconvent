@@ -5,56 +5,33 @@ description: ""
 ---
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    table,th,td
-    {
-      border:2px solid red;
-    }
-    table
-    {
-      border-collapse:collapse;
-      width:20%;
-    }
-    td
-    {
-      height:40px;
-    }
-    tr
-    {
-      background-color:green;
-      color:white;
-    }
-    th
-    {
-      background-color:yellow;
-      color:black;
-    }
-  </style>
-  </head>
-  <body>
-    <table>
-      <tr>
-        <th>Roll No</th>
-        <th>Name</th>
-        <th>Team</th>
-      </tr>
-      <tr>
-        <td>1001</td>
-        <td>John</td>
-        <td>Red</td>
-      </tr>
-      <tr>
-        <td>1002</td>
-        <td>Peter</td>
-        <td>Blue</td>
-      </tr>
-      <tr>
-        <td>1003</td>
-        <td>Henry</td>
-        <td>Green</td>
-      </tr>
-    </table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 </body>
 </html>
 
