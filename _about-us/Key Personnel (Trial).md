@@ -3,7 +3,6 @@ title: Key Personnel (Trial)
 permalink: /about-us/permalink/
 description: ""
 ---
-<!DOCTYPE html>
 <html>
 <style>
 table, th, td {
