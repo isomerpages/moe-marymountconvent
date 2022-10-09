@@ -5,54 +5,59 @@ description: ""
 ---
 <head>
 <style>
-table {font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;}
-td, th {
-  border: 1px solid #dddddd;
-  text-align: middle;
-  padding: 10px;
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
-tr {background-color: #AFE1AF}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(2) {
+  background-color: Green; 
+  text-align: center;  
+}
+
+tr:nth-child(5) {
+  background-color: Green; 
+  text-align: center;  
+}
 </style>
 </head>
 <body>
+
 <h2>Key Personnels</h2>
-<table>
-  <tr>
-  <img style="width: 25%;" src="/images/kp1.jpg" />
-    <th>Principal <br/>
-            Mrs Allison Lim <br/>
-            allison_lim@moe.edu.sg
-    </th>
 
-<table>
-  <tr>
-  <img style="width: 25%;" src="/images/kp1.jpg"/>
-    <th>Vice-Principal<br/>
-    Mdm Anna Tan <br/>
-    tan\_mei\_mei@moe.edu.sg
+<table>  
+  <tr>
+  <td><img style="width: 25%;" src="/images/kp1.jpg" /></td>
+  </tr>     
+  <td> Principal </td>
+  <tr>
+  <td>Mrs Allison Lim <br/>
+      allison_lim@moe.edu.sg </td>
+  </tr>
 
-    </th>
-
-    <img style="width: 25%;" src="/images/kp1.jpg"/>
-
-    <th>Vice-Principal <br/>
-
-    Mrs Debbie Chow <br/>
-
-    debbie\_chow@moe.edu.sg
-
-    </th>
-
-  </tr>
-
-</table>
-
-</body>
-
-</html>
-
+  <tr>
+  <td><img style="width: 50%;" src="/images/td2.jpg" /></td>
+  <td><img style="width: 50%;" src="/images/kp3.png" /></td>
+  </tr>
+  
+  <tr> 
+    <td>Vice-Principal</td>
+    <td>Vice-Principal</td>
+  </tr> 
+  
+  <tr> 
+    <td>Mdm Anna Tan <br/>
+    tan_mei_mei_anna@moe.edu.sg </td>
+    <td>Mrs Debbie Chow<br/>
+    debbie_chow@moe.edu.sg </td>
+  </tr> 
 <img style="width: 25%;" src="/images/kp1.jpg" />
 <div style="text-align: center;">Mrs Allison Lim</div>
 <div style="text-align: center;">Principal</div>
