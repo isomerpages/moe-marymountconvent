@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Final GIF.gif
+      background: /images/Homepage/Gif Banner V2.gif
       key_highlights:
         - title: Calendar of Events
           description: ""
