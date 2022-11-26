@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Marymount Convent School
 locations:
   - address:
-      - "20"
-      - Marymount Road
+      - 20 Marymount Road
       - Singapore 297754
+      - "   "
     operating_hours: []
     maps_link: https://goo.gl/maps/H3W2GPV6AU1raZE5A
     title: Address
