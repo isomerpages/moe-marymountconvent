@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vision and Mission (New).md
       - Testing.md
       - Vision and Mission.md
       - Mottos and Values.md
