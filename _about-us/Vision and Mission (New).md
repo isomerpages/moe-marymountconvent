@@ -70,8 +70,9 @@ style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span
  <tr style='height:.9in'>
   <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;padding:0in 5.4pt 0in 5.4pt;
   height:.9in'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
-  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Ladies</span></p>
+  <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  0in;margin-left:0in;line-height:16.8pt'><span style='font-size:14.0pt;
+  font-family:"Arial",sans-serif;color:black'>Ladies</span></p>
   </td>
   <td width=501 style='width:375.45pt;border:solid #AEAAAA 1.0pt;border-left:
   none;padding:0in 5.4pt 0in 5.4pt;height:.9in'>
@@ -84,8 +85,9 @@ style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span
  <tr style='height:.9in'>
   <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:.9in'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
-  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Compassion</span></p>
+  <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  0in;margin-left:0in;line-height:16.8pt'><span style='font-size:14.0pt;
+  font-family:"Arial",sans-serif;color:black'>Compassion</span></p>
   </td>
   <td width=501 style='width:375.45pt;border-top:none;border-left:none;
   border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
@@ -99,8 +101,9 @@ style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span
  <tr style='height:.9in'>
   <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:.9in'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
-  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Eloquence</span></p>
+  <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  0in;margin-left:0in;line-height:16.8pt'><span style='font-size:14.0pt;
+  font-family:"Arial",sans-serif;color:black'>Eloquence</span></p>
   </td>
   <td width=501 style='width:375.45pt;border-top:none;border-left:none;
   border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
@@ -114,8 +117,9 @@ style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span
  <tr style='height:.9in'>
   <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:.9in'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
-  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Intellect</span></p>
+  <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  0in;margin-left:0in;line-height:16.8pt'><span style='font-size:14.0pt;
+  font-family:"Arial",sans-serif;color:black'>Intellect</span></p>
   </td>
   <td width=501 style='width:375.45pt;border-top:none;border-left:none;
   border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
@@ -128,9 +132,9 @@ style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span
  <tr style='height:.9in'>
   <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:.9in'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
-  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>God as
-  our Shepherd</span></p>
+  <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  0in;margin-left:0in;line-height:16.8pt'><span style='font-size:14.0pt;
+  font-family:"Arial",sans-serif;color:black'>God as our Shepherd</span></p>
   </td>
   <td width=501 style='width:375.45pt;border-top:none;border-left:none;
   border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
