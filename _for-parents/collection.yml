@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - FAQs.md
       - Parent Support Group.md
       - Primary One Registration Exercise.md
       - Parent Volunteer for Primary 1 in 2023.md
