@@ -1,13 +1,11 @@
 ---
 title: FAQs
-permalink: /about-us/faq
+permalink: /about-us/faq/
 description: ""
 ---
-
-
 <h4>FREQUENTLY ASKED QUESTIONS</h4>
 <p><strong>What is the start-time for regular school days?<br /></strong>Morning assembly starts at 7.35am on regular school days.</p>
-<p><strong>What are the recess times?<br /></strong>P1 and P5: 9.30am - 10.00am<br />P2 and P4: 10.00am - 10.30am<br />P3 and P6: 10.30am - 11.00am</p>
+<p><strong>What are the recess times?<br /></strong>P1 and P5: 9.30am - 10.00am<br />P3 and P4: 10.00am - 10.30am<br />P2 and P6: 10.30am - 11.00am</p>
 <p><strong>How much are the school fees?<br /></strong>Singapore Citizens need not pay school fees, but a standard monthly miscellaneous fee of $6.50, and second- tier miscellaneous fee capped at $6.50 will be payable.<br />For more information on school fees payable for your child, please visit<br /><a href="https://www.moe.gov.sg/admissions/international-students/general-info#preparation">https://www.moe.gov.sg/admissions/international-students/general-info#preparation</a>.</p>
 <p>The school fees for PRs, IS(ASEAN) &amp; IS(Non-ASEAN) are as follows:</p>
 <table>
