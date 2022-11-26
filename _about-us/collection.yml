@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Teaching Staff 2023.md
       - Vision and Mission.md
       - Vision and Mission (New).md
       - Mottos and Values.md
