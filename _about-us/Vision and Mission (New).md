@@ -3,131 +3,156 @@ title: Vision and Mission (New)
 permalink: /about-us/permalink/
 description: ""
 ---
+<html>
 
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Latha;
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@DengXian";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
 
-<div class="WordSection1">
+</head>
 
-<p class="MsoNormal"><b><span style="font-size:22.0pt;line-height:
-107%;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">Vision </span></b></p>
+<body lang=EN-US style='word-wrap:break-word'>
 
-<p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-&quot;Times New Roman&quot;;color:black">Ladies</span></b><span style="font-size:16.0pt;
-font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-color:black">&nbsp;of&nbsp;<b>Compassion</b>,&nbsp;<span class="GramE"><b>Eloquence</b></span>&nbsp;and&nbsp;<b>Intellect,&nbsp;</b>with&nbsp;<b>God
+<div class=WordSection1>
+
+<p class=MsoNormal><b><span lang=EN-SG style='font-size:22.0pt;line-height:
+107%;font-family:"Arial",sans-serif'>Vision </span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><b><span
+style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>Ladies</span></b><span
+style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;of&nbsp;<b>Compassion</b>,&nbsp;<b>Eloquence</b>&nbsp;and&nbsp;<b>Intellect,&nbsp;</b>with&nbsp;<b>God
 as our Shepherd</b></span></p>
 
-<p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-&quot;Times New Roman&quot;;color:black">&nbsp;</span></b></p>
+<p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><b><span
+style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span></b></p>
 
-<table style="width:469.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="626" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:45.65pt">
-  <td style="width:80.75pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:45.65pt" width="108">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Ladies</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=626
+ style='width:469.7pt;border-collapse:collapse;border:none'>
+ <tr style='height:45.65pt'>
+  <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:45.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Ladies</span></p>
   </td>
-  <td style="width:388.95pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:45.65pt" width="519">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Ladies
-  who are refined, cultured and healthy in body, <span class="GramE">mind</span>
-  and soul</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
+  <td width=501 style='width:375.45pt;border:solid #AEAAAA 1.0pt;border-left:
+  none;padding:0in 5.4pt 0in 5.4pt;height:45.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Ladies
+  who are refined, cultured and healthy in body, mind and soul</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:1;height:44.9pt">
-  <td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:44.9pt" width="108">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Compassion</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
+ <tr style='height:44.9pt'>
+  <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:44.9pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Compassion</span></p>
   </td>
-  <td style="width:388.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:44.9pt" width="519">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span class="SpellE"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Empathise</span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black"> with, show kindness and care towards self, <span class="GramE">others</span> and the environment</span><span style="font-size:
-  16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p>
+  <td width=501 style='width:375.45pt;border-top:none;border-left:none;
+  border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:44.9pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Empathise
+  with, show kindness and care towards self, others and the environment</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:2;height:23.2pt">
-  <td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:23.2pt" width="108">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Eloquence</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
+ <tr style='height:38.2pt'>
+  <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:38.2pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Eloquence</span></p>
   </td>
-  <td style="width:388.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.2pt" width="519">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Speak
-  with aptness, confidence, <span class="GramE">conviction</span> and fluency</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
+  <td width=501 style='width:375.45pt;border-top:none;border-left:none;
+  border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:38.2pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Speak
+  with aptness, confidence, conviction and fluency</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:3;height:22.4pt">
-  <td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:22.4pt" width="108">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Intellect</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
+ <tr style='height:35.5pt'>
+  <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:35.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Intellect</span></p>
   </td>
-  <td style="width:388.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:22.4pt" width="519">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Life-long
-  learner</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
+  <td width=501 style='width:375.45pt;border-top:none;border-left:none;
+  border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:35.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Life-long
+  learner</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:44.9pt">
-  <td style="width:80.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:44.9pt" width="108">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">God as
-  our Shepherd</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
+ <tr style='height:53.5pt'>
+  <td width=126 style='width:94.25pt;border:solid #AEAAAA 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:53.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>God as
+  our Shepherd</span></p>
   </td>
-  <td style="width:388.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:44.9pt" width="519">
-  <p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Rooted in
+  <td width=501 style='width:375.45pt;border-top:none;border-left:none;
+  border-bottom:solid #AEAAAA 1.0pt;border-right:solid #AEAAAA 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:53.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><span
+  style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Rooted in
   sound values<br>
-  Look to God for Guidance and direction</span><span style="font-size:16.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p>
+  Look to God for Guidance and direction</span></p>
   </td>
  </tr>
-</tbody></table>
+</table>
 
-<p style="margin-bottom:0in;mso-line-height-alt:16.8pt" class="MsoNormal"><span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-&quot;Times New Roman&quot;;color:black">&nbsp;</span></p>
+<p class=MsoNormal style='margin-bottom:0in'><span style='font-size:20.0pt;
+font-family:"Arial",sans-serif;color:black'>&nbsp;</span></p>
 
-<p style="margin-bottom:0in;mso-line-height-alt:16.8pt" class="MsoNormal"><span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-&quot;Times New Roman&quot;;color:black">&nbsp;</span></p>
+<p class=MsoNormal><b><span lang=EN-SG style='font-size:22.0pt;line-height:
+107%;font-family:"Arial",sans-serif'>Mission</span></b></p>
 
-<p class="MsoNormal"><b><span style="font-size:22.0pt;line-height:
-107%;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">Mission</span></b></p>
-
-<p class="MsoNormal"><b><span style="font-size:22.0pt;line-height:
-107%;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></b></p>
-
-<p style="text-align:center" align="center" class="MsoNormal"><strong><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-color:black;background:white">Empowering&nbsp;Lives</span></strong><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-color:black;background:white">,&nbsp;<strong><span style="font-family:&quot;Arial&quot;,sans-serif">Restoring
-Rights</span></strong>,&nbsp;<strong><span style="font-family:&quot;Arial&quot;,sans-serif">and
-Upholding Dignity</span></strong></span><span style="font-size:16.0pt;
-line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+<p class=MsoNormal align=center style='text-align:center'><strong><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:black;background:white'>Empowering&nbsp;Lives</span></strong><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:black;background:white'>,&nbsp;<strong><span style='font-family:"Arial",sans-serif'>Restoring
+Rights</span></strong>,&nbsp;<strong><span style='font-family:"Arial",sans-serif'>and
+Upholding Dignity</span></strong></span></p>
 
 </div>
 
+</body>
 
-
-
+</html>
