@@ -3,8 +3,7 @@ title: Vision and Mission (New)
 permalink: /about-us/permalink/
 description: ""
 ---
-<p class=MsoNormal><b><span lang=EN-SG style='font-size:22.0pt;line-height:
-107%;font-family:"Arial",sans-serif'>Vision </span></b></p>
+# Vision 
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:16.8pt'><b><span
 style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>Ladies</span></b><span
@@ -99,8 +98,7 @@ style='font-size:16.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span
 <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:20.0pt;
 font-family:"Arial",sans-serif;color:black'>&nbsp;</span></p>
 
-<p class=MsoNormal><b><span lang=EN-SG style='font-size:22.0pt;line-height:
-107%;font-family:"Arial",sans-serif'>Mission</span></b></p>
+# Mission
 
 <p class=MsoNormal align=center style='text-align:center'><strong><span
 style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
