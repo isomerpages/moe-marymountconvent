@@ -2,8 +2,6 @@ collections:
   school-info:
     output: true
     order:
-      - Privacy Policy.md
-      - FAQs.md
       - School Rules & Code of Conduct for Pupils.md
       - Safety & Security Procedures.md
       - Rationale For Car Decals.md
@@ -14,3 +12,5 @@ collections:
       - School Alumnae.md
       - Schemes for Students from Low Income Families.md
       - Income Family Micro Insurance and Savings Scheme (IFMISS).md
+      - FAQs.md
+      - Privacy Policy.md
