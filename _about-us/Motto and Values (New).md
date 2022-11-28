@@ -3,10 +3,11 @@ title: Motto and Values (New)
 permalink: /about-us/motto-values-new/
 description: ""
 ---
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:27px;font-family:"Lato",sans-serif;color:#00B050;'>Motto</span></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:29px;font-family:"Lato",sans-serif;color:#00B050;'>Motto</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:16.8pt;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:#404040;'>&nbsp;</span></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:24px;font-family:"Lato",sans-serif;color:#404040;'>God is our LIGHT</span></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:24px;font-family:"Lato",sans-serif;color:#404040;'>God is our LIGHT</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:16.8pt;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:#404040;'>&nbsp;</span></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:27px;font-family:"Lato",sans-serif;color:#00B050;'>&nbsp;</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:27px;font-family:"Lato",sans-serif;color:#00B050;'>Values</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:16.8pt;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:#404040;'>&nbsp;</span></strong></p>
 <table style="width:436.35pt;border-collapse:collapse;border:none;">
