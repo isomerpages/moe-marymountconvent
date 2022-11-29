@@ -1,0 +1,138 @@
+---
+title: School Attire
+permalink: /school-info/school-attire
+description: ""
+---
+<table border="0">
+<tbody>
+<tr>
+<td>Uniform, PE shorts/ T-shirts, Jackets &amp; Name Tags</td>
+<td>United Uniforms Mfrs Pte Ltd</td>
+</tr>
+<tr>
+<td>Address</td>
+<td>Blk 168 Toa Payoh Lorong 1&nbsp;#01-1034 Singapore 310168</td>
+</tr>
+<tr>
+<td>Tel No.</td>
+<td>6353 0921</td>
+</tr>
+<tr>
+<td>Operating Hours</td>
+<td>11am to 7pm (Mon - Sat)</td>
+</tr>
+<tr>
+<td>Website</td>
+<td><a href="https://united-uniforms.com/" target="_blank" rel="noopener">https://united-uniforms.com/</a></td>
+</tr>
+<tr>
+<td>Email Address</td>
+<td><a href="mailto:uuniforms1972@gmail.com" target="">uuniforms1972@gmail.com</a></td>
+</tr>
+<tr>
+<td>Shoes</td>
+<td>Black laced or velcro shoes available at Pacific Bookstore in school</td>
+</tr>
+</tbody>
+</table>
+<h4>Uniform and Buying Guide for Uniform Order</h4>
+<p>Please click&nbsp;<a href="/files/PG%20School%20uniform%20ordering%20for%202022%20-%20United%20Uniforms%20121121.pdf" target="_blank" rel="noopener">here</a>&nbsp;for the buying guide.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa1.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Pinafore</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa2.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Blouse</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa3.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Skirt</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa4.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Jacket</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa5.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Shorts</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa6.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Red Tee</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa7.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Green Tee</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa8.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Yellow Tee</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa9.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Blue Tee</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa10.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Purple Tee</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/sa11.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Socks</p>

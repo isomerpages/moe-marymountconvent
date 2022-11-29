@@ -1,0 +1,49 @@
+collections:
+  marymount-experience:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/English.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Physical Education.md
+      - "Curriculum/Aesthetics: Art.md"
+      - "Curriculum/Aesthetics: Music.md"
+      - Curriculum/Character and Citizenship Education (CCE).md
+      - Curriculum/Information, Communication and Technology (ICT).md
+      - Curriculum/Programme for Active Learning (PAL).md
+      - Co Curricular Activities (CCA)/Dance Ensemble (New).md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Art Club.md
+      - Co Curricular Activities (CCA)/Artistic Gymnastics.md
+      - Co Curricular Activities (CCA)/Brownies.md
+      - Co Curricular Activities (CCA)/Chinese Dance.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Dance Ensemble.md
+      - Co Curricular Activities (CCA)/Drama Club.md
+      - Co Curricular Activities (CCA)/Environmental Science Club.md
+      - Co Curricular Activities (CCA)/Modern Dance.md
+      - Co Curricular Activities (CCA)/Netball.md
+      - Co Curricular Activities (CCA)/Percussion Ensemble.md
+      - Co Curricular Activities (CCA)/Rhythmic Gymnastics.md
+      - Co Curricular Activities (CCA)/Tennis.md
+      - Signature Programmes/Signature Programmes.md
+      - Signature Programmes/Learning for Life Programme (Aesthetics).md
+      - Signature Programmes/Learning for Life Program (Sports & Outdoor
+        Education).md
+      - Signature Programmes/Week of Experiential Learning (WELL).md
+      - Signature Programmes/Our Expanded Learning Experience (OELE).md
+      - Signature Programmes/.keep
+      - Our Marymount Tradition/.keep
+      - Our Marymount Tradition/Our Marymount Tradition.md
+      - Our Marymount Tradition/Light Ceremony.md
+      - Our Marymount Tradition/Foundress Day and Prize Giving Ceremony.md
+      - Mr Bear.md
+      - MCS Library/MCS Library.md
+      - MCS Library/Online Services.md
+      - MCS Library/Programmes.md
+      - MCS Library/Reading Lists.md
+      - MCS Library/.keep

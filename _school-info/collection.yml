@@ -1,0 +1,16 @@
+collections:
+  school-info:
+    output: true
+    order:
+      - School Rules & Code of Conduct for Pupils.md
+      - Safety & Security Procedures.md
+      - Rationale For Car Decals.md
+      - School Attire.md
+      - School Books.md
+      - School Bus.md
+      - School Dental.md
+      - School Alumnae.md
+      - Schemes for Students from Low Income Families.md
+      - Income Family Micro Insurance and Savings Scheme (IFMISS).md
+      - FAQs.md
+      - Privacy Policy.md
