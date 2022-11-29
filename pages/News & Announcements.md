@@ -10,7 +10,7 @@ description: ""
 	
 [MCS Voice Issue 4 (2022)](/files/MCS%20VOICE%20Issue%204%202022.pdf)
 	
-[MCS Voice Issue 3 (2022)]()
+[MCS Voice Issue 3 (2022)](/files/MCS%20VOICE%20Issue%203%202022.pdf)
 
 <a href="/files/MCS%20VOICE%20Issue%202%202022.pdf">MCS VOICE Issue 2 2022.pdf</a>
 <br /><br /><a href="/files/MCS%20VOICE%20Issue%201%202022.pdf">MCS VOICE Issue 1 2022.pdf</a>
