@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Heritage.md
       - Vision and Mission.md
       - Mottos and Values.md
       - Our Heritage/.keep
@@ -12,6 +11,7 @@ collections:
       - Our Heritage/History of Marymount (New).md
       - Our Heritage/Daughters of Marymount.md
       - Our Heritage/Pillars of Strength.md
+      - Our Heritage.md
       - Principal's Message.md
       - Pupils' Creed.md
       - School Crest.md
