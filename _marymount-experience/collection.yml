@@ -2,7 +2,6 @@ collections:
   marymount-experience:
     output: true
     order:
-      - Dance Ensemble (New).md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English.md
