@@ -64,7 +64,7 @@ description: ""
 					</a>PROGRAMME FOR ACTIVE LEARNING (PAL)
 								</td>
 													<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-													<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+													<td style="width: 33.3333%; text-align: center;">&nbsp;
 												</tr>
 											</tbody>
 										</table>
