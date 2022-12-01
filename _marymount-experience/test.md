@@ -12,31 +12,32 @@ description: ""
 					</a>ENGLISH
 				</td>
 			<td style="width: 33.3333%; text-align: center;">
-				<a href="/marymount-experience/curriculum/english">
+				<a href="/marymount-experience/curriculum/mathematics/">
 					<img src="/images/c2.jpg">
 					</a>MATHEMATICS 
 				</td>
 					<td style="width: 33.3333%; text-align: center;">
-				<a href="/marymount-experience/curriculum/english">
+				<a href="/marymount-experience/curriculum/science">
 					<img src="/images/c3.jpg">
 					</a>SCIENCE
 				</td>
 					</tr>
 					<tr>
 				<td style="width: 33.3333%; text-align: center;">
-				<a href="/marymount-experience/curriculum/english">
+				<a href="/marymount-experience/curriculum/mother-tongue-languages">
 					<img src="/images/c4.jpg">
 					</a>MOTHER TONGUE LANGUAGES
 							</td>
 			<td style="width: 33.3333%; text-align: center;">
-				<a href="/marymount-experience/curriculum/english">
+				<a href="/marymount-experience/curriculum/physical-education">
 					<img src="/images/c5.jpg">
 					</a>PHYSICAL EDUCATION
 								</td>
 								<td style="width: 33.3333%; text-align: center;">
-									<a href="/marymount-experience/curriculum/aesthetics-art">
-										<img src="images/c6.jpg">
-										</a>ART
+				<a href="/marymount-experience/curriculum/aesthetics-art">
+					<img src="/images/c6.jpg">
+					</a>ART
+								</td>
 									</td>
 								</tr>
 								<tr>
