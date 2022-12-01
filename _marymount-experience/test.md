@@ -28,10 +28,10 @@ description: ""
 					<img src="/images/c4.jpg">
 					</a>MOTHER TONGUE LANGUAGES
 							</td>
-							<td style="width: 33.3333%; text-align: center;">
-								<a href="/marymount-experience/curriculum/physical-education">
-									<img src="images/c5.jpg">
-									</a>PHYSICAL EDUCATION
+			<td style="width: 33.3333%; text-align: center;">
+				<a href="/marymount-experience/curriculum/english">
+					<img src="/images/c5.jpg">
+					</a>PHYSICAL EDUCATION
 								</td>
 								<td style="width: 33.3333%; text-align: center;">
 									<a href="/marymount-experience/curriculum/aesthetics-art">
