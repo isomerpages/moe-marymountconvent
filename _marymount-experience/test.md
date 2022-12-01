@@ -11,11 +11,11 @@ description: ""
 					<img src="/images/c1.jpg">
 					</a>ENGLISH
 				</td>
-				<td style="width: 33.3333%; text-align: center;">
-					<a href="/marymount-experience/curriculum/mathematics">
-						<img src="images/c2.jpg">
-						</a>MATHEMATICS
-					</td>
+			<td style="width: 33.3333%; text-align: center;">
+				<a href="/marymount-experience/curriculum/english">
+					<img src="/images/c1.jpg">
+					</a>ENGLISH
+				</td>
 					<td style="width: 33.3333%; text-align: center;">
 						<a href="/marymount-experience/curriculum/science">
 							<img src="images/c3.jpg">
