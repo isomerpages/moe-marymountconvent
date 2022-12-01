@@ -15,7 +15,7 @@ third_nav_title: Curriculum
 <li>explain thoughts using appropriate mathematical language; and</li>
 <li>work well with others.</li>
 </ul>
-<img style="width: 75%;" src="/images/math1.png">
+<img style="" src="/images/math1.png">
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Concrete-Pictorial-Abstract (C-P-A) Approach</strong></p>
 <p>Activity-based learning is effective for teaching mathematical concepts and skills. Pupils engage in such activities individually, in pairs or groups. They use manipulatives or other resources to construct meanings and understandings. From concrete manipulatives and experiences to pictorial representations, pupils are guided to uncover abstract mathematical concepts or results.</p>
