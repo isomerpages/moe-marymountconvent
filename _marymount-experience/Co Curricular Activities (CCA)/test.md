@@ -69,8 +69,8 @@ third_nav_title: Co Curricular Activities (CCA)
   <td style="width: 33.3333%; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/dance-ensemble"><img src="/images/cca5.jpg"></a>DANCE ENSEMBLE
       </td>
-      <td style="width: 33.3333%; height: 18px; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/drama-club"><img src="images/cca6.jpg" alt="cca6"></a>DRAMA CLUB
+      <td style="width: 33.3333%; text-align: center;">
+        <a href="/marymount-experience/co-curricular-activities-cca/drame-club"><img src="/images/cca6.jpg"></a>DRAMA CLUB
       </td>
     </tr>
     <tr style="height: 36px;">
