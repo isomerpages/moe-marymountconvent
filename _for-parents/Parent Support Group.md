@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /for-parents/parent-support-group
+permalink: /for-parents/parent-support-group/
 description: ""
 ---
 <h4><strong>Welcome!</strong></h4>
@@ -13,9 +13,9 @@ description: ""
 <p><strong>PSG Activities</strong></p>
 <p>Our members have contributed much of their time and talent to the many activities over the years. From helping out with registration at the P6 workshop to manning game stalls on Racial Harmony Day. We were also playing chapteh, congkak, five stones, gasing and many other traditional games with the girls. There are many other ad-hoc activities throughout the year where our help is needed like to chaperon the girls on excursion trips, CCA performances and the year-end school carnival. We also have regular volunteer programmes such as Catechists for the Catholic Values Education Programme which requires a weekly commitment.</p>
 <p>In recent years, we also have new activities like the P1 and P2 Indoor Picnic, as well as Family Bonding Zumba Day and Family Bonding Movie Day. These events aims to strengthen not only the individual families but the whole MCS Big Family!&nbsp;</p>
-<img style="width: 55%;" src="/images/psg2.jpg" align = "left" />
-<img style="width: 55%;" src="/images/psg3.jpg" align = "left" />
-<img style="width: 55%;" src="/images/psg4.jpg" align = "left" />
+<img style="width: 55%;" src="/images/psg2.jpg" align = "centre" />
+<img style="width: 55%;" src="/images/psg3.jpg" align = "centre" />
+<img style="width: 55%;" src="/images/psg4.jpg" align = "centre" />
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4><strong>Our very own Parent Support Group Facebook account is here!</strong></h4>
 <p>Click&nbsp;<a href="https://www.facebook.com/psgmcs">HERE</a>&nbsp;to access!</p>

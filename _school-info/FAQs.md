@@ -3,8 +3,6 @@ title: FAQs
 permalink: /about-us/faq/
 description: ""
 ---
-
-
 <h4>FREQUENTLY ASKED QUESTIONS</h4>
 <p><strong>What is the start-time for regular school days?<br /></strong>Morning assembly starts at 7.35am on regular school days.</p>
 <p><strong>What are the recess times?<br /></strong>P1 and P5: 9.30am - 10.00am<br />P3 and P4: 10.00am - 10.30am<br />P2 and P6: 10.30am - 11.00am</p>
@@ -40,3 +38,5 @@ description: ""
 </table>
 <p><strong>What is the cohort intake?<br /></strong>In general, each level of our cohort will have about 210 to 240 students. For P1 intake, please check MOE&rsquo;s website for the vacancies available.<br /><a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies#Toa-Payoh">https://www.moe.gov.sg/admissions/primary-one-registration/vacancies#Toa-Payoh</a></p>
 <p><strong>Do I / does my daughter need to attend religious programmes?<br /></strong>As a Catholic school, there are spirituality development programmes for Catholic students. These include the weekly Catholic Values Education lessons, masses held every Tuesday at 7.15am, holy days of obligation masses, penitential services and retreats etc.<br />Non-Catholic students have the option of attending the Values Education programme instead of the Catholic Values Education Programme.<br />When Safe Management Measures permit, parents will be welcomed to attend the masses.</p>
+<p><strong>Where can I find out more about Education in Singapore?<br /></strong>     You can follow MOE on Facebook @moesingapore, Instagram @moesingapore and @parentingwith.moesg,
+TikTok @moesingapore or Twitter @MOEsg.

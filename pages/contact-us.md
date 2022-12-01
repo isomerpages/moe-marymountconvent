@@ -22,4 +22,19 @@ contacts:
       - email: ""
       - other: "Nearest MRT: Caldecott"
     title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.facebook.com/MarymountConvent
+    title: Facebook
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.instagram.com/officialmmcs
+    title: Instagram
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.schoolbag.edu.sg/
+    title: Schoolbag - The Education News
 ---

@@ -6,6 +6,11 @@ third_nav_title: Our Heritage
 ---
 
 
+
+
+
+
+
 <p style="text-align: center;"><strong>Dr Ee Peng Liang, Benefactor and Friend</strong></p>
 <img style="width: 25%;" src="/images/pil1.png" />
 <p style="text-align: center;">SMC Chairman (1976 0 1994)</p>
