@@ -27,4 +27,9 @@ contacts:
       - email: ""
       - other: https://www.facebook.com/MarymountConvent/
     title: Facebook
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.instagram.com/officialmmcs
+    title: Instagram
 ---
