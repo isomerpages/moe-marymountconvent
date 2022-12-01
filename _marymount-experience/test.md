@@ -23,10 +23,10 @@ description: ""
 				</td>
 					</tr>
 					<tr>
-						<td style="width: 33.3333%; text-align: center;">
-							<a href="/marymount-experience/curriculum/mother-tongue-languages">
-								<img src="images/c4.jpg">
-								</a>MOTHER TONGUE LANGUAGES
+				<td style="width: 33.3333%; text-align: center;">
+				<a href="/marymount-experience/curriculum/english">
+					<img src="/images/c4.jpg">
+					</a>MOTHER TONGUE LANGUAGES
 							</td>
 							<td style="width: 33.3333%; text-align: center;">
 								<a href="/marymount-experience/curriculum/physical-education">
