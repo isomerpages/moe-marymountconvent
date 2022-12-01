@@ -60,8 +60,8 @@ third_nav_title: Co Curricular Activities (CCA)
        <td style="width: 33.3333%; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/artistic-gymnastics"><img src="/images/cca2.jpg"></a>ARTISTIC GYMNASTICS
       </td>
-      <td style="width: 33.3333%; height: 18px; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/brownies"><img src="images/cca3.jpg" alt="cca3"></a>BROWNIES
+      <td style="width: 33.3333%; text-align: center;">
+        <a href="/marymount-experience/co-curricular-activities-cca/brownies"><img src="/images/cca3.jpg"></a>BROWNIES
       </td>
     </tr>
     <tr style="height: 18px;">
