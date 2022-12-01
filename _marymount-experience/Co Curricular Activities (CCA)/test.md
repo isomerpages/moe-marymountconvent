@@ -53,9 +53,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 <table style="border-collapse: collapse; width: 100%; height: 90px;" border="1">
   <tbody>
-    <tr style="height: 18px;">
-      <td style="width: 33.3333%; height: 18px; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/art-club"><img src="images/cca1.jpg" alt="cca1"></a>ART CLUB
+    <tr>
+      <td style="width: 33.3333%; text-align: center;">
+        <a href="/marymount-experience/co-curricular-activities-cca/art-club/"><img src="/images/cca1.jpg" alt="c1"></a> ART CLUB
       </td>
       <td style="width: 33.3333%; height: 18px; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/artistic-gymnastics"><img src="images/cca2.jpg" alt="cca2"></a>ARTISTIC GYMNASTICS
