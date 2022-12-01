@@ -25,7 +25,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.facebook.com/MarymountConvent/
+      - other: https://www.facebook.com/MarymountConvent
     title: Facebook
   - content:
       - phone: ""
