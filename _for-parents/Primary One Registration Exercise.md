@@ -1,6 +1,6 @@
 ---
 title: Primary One Registration Exercise
-permalink: /for-parents/primary-one-registration-exercise
+permalink: /for-parents/primary-one-registration-exercise/
 description: ""
 ---
 <p>If you are registering your child during Phase 2C or Phase 2C Supplementary, you are encouraged to register online using the Primary One Internet System (P1-IS). The P1-IS serves as a convenient channel to facilitate the registration of your child. The dates and time and requirements for internet registration as well as information on P1-IS will be available on the Primary One registration website near&nbsp;end May every year.</p>
@@ -12,16 +12,32 @@ description: ""
 <tr>
 <th style="text-align: center;" colspan="3">Mother Tongue Languages Available in Marymount Convent School</th>
 </tr>
-<tr>
-<td style="text-align: center;">Chinese</td>
-<td style="text-align: center;">Malay</td>
-<td style="text-align: center;">Tamil</td>
-</tr>
-<tr>
-<td style="text-align: center;">Yes</td>
-<td style="text-align: center;">Yes</td>
-<td style="text-align: center;">Yes</td>
-</tr>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 83.2pt; border: 1pt solid windowtext; padding: 0in 5.4pt; height: 17.5pt; text-align: center;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Chinese</span></p>
+            </td>
+            <td style="width: 83.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 17.5pt; text-align: center;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Malay</span></p>
+            </td>
+            <td style="width: 83.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0in 5.4pt; height: 17.5pt; text-align: center; vertical-align: middle;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Tamil</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:83.2pt;border:solid windowtext 1.0pt;border-top:  none;padding:0in 5.4pt 0in 5.4pt;height:15.15pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Yes</span></p>
+            </td>
+            <td style="width:83.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.15pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Yes</span></p>
+            </td>
+            <td style="width:83.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.15pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Yes</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 </tbody>
 </table>
 <p><strong>Home-School Distance Check<br /></strong>You may refer to the&nbsp;<a href="https://www.onemap.sg/main/v2/schoolquerymenu" target="">Singapore Land Authority OneMap School Query Service</a>&nbsp;to determine your home-school distance.</p>
