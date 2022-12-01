@@ -22,4 +22,9 @@ contacts:
       - email: ""
       - other: "Nearest MRT: Caldecott"
     title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.facebook.com/MarymountConvent/
+    title: Facebook
 ---
