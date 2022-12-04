@@ -32,106 +32,27 @@ Singapore 238882</td>
 </table>
 <h4>Our Uniform</h4>
 
-Pinafore
-<img src="/images/pinafore.png">
+Pinafore (Primary 1 and Primary 2)
+![](/images/Uniform%20(New)/pinafore.png)
 
+Blouse (Primary 3 to Primary 6)
+![](/images/Uniform%20(New)/Blouse.png)
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa1.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Pinafore</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa2.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Blouse</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa3.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Skirt</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa4.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Jacket</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa5.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Shorts</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa6.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Red Tee</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa7.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Green Tee</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa8.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Yellow Tee</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa9.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Blue Tee</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa10.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Purple Tee</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/sa11.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>Socks</p>
+Skirt (Primary 3 to Primary 6)
+![](/images/Uniform%20(New)/MCS%20Skirt-228x228.png)
+
+House T-Shirts - Red (Garnet)
+![](/images/Uniform%20(New)/MCS%20Red%20House%20T-Shirt-228x228.png)
+
+House T-Shirts - Blue (Sapphire)
+![](/images/Uniform%20(New)/Blue.png)
+
+House T-Shirts - Yellow (Topaz)
+![](/images/Uniform%20(New)/MCS%20Yellow%20Houset%20T-Shirt-228x228.png)
+
+House T-Shirts - Green (Emerald)
+![](/images/Uniform%20(New)/MCS%20Green%20House%20T-Shirt-228x228.png)
+
+House T-Shirts - Purple (Amethyst)
+![](/images/Uniform%20(New)/MCS%20Purple%20House%20T-Shirt-228x228.png)
+
