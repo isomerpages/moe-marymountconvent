@@ -32,6 +32,10 @@ Singapore 238882</td>
 </table>
 <h4>Our Uniform</h4>
 
+Pinafore
+<img src="/images/pinafore.png">
+
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
