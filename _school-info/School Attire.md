@@ -30,8 +30,8 @@ Singapore 238882</td>
 </tr>
 </tbody>
 </table>
-<h4>Uniform and Buying Guide for Uniform Order</h4>
-<p>Please click&nbsp;<a href="/files/PG%20School%20uniform%20ordering%20for%202022%20-%20United%20Uniforms%20121121.pdf" target="_blank" rel="noopener">here</a>&nbsp;for the buying guide.</p>
+<h4>Our Uniform</h4>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
