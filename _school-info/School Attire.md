@@ -32,42 +32,27 @@ Singapore 238882</td>
 </table>
 <h4>Our Uniform</h4>
 
-Pinafore (Primary 1 and Primary 2)
-![](/images/Uniform%20(New)/pinafore.png)
+Pinafore (Primary 1 and Primary 2)![](/images/Uniform%20(New)/pinafore.png)
 
-Blouse (Primary 3 to Primary 6)
-![](/images/Uniform%20(New)/Blouse.png)
+Blouse (Primary 3 to Primary 6)![](/images/Uniform%20(New)/Blouse.png)
 
-Skirt (Primary 3 to Primary 6)
-![](/images/Uniform%20(New)/MCS%20Skirt-228x228.png)
+Skirt (Primary 3 to Primary 6)![](/images/Uniform%20(New)/MCS%20Skirt-228x228.png)
 
-House T-Shirts - Red (Garnet)
-![](/images/Uniform%20(New)/MCS%20Red%20House%20T-Shirt-228x228.png)
+House T-Shirts - Red (Garnet)![](/images/Uniform%20(New)/MCS%20Red%20House%20T-Shirt-228x228.png)
 
-House T-Shirts - Blue (Sapphire)
-![](/images/Uniform%20(New)/Blue.png)
+House T-Shirts - Blue (Sapphire)![](/images/Uniform%20(New)/Blue.png)
 
-House T-Shirts - Yellow (Topaz)
-![](/images/Uniform%20(New)/MCS%20Yellow%20Houset%20T-Shirt-228x228.png)
+House T-Shirts - Yellow (Topaz)![](/images/Uniform%20(New)/MCS%20Yellow%20Houset%20T-Shirt-228x228.png)
 
-House T-Shirts - Green (Emerald)
-![](/images/Uniform%20(New)/MCS%20Green%20House%20T-Shirt-228x228.png)
+House T-Shirts - Green (Emerald)![](/images/Uniform%20(New)/MCS%20Green%20House%20T-Shirt-228x228.png)
 
-House T-Shirts - Purple (Amethyst)
-![](/images/Uniform%20(New)/MCS%20Purple%20House%20T-Shirt-228x228.png)
+House T-Shirts - Purple (Amethyst)![](/images/Uniform%20(New)/MCS%20Purple%20House%20T-Shirt-228x228.png)
 
-Black Jacket 
-![](/images/Uniform%20(New)/MCS%20Jacket-228x228.png)
+Black Jacket![](/images/Uniform%20(New)/MCS%20Jacket-228x228.png)
 
-Socks
-![](/images/Uniform%20(New)/MCS%20Socks-228x228.png)
+Socks![](/images/Uniform%20(New)/MCS%20Socks-228x228.png)
 
-Prefect's Blouse
-![](/images/Uniform%20(New)/NTPS%20Blouse%20(Resize)-228x228.png)
-
-
-
-
+Prefect's Blouse![](/images/Uniform%20(New)/NTPS%20Blouse%20(Resize)-228x228.png)
 
 
 
