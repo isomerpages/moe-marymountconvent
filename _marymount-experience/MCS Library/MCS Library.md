@@ -9,7 +9,6 @@ third_nav_title: MCS Library
 <p style="text-align: center;">Ladies of Eloquence and Intellect with God as Our Shepherd</p>
 <p style="text-align: center;"><strong>Mission Statement</strong></p>
 <p style="text-align: center;">Eloquence and Intellect to Empower Lives</p>
-<p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>Have a tour of our library:&nbsp;</strong><a href="https://go.gov.sg/mcslibvideos">https://go.gov.sg/mcslibvideos</a></p>
 <p><strong>The objectives of the School Library are:</strong></p>
 <ul>
@@ -23,7 +22,6 @@ third_nav_title: MCS Library
 <img src="/images/lib2.jpg">
 <p><strong>Opening Hours<br /></strong><u>School Term<br /></u>Monday to Friday<br />8.00 a.m. &ndash; 1.30 p.m.</p>
 <p><strong>Closed on School and Public Holidays</strong></p>
-<p><strong><em>In view of the Covid-19 situation, the library is only accessible to pupils during their weekly library periods, accompanied by their teachers.</em></strong></p>
 <p><strong>Bookdrop</strong></p>
 <p>Pupils may return books via a bookdrop when the library is closed. Library bookdrops are available anytime during school hours for pupils to return their books. They are located outside the library and outside the general office.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -70,10 +68,8 @@ third_nav_title: MCS Library
 <p>Please contact the librarian for more details&nbsp;<a href="mailto:rebecca@marymount.edu.sg" target="">here</a>.</p>
 <p><strong>Library Dos and Don'ts</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 55%;"><img src="/images/lib5.jpg"></td>
-<td style="width: 45%;"><p>To make the library a quiet and pleasant place, we need all pupils to help observe the following rules:</p>
+<img src="/images/lib5.jpg"></td>
+<p>To make the library a quiet and pleasant place, we need all pupils to help observe the following rules:</p>
 <ul>
 <li>Speak softly at all times</li>
 <li>Walk slowly, do not run</li>
@@ -83,11 +79,7 @@ third_nav_title: MCS Library
 <li>Take care of all library items</li>
 <li>Return books to the original shelves or leave them in the trolley after reading</li>
 <li>Borrow the books at the borrowing station before taking them out of the library</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p>In view of the Covid-19 situation, various safe management measures (SMMs) have been put in place for the health and safety of all pupils. Do remember to stay in line with the SMMs!</p>
+</ul>
 <img src="/images/lib6.jpg">
 <p><strong>Gallery&nbsp;</strong></p>
 <img src="/images/lib7.jpg">
