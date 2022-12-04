@@ -37,4 +37,3 @@ description: ""
 </p>
 <p><strong>Do I / does my daughter need to attend religious programmes?<br /></strong>As a Catholic school, there are spirituality development programmes for Catholic students. These include the weekly Catholic Values Education lessons, masses held every Tuesday at 7.15am, holy days of obligation masses, penitential services and retreats etc.<br />Non-Catholic students have the option of attending the Values Education programme instead of the Catholic Values Education Programme.</p>
 <p><strong>Where can I find out more about Education in Singapore?<br /></strong>     You can follow <a href="https://www.facebook.com/moesingapore/">MOE Facebook</a>, <a href="https://www.instagram.com/moesingapore/?hl=en">MOE Instagram</a> and <a href="https://www.instagram.com/parentingwith.moesg/?hl=en">Parenting With MOE</a>
-
