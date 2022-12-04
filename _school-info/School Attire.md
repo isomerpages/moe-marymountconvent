@@ -32,7 +32,8 @@ Singapore 238882</td>
 </table>
 <h4>Our Uniform</h4>
 
-Pinafore (Primary 1 and Primary 2)![](/images/Uniform%20(New)/pinafore.png)
+Pinafore (Primary 1 and Primary 2)
+![](/images/Uniform%20(New)/MCS%20Pinafore-228x228.png)
 
 Blouse (Primary 3 to Primary 6)![](/images/Uniform%20(New)/Blouse.png)
 
@@ -53,6 +54,3 @@ Black Jacket![](/images/Uniform%20(New)/MCS%20Jacket-228x228.png)
 Socks![](/images/Uniform%20(New)/MCS%20Socks-228x228.png)
 
 Prefect's Blouse![](/images/Uniform%20(New)/NTPS%20Blouse%20(Resize)-228x228.png)
-
-
-
