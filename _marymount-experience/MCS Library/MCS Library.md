@@ -9,7 +9,6 @@ third_nav_title: MCS Library
 <p style="text-align: center;">Ladies of Eloquence and Intellect with God as Our Shepherd</p>
 <p style="text-align: center;"><strong>Mission Statement</strong></p>
 <p style="text-align: center;">Eloquence and Intellect to Empower Lives</p>
-<p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>Have a tour of our library:&nbsp;</strong><a href="https://go.gov.sg/mcslibvideos">https://go.gov.sg/mcslibvideos</a></p>
 <p><strong>The objectives of the School Library are:</strong></p>
 <ul>
