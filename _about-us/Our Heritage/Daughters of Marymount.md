@@ -1,6 +1,6 @@
 ---
 title: Daughters of Marymount
-permalink: /about-us/our-heritage/daughters-of-marymount
+permalink: /about-us/our-heritage/daughters-of-marymount/
 description: ""
 third_nav_title: Our Heritage
 ---
@@ -12,54 +12,19 @@ third_nav_title: Our Heritage
 <p style="text-align: center;"><strong>&ldquo;Do everything as far as you can for love and you will see what you are capable of! One can make more progress this way in a year, than in ten by the way of fear."</strong></p>
 <p><strong>Outstanding old girls of Marymount</strong></p>
 <p><strong>Alemay Fernandez</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/d1.jpg"></td>
-<td style="width: 75%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+<img style="width: 50%" src="/images/d1.jpg" />
 <p>Ms Alemay Fernandez is a veteran jazz singer. She has been called "Singapore's most loved performer" and is a rising star on the Asian jazz scene.</p>
 <p><strong>Belinda Charles</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/d2.jpg"></td>
-<td style="width: 75%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+<img style="width: 50%" src="/images/d2.jpg"/>
 <p>Mrs Belinda Charles helmed St Andrew&rsquo;s Secondary for nine years and St Andrew&rsquo;s Junior College for twelve years as principal and is now Dean at the Academy of Principals (Singapore).</p>
 <p><strong>Bridget Tan</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/d3.jpg"></td>
-<td style="width: 75%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+<img style="width: 50%" src="/images/d3.jpg" />
 <p>Ms Bridget Tan&nbsp;is a migrant worker's rights advocate and the founder of the&nbsp;<a href="https://en.wikipedia.org/wiki/Humanitarian_Organization_for_Migration_Economics">Humanitarian Organization for Migration Economics</a>. After retiring from a career in the private sector, she began volunteering with the Archdiocesan Commission for the Pastoral Care of Migrants and Itinerant People. In 2004 she founded HOME, which provides services for and advocates on behalf of migrant workers. That same year she founded a sister organization in Indonesia. She also has a sister organisation in The Philippines. For her work, Tan has been honoured by the&nbsp;<a href="https://en.wikipedia.org/wiki/Asia_Society">Asia Society</a>&nbsp;and the&nbsp;<a href="https://en.wikipedia.org/wiki/United_States_Department_of_State">United States Department of State</a>.</p>
 <p><strong>Cecilia Ee</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/d4.jpg"></td>
-<td style="width: 75%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+<img style="width: 50%" src="/images/d4.jpg" />
 <p>Ms Cecilia Ee has been a long-time partner of Marymount Convent School and has known MCS as a young child, as her father was an early mission partner of the Good Shepherd sisters.&nbsp;&nbsp; Besides being an active board member and alumnae of MCS, she chaired the Marymount Centre from Jan 2011 &ndash; Apr 2017.&nbsp; She continues to be mission partner of the Good Shepherd Sisters.</p>
 <p><strong>Christine Anne Kong</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/d5.jpg"></td>
-<td style="width: 75%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+<img style="width: 50%" src="/images/d5.jpg" />
 <p>Mrs Christine Kong was the principal of Catholic Junior College for seven years and is a Senior Teaching Fellow, Department Policy &amp; Leadership Studies, at the National Institute of Education, Singapore</p>
 <p><strong>Indranee Thurai Rajah SC</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
