@@ -56,3 +56,18 @@ House T-Shirts - Green (Emerald)
 House T-Shirts - Purple (Amethyst)
 ![](/images/Uniform%20(New)/MCS%20Purple%20House%20T-Shirt-228x228.png)
 
+Black Jacket 
+![](/images/Uniform%20(New)/MCS%20Jacket-228x228.png)
+
+Socks
+![](/images/Uniform%20(New)/MCS%20Socks-228x228.png)
+
+Prefect's Blouse
+![](/images/Uniform%20(New)/NTPS%20Blouse%20(Resize)-228x228.png)
+
+
+
+
+
+
+
