@@ -18,7 +18,7 @@ third_nav_title: Our Heritage
 <img style="width: 50%" src="/images/d2.jpg"/>
 <p>Mrs Belinda Charles helmed St Andrew&rsquo;s Secondary for nine years and St Andrew&rsquo;s Junior College for twelve years as principal and is now Dean at the Academy of Principals (Singapore).</p>
 <p><strong>Bridget Tan</strong></p>
-<img style="width: 50%" src="/images/d3.jpg" />
+<img style="width: 50%" src="/images/19422_bridgettan_st.jpg" />
 <p>Ms Bridget Tan&nbsp;is a migrant worker's rights advocate and the founder of the&nbsp;<a href="https://en.wikipedia.org/wiki/Humanitarian_Organization_for_Migration_Economics">Humanitarian Organization for Migration Economics</a>. After retiring from a career in the private sector, she began volunteering with the Archdiocesan Commission for the Pastoral Care of Migrants and Itinerant People. In 2004 she founded HOME, which provides services for and advocates on behalf of migrant workers. That same year she founded a sister organization in Indonesia. She also has a sister organisation in The Philippines. For her work, Tan has been honoured by the&nbsp;<a href="https://en.wikipedia.org/wiki/Asia_Society">Asia Society</a>&nbsp;and the&nbsp;<a href="https://en.wikipedia.org/wiki/United_States_Department_of_State">United States Department of State</a>.</p>
 <p><strong>Cecilia Ee</strong></p>
 <img style="width: 50%" src="/images/d4.jpg" />
