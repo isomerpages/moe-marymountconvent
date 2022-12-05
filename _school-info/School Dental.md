@@ -1,13 +1,13 @@
 ---
 title: School Dental
-permalink: /school-info/school-dental
+permalink: /school-info/school-dental/
 description: ""
 ---
 <p>Marymount Convent School Dental Clinic is in operation with effect from 3 March 2017.</p>
 <p><strong>Opening Hours</strong></p>
 <p>Week 2 and 4 of every month (Monday - Friday): 8.00 a.m. to 5.00 p.m.</p>
 <p>Lunch Time: 12.30 p.m. to 1.30 p.m.</p>
-<p>Clinic Contact Number: 62660445<br />Dental Therapist: Ms Seet Boon Hia</p>
+<p>Clinic Contact Number: 8764 9068<br />Dental Therapist: Ms Seet Boon Hia</p>
 <p>For pupils requiring urgent dental treatment, please refer to the list of alternative dental clinics below. Treatment is strictly by appointments only.</p>
 <table>
 <tbody>
