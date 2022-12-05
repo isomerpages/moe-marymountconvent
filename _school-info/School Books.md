@@ -11,7 +11,11 @@ description: ""
 </tr>
 <tr>
 <td>Address</td>
-<td>14 Arumugam Road Lion Building C #08-01 Singapore 409958</td>
+<td><strong>Retail: </strong>
+	</br>14 Arumugam Road Lion Building C #08-01 Singapore 409958
+</br> <strong>Main Office: </strong>
+</br> 213 Henderson Road #01-12 Singapore 159553
+</td>
 </tr>
 <tr>
 <td>Tel No.</td>
