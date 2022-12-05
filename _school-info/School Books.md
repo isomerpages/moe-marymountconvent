@@ -19,7 +19,8 @@ description: ""
 </tr>
 <tr>
 <td>Tel No.</td>
-<td>6464 0111</td>
+<td>6464 0111 (Retail)
+</br> 6271 9248 (Main Office)</td>
 </tr>
 <tr>
 <td>Email Address</td>
