@@ -11,5 +11,5 @@ third_nav_title: MCS Library
 <h4><strong>NLB discoveReads</strong></h4>
 <p>Pupils may access NLB discoveReads for the list of recommended books to read as well as the borrowing of eBooks online.&nbsp;NLB discoveReads can be accessed online via any PC with internet access through this&nbsp;website:&nbsp;<a href="https://childrenandteens.nlb.gov.sg/">https://childrenandteens.nlb.gov.sg</a></p>
 <h4><strong>Book Review Submissions</strong></h4>
-<img style="width: 50%;" src="/images/os3.jpeg" align = "left" />
+<img style="width: 50%;" src="/images/os3.jpeg" align = "left" /><br><br><br><br><br><br><br><br><br><br>
 <p>Submit your book reviews online via these iPads at the library or online via any PC with internet access through this website&nbsp;<a href="https://go.gov.sg/mcslib-bookreview" target="">here</a>.</p>
