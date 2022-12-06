@@ -11,11 +11,11 @@ description: ""
 </tr>
 <tr>
 <td>Address</td>
-<td><strong>Retail: </strong> </br>545 Orchard Road,
+<td><strong>Retail: </strong> <br>545 Orchard Road,
 #02-28 Far East Shopping Centre
 Singapore 238882
-</br> <strong>Main Office: </strong>
-</br> 213 Henderson Road #01-12 Singapore 159553
+<br> <strong>Main Office: </strong>
+<br> 213 Henderson Road #01-12 Singapore 159553
 	</td>
 </tr>
 <tr>
