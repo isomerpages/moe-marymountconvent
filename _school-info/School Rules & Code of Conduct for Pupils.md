@@ -1,718 +1,631 @@
 ---
 title: School Rules & Code of Conduct for Pupils
-permalink: /school-info/school-rules-code-of-conduct-for-pupils
+permalink: /school-info/school-rules-code-of-conduct-for-pupils/
 description: ""
 ---
-<h4 style="text-align: center;"><strong>DISCIPLINE POLICY</strong></h4>
-<h4><strong>Rule 1: Be Present and Punctual for all School Activities</strong></h4>
-<table>
-<tbody>
-<tr>
-<td>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="2" width="487">
-<p><strong>Attendance</strong></p>
-</td>
-<td style="text-align: center;" colspan="2" width="199">
-<p><strong>Offences / Actions taken</strong></p>
-</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.1</p>
-</td>
-<td width="444">
-<p>Pupils must be seated in the hall at 7.35 a.m.&nbsp;</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Late without a valid reason</p>
-</td>
-</tr>
-<tr>
-<td width="43">&nbsp;</td>
-<td width="444">&nbsp;</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.2</p>
-</td>
-<td width="444">
-<p>Pupils must be on time for CCAs, extra classes and all other activities.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Late without a valid reason</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.3</p>
-</td>
-<td width="444">
-<p>Pupils must be present for all lessons unless there is a valid reason. Pupils&rsquo; absence from lessons must be accompanied by a medical certificate or letter of excuse from parent / guardian.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Truancy</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.4</p>
-</td>
-<td width="444">
-<p>Pupils must remain within the school grounds once they have reported to school.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Truancy</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.5</p>
-</td>
-<td width="444">
-<p><strong>Absence during Curriculum Times</strong></p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">&nbsp;</td>
-<td width="444">
-<p>The school does not condone absence from school during school term unless on medical grounds. Parents are not encouraged to plan for holidays, family activities or any trips such that pupils will miss lessons and school activities (CCAs, remedial and supplementary lessons, learning journeys, enrichments, post-exam activities, school events like Sports Day etc.)&nbsp;<strong>Approval to be away from school must be sought in writing from the Principal or Vice-Principal through Form Teachers at least 1 week prior to any absence</strong>.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Non-attendance as &ldquo;Absent without Valid Reason&rdquo;</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.6</p>
-</td>
-<td width="444">
-<p><strong>Leaving school early</strong></p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">&nbsp;</td>
-<td width="444">
-<p>Pupils should have valid reasons for leaving school early for instance:&nbsp;</p>
-<p>&middot; Falling ill or feeling unwell</p>
-<p>&middot; Sustaining injuries or pain</p>
-<p>&middot;&nbsp;Displaying contagious symptoms of contagious diseases like HFMD, Chicken Pox, etc.</p>
-<p>&middot; Submit a doctor&rsquo;s letter to certify that the child is unfit for school</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Truancy</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.6.1</p>
-</td>
-<td width="444">
-<p>In cases when pupils are needed to be taken home, the school will inform the parent(s) / guardian(s). A pupil who is ill or has sustained injuries will not be dismissed to go home on her own. Parent(s) or an adult must come to the school to pick the child up.</p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.6.2</p>
-</td>
-<td width="444">
-<p>In cases whereby parents / guardians need to pick the child up to leave school early on any particular day for important matters or good reasons, a letter must be submitted to the form teacher at the beginning of that day to facilitate early dismissal.</p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.6.3</p>
-</td>
-<td width="444">
-<p><strong>Procedures for picking up your child / ward</strong></p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">&nbsp;</td>
-<td width="444">
-<p>All parents / guardians are to sign in at the Security Guard Post before proceeding to the General Office to indicate your intention to take your child home early.</p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">&nbsp;</td>
-<td width="444">
-<p>It is mandatory for all parents / guardians to complete the &ldquo;Permission to Leave School Premise&rdquo; form before taking your child / ward away. We would like to emphasize that no child should leave the school with parents / guardians without the school&rsquo;s knowledge. We would like everyone&rsquo;s co-operation in adhering to the procedures so as to ensure the safety and security of our pupils.</p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.7</p>
-</td>
-<td width="444">
-<p><strong>Procedures for contagious illnesses</strong></p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">&nbsp;</td>
-<td width="444">
-<p>Please inform the school upon certification of illness by the doctor.</p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.7.1</p>
-</td>
-<td width="444">
-<p>Do not send the child to school if she is suffering from any contagious illness e.g. sore eyes, HFMD, Chicken Pox, etc.</p>
-</td>
-<td width="16">&nbsp;</td>
-<td width="183">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>1.7.2</p>
-</td>
-<td width="444">
-<p>Upon returning to school, the child is to submit a doctor&rsquo;s letter to certify that she is fit for school.</p>
-</td>
-<td width="16">&nbsp;</td>
-</tr>
-</tbody>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>In MCS, we believe strongly in the character building of every student. We celebrate their growth and ensure we inculcate strong values in our students. The Code of Conduct therefore serves to show our students the corresponding good behaviour one will demonstrate when they practise good values.</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border: 1pt solid windowtext;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Rule 1 : Be Present and Punctual for all School Activities</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;'>Attendance</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.1</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must enter the school premises and be seated in the hall/classroom before 7.35 a.m.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.2&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must be on time for CCAs, extra classes and all other activities.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.3&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must be present for all lessons unless there is a valid reason.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students&rsquo; absence from lessons must be accompanied by a medical certificate or letter of excuse from parent / guardian and promptly submitted to the Form Teacher(s) on the day the student returns to school.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.4&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must remain within the school grounds once they have reported to</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>school. They are not allowed to leave school without permission during curriculum hours, CCA or other after-school activities before they are dismissed.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.5</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Absence during Curriculum Time</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>The school does not condone absence from school during school term unless on medical grounds.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Parents / Guardians are not encouraged to plan for holidays, family activities or any trips such that students will miss lessons and school activities (CCAs, remedial and supplementary lessons, learning journeys, enrichments, post-exam activities, school events like Sports Day etc.) Approval to be away from school must be sought in writing from the Principal or Vice-Principal through Form Teacher and Year Head at least 1 week prior to any absence.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Rule 2: Be Respectful</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;'>General Conduct</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.1&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students who are Singapore citizens must sing the National Anthem and</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>take the Pledge. Students will take the Pledge with the right fist placed over the heart. Students must stand at attention throughout the flag raising ceremony.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.2&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must show respect to all school staff and their peers at all times.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.3</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must respect all official documents and property belonging to others.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.4</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must display integrity at all times.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.5</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are expected to be loving and kind to others. They are not allowed to abuse anyone verbally, physically, or in written form both online and offline.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.6&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are not allowed to extort any items from anyone.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.7</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are not allowed to sell any items to other students.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.8</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>All students must vacate the classroom during recess. Students are allowed in the</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>classroom only when there is a teacher with them.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.9&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must switch off their mobile phones once they are in school. Recordings of any sort using their devices are not allowed.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>They are allowed to use mobile phones to make calls to their family members only outside of curriculum time in the foyer.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.10&nbsp; &nbsp; &nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are not allowed to bring electronic devices (iPADs, hand-held games, etc.), related accessories (headphones, earphones, speakers, etc.).</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are not allowed to bring toys, any kind of card games such as gambling cards or any other items that may disrupt learning.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.11</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>All students are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Scissors are allowed during lessons under the permission and supervision of the teacher/ instructor.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Rule 3: Responsibility</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.1&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are to check their bags the night before to ensure that they have what they need with them. With the exception of medication and food for those requiring a special diet, other items will not be allowed to be dropped off at school. Parents will be requested to turn around with the items they have brought with them.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.2&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are responsible and accountable for the safekeeping of their personal belongings. They are to label all their personal belongings and not leave their belongings unattended.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Rule 4: Be Proud of My Work</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4.1</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are to bring the required books / worksheets / materials for lessons.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4.2&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must hand in all written assignments and projects on time.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4.3&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are allowed to use only correction tape when correcting their work.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Rule 5: Be Proud of My School</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.1&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are expected to take care of the school environment and school property.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>They must not wilfully or maliciously destroy school or personal property or write graffiti.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.2&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are taught to care for the environment and be responsible for the cleanliness of the school. All litter must be disposed of in the plastic bins provided.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.3&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must ensure that all lights and fans are switched off when not in use.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.4&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>No eating or drinking is allowed outside the canteen, except during snack break. No sweetened drinks are allowed in any classroom, along the corridors and at the foyer.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.5&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must stand in line when buying food in the canteen or when purchasing stationery at the bookshop. They must return used utensils to the respective collection points after their meals.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Rule 6: Be Properly Attired</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.1&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>The school uniform is a representation of the school and its history. It is to be worn in a dignified manner that befits the image of the MCS girl.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are to wear the prescribed school uniform / school attire when they are in school or when attending all school functions within or outside school.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Modification to the school uniform is strictly not allowed. School skirts should be knee-length. Coloured name tags are to be sewn on school uniforms and PE T-shirts.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.2</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must be properly attired for PE lessons. PE T-shirts must be tucked in neatly at all times.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>P1 and P2 students are allowed to be in their PE attire throughout the day on days when they have PE. P3 &ndash; P6 students are allowed to come to school in their PE T-shirts and skirts.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are to wear PE attire only on days when they have PE lessons.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.3&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are to wear only the school jacket or single colour tone black jacket.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.4&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students must wear white #socks (ankle socks are not allowed) and black shoes when they are in school or when attending all school functions within or outside school.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Track shoes may be worn for CCAs and on special occasions such as Sports Day, with permission from the Teacher-In-Charge.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>#Socks must be at least 5 cm above the ankle bone.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.5&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>A doctor&rsquo;s memo or parent&rsquo;s / guardian&rsquo;s letter is required for students who have to wear sandals to school.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.6&nbsp; &nbsp; &nbsp; &nbsp;Brassiere straps must not be visible.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.7 &nbsp; &nbsp; &nbsp;&nbsp;Students must wear their hair neatly. Fringes must be neat and above the eyebrows. Students with long fringes must use plain hair clips or hair bands. The long fringes are not to be tucked behind the ears. Hair length which touches the shoulder must be tied up. Only black hair accessories are allowed.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.8&nbsp; &nbsp; &nbsp; &nbsp;Ornaments and items such as charms, amulets etc. must not be worn in order not to compromise the safety of the child.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.9&nbsp; &nbsp; &nbsp; &nbsp;Students are allowed to wear only one set of plain gold/silver round studs of diameter 0.5 cm maximum or colourless &lsquo;ear sticks&rsquo; on the earlobes. Students are discouraged from having multiple ear piercings. Other forms of piercing are not allowed.&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.10&nbsp; &nbsp; &nbsp;Students must keep their fingernails clean, short and unvarnished at all times.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.11&nbsp; &nbsp; &nbsp;Students are not allowed to put on make-up.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.12&nbsp; &nbsp; &nbsp;Students are not allowed to highlight or dye their hair. Hair extension and punky hairstyles are strictly prohibited.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.13&nbsp; &nbsp; &nbsp;Students are to wear clear and colourless contact lenses if necessary.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.14&nbsp; &nbsp; &nbsp;Students are not allowed to wear smart watches (capable of making phone calls, sending text messages, storing of data, capturing of images etc.) Smart</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>watches are also prohibited during examination.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Others</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>7.1&nbsp; &nbsp; &nbsp; &nbsp;Birthday celebrations are not allowed in school. The distribution of tokens or goodie bags are also strongly discouraged so as to cultivate a culture of simplicity, as well as the increasing awareness of food allergies.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>7.2&nbsp; &nbsp; &nbsp; &nbsp;Students are taught that friendships are built on mutual care, love and understanding. They are discouraged to give or exchange gifts with their peers. Students should inform their teachers if their peers ask them for gifts so teachers could teach them how to make friends.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>7.3&nbsp; &nbsp; &nbsp; &nbsp;To ensure our students enjoy a safe and pleasant bus journey, students are expected to observe safety rules and etiquette on the bus:</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(a)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Put on the seat belt at all times.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(b)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Place your bags neatly on the floor/under your seat.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(c)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Remain seated at assigned seats at all times. Standing is strictly prohibited.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(d)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Having normal conversation is permitted; however, loud noises may distract the driver.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(e)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Keep hands, legs, objects and words to yourself.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(f)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Respect the personal space of your bus mates. Do not get too close to them, making them uncomfortable.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(g)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Sit facing forward for the duration of the journey and keep feet on the floor in front and out of the bus aisle.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(h)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Stay seated until the bus has completely stopped when getting off the</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>bus.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>(i)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Do not cross in front of or behind the bus immediately after alighting. Wait for the bus to move off before crossing.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Minor Offences</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Attendance</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.1&nbsp; &nbsp; &nbsp; &nbsp;Late-coming</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.2&nbsp; &nbsp; &nbsp; &nbsp;Skipping Class</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Misconduct</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.1&nbsp; &nbsp; &nbsp; &nbsp;Improper Attire and Grooming</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.2&nbsp; &nbsp; &nbsp; &nbsp;Littering</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.3&nbsp; &nbsp; &nbsp; &nbsp;Not doing homework/assignment</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.4&nbsp; &nbsp; &nbsp; &nbsp;Touting</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.5&nbsp; &nbsp; &nbsp; &nbsp;Use of Profanities</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.6&nbsp; &nbsp; &nbsp; &nbsp;Unauthorised Entry to Teaching Block or rooms</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.7&nbsp; &nbsp; &nbsp; &nbsp;Abusing of mobile devices privilege</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.8&nbsp; &nbsp; &nbsp; &nbsp;Holding on to overdue library books with no valid reasons</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.9&nbsp; &nbsp; &nbsp; &nbsp;Other offences that do not fall in the above categories</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Consequences for Minor offences</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>For any minor offences, the school reserves the right to implement appropriate onsequence(s). These consequences include:</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents/guardians to be informed</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Counselling by teacher</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Verbal warning</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Issuance of Minor Offence Letter</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offence record</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student to attend Restorative Practice (RP*) sessions with the Level Manager and/or Form Teachers.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Students to engage in activities that will allow them to &ldquo;make things right&rdquo;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Conduct grade will be downgraded for the semester</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The school reserves the right to confiscate mobile phones / unauthorised electronic devices when they are used during curriculum hours without the teacher&rsquo;s permission.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>* Minor offences committed repeatedly will be considered as a major offence.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>* Restorative Practice (RP) is an approach that aims to:</span></p>
+                <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <ul style="margin-bottom:0in;list-style-type: disc;">
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>manage conflict and tension by repairing harm and strengthening relationship as a way of building community.&nbsp;</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>promote building respectful and trusting relationship as a foundation for teaching and learning.&nbsp;</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>provide an opportunity for students to learn about the consequences of their actions, develop empathy and work out a resolution.&nbsp;</span></li>
+                    </ul>
+                </div>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Students are guided through a series of reflective questions that enable them to learn from their wrongdoings and work out possible resolutions.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Major Offences</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Attendance</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.1&nbsp; &nbsp; &nbsp; &nbsp;Leaving school grounds without permission</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.2&nbsp; &nbsp; &nbsp; &nbsp;Truancy</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Misconduct</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.1&nbsp; &nbsp; &nbsp; &nbsp;Abuse of technology (i.e., uploading/sending negative posts, emails or &nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;messages via social media)</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.2&nbsp; &nbsp; &nbsp; &nbsp;Bullying/ Cyberbullying</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.3&nbsp; &nbsp; &nbsp; &nbsp;Extortion</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.4&nbsp; &nbsp; &nbsp; &nbsp;Causing physical hurt</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.5&nbsp; &nbsp; &nbsp; &nbsp;Cheating in assessments/tests/exams</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.6&nbsp; &nbsp; &nbsp; &nbsp;Disruptive behaviour (in school and on the school bus)</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.7&nbsp; &nbsp; &nbsp; &nbsp;Forgery</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.8&nbsp; &nbsp; &nbsp; &nbsp;Open defiance and/or rudeness</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3. &nbsp; &nbsp;&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Theft / Damage Of Property</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.1&nbsp; &nbsp; &nbsp; &nbsp;Arson</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.2&nbsp; &nbsp; &nbsp; &nbsp;Theft</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.3&nbsp; &nbsp; &nbsp; &nbsp;Vandalism (e.g. defacing/tearing off library books)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Other Serious Offences</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 0.65in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4.1&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            </td>
+            <td style="width: 420.7pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Possession of weapons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Consequences for Major offences</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 1pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>For any major offences, the school reserves the right to implement appropriate consequence(s). These consequences include:</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents/guardians to be informed</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;FTs to partner parents to address the offence</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>3.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Counselling by FTs/YH/Teacher Counsellor/School Counsellor</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student to attend Restorative Practice (RP) sessions with the Level Manager and/or Form Teachers</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Students to engage in activities that will allow them to &ldquo;make things right&rdquo;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>6.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Issuance of Major Offence Letter</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offence record</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A &lsquo;Fair&rsquo; for Conduct Grade to be given for the semester</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student Leader to step down from leadership position</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>10.&nbsp; &nbsp; &nbsp; &nbsp;The school reserves the right to confiscate mobile phones/ unauthorised electronic devices when they are used during curriculum hours without the teacher&rsquo;s permission.</span></p>
+            </td>
+        </tr>
+    </tbody>
 </table>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Rule 2: Be Respectful</strong></h4>
-<table>
-<tbody>
-<tr>
-<td>
-<table>
-<tbody>
-<tr>
-<td width="43">
-<p>2.1</p>
-</td>
-<td width="444">
-<p>Pupils who are&nbsp;Singapore&nbsp;citizens must sing the National Anthem and place the right fist over the heart when taking the pledge.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Open defiance</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.2</p>
-</td>
-<td width="444">
-<p>Pupils must show respect to all school staff and peers at all times</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Bullying&nbsp;／Defiance / Using vulgar language</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.3</p>
-</td>
-<td width="444">
-<p>Pupils must display integrity during CAs / SAs.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Refer to Examination Rules &amp; Regulations for more details</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.4</p>
-</td>
-<td width="444">
-<p>Pupils must respect all official documents.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Forgery</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.5</p>
-</td>
-<td width="444">
-<p>Pupils must respect property belonging to others.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Theft / Shoplifting</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.6</p>
-</td>
-<td width="444">
-<p>Pupils are not allowed to verbally or physically abuse anyone.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Assault and fighting / Bullying / Using vulgar language</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.7</p>
-</td>
-<td width="444">
-<p>Pupils are not allowed to extort any items from anyone.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Extortion</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.8</p>
-</td>
-<td width="444">
-<p>Pupils are not allowed to sell any items to other pupils.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Other misconduct</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.9</p>
-</td>
-<td width="444">
-<p><strong>All</strong>&nbsp;pupils must vacate the classroom during recess. Pupils are allowed in the classroom only when there is a teacher with them.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Other misconduct</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.10</p>
-</td>
-<td width="444">
-<p>All pupils are not to leave the classroom without passes issued by teachers or Class Monitors. This is to ensure that pupil movement is monitored.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Other misconduct</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.11</p>
-</td>
-<td width="444">
-<p>Pupils are allowed to use mobile phones to make calls only outside of curriculum time in the&nbsp;<strong>canteen</strong>,&nbsp;<strong>parade ground</strong>&nbsp;and&nbsp;<strong>foyer</strong>.</p>
-</td>
-<td rowspan="3" width="16">
-<p>*</p>
-</td>
-<td rowspan="3" width="183">
-<p>Confiscation</p>
-<p>Item(s) will be returned upon receipt of parent&rsquo;s acknowledgement letter.</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="487">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>2.12</p>
-</td>
-<td width="444">
-<p>Pupils are not allowed to bring electronic devices (MP3 Players, hand-held games, etc.) and gambling cards.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Rule 3: Be Proud of My Work</strong></h4>
-<table>
-<tbody>
-<tr>
-<td>
-<table>
-<tbody>
-<tr>
-<td width="43">
-<p>3.1</p>
-</td>
-<td width="444">
-<p>Pupils are to bring the required books / worksheets / materials for lessons.</p>
-</td>
-<td rowspan="4" width="199">
-<p>Parents will be informed when pupils persistently refuse to co-operate</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="487">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>3.2</p>
-</td>
-<td width="444">
-<p>Pupils must hand in all written assignments and projects on time.</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="487">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>3.3</p>
-</td>
-<td width="444">
-<p>Pupils are allowed to use only correction tape when correcting their work.</p>
-</td>
-<td width="199">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Rule 4: Be Proud of My School</strong></h4>
-<table>
-<tbody>
-<tr>
-<td>
-<table>
-<tbody>
-<tr>
-<td width="43">
-<p>4.1</p>
-</td>
-<td width="444">
-<p>Pupils must not wilfully or maliciously destroy school or personal property or write graffiti.</p>
-</td>
-<td width="16">
-<p>*</p>
-</td>
-<td width="183">
-<p>Vandalism</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>4.2</p>
-</td>
-<td width="444">
-<p>Pupils must not litter.</p>
-</td>
-<td colspan="2" width="199">
-<p>Pupil(s) will be required to clear the litter.</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>4.3</p>
-</td>
-<td width="444">
-<p>No eating or drinking is allowed outside the canteen. No food or sweetened drinks are allowed in any classroom, along the corridors and at the foyer. Pupils must queue up when buying food from the stalls in the canteen. They must return used utensils to the respective containers.</p>
-</td>
-<td colspan="2" width="199">
-<p>Pupil(s) will be required to keep the items and consume them at the appropriate areas in the school.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Rule 5: Be Properly Attired</strong></h4>
-<table>
-<tbody>
-<tr>
-<td>
-<table>
-<tbody>
-<tr>
-<td width="43">
-<p>5.1</p>
-</td>
-<td width="440">
-<p>Pupils are to wear the prescribed school uniform / school attire when they are in school or when attending any activities organized by the school. Modification to the school uniform is not allowed. School skirts should be knee-length. Coloured name tags to be sewn on&nbsp;<strong>school uniforms</strong>&nbsp;and&nbsp;<strong>PE T-shirts</strong>.</p>
-</td>
-<td width="203">
-<p>Length of school skirts should be adjusted within 7 days.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.2</p>
-</td>
-<td width="440">
-<p>Pupils must be properly attired for PE lessons (PE T-shirts must be tucked in neatly at all times). P1 and P2 pupils are allowed to be in their PE attire throughout the day on PE days. P3 &ndash; P6 pupils are allowed to come to school in their PE T-shirts and skirts. <strong>Pupils are to wear PE attire only on days when they have PE lessons.</strong></p>
-</td>
-<td width="203">
-<p>Tuck in T-shirts&nbsp;<strong><u>immediately</u></strong>.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.3</p>
-</td>
-<td width="440">
-<p>Pupils are to wear only the school jacket.</p>
-</td>
-<td width="203">
-<p>Remove inappropriate jackets / cardigans&nbsp;<strong><u>immediately</u>.</strong></p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.4</p>
-</td>
-<td width="440">
-<p>Pupils must wear white&nbsp;<sup>#</sup>socks (ankle socks are&nbsp;<strong><u>not&nbsp;</u></strong>allowed) and black shoes when they are in school or when attending any activities organized by the school. Track shoes can be worn only when special permission is given.</p>
-<p><sup>#</sup><strong><em>Socks must be at least 5 cm above the ankle bone.</em></strong></p>
-</td>
-<td width="203">
-<p>Buy proper socks at estimated cost of $2 per pair.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.6</p>
-</td>
-<td width="440">
-<p>Brassiere straps must not be visible.</p>
-</td>
-<td width="203">
-<p>Cover up immediately.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.7</p>
-</td>
-<td width="440">
-<p>Pupils must wear their hair neatly. Fringes must be neat and&nbsp;<strong><u>above the eyebrows</u></strong>. Pupils with&nbsp;<strong><u>long fringes</u></strong>&nbsp;must use<u>&nbsp;<strong>plain</strong>&nbsp;<strong>hair clips or hair bands</strong></u>. The long fringes are&nbsp;<strong><u>not</u></strong>&nbsp;to be tucked behind the ears.&nbsp;<strong>Only&nbsp;<u>black</u>&nbsp;hair accessories are allowed.</strong></p>
-</td>
-<td width="203">
-<p>Buy hair clips or rubber bands at an estimated cost of $0.50 per hair accessory.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.8</p>
-</td>
-<td width="440">
-<p>Pupils are allowed to wear&nbsp;<strong><u>only one set</u></strong>&nbsp;of&nbsp;<strong><u>plain gold/silver round studs of diameter 0.5</u></strong><u>&nbsp;<strong>cm</strong></u>&nbsp;maximum or&nbsp;<strong><u>colourless &lsquo;ear sticks&rsquo;</u></strong>&nbsp;on the earlobes.&nbsp;</p>
-<p>Pupils are discouraged from having multiple ear piercings. Other forms of piercing are not allowed.</p>
-</td>
-<td width="203">
-<p>Upper Primary: Remove inappropriate earrings / &lsquo;ear sticks&rsquo;<strong><u>&nbsp;immediately</u></strong>.</p>
-<p>Lower Primary: Form teacher will inform parents. Parents are to ensure that their children wear appropriate earrings / &lsquo;ear sticks&rsquo; the next day.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.9</p>
-</td>
-<td width="440">
-<p>Pupils must keep their fingernails clean, short and&nbsp;<strong>unvarnished at all times</strong></p>
-</td>
-<td width="203">
-<p><strong><u>Cut</u></strong>&nbsp;fingernails (nail clippers and sterilising liquid will be provided)&nbsp;<strong><u>immediately</u>.</strong></p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.10</p>
-</td>
-<td width="440">
-<p>Pupils are not allowed to put on make-up.</p>
-</td>
-<td width="203">
-<p>Remove make-up&nbsp;<strong><u>immediately</u></strong>.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="686">&nbsp;</td>
-</tr>
-<tr>
-<td width="43">
-<p>5.11</p>
-</td>
-<td width="440">
-<p>Pupils are&nbsp;<strong>not allowed</strong>&nbsp;to&nbsp;<strong><u>highlight</u></strong>&nbsp;or&nbsp;<strong><u>dye</u></strong>&nbsp;their hair.</p>
-</td>
-<td width="203">
-<p>Dye hair black within 7 days.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Be a Proud MCS girl! Be properly attired for school!</strong></h4>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>Note:</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><em><span style='font-family:"Lato",sans-serif;'>The table above serves only as a guide. It is not possible to list the details of all offences and their consequences. The school reserves the right to take the necessary action(s) in the best interest of our students, school staff and the community.</span></em></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp;</span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-family:"Lato",sans-serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>

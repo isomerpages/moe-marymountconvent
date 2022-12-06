@@ -2,7 +2,9 @@
 title: Our Heritage
 permalink: /about-us/our-heritage/
 description: ""
+third_nav_title: Our Heritage
 ---
+
 
 <a href="/about-us/our-heritage/our-foundress"><img style="width: 35%;" src="/images/heri5.png" /></a>
 

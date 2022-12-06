@@ -1,34 +1,35 @@
 ---
 title: Safety & Security Procedures
-permalink: /school-info/safety-n-security-procedures
+permalink: /school-info/safety-n-security-procedures/
 description: ""
 ---
-<p>To safeguard the safety and interest of our girls and boost the security in Marymount Convent, please co-operate with the school and adhere to the following procedures at all times:</p>
-<ol>
-<li>All visitors are required to be screened at the security post. Please report there upon arrival.&nbsp;</li>
-<li>Screened visitors will be allowed to proceed to the General Office for assistance only.&nbsp;</li>
-<li>Parents/ Visitors are not allowed to proceed to any other parts of the school or loiter in the school premises.</li>
-<li>As parking space is limited, parents and visitors are advised to park their vehicles at nearby car parks. (eg. Mt Alvernia Hospital or MacRitchie Reservoir)</li>
-<li>Parents/ Guardians who are driving may quickly drop off or pick up of their children/ wards at the porch. There should be no waiting or parking at the porch at all times.</li>
-<li>Parents/ Guardians who are dropping off or picking up their children/ wards on a regular basis are required to purchase the MCS car decal. This will facilitate entry into the school. However, it does not permit parking in the school.</li>
-<li>The school gates will be closed during the times listed below to facilitate the movements of school buses for arrival and dismissal. No vehicles other than the school buses will be allowed in during these times.&nbsp;</li>
-<li>All gates will be closed on Saturdays and Sundays.</li>
-</ol>
-<p style="text-align: center;"><strong>GATE CLOSING HOURS (MONDAYS TO FRIDAYS)</strong></p>
-<table>
-<tbody>
-<tr>
-<th>&nbsp;</th>
-<th style="text-align: center;">Closing Times</th>
-</tr>
-<tr>
-<td style="text-align: center;">Main Gate</td>
-<td style="text-align: center;">12.15 p.m. to 1.40 p.m.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Pedestrians Gate</td>
-<td style="text-align: center;">7.35 a.m. to 1.25 p.m.</td>
-</tr>
-</tbody>
-</table>
-<p><strong>THE SCHOOL WILL EXERCISE ITS RIGHTS TO BAN OR RESTRICT ENTRY INTO THE SCHOOL<br />IF THERE IS NON-COMPLIANCE TO ANY OF THE ABOVE PROCEDURES.</strong></p>
+<p>To safeguard the safety and interest of our girls and boost the security in Marymount Convent School, please co-operate with the school and adhere to the following procedures at all times:</p>
+<p>1. &nbsp; &nbsp;All visitors coming into the school will have to be screened at the security post. Please report there upon arrival.</p>
+<p>2. &nbsp; &nbsp;The security guard will check the identity of the visitor and verify the purpose of visit. Screened visitors will be given a sticker. This allows the visitor to proceed directly to the General Office for assistance.</p>
+<p>3. &nbsp; &nbsp;Parents / Visitors are not allowed to proceed to any other parts of the school or loiter in the school compound.</p>
+<p>4. &nbsp; &nbsp;Parents / Guardians driving in are only allowed to do a quick drop off or pick up of their children / wards at the porch.</p>
+<p>&bull; &nbsp; &nbsp;There should be no stopping for longer than necessary or parking at the porch at all times in order not to hold up the traffic or take up the space.</p>
+<p>&bull;&nbsp; &nbsp;&nbsp;Keep to the approved speed limit of 15 km/h.</p>
+<p>&bull;&nbsp; &nbsp;&nbsp;Move all the way to the front / first available alighting bay to alight your child.</p>
+<p>&bull;&nbsp; &nbsp;&nbsp;Do not overtake the vehicles in front of you. Queue in line accordingly at the alighting points</p>
+<p>&bull;&nbsp; &nbsp;&nbsp;Alight your child only on the left side of the vehicle and not on the right side.</p>
+<p>&bull; &nbsp; &nbsp;Alight your child promptly upon arrival and move off promptly once she has alighted.</p>
+<p>5. &nbsp; &nbsp;To facilitate speedy identification of authorized vehicles, all parents / guardians who drive in to drop off and pick up your child are advised to purchase car decals at the General Office. Please note the car decals do not warrant parking in the school.</p>
+<p>THE SCHOOL WILL EXERCISE ITS RIGHTS TO BAN OR RESTRICT ENTRY INTO THE SCHOOL IF ANYONE IS FOUND TO FLOUT OR DISREGARD ANY OF THE ABOVE PROCEDURES.</p>
+<p>6. &nbsp; &nbsp;Leaving school early</p>
+<p>Students should have valid reasons for leaving school early for instance:</p>
+<p>&bull; &nbsp; &nbsp;Falling ill or feeling unwell</p>
+<p>&bull;&nbsp; &nbsp;&nbsp;Sustaining injuries or pain</p>
+<p>&bull;&nbsp; &nbsp;&nbsp;Displaying contagious symptoms of contagious diseases like HFMD, Chicken Pox, etc.</p>
+<p>&bull; &nbsp; &nbsp;Submit a doctor&rsquo;s letter to certify that the child is unfit for school</p>
+<p>In cases when students are needed to be taken home, the school will inform the parent(s) / guardian(s). A student who is ill or has sustained injuries will not be dismissed to go home on her own. Parent(s) or an adult must come to the school to pick the child up.</p>
+<p>In cases whereby parents / guardians need to pick the child up to leave school early on any particular day for important matters or good reasons, a letter must be submitted to the Form Teacher at the beginning of that day to facilitate early dismissal.</p>
+<p>7. &nbsp; &nbsp;Procedures for picking up your child / ward</p>
+<p>All parents / guardians are to sign in at the Security Guard Post before proceeding to the General Office to indicate your intention to take your child home early.</p>
+<p>It is mandatory for all parents / guardians to complete the &ldquo;Permission to Leave School Premise&rdquo; form before taking your child / ward away. We would like to emphasise that no child should leave the school with parents / guardians without the school&rsquo;s knowledge. We would like everyone&rsquo;s co-operation in adhering to the procedures so as to ensure the safety and security of our students.</p>
+<p>8. &nbsp; &nbsp;Procedures for contagious illnesses</p>
+<p>Please inform the school upon certification of illness by the doctor.</p>
+<p>Do not send the child to school if she is suffering from any contagious illness e.g. sore eyes, HFMD, Chicken Pox, etc.</p>
+<p>Upon returning to school, the child is to submit a doctor&rsquo;s letter to certify that she is fit for school.</p>
+<p>9. &nbsp; &nbsp;There should strictly be no photography and videography within the school compound unless permission has been granted.</p>
+<p><br></p>

@@ -1,6 +1,6 @@
 ---
 title: School Books
-permalink: /school-info/school-books
+permalink: /school-info/school-books/
 description: ""
 ---
 <table border="0">
@@ -11,11 +11,13 @@ description: ""
 </tr>
 <tr>
 <td>Address</td>
-<td>14 Arumugam Road Lion Building C #08-01 Singapore 409958</td>
+<td>14 Arumugam Road Lion Building C #08-01 Singapore 409958
+
+</td>
 </tr>
 <tr>
 <td>Tel No.</td>
-<td>6464 0111</td>
+<td>6464 0111
 </tr>
 <tr>
 <td>Email Address</td>
@@ -36,12 +38,12 @@ description: ""
 <p>Monday - Friday (8.30am to 2.30pm)</p>
 <p>Lunch Hour: 12.00pm to 1.00pm (bookshop closed)</p>
 <h4><strong>Booklist - 2022</strong></h4>
-<p><a href="/files/MMCS%20P1%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 1</a></p>
-<p><a href="/files/MMCS%20P2%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 2</a></p>
-<p><a href="/files/MMCS%20P3%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 3</a></p>
-</div>
-<p><a href="/files/MMCS%20P4%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 4</a></p>
-<p><a href="/files/MMCS%20P5%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 5</a></p>
+<p><a href="/files/Book%20List/MMCS%20P1%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 1</a>
+</p>
+<p><a href="files/Book%20List/MMCS%20P2%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 2</a></p>
+<p><a href="/files/Book%20List/MMCS%20P3%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 3</a></p>
+<p><a href="/files/Book%20List/MMCS%20P4%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 4</a></p>
+<p><a href="/files/Book%20List/MMCS%20P5%20FDN%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 5</a></p>
 <p><a href="/files/MMCS%20P5%20Fdn%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 5(Fdn)</a></p>
-<p><a href="/files/MMCS%20P6%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 6</a></p>
-<p><a href="/files/MMCS%20P6%20Fdn%202022%20book%20list.pdf" target="_blank" rel="noopener">Primary 6(Fdn)</a></p>
+<p><a href="/files/Book%20List/MMCS%20P6%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 6</a></p>
+<p><a href="/files/Book%20List/MMCS%20P6%20FDN%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 6(Fdn)</a></p>
