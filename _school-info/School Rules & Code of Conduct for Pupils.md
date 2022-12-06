@@ -610,6 +610,7 @@ description: ""
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Attire</span></p>
 
 <img src="/images/School%20Rules%20(Uniform)/School%20Rules%201.png")	
+		
 
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Shoes</span></p>
