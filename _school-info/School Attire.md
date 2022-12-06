@@ -20,7 +20,7 @@ Singapore 238882
 </tr>
 <tr>
 <td>Tel No.</td>
-<td>+65 6732 7022</td>
+<td>+65 6732 7022 (Retail)</td>
 </tr>
 <tr>
 <td>Website</td>
