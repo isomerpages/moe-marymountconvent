@@ -21,7 +21,7 @@ Singapore 238882
 <tr>
 <td>Tel No.</td>
 <td>6732 7022 (Retail)
-	</br> 6271 9248 (Main Office)</td></td>
+	<br> 6271 9248 (Main Office)</td></td>
 </tr>
 <tr>
 <td>Website</td>
