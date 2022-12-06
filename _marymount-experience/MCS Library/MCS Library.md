@@ -65,7 +65,7 @@ third_nav_title: MCS Library
 </tbody>
 </table>
 <p><strong>Lost / Damaged Items<br /></strong>Pupils are responsible for any library items borrowed from the library. For every item lost or damaged, pupils are required to&nbsp;<strong>replace the item in kind</strong>.</p>
-<p>Please contact the librarian for more details&nbsp;<a href="mailto:rebecca@marymount.edu.sg" target="">here</a>.</p>
+<p>Please contact the librarian for more details&nbsp;<a href="mailto:mmcs@moe.edu.sg" target="">here</a>.</p>
 <p><strong>Library Dos and Don'ts</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <img src="/images/lib5.jpg"></td>
