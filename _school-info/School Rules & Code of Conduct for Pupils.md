@@ -608,22 +608,31 @@ description: ""
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-size: 15px;"><strong><span style="font-family:&quot;Lato&quot;,sans-serif;">School Uniform</span></strong></span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Attire</span></p>
-<img src="/Images/Uniforms1.jpg/" style="width: 25%;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span><p></p>
+<img src="/images/Uniforms1.jpg" style="width: 50%;">
+<span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span><p></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Shoes</span></p>
+<img src="/images/Uniforms2.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Unacceptable Shoes</span></p>
+<img src="/images/Uniforms3.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Hairstyles</span></p>
+<img src="/images/Uniforms4.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Unacceptable Hairstyles</span></p>
+<img src="/images/Uniforms5.jpg" style="width: 25%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Earrings</span></p>
+<img src="/images/Uniforms6.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Unacceptable Earrings</span></p>
+<img src="/images/Uniforms7.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Hair Accessories</span></p>
+<img src="/images/Uniforms8.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Unacceptable Hair Accessories</span></p>
+<img src="/images/Uniforms9.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
