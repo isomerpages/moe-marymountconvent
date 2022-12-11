@@ -7,7 +7,7 @@ description: ""
 <p style="text-align: center;"><strong>Sister Salomi Cruz<br /></strong>(Provincial Leader)</p>
 <p style="text-align: center;"><strong>Sister Delphine Kang<br /></strong>(Supervisor)</p>
 <p style="text-align: center;"><strong>Mr Edwin Hooi<br /></strong>(Treasurer)</p>
-<p style="text-align: center;"><strong>Mrs Allison Lim<br /></strong>(Secretary)</p>
+<p style="text-align: center;"><strong>Miss Cheong Hwee Khim<br /></strong>(Secretary)</p>
 <p style="text-align: center;"><strong>Ms Anna Tan<br /></strong>(Asst Secretary)</p>
 <p style="text-align: center;"><strong>Mrs Debbie Chow<br /></strong>(Asst Secretary)<strong><br /></strong></p>
 <p style="text-align: center;"><strong>Mr Adrian Lim</strong></p>
@@ -17,8 +17,3 @@ description: ""
 <p style="text-align: center;"><strong>Mr Gerald Chew</strong></p>
 <p style="text-align: center;"><strong>Ms Kuang Ser Yee</strong></p>
 <p style="text-align: center;"><strong>Mdm Neo Kee Joon<br /></strong>(Members)</p>
-
-
-
-
-
