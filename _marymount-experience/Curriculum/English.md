@@ -58,4 +58,3 @@ third_nav_title: Curriculum
 <img src="/images/el2.jpg">
 <p><strong>Creative Writing Programme</strong></p>
 <p>The Creative Writing Programme seeks to further hone our students&rsquo; ambitions and abilities in writing.&nbsp;Through the guidance of our English teachers, our students will explore different text types and genres of writing. They will produce a portfolio of writing pieces that capture their personal voice, interest and style. Some students may also&nbsp;have the opportunity to participate in international writing competitions.</p>
-
