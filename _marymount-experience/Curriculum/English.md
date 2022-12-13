@@ -6,8 +6,14 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>At MCS, we believe that every child can grow to be competent and confident users of the English language. We deliver an enriched curriculum that teaches our students to appreciate the nuances of the English language, develop critical thinking skills and equip them with the necessary competencies that are essential for communicating in the real world.</p>
+<img src="/images/New%20Photos/EL%20Class%20(9).jpg">
+<br>
+<img src="/images/New%20Photos/EL%20Class%20(14).jpg">
+		 
 <h4><strong>Our Approach</strong></h4>
-<p>We use Strategies for English Language Learning and Reading (STELLAR) as our primary approach to deliver the national curriculum. Lessons are further enriched by our school-based programmes that integrate listening, speaking, reading, viewing and writing into the language learning process.</p>
+<p>We use Strategies for English Language Learning and Reading (STELLAR) as our primary approach to deliver the national curriculum. Lessons are further enriched by our school-based programmes that integrate listening, speaking, reading, viewing and writing into the language learning process.</p><br>
+<img src="/images/New%20Photos/EL%20Class%20(12).jpg">
+<br>
 <p><strong>1. Reading @ MCS<br /></strong>Reading is the cornerstone of acquiring language skills. Students are encouraged to engage in book exploration during their reading and library periods. Our school library hosts games and activities that excite our students to read and share their love for books with their peers. We organise book talks by authors, who share the process behind writing good stories.</p>
 <p>At the Upper Primary levels, the study of current affairs is integrated into the curriculum where students read about world news. They reflect on these and express their thoughts through journal writing.</p>
 <p><strong>2. Writing @ MCS<br /></strong>Writing is an important form of communication. At MCS, we focus on teaching writing as an iterative process. Students are guided through the different stages of writing (ideation, drafting, receiving feedback, editing, publishing) as we believe that the rigour of the process is as important as the final product.</p>
@@ -52,3 +58,4 @@ third_nav_title: Curriculum
 <img src="/images/el2.jpg">
 <p><strong>Creative Writing Programme</strong></p>
 <p>The Creative Writing Programme seeks to further hone our students&rsquo; ambitions and abilities in writing.&nbsp;Through the guidance of our English teachers, our students will explore different text types and genres of writing. They will produce a portfolio of writing pieces that capture their personal voice, interest and style. Some students may also&nbsp;have the opportunity to participate in international writing competitions.</p>
+
