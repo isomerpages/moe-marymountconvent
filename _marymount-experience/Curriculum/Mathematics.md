@@ -6,6 +6,7 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>The department strives to enable pupils to acquire the necessary mathematical concepts and skills for everyday life and for continuous learning in mathematics and related disciplines, in a fun, encouraging and positive environment. As the pupils develop positive attitudes towards mathematics, they will be able to make effective use of a variety of mathematical tools in the learning and application of mathematics cooperatively and independently. Thus, producing imaginative and creative work arising from mathematical ideas while developing the abilities to reason logically and communicate mathematically.</p>
+<img src="/images/Maths1.jpeg">
 <p><strong>Vision:<br /></strong>Every MCS Girl a critical thinker and passionate mathematics learner.</p>
 <p><strong>Mission:<br /></strong>At Marymount Convent School, our mathematics curriculum strives to enable every MCS girl to:</p>
 <ul>
