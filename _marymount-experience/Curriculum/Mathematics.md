@@ -26,7 +26,6 @@ third_nav_title: Curriculum
 <p>The 4-step Approach:<br />1) Read and understand the problem.<br />2) Devise a plan.<br />3) Act out the plan.<br />4) Check and reflect.&nbsp;</p>
 <p><strong>Reasoning &amp; Communication @ MCS</strong></p>
 <p>Mathematical processes refer to the process skills involved in the process of acquiring and applying mathematical knowledge. This includes reasoning and communication which pupils can develop through problem solving. In MCS, the pupils work in pairs or groups to lay out their working logically; communicate their thoughts clearly in both written and verbal forms; and reason inductively by observing patterns, similarities and differences. They make connections between mathematical ideas and everyday life. In MCS, we believe that reasoning, communication and problem solving skills are essential to lifelong learning.</p>
-<p>Pupils presenting solutions in class.</p>
 <img src="/images/math3.jpg" />
 
 <h4><strong>Our Department Programmes</strong></h4>
