@@ -9,6 +9,7 @@ third_nav_title: Curriculum
 <img style="width: 75%;" src="/images/Art1.jpeg">
 <h4><strong>Our Approach</strong></h4>
 <p>Our art teachers strive to provide a student-centric curriculum through Inquiry-Based Learning and the use of thinking routines. Through our art curriculum, we also aim to expose students to an extensive variety of art forms and mediums. During the art making process, our students document their journey in their MCS Visual Journals. Through a progressive approach in the writing of their artist statements that accompanies every artwork created, students also learn to be critical thinkers by having a voice in their artworks.</p>
+<img style="width: 75%;" src="/images/Art2.jpeg">
 <p>Here are some of the modules our students experience in the respective levels:&nbsp;</p>
 <table>
 <tbody>
@@ -27,12 +28,13 @@ third_nav_title: Curriculum
 </tbody>
 </table>
 <p>On top of the curriculum art lessons, MCS also provides opportunities for our students to experience various art forms through our signature art programmes as below.</p>
+<img style="width: 75%;" src="/images/Art3.jpeg">
 <h4><strong>Our Department Programmes</strong></h4>
 <p><strong>Arts Galore&nbsp;</strong></p>
 <p>The MCS Arts Galore is a festival in celebration of the arts. During this festival, Art booths are set up and manned by our P5 students to engage the school in a variety of craftwork. This event empowers the P5 students to take ownership of their booths, learn the importance of teamwork and play their role in contributing back to the school.</p>
 <p>Despite the Covid-19 pandemic, our P5 students prepared instructional videos, PowerPoints and packed the art materials for their schoolmates. Through the event, students learnt about the importance of zero waste and pick up ideas on transforming recycled materials into beautiful and useful craft pieces.</p>
 <p style="text-align: center;">P5 pupils researching ideas for their craft work</p>
-<img src="/images/art7.jpg">
+<img style="width: 75%;" src="/images/art7.jpg">
 <p style="text-align: center;">Pupils creating their art crafts during Arts Galore</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
