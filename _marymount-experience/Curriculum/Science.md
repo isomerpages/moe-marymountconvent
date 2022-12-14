@@ -16,6 +16,7 @@ third_nav_title: Curriculum
 <img src="/images/sci1.png">
 <p><u>School-wide Horticultural Programme</u></p>
 <p>The Horticultural Programme is designed to allow pupils to &lsquo;play&rsquo; with materials that encourages them to appreciate how plants grow. Through &ldquo;playing&rdquo;, pupils not only discover the factors affecting the growth of their plants but also learn how different parts of the plant may be used to reproduce new plants.</p>
+
 <p>Pupils imbue the values of responsibility and care for the environment as they look after and nurture their plants.</p>
 <p>P1 and P2: Observing the growth of a plant.</p>
 <p>P3: &lsquo;Every Child a Seed Programme&rsquo; and &lsquo;Mushroom Bloom!&rsquo;</p>
