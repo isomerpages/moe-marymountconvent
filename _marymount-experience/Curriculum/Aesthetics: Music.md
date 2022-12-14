@@ -6,8 +6,8 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>The MCS music education aims to enable every student to have creative expression, allowing them to communicate through music and able to appreciate local and global music. The music curriculum also provides the basis to develop an informed and life-long involvement in music for our students.</p>
-<img style="width:75%;" src="/images/Mu1.jpeg" >
-
+<img style="width:75%;" src="/images/Mu1.jpeg" ><br>
+<img style="width:75%;" src="/images/Mu2.jpeg" >
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Music Curriculum</strong></p>
 <p>Our music teachers strive to provide a student-centric curriculum through the Experience-Concept-Apply approach in our lesson modules. A range of musical instruments are also covered extensively in our curriculum as follows:</p>
@@ -32,8 +32,8 @@ third_nav_title: Curriculum
 <td colspan="2" style="text-align: center;">Primary 5 &amp; 6: Ukulele / Playing in an Ensemble&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">P5 – Ukulele<img src="/images/mu5.jpg"></td>
-<td style="text-align: center;">P6 – Ensemble playing<img src="/images/mu6.jpg"></td>
+<td style="text-align: center;">P5 –     Ukulele<img src="/images/mu5.jpg"></td>
+<td style="text-align: center;">P6 – Ensemble Playing<img src="/images/mu6.jpg"></td>
 </tr>
 </tbody>
 </table>
