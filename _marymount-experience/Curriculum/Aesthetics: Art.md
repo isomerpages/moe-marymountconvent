@@ -6,6 +6,7 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>The MCS art education aims to enable every student to be visually literate and to appreciate art. When our students are visually literate, they are able to observe, understand and make meaning of what they see. They will also be able to communicate their ideas through art and recognize the relevance of art in their lives.</p>
+<img style="width: 75%;" src="/images/Art1.jpeg">
 <h4><strong>Our Approach</strong></h4>
 <p>Our art teachers strive to provide a student-centric curriculum through Inquiry-Based Learning and the use of thinking routines. Through our art curriculum, we also aim to expose students to an extensive variety of art forms and mediums. During the art making process, our students document their journey in their MCS Visual Journals. Through a progressive approach in the writing of their artist statements that accompanies every artwork created, students also learn to be critical thinkers by having a voice in their artworks.</p>
 <p>Here are some of the modules our students experience in the respective levels:&nbsp;</p>
