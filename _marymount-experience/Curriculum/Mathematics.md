@@ -57,6 +57,7 @@ third_nav_title: Curriculum
 <li>Strive to enable each pupil to discover and develop her core academics talents;</li>
 <li>Believe in empowering every pupil to enhance their strengths and pursue their passions for lifelong learning.</li>
 </ul>
+<img src="/images/Maths4.jpeg">
 <p><strong>Our Approach</strong></p>
 <ul>
 <li>Our Mathematics Talent Development Programme aims to provide opportunities for P3 &ndash; P6 pupils who have the passion and desire in Mathematics to:</li>
