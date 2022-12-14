@@ -4,7 +4,7 @@ permalink: /marymount-experience/co-curricular-activities-cca/artistic-gymnastic
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 65%;" src="/images/ag1.png" />
+<img style="width: 75%;" src="/images/Agym2.jpeg" />
 <h4><strong>CCA Information</strong></h4>
 <p>Artistic Gymnastics combines the elements of strength, artistry and grace. It seeks to develop pupils in their physical strength, flexibility, agility, coordination and balance. Club members acquire acrobatic techniques to execute short routines on four apparatus: balance beam, uneven bars, vault and floor.</p>
 <p>Pupils in this club are grouped into either School Team or Recreation. Pupils in the School Team are expected to train more than once a week. These pupils will be selected to represent the school at the annual National School Games in March/April. In addition to that, this CCA also provides several opportunities for School Team members and selected pupils from the Recreation group to put up performances at major school events.</p>
