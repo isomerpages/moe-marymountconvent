@@ -13,7 +13,7 @@ third_nav_title: Curriculum
 <li>Tap on ICT resources for greater efficacy in teaching and learning processes.</li>
 <li>Use of Formative Assessment (FA) tools to supplement graded assessments, determining the learning outcomes of pupils.</li>
 <li>Instill joy of learning by creating fun and meaningful learning environments for the pupils.</li>
-<h4><strong>Our Department Programmes</strong></h4>
+<img style="width: 75%;"  src="/images/ml1.jpeg"><h4><strong>Our Department Programmes</strong></h4>
 <p><strong><u>Mother Tongue Fortnight</u></strong><br /><br />Delightful two weeks filled with Mother Tongue activities. Pupils can look forward to experiencing traditional craft activities where they get to discover and learn more about their culture. Pupils also learn to appreciate their Mother Tongue languages through fun and challenging class activities or competitions.</p>
 <img src="/images/mt1.png">
 <p><u>Festive Celebrations<br /></u>In the Marymount Family, we learn to respect different races and cultures. Festivals are the best platforms to learn to appreciate others&rsquo; cultures and traditions. When friends from other races celebrate the festivals close to their hearts, we share the joy with them too!</p>
@@ -27,6 +27,7 @@ third_nav_title: Curriculum
 <li>Strive to enable each pupil to discover and develop her core academics talents;</li>
 <li>Believe in empowering every pupil to enhance their strengths and pursue their passions for lifelong learning.</li>
 </ul>
+<img style="width: 75%;"  src="/images/Tl1.jpeg">
 <p><strong>Our Approach<br>
 </strong>Our Mother Tongue Talent Development Programme aims to provide opportunities for P3 &ndash; P5 pupils who have the passion and desire in Mother Tongue to:</p>
 <ul>
