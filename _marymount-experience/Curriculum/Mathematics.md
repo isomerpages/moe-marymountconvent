@@ -20,10 +20,14 @@ third_nav_title: Curriculum
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Concrete-Pictorial-Abstract (C-P-A) Approach</strong></p>
 <p>Activity-based learning is effective for teaching mathematical concepts and skills. Pupils engage in such activities individually, in pairs or groups. They use manipulatives or other resources to construct meanings and understandings. From concrete manipulatives and experiences to pictorial representations, pupils are guided to uncover abstract mathematical concepts or results.</p>
+<img src="/images/Maths2.jpeg">
+<br><br>
 <img src="/images/math.png">
 <p><strong>P&oacute;lya&rsquo;s Four-step Problem-solving Strategy</strong></p>
 <p>In teaching problem solving, teachers demonstrate how to use the strategy and models thinking aloud to make visible the thinking process.</p>
 <p>The 4-step Approach:<br />1) Read and understand the problem.<br />2) Devise a plan.<br />3) Act out the plan.<br />4) Check and reflect.&nbsp;</p>
+
+
 <p><strong>Reasoning &amp; Communication @ MCS</strong></p>
 <p>Mathematical processes refer to the process skills involved in the process of acquiring and applying mathematical knowledge. This includes reasoning and communication which pupils can develop through problem solving. In MCS, the pupils work in pairs or groups to lay out their working logically; communicate their thoughts clearly in both written and verbal forms; and reason inductively by observing patterns, similarities and differences. They make connections between mathematical ideas and everyday life. In MCS, we believe that reasoning, communication and problem solving skills are essential to lifelong learning.</p>
 <img src="/images/math3.jpg" />
