@@ -6,6 +6,7 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>Physical Education has long been equipping pupils with a strong foundation for a lifelong pursuit of a physically active and healthy lifestyle.&nbsp;</p>
+<img style="width: 75%;" src=
 <h4><strong>Our Approach</strong></h4>
 <p>Currently, Physical Education is the platform that creates more opportunities for students to participate in recreational sports competitions and with the inclusion of Outdoor Education in PE where students get to understand more about the environment as they learn to navigate, assess risks and make decisions about their own safety, while enjoying the outdoors.</p>
 <img src="/images/ped1.png">
