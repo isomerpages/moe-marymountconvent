@@ -4,10 +4,12 @@ permalink: /marymount-experience/co-curricular-activities-cca/brownies/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 65%;" src="/images/br1.jpg" />
+<img style="width: 75%;" src="/images/br1.jpg" />
 <h4><strong>CCA Information</strong></h4>
 <p>As Marymount Convent School&rsquo;s only Uniformed Group (UG), Brownies are encouraged to explore and discover the world around them and to become individuals that are more confident. Brownies learn to work and play independently and also in teams. They are constantly learning new skills and are challenged to try new and adventurous activities that will inspire them to think about what they want to be and do in the future.</p>
+<img style="width: 75%;" src="/images/Br2.jpeg" />
 <p>Brownies are guided by a comprehensive 5-Point Programme, which develops them in the following areas: Personal &amp; Social Development, Home, Outdoor, Community and International.</p>
+<img style="width: 75%;" src="/images/Br1.jpeg" />
 <p>Brownies enjoy working for interest badges and awards that will help them develop new skills. Some examples of badges include craft, artist, environmentalist, pathfinder, music lover, cook and many more!</p>
 <table>
 <tbody>
