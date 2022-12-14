@@ -4,6 +4,9 @@ permalink: /marymount-experience/co-curricular-activities-cca/dance-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<p>The club caters to pupils who are passionate about Chinese Dance. Pupils in the club will put up yearly performances at school events and compete in the biennial Singapore Youth Festival.</p>
+<img style="width: 65%;" src="/images/cd1.jpg" />
+
 <img style="width: 65%;" src="/images/de1.png" />
 <table>
 <tbody>
