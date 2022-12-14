@@ -6,8 +6,14 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>At MCS, we believe that every child can grow to be competent and confident users of the English language. We deliver an enriched curriculum that teaches our students to appreciate the nuances of the English language, develop critical thinking skills and equip them with the necessary competencies that are essential for communicating in the real world.</p>
+<img style="width: 75%;" src="/images/New%20Photos/EL%20Class%20(9).jpg">
+<br>
+<img style="width: 75%;"src="/images/New%20Photos/EL%20Class%20(14).jpg">
+		 
 <h4><strong>Our Approach</strong></h4>
-<p>We use Strategies for English Language Learning and Reading (STELLAR) as our primary approach to deliver the national curriculum. Lessons are further enriched by our school-based programmes that integrate listening, speaking, reading, viewing and writing into the language learning process.</p>
+<p>We use Strategies for English Language Learning and Reading (STELLAR) as our primary approach to deliver the national curriculum. Lessons are further enriched by our school-based programmes that integrate listening, speaking, reading, viewing and writing into the language learning process.</p><br>
+<img style="width: 75%;" src="/images/New%20Photos/EL%20Class%20(12).jpg">
+<br>
 <p><strong>1. Reading @ MCS<br /></strong>Reading is the cornerstone of acquiring language skills. Students are encouraged to engage in book exploration during their reading and library periods. Our school library hosts games and activities that excite our students to read and share their love for books with their peers. We organise book talks by authors, who share the process behind writing good stories.</p>
 <p>At the Upper Primary levels, the study of current affairs is integrated into the curriculum where students read about world news. They reflect on these and express their thoughts through journal writing.</p>
 <p><strong>2. Writing @ MCS<br /></strong>Writing is an important form of communication. At MCS, we focus on teaching writing as an iterative process. Students are guided through the different stages of writing (ideation, drafting, receiving feedback, editing, publishing) as we believe that the rigour of the process is as important as the final product.</p>
@@ -17,7 +23,7 @@ third_nav_title: Curriculum
 <p>The Speak Well Programme aims to develop a sense of confidence and eloquence in our students through the explicit sharing of values.</p>
 <p>It requires our students to first write about a given theme that is tied to our school values. During the process, they do research and reflect on their own experiences to form convincing beliefs about the given theme.</p>
 <p>Students present their thoughts and share their experiences with their peers in class, and representatives from each class would do similarly during assembly, to a wider audience. With the shift to e-assembly, our students design a deck of slides to accompany their speeches, making their presentations even more engaging to the audience.</p>
-<img style="width: 85%;" src="/images/el1.png" />
+<img style="width: 75%;" src="/images/el1.png" />
 <p><strong><u>MCS Reading Programme</u></strong></p>
 <p>This programme aims to introduce students to different genres and inculcate in them a love for reading. Through a series of lessons, students will read for enjoyment and explore the common features and thematic elements of various genres. The lessons are designed not only to engage, delight and entertain pupils, but also to teach and reinforce values.</p>
 <p><strong><u>Termly Early Bird English Book Sharing</u></strong></p>

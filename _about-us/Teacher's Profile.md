@@ -1,8 +1,10 @@
 ---
 title: Teacher's Profile
-permalink: /about-us/teachers-profile
+permalink: /about-us/teachers-profile/
 description: ""
 ---
+![](/images/New%20Photos/Frontage%20for%20Website%20(6).jpg)
+
 <p>The MCS teacher is loved by the pupils and respected by colleagues and parents.</p>
 <p>As a Professional, committed to helping the school to achieve its Vision and Mission.</p>
 <p>The MCS teacher is</p>

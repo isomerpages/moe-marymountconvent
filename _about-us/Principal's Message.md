@@ -1,12 +1,24 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
-<p>Following the footsteps of our Foundress, Saint Mary Euphrasia, we at Marymount Convent School endeavour to nurture our girls into &ldquo;Ladies of compassion, eloquence and intellect with God as our Shepherd&rdquo;. We leverage on &ldquo;MCS&rdquo; to help us fulfil the vision we have for each and every daughter of Marymount.&nbsp;</p>
-<p><strong><u>Mission<br /></u></strong>Our mission stems from a fundamental Christian ethos where we believe every child is precious and dearly loved. St Mary Euphrasia advocates that &ldquo;one person is of more value than the whole world&rdquo;. Thus the child remains central in all our decisions. Our policies and programmes are designed with the clear purpose of bringing out the best in every child, growing them from where they are.&nbsp;</p>
-<p><strong><u>Character and Curriculum<br /></u></strong>In MCS, we focus on educating the whole person - morally, spiritually, physically, socially, cognitively and aesthetically - so that every child will &ldquo;grow in wisdom and stature in favour with God and man (people).&rdquo; In a volatile and uncertain world, our girls will need to have a strong moral compass to help them navigate through the challenges of life. Our Values Education will build in our girls strong values with sound character. Concurrently through Our Expanded Learning Experiences where we imbue in our girls the necessary life skills, social skills, thinking skills and ICT skills, we are preparing our girls to be future-ready. Our Instructional Programmes, at the same time, seek to challenge our girls on their journey of pursuing knowledge, to have a good grasp of their personal strengths and talents. Multiple platforms and opportunities provide both breadth and depth to enhance the learning experiences for our girls.&nbsp;</p>
-<p><strong><u>Staff<br /></u></strong>Every staff in our MCS family plays a part in the holistic development of our girls. Our staff resonates with the School Vision and are both caring and skilful in growing every girl under our charge. Together, we provide a positive and strong culture where our girls can be enveloped in for their daily learning and growth!</p>
-<p><strong><u>Partnership<br /></u></strong>The African proverb aptly espouses &ldquo;It takes a village to raise a child&rdquo;. In MCS, we are grateful to have the whole Marymount Community with us. Working in close partnership with the Good Shepherd sisters, our Alumnae and our Parents, we are able to provide holistic and comprehensive support for our girls. Our girls, in return, are taught to always be appreciative of all the help and support given to them. In their own capacities, they too, can contribute and help those around them. We are &ldquo;blessed to be a blessing&rdquo;.</p>
-<p>Therefore, together with my staff and with God as our light, we trust that every MCS girl will blossom into a lady of compassion who will love as Christ has loved her; eloquently advocating for a cause, bigger than herself; seeking ever to better herself intellectually and anchoring deep in sound, moral biblical values, spiritually. With Jesus as our Good Shepherd, our MCS girls will live their lives with purposeful destiny, shining the light of God and be bearers of hope to all!</p>
-<p>Mrs Allison Lim</p>
+Rainbows have always been one of my favourites. Their splendor, quiet steadfastness and their full expanse across the skies fascinate me. Rainbows, while they may be an optical phenomena in Science, always remind me of the love and steadfastness of God, and the beauty of His creations. They bring me God’s Promises of grace and mercy; and I am confident that God will always light up the rainbows for me to ride on them.
+
+It is with this same confidence that I step into Marymount Convent School – that God will be my Light as I serve in my capacity as Principal. Indeed, I am grateful for the opportunity to serve in a school anchored in the fundamental Christian ethos that every child is precious in the eyes of God, and should be well-loved.  That is also why that ‘one person is of more value than the whole world’, the belief advocated by St Mary Euphrasia, resonates deeply with me. Every child, each and every one of them, is important.
+
+As an educator, I believe that whatever we do must serve the needs of each and every child - not _all_, not _some_, but _each and every child_.  Not ‘all’ because that would mean that our programmes, overly general or generic, may seem to cater to all but miss the individual; and why not ‘some’, the answer is obvious.  To me, it must always be ‘each and every child’ for that would mean that we notice each and every one of them. We will then centre on the child in the _what_ and _how_ we do things in the school to bring out the best in them; and importantly, prepare them to be future ready because the world that awaits them is truly an unknown.
+
+To all parents, I look forward to your continued close partnership with us to support the learning and growth of your daughters - grow up to be refined, cultured, strong in body, mind and soul; and be well-placed for secondary schools and most of all, be well-placed for life.
+
+To every girl in MCS, my encouragement to you is this:
+
+There is a glorious rainbow that beckons those with the spirit of adventure. And there are rich findings at the end of that rainbow…look at the horizon, find that rainbow, **go ride It**.                                                         
+
+_L.K.Y_
+
+Have a blessed year ahead!
+
+Miss Minnie Cheong Hwee Khim
+
+Principal

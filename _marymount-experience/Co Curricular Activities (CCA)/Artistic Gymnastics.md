@@ -4,10 +4,12 @@ permalink: /marymount-experience/co-curricular-activities-cca/artistic-gymnastic
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 65%;" src="/images/ag1.png" />
+<img style="width: 75%;" src="/images/Agym2.jpeg" />
 <h4><strong>CCA Information</strong></h4>
 <p>Artistic Gymnastics combines the elements of strength, artistry and grace. It seeks to develop pupils in their physical strength, flexibility, agility, coordination and balance. Club members acquire acrobatic techniques to execute short routines on four apparatus: balance beam, uneven bars, vault and floor.</p>
+<img style="width: 75%;" src="/images/Agym1.jpeg" />
 <p>Pupils in this club are grouped into either School Team or Recreation. Pupils in the School Team are expected to train more than once a week. These pupils will be selected to represent the school at the annual National School Games in March/April. In addition to that, this CCA also provides several opportunities for School Team members and selected pupils from the Recreation group to put up performances at major school events.</p>
+<img style="width: 75%;" src="/images/Agym5.jpeg" />
 <p>This fun, vibrant CCA not only moulds our girls to be exemplary performers but it also teaches them to be dedicated, disciplined and resilient.</p>
 <table>
 <tbody>
@@ -35,20 +37,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>Floor Exercise</strong></p>
-<p>Pupils learn and master acrobatic moves as well as techniques on a padded floor. This apparatus trains pupils in their strength, flexibility and coordination.</p></td>
-<td style="width: 50%;"><img src="/images/ag2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Balance Beam</strong></p>
-<p>Pupils learn basic walks, turns and poses, before gradually progressing to jumps, leaps and handstands on the balance beam. This beam event incorporates strength, balance and coordination, as well as an awareness of body position.&nbsp;</p></td>
-<td style="width: 50%;"><img src="/images/ag3.jpg"></td>
-</tr>
-</tbody>
-</table>
+<p><strong>Floor Exercise</strong></p>
+<p>Pupils learn and master acrobatic moves as well as techniques on a padded floor. This apparatus trains pupils in their strength, flexibility and coordination.</p><img style="width:75%;" src="/images/ag2.jpg"><br>
+<img style="width:75%;" src="/images/Agym3.jpeg">
+<p><strong>Balance Beam</strong></p>
+<p>Pupils learn basic walks, turns and poses, before gradually progressing to jumps, leaps and handstands on the balance beam. This beam event incorporates strength, balance and coordination, as well as an awareness of body position.&nbsp;</p><img style="width:75%;" src="/images/ag3.jpg">
 <p><strong>Vault</strong></p>
 <p>Pupils practise running, jumping and hurdling herself onto a springboard. Starting with beginner drills, they gradually advance to vaults that are of higher difficulty levels. This apparatus trains pupils&rsquo; in their strength, agility as well as athletic ability.&nbsp;</p>
 <p><strong>Uneven Bars</strong></p>
