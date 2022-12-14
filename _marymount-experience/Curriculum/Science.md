@@ -9,6 +9,7 @@ third_nav_title: Curriculum
 <img src="/images/sc1.jpeg">
 <h4><strong>Our Approach</strong></h4>
 <p>The Department inculcates in our learners the spirit of scientific inquiry. Pupils embark on experiential learning, which heightens their curiosity about the world around them, and become equipped with relevant process skills and attitudes.</p>
+<img src="/images/sc2.jpeg">
 <h4><strong>Our Department Programmes</strong></h4>
 <p><u>Inquiry Based Lessons</u></p>
 <p>Pupils are constantly exposed to inquiry based experiential learning experiences during curriculum time to discover and co-construct scientific knowledge and concepts collaboratively. All these opportunities allow our pupils to experience the life of a young scientist!</p>
