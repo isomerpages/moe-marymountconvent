@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>The MCS music education aims to enable every student to have creative expression, allowing them to communicate through music and able to appreciate local and global music. The music curriculum also provides the basis to develop an informed and life-long involvement in music for our students.</p>
-<img src="/images/Mu1.jpeg" style="width:75%">
+<img style="width:75%;" src="/images/Mu1.jpeg" >
 
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Music Curriculum</strong></p>
