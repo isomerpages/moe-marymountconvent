@@ -92,4 +92,5 @@ third_nav_title: Curriculum
 </ul>
 <p>Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematics explorations. The rich learning experiences offered by this programme serve to help pupils to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.&nbsp;</p>
 <p>This programme is conducted by trained Maths E2K teachers in the school.</p>
-<img src="/images/math10.png">
+<img src="/images/Maths3.jpeg">
+<br><img src="/images/math10.png">
