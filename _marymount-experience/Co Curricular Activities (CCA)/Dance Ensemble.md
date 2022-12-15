@@ -47,7 +47,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <h4><strong>CCA Achievements</strong></h4>
 <p><strong>Performance at St Theresa&rsquo;s Nursing Home</strong></p>
 <p>Pupils brought smiles and joy to the residence of St Theresa&rsquo;s Nursing Home with their lively and jovial dance item.</p>
-<img style="width: 75%;" src="/images/de5.jpg" /><br>
+<img style="width: 75%;" src="/images/de5.jpg"><br>
 <p><strong>Assisi&rsquo;s Hospice Christmas Performance</strong></p>
 <p>The Dance Ensemble members went through a virtual lesson to master the dance. Through these bubbly dance moves, they brought joy to the patients in the Hospice during the time of the pandemic.&nbsp;</p><img style="width:75%;" src="/images/de6.jpeg"><p><strong>Chingay Performance</strong></p>
 <p>The Dance Ensemble participated in Chingay and the performance that they were in was awarded as one of the Best performances of Chingay in 2019.</p><p><strong>National Day Parade</strong></p>
