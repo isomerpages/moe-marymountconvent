@@ -4,10 +4,12 @@ permalink: /marymount-experience/co-curricular-activities-cca/choir/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 65%;" src="/images/ch1.jpg" />
+<img style="width: 75%;" src="/images/Choir1.jpeg">
 <h4><strong>CCA Information</strong></h4>
 <p>The Choir is made up of a group of pupils who share the joy of singing. Under the baton of Ms. Angila Tan, our young choristers have honed their vocal quality, choral techniques and developed voices that resonate as one. The Choir&rsquo;s extensive repertoire ranges from classical to contemporary, as well as some local folk tunes.</p>
+<img style="width: 75%;" src="/images/Choir.jpeg">
 <p>We will continue to nurture the passion and appreciation of music in our choristers and develop them to become individuals who are confident and contribute actively to the community.</p>
+<img style="width: 75%;" src="/images/Choir2.jpeg">
 <table>
 <tbody>
 <tr>
@@ -28,47 +30,23 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<p><br />*If pupils are participating in SYF, they will be required to attend an additional session on Friday to prepare for competition.</p>
+<p>*If pupils are participating in SYF, they will be required to attend an additional session on Friday to prepare for competition.</p>
 <h4><strong>CCA Highlights</strong></h4>
 <p><strong>Masterclass with clinician</strong></p>
 <p>Pupils are provided with the opportunity to learn from clinicians who share their musical knowledge and know-how, suggesting areas for improvement and development.</p>
-<img style="width: 75%;" src="/images/ch2.jpg" />
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>Free performances April:<br />In Youthful Company</strong></p>
-<p>Singing at the Esplanade concourse, the choristers captivated the hearts and attention of the audience with a medley of familiar and melodious tunes from the Disney Princess Song Book.</p></td>
-<td style="width: 50%;"><img src="/images/ch3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Extra&bull;Ordinary Celebration</strong></p>
-<p>A collaboration with Lighthouse School Choir along with their Cajon Performers, this performance celebrates inclusivity of talents that has allowed the pupils to embark on a journey of self-discovery, forging deep friendships, building trust and respect for one another.</p></td>
-<td style="width: 50%;"><img src="/images/ch4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Voices of Singapore Festival 2019</strong></p>
+<img style="width: 75%;" src="/images/ch2.jpg"><br>
+<p><strong>Free performances April: In Youthful Company</strong></p>
+<p>Singing at the Esplanade concourse, the choristers captivated the hearts and attention of the audience with a medley of familiar and melodious tunes from the Disney Princess Song Book.</p>
+<img style="width: 75%;" src="/images/ch3.jpg">
+<p><strong>Extra-Ordinary Celebration</strong></p>
+<p>A collaboration with Lighthouse School Choir along with their Cajon Performers, this performance celebrates inclusivity of talents that has allowed the pupils to embark on a journey of self-discovery, forging deep friendships, building trust and respect for one another.</p><img style="width: 75%;" src="/images/ch4.jpg">
+<p><strong>Voices of Singapore Festival 2019</strong></p>
 <p>With its exquisite Gothic-style design and excellent acoustics, our choristers enjoyed a beautiful choral experience performing in a non-competitive setting at CHIJMES Hall. It was also a time of bonding as their families were invited to attend and bask in the ethereal ambience.</p></td>
-<td style="width: 50%;"><img src="/images/ch5.jpg"></td>
-</tr>
-</tbody>
-</table>
+<img style="width: 75%;" src="/images/ch5.jpg">
 <h4><strong>CCA Achievements</strong></h4>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;"><strong>Competition</strong></th>
-<th style="text-align: center;"><strong>Level (Div)</strong></th>
-<th style="text-align: center;"><strong>Achievement</strong></th>
-</tr>
-<tr>
-<td style="text-align: center;">Singapore International Choral Festival 2019</td>
-<td style="text-align: center;">A1 Equal Voices</td>
-<td style="text-align: center;">Silver</td>
-</tr>
-<tr>
-<td style="text-align: center;">Singapore Youth Festival Arts Presentation 2018</td>
-<td style="text-align: center;">Primary School</td>
-<td style="text-align: center;">Certificate of Distinction</td>
-</tr>
-</tbody>
-</table>
+<strong>Competition:</strong>
+<p> Singapore International Choral Festival 2019
+A1 Equal Voices: Silver</p>
+<p>
+Singapore Youth Festival Arts Presentation 2018 Primary School: Certificate of Distinction
+</p>
