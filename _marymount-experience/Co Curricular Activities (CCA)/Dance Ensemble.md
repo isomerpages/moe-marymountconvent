@@ -4,10 +4,12 @@ permalink: /marymount-experience/co-curricular-activities-cca/dance-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<img style="width: 75%;" src="/images/Dance3.jpeg" />
 <h4><strong>CCA Information</strong></h4>
 <p>The Dance Ensemble caters to pupils who are passionate about Contemporary Dance and Chinese Dance. Pupils in the club will put up yearly performances at school events and compete in the biennial Singapore Youth Festival. Pupils may also be given the opportunity to be involved in national events such as Chingay and the National Day Parade.</p>
+<img style="width: 75%;" src="/images/Dance1.jpeg" /><br>
+<img style="width: 75%;" src="/images/Dance2.jpeg" /><br>
 <img style="width: 75%;" src="/images/cd1.jpg" /><br>
-<img style="width: 75%;" src="/images/md1.jpg" /><br>
 <img style="width: 75%;" src="/images/de1.png" />
 
 <br>
