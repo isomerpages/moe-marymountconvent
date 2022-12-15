@@ -47,5 +47,3 @@ third_nav_title: Co Curricular Activities (CCA)
 <p><strong>Presentation</strong></p>
 <p>In pairs or groups of three, pupils write and present their skits. Their audience (other members) highlight the areas of strengths and weaknesses in their skits in terms of projection of voice, expressiveness, use of body and immersion into the character.</p>
 <img src="/images/dram5.png">
-
-
