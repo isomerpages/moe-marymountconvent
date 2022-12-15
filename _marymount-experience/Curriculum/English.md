@@ -8,7 +8,7 @@ third_nav_title: Curriculum
 <p>At MCS, we believe that every child can grow to be competent and confident users of the English language. We deliver an enriched curriculum that teaches our students to appreciate the nuances of the English language, develop critical thinking skills and equip them with the necessary competencies that are essential for communicating in the real world.</p>
 <img style="width: 75%;" src="/images/New%20Photos/EL%20Class%20(9).jpg">
 <br>
-<img style="width: 75%;"src="/images/New%20Photos/EL%20Class%20(14).jpg">
+<img style="width: 75%;" src="/images/New%20Photos/EL%20Class%20(14).jpg">
 		 
 <h4><strong>Our Approach</strong></h4>
 <p>We use Strategies for English Language Learning and Reading (STELLAR) as our primary approach to deliver the national curriculum. Lessons are further enriched by our school-based programmes that integrate listening, speaking, reading, viewing and writing into the language learning process.</p><br>
