@@ -4,7 +4,7 @@ permalink: /marymount-experience/co-curricular-activities-cca/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 60%;" src="/images/dra1.jpg" />
+<img style="width: 75%;" src="/images/dra1.jpg">
 <h4><strong>CCA Information</strong></h4>
 <p>The club caters to pupils who are not only interested in performing but also in the production of plays. Pupils in the club get the opportunity to dabble with script writing and props making as well. Pupils put up yearly productions at school events.<br /><br /></p>
 <table width="0">
@@ -40,10 +40,12 @@ third_nav_title: Co Curricular Activities (CCA)
 <img src="/images/dram2.png">
 <p><strong>Acting Games</strong></p>
 <p>A variety of acting games are played with the objective of breaking the ice, building group dynamics, improving focus and encouraging creativity.</p>
-<img style="width: 65%;" src="/images/dram3.jpg" />
+<img style="width: 75%;" src="/images/dram3.jpg">
 <p><strong>Script Writing</strong>&nbsp;</p>
 <p>The seniors pair up with the juniors to improve the juniors&rsquo; monologue pieces at one of the sessions; passing on their knowledge and experience gained from their years in the club.</p>
 <img src="/images/dram4.png">
 <p><strong>Presentation</strong></p>
 <p>In pairs or groups of three, pupils write and present their skits. Their audience (other members) highlight the areas of strengths and weaknesses in their skits in terms of projection of voice, expressiveness, use of body and immersion into the character.</p>
 <img src="/images/dram5.png">
+
+
