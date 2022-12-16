@@ -7,7 +7,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <img style="width: 75%;" src="/images/Rgym1.jpeg">
 <h4><strong>CCA Information</strong></h4>
 <p>Rhythmic Gymnastics combines multidisciplinary elements of ballet, dance and gymnastics. Club members use apparatus such as clubs, ropes, hoops and balls to perform their routines on the floor, accompanied by the tune of catchy songs or music.</p>
+<img style="width:75%;" src="/images/Rgym2.jpeg">
 <p>Pupils in this club are grouped into either School Team or Recreation. Pupils in the School Team are expected to train more than once a week. These pupils will be selected to represent the school at the annual National School Games in March/April. In addition to that, this CCA also provides several opportunities for School Team members and selected pupils from the Recreation group to put up performances at major school events.</p>
+<img style="width:75%;" src="/images/Rgym3.jpeg">
 <p>This fun, vibrant CCA not only moulds our girls to be expressive performers but it also teaches them to be committed, disciplined and resilient.</p>
 <table>
 <tbody>
