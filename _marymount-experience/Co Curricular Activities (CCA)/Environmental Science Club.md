@@ -4,7 +4,7 @@ permalink: /marymount-experience/co-curricular-activities-cca/environmental-scie
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 65%;" src="/images/ess1.jpg" />
+<img style="width: 75%;" src="/images/Env1.jpeg">
 <h4><strong>CCA Information</strong></h4>
 <p>The Environmental Science Club aims to promote environmental awareness within and beyond the school community by engaging others in meaningful environment activities. Through hands-on activities, research and investigation as well as collaboration with peers, members will be equipped with the knowledge and skills to drive key initiatives in nature conservation and the 3Rs: Reduce, Reuse and Recycle.&nbsp;</p>
 <table>
