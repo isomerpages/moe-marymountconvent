@@ -47,19 +47,15 @@ third_nav_title: Co Curricular Activities (CCA)
 Learning chest, waist, knee and ankle movements.</p>
 <img style="width:75%;" src="/images/rg2.jpeg">
 <p><strong>Learning Basic Body Movements</strong><br>
-Exercises for legs, shoulder, chest and waist.</span>&nbsp;</p>
-</td>
-<td style="width: 50%;"><img src="/images/rg3.jpeg"></td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong class="">Stamina Training</strong></p>
-<p class=""><span class="" lang="EN">At the start of every session, the coach gets the students to do warm-up exercises which involve:</span></p>
+Exercises for legs, shoulder, chest and waist.</p>
+<img src="/images/rg3.jpeg">
+<p><strong>Stamina Training</strong><br>
+At the start of every session, the coach gets the students to do warm-up exercises which involve:</p>
 <ul>
 <li><span class="">speedy run</span></li>
 <li><span class="" lang="EN">jump and turn at 180 and/or 360 degree</span></li>
 <li><span class="" lang="EN">back bend with changing legs</span></li>
-<li><span class="" lang="EN">side split leap </span>&nbsp;</li>
+<li>side split leap </span>&nbsp;</li>
 </ul>
 </td>
 <td style="width: 50%;"><img style="width: 80%;" src="/images/rg4.jpeg" /></td>
