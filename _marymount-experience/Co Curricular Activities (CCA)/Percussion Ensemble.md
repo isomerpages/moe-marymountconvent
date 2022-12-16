@@ -28,6 +28,5 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<p><strong>One Ensemble, One Sound, One Heart, One Family!</strong><strong>&nbsp;</strong></p>
-<p>Playing techniques and musicianship are being emphasised.</p>
-<img style="width: 50%;" src="/images/pe2.jpg" />
+<p><strong>One Ensemble, One Sound, One Heart, One Family!</strong><strong>&nbsp;</strong><br>Playing techniques and musicianship are being emphasised.</p>
+<img style="width: 75%;" src="/images/pe2.jpg" />
