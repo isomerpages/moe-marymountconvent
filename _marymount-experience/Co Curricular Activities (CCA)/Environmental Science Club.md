@@ -4,9 +4,10 @@ permalink: /marymount-experience/co-curricular-activities-cca/environmental-scie
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 75%;" src="/images/Env1.jpeg">
+<img style="width: 75%;" src="/images/Env3.jpeg">
 <h4><strong>CCA Information</strong></h4>
 <p>The Environmental Science Club aims to promote environmental awareness within and beyond the school community by engaging others in meaningful environment activities. Through hands-on activities, research and investigation as well as collaboration with peers, members will be equipped with the knowledge and skills to drive key initiatives in nature conservation and the 3Rs: Reduce, Reuse and Recycle.&nbsp;</p>
+<img style="width:75%;" src="/images/Env2.jpeg"><br>
 <table>
 <tbody>
 <tr>
@@ -28,7 +29,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </table>
 <h4><strong>CCA Highlights</strong></h4>
 <p><strong>Greening Our School</strong><br>
-Our club carries out gardening activities to grow plants to beautify the school environment. Members learn about the gardening techniques and plant propagation methods such as stem-cutting and leaf-cutting through hands-on sessions, supported by the use of technology.</p><img src="/images/ess2.jpg"><p><strong>Nurturing Passion Through Inquiry</strong>
+Our club carries out gardening activities to grow plants to beautify the school environment. Members learn about the gardening techniques and plant propagation methods such as stem-cutting and leaf-cutting through hands-on sessions, supported by the use of technology.</p><img src="/images/ess2.jpg"><p><strong>Nurturing Passion Through Inquiry</strong><br>
 Members carried out experiments in groups to find out how edible plants grow in water are different from plants that grow in soil. They also build their own simple plant hydroponics system by upcycling plastic bottles.</p></td>
 <td style="width: 50%;"><img src="/images/ess3.jpg"></td>
 </tr>
