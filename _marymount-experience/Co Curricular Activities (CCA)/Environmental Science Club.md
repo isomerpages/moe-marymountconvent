@@ -33,11 +33,7 @@ Our club carries out gardening activities to grow plants to beautify the school 
 <img style="width: 75%;" src="/images/Env2.jpeg">
 <p>Members learn about the gardening techniques and plant propagation methods such as stem-cutting and leaf-cutting through hands-on sessions, supported by the use of technology.</p><img style="width:75%;" src="/images/ess2.jpg"><p><strong>Nurturing Passion Through Inquiry</strong><br>
 Members carried out experiments in groups to find out how edible plants grow in water are different from plants that grow in soil. They also build their own simple plant hydroponics system by upcycling plastic bottles.</p><img style="width:75%;" src="/images/ess3.jpg"><p><strong>Upcycling Our Way To Sustainability</strong><br>
-Through upcycling activities, our members explore how materials can be reused to reduce waste. During one of the sessions, they tear, soak, blend and sieve unwanted paper in order to make them into new usable paper.</p></td>
-<td style="width: 50%;"><img src="/images/ess4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Enriching Learning Beyond School</strong></p>
+Through upcycling activities, our members explore how materials can be reused to reduce waste. During one of the sessions, they tear, soak, blend and sieve unwanted paper in order to make them into new usable paper.</p><img style="width:75%;" src="/images/ess4.jpg"><p><strong>Enriching Learning Beyond School</strong><br>
 <p>During the trip to the Clean &amp; Green Carnival organised by the National Environment Agency, our members learnt more about caring for our environment and adopting a clean, green and sustainable lifestyle.</p></td>
 <td style="width: 50%;"><img src="/images/ess5.jpg"></td>
 </tr>
