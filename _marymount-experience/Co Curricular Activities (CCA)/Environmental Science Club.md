@@ -66,8 +66,4 @@ During the trip to the Clean &amp; Green Carnival organised by the National Envi
 <br>On World Water Day, our club members took charge of the water rationing activities during recess. They also shared a presentation about the importance of water to encourage the whole school community to save water.</p><img src="/images/ess6.jpg"><p><strong>Youth for Environment / Earth Week</strong></p>
 <br>Every year, our school celebrates Earth Day on 22 April. To demonstrate our support for environmental protection, our members carried out upcycling activities during recess to promote environmental awareness and inspire others to save the Earth.</p></td>
 <td style="width: 50%;"><img src="/images/ess7.jpg"><p><strong>World Animal Day</strong></p>
-<p>To save animals in the world, our members carried out a research project on endangered animals and created posters that were used for one of the activities on Children&rsquo;s Day, in conjunction with World Animal Day.</p><img src="/images/ess8.png">
-
-
-
-
+<p>To save animals in the world, our members carried out a research project on endangered animals and created posters that were used for one of the activities on Children&rsquo;s Day, in conjunction with World Animal Day.</p><img style="width:75%;" src="/images/ess8.png">
