@@ -4,9 +4,10 @@ permalink: /marymount-experience/co-curricular-activities-cca/environmental-scie
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 65%;" src="/images/ess1.jpg" />
+<img style="width: 75%;" src="/images/Env3.jpeg">
 <h4><strong>CCA Information</strong></h4>
 <p>The Environmental Science Club aims to promote environmental awareness within and beyond the school community by engaging others in meaningful environment activities. Through hands-on activities, research and investigation as well as collaboration with peers, members will be equipped with the knowledge and skills to drive key initiatives in nature conservation and the 3Rs: Reduce, Reuse and Recycle.&nbsp;</p>
+<img style="width:75%;" src="/images/Env3.jpeg"><br>
 <table>
 <tbody>
 <tr>
@@ -21,35 +22,19 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
-<td style="text-align: center;">Mrs Ong-Low York Sheng</td>
+<td style="text-align: center;">Mrs Evelyn Chia
+	<br>Mr Jeremy Koh<br>Ms Elaine Han</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>Greening Our School</strong></p>
-<p>Our club carries out gardening activities to grow plants to beautify the school environment. Members learn about the gardening techniques and plant propagation methods such as stem-cutting and leaf-cutting through hands-on sessions, supported by the use of technology.</p></td>
-<td style="width: 50%;"><img src="/images/ess2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Nurturing Passion Through Inquiry</strong></p>
-<p>Members carried out experiments in groups to find out how edible plants grow in water are different from plants that grow in soil. They also build their own simple plant hydroponics system by upcycling plastic bottles.</p></td>
-<td style="width: 50%;"><img src="/images/ess3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Upcycling Our Way To Sustainability</strong></p>
-<p>Through upcycling activities, our members explore how materials can be reused to reduce waste. During one of the sessions, they tear, soak, blend and sieve unwanted paper in order to make them into new usable paper.</p></td>
-<td style="width: 50%;"><img src="/images/ess4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Enriching Learning Beyond School</strong></p>
-<p>During the trip to the Clean &amp; Green Carnival organised by the National Environment Agency, our members learnt more about caring for our environment and adopting a clean, green and sustainable lifestyle.</p></td>
-<td style="width: 50%;"><img src="/images/ess5.jpg"></td>
-</tr>
-</tbody>
-</table>
+<p><strong>Greening Our School</strong><br>
+Our club carries out gardening activities to grow plants to beautify the school environment.</p>
+<img style="width: 75%;" src="/images/Env2.jpeg">
+<p>Members learn about the gardening techniques and plant propagation methods such as stem-cutting and leaf-cutting through hands-on sessions, supported by the use of technology.</p><img style="width:75%;" src="/images/ess2.jpg"><p><strong>Nurturing Passion Through Inquiry</strong><br>
+Members carried out experiments in groups to find out how edible plants grow in water are different from plants that grow in soil. They also build their own simple plant hydroponics system by upcycling plastic bottles.</p><img style="width:75%;" src="/images/ess3.jpg"><p><strong>Upcycling Our Way To Sustainability</strong><br>
+Through upcycling activities, our members explore how materials can be reused to reduce waste. During one of the sessions, they tear, soak, blend and sieve unwanted paper in order to make them into new usable paper.</p><img style="width:75%;" src="/images/ess4.jpg"><p><strong>Enriching Learning Beyond School</strong><br>
+During the trip to the Clean &amp; Green Carnival organised by the National Environment Agency, our members learnt more about caring for our environment and adopting a clean, green and sustainable lifestyle.</p><img style="width:75%;" src="/images/ess5.jpg">
 <h4><strong>CCA Achievements</strong></h4>
 <table width="0">
 <tbody>
@@ -77,22 +62,6 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>World Water Day</strong></p>
-<p>On World Water Day, our club members took charge of the water rationing activities during recess. They also shared a presentation about the importance of water to encourage the whole school community to save water.</p></td>
-<td style="width: 50%;"><img src="/images/ess6.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>Youth for Environment / Earth Week</strong></p>
-<p>Every year, our school celebrates Earth Day on 22 April. To demonstrate our support for environmental protection, our members carried out upcycling activities during recess to promote environmental awareness and inspire others to save the Earth.</p></td>
-<td style="width: 50%;"><img src="/images/ess7.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><p><strong>World Animal Day</strong></p>
-<p>To save animals in the world, our members carried out a research project on endangered animals and created posters that were used for one of the activities on Children&rsquo;s Day, in conjunction with World Animal Day.</p></td>
-<td style="width: 50%;"><img src="/images/ess8.png"></td>
-</tr>
-</tbody>
-</table>
+<p><strong>World Water Day</strong>
+<br>On World Water Day, our club members took charge of the water rationing activities during recess. They also shared a presentation about the importance of water to encourage the whole school community to save water.</p><img style="width:75%;"  src="/images/ess6.jpg"><p><strong>Youth for Environment / Earth Week</strong><br>
+Every year, our school celebrates Earth Day on 22 April. To demonstrate our support for environmental protection, our members carried out upcycling activities during recess to promote environmental awareness and inspire others to save the Earth.</p><img style="width:75%;" src="/images/ess7.jpg"><p><strong>World Animal Day</strong><br>To save animals in the world, our members carried out a research project on endangered animals and created posters that were used for one of the activities on Children&rsquo;s Day, in conjunction with World Animal Day.</p><img style="width:75%;" src="/images/ess8.png">
