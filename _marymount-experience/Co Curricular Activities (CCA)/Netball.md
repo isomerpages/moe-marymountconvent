@@ -29,6 +29,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
+<img style="width:75%;" src="/images/Nb3.jpeg">
 <h4><strong>CCA Highlights</strong></h4>
 <p><strong>Warming up, keeping cool</strong><br>
 The pupils warming up before the big showdown in the Netball South Zone Finals! Preparation has always been a key factor in helping our netballers calm their nerves and play to the best of their ability.</p><img style="width:75%;" src="/images/nb2.jpg"><br><img style="width:75%;"  src="/images/nb3.jpg"><p><strong>Cheerleading parents</strong><br>Parents play an important role in supporting the team! Our strong parental support means our netballers are able to manage their tough schedule of both academic rigor and CCA training.</p><p><strong>Training hard</strong><br>The netballers&rsquo; love and dedication for the sport shows in their time and effort spent in training not only during CCA sessions but also during recess and holiday training during competition periods. They are always striving for excellence!</p><img style="width:75%;" src="/images/nb4.jpg"><br>
