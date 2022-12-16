@@ -6,7 +6,10 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <img style="width: 75%;" src="/images/Ten1.jpeg">
 <h4><strong>CCA Information</strong></h4>
-<p>The club caters to pupils who are interested in Tennis. Pupils are expected to train twice a week. Most training sessions are conducted at public tennis courts. Transport to and from school to the training venue will be provided for all players.<br />The CCA aims to equip all our pupils with the necessary skills, knowledge and attitudes that are required of a Tennis player. Through the trainings, the pupils will develop good character including sportsman qualities such as sportsmanship, fair play etc. through healthy sports competitions.&nbsp;</p>
+<p>The club caters to pupils who are interested in Tennis. Pupils are expected to train twice a week. Most training sessions are conducted at public tennis courts. Transport to and from school to the training venue will be provided for all players. </p>
+<img style="width:75%;" src="/images/Ten2.jpeg">
+<p>The CCA aims to equip all our pupils with the necessary skills, knowledge and attitudes that are required of a Tennis player. Through the trainings, the pupils will develop good character including sportsman qualities such as sportsmanship, fair play etc. through healthy sports competitions.&nbsp;</p>
+<img style="width: 75%;" src="/images/Ten4.jpeg"><br>
 <table>
 <tbody>
 <tr>
