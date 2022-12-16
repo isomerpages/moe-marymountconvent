@@ -81,7 +81,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<p><strong>Performance</strong></p>
+<h4><strong>Performances</strong></h4></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
