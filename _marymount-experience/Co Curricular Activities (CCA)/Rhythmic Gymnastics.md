@@ -57,19 +57,11 @@ At the start of every session, the coach gets the students to do warm-up exercis
 <li><span class="" lang="EN">back bend with changing legs</span></li>
 <li>side split leap </span>&nbsp;</li>
 </ul>
-</td>
-<td style="width: 50%;"><img style="width: 80%;" src="/images/rg4.jpeg" /></td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p class=""><strong class="">Apparatus Handling</strong></p>
-<p class=""><span class="">Learning to handle different apparatus, like ball, rope, hoop and clubs.</span>&nbsp;</p>
-</td>
-<td style="width: 50%;"><img style="width: 80%;" src="/images/rg5.jpeg" /></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Performances</strong></h4></p>
+<img style="width: 75%;" src="/images/rg4.jpeg" />
+<p class=""><strong>Apparatus Handling</strong>
+<br>Learning to handle different apparatus, like ball, rope, hoop and clubs.</p>
+<img style="width: 75%;" src="/images/rg5.jpeg">
+<h4><strong>Performances</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
