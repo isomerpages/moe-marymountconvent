@@ -8,7 +8,7 @@ description: ""
 <p style="text-align: center;"><strong>Sister Delphine Kang<br /></strong>(Supervisor)</p>
 <p style="text-align: center;"><strong>Mr Edwin Hooi<br /></strong>(Treasurer)</p>
 <p style="text-align: center;"><strong>Miss Cheong Hwee Khim<br /></strong>(Secretary)</p>
-<p style="text-align: center;"><strong>Ms Anna Tan<br /></strong>(Asst Secretary)</p>
+<p style="text-align: center;"><strong>Mdm Anna Tan<br /></strong>(Asst Secretary)</p>
 <p style="text-align: center;"><strong>Mrs Debbie Chow<br /></strong>(Asst Secretary)<strong><br /></strong></p>
 <p style="text-align: center;"><strong>Mr Adrian Lim</strong></p>
 <p style="text-align: center;"><strong>Prof Berinderjeet Kaur</strong></p>
