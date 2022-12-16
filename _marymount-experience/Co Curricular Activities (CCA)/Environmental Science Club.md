@@ -21,7 +21,8 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
-<td style="text-align: center;">Mrs Ong-Low York Sheng</td>
+<td style="text-align: center;">Mrs Evelyn Chia
+	<br>Mr Jeremy Koh<br>Ms Elaine Han</td>
 </tr>
 </tbody>
 </table>
