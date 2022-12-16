@@ -4,9 +4,10 @@ permalink: /marymount-experience/co-curricular-activities-cca/netball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 50%;" src="/images/nb1.jpg" />
+<img style="width: 75%;" src="/images/Nb1.jpeg">
 <h4><strong>CCA Information</strong></h4>
 <p>The CCA caters to pupils who are interested in Netball. Besides learning new skills and playing the game of Netball, the CCA also seeks to foster a spirit of camaraderie, responsibility and discipline among teammates. CCA members also learn important life skills like eating right and journaling their Netball learning experience for future reference.</p>
+<img style="width:75%;" src="/images/Nb2.jpeg"><br>
 <table>
 <tbody>
 <tr>
