@@ -26,17 +26,15 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<p><strong>Warm Up</strong></p>
-<p>At the start of every CCA session, pupils will perform a series of warm up exercises to increase blood flow to the muscles and to prevent injuries.&nbsp;</p>
-<img style="width: 45%;" src="/images/ten2.jpg" />
-<p><strong>Practice</strong></p>
-<p>Pupils are divided into groups depending on their ability levels. Pupils practise their forehand, backhand and serve. Both teachers and the coach provide feedback on their technique.&nbsp;</p>
-<img style="width: 45%;" src="/images/ten.jpg" />
-<p><strong>Game</strong></p>
-<p>Pupils put their skills into practice in a game of &ldquo;Jail&rdquo;. Pupils will rally in a pre-determined number of times with an opponent.</p>
+<p><strong>Warm Up</strong><br>At the start of every CCA session, pupils will perform a series of warm up exercises to increase blood flow to the muscles and to prevent injuries.&nbsp;</p>
+<img style="width: 75%;" src="/images/ten2.jpg">
+<p><strong>Practice</strong><br>Pupils are divided into groups depending on their ability levels. Pupils practise their forehand, backhand and serve. Both teachers and the coach provide feedback on their technique.&nbsp;</p>
+<img style="width: 75%;" src="/images/ten.jpg">
+<p><strong>Game</strong><br>
+Pupils put their skills into practice in a game of &ldquo;Jail&rdquo;. Pupils will rally in a pre-determined number of times with an opponent.</p>
 <img style="width: 50%;" src="/images/ten3.jpg" />
-<p><strong>Reflection</strong></p>
-<p>Pupils reflect on the day&rsquo;s activities and the transfer of the value to their daily life.&nbsp;</p>
+<p><strong>Reflection</strong><br>
+Pupils reflect on the day&rsquo;s activities and the transfer of the value to their daily life.&nbsp;</p>
 <h4><strong>CCA Achievements</strong></h4>
 <table>
 <tbody>
