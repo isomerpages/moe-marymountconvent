@@ -62,11 +62,8 @@ During the trip to the Clean &amp; Green Carnival organised by the National Envi
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>World Water Day</strong></p>
-<p>On World Water Day, our club members took charge of the water rationing activities during recess. They also shared a presentation about the importance of water to encourage the whole school community to save water.</p></td>
+<p><strong>World Water Day</strong>
+<br>On World Water Day, our club members took charge of the water rationing activities during recess. They also shared a presentation about the importance of water to encourage the whole school community to save water.</p></td>
 <td style="width: 50%;"><img src="/images/ess6.jpg"></td>
 </tr>
 <tr>
