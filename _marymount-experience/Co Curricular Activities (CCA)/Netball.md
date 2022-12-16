@@ -30,12 +30,8 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>Warming up, keeping cool</strong></p>
-<p>The pupils warming up before the big showdown in the Netball South Zone Finals! Preparation has always been a key factor in helping our netballers calm their nerves and play to the best of their ability.</p></td>
-<td style="width: 50%;"><img src="/images/nb2.jpg"></td>
+<p><strong>Warming up, keeping cool</strong><br>
+The pupils warming up before the big showdown in the Netball South Zone Finals! Preparation has always been a key factor in helping our netballers calm their nerves and play to the best of their ability.</p><img src="/images/nb2.jpg"></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img src="/images/nb3.jpg"></td>
