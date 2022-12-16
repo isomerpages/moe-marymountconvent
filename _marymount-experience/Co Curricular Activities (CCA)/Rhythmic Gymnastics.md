@@ -43,19 +43,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;">
-<div><strong class="">Learning Body Techniques<br /></strong></div>
-<p class="">Learning chest, waist, knee and ankle movements.</p>
-</td>
-<td style="width: 50%;"><img src="/images/rg2.jpeg"></td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong class=""><span class="" lang="EN">Learning Basic Body Movements</span></strong></p>
-<p><span class="">Exercises for legs, shoulder, chest and waist.</span>&nbsp;</p>
+<p><strong>Learning Body Techniques</strong><br>
+Learning chest, waist, knee and ankle movements.</p>
+<img style="width:75%;" src="/images/rg2.jpeg">
+<p><strong>Learning Basic Body Movements</strong><br>
+Exercises for legs, shoulder, chest and waist.</span>&nbsp;</p>
 </td>
 <td style="width: 50%;"><img src="/images/rg3.jpeg"></td>
 </tr>
