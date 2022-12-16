@@ -23,7 +23,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
-<td style="text-align: center;">&nbsp;Ms Tan Yiang Hoon<br />Ms Patricia James<br />Mr Mohammad Adib</td>
+<td style="text-align: center;">&nbsp;Ms Tan Yiang Hoon<br>Ms Patricia James</td>
 </tr>
 </tbody>
 </table>
