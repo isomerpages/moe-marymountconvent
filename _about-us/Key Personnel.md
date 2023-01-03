@@ -182,15 +182,15 @@ description: ""
         <tr>
             <td style="width: 148.25pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 13.35pt;vertical-align: top;">
                 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Ms Audrey Chew</span></p>
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'><a href="mailto:chew_sor_teng@moe.edu.sg">chew_sor_teng@moe.edu.sg</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'><a href="mailto:chew_sor_teng@moe.edu.sg">chew_sor_teng@moe.edu.sg</a></span></p>
             </td>
             <td colspan="2" style="width: 148.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.35pt;vertical-align: top;">
                 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Ms Susan Tham</span></p>
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'><a href="mailto:susan_tham_miew_peng@moe.edu.sg">susan_tham_miew_peng@moe.edu.sg</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'><a href="mailto:susan_tham_miew_peng@moe.edu.sg">susan_tham_miew_peng@moe.edu.sg</a></span></p>
             </td>
             <td style="width: 153pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 13.35pt;vertical-align: top;">
                 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'>Ms Dulcia Ong</span></p>
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'><a href="mailto:ong_tian_nu_dulcia@moe.edu.sg">ong_tian_nu_dulcia@moe.edu.sg</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;'><a href="mailto:ong_tian_nu_dulcia@moe.edu.sg">ong_tian_nu_dulcia@moe.edu.sg</a></span></p>
             </td>
         </tr>
         <tr>
