@@ -3,7 +3,6 @@ title: Teaching Staff (2023)
 permalink: /about-us/teaching-staff-2023/
 description: ""
 ---
-
 <p style='margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;background:white;'><strong><span style='font-size:29px;font-family:"Lato",sans-serif;color:#009639;'>TEACHING STAFF (2023)</span></strong></p>
 <p style='margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;background:white;'><strong><span style='font-size:29px;font-family:"Lato",sans-serif;color:#009639;'>&nbsp;</span></strong></p>
 <table style="width:454.25pt;border-collapse:collapse;border:none;">
