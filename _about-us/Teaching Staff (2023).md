@@ -20,7 +20,7 @@ description: ""
                 <p style='margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:#3B3838;'>1G</span></p>
             </td>
             <td colspan="2" style="width:204.9pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;">
-                <p style='margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:#3B3838;'>Ms Evelyn</span></p>
+                <p style='margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:#3B3838;'>Ms Evelyn Seck</span></p>
                 <p style='margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:#3B3838;'>seck_evelyn@moe.edu.sg</span></p>
             </td>
             <td style="width:205.85pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;">
