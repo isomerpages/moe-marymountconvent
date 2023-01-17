@@ -25,8 +25,7 @@ third_nav_title: Curriculum
 </tr>
 <tr>
 <td style="text-align: center;"><strong>CCE Guidance Module</strong></td>
-<td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br />For more information on CCE Guidance Module - Sexuality Education, please click&nbsp;<a href="/files/Info_on_SEd_for_schs_website_Pri_2022_23%20Nov.pdf" target="_blank" rel="noopener">here</a>.</td>
-</tr>
+<td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br />For more information on CCE Guidance Module - Sexuality Education, please click here.
 </tbody>
 </table>
 <table>
