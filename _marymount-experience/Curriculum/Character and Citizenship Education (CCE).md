@@ -32,7 +32,7 @@ third_nav_title: Curriculum
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>CCE @ MCS</strong></td>
+<h4><strong>CCE @ MCS</strong></h4>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Values Education Programme (VEP)</strong></td>
