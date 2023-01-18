@@ -71,13 +71,13 @@ description: ""
         </tr>
         <tr>
             <td style="width:148.25pt;border:solid windowtext 1.0pt;border-top:  none;background:#00B050;padding:0in 5.4pt 0in 5.4pt;height:3.1pt;">
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Year Head (Primary 1 &amp; 2)</span></strong></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Year Head (Primary 2 &amp; 3)</span></strong></p>
             </td>
             <td colspan="2" style="width:148.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#00B050;padding:0in 5.4pt 0in 5.4pt;height:3.1pt;">
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Year Head (Primary 3 &amp; 5)</span></strong></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Year Head (Primary 4 &amp; 6)</span></strong></p>
             </td>
             <td style="width:153.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#00B050;padding:0in 5.4pt 0in 5.4pt;height:3.1pt;">
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Year Head (Primary 4 &amp; 6)</span></strong></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Year Head (Primary 1 &amp; 5)</span></strong></p>
             </td>
         </tr>
         <tr>
