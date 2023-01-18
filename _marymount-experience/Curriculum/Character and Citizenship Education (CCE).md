@@ -25,8 +25,7 @@ third_nav_title: Curriculum
 </tr>
 <tr>
 <td style="text-align: center;"><strong>CCE Guidance Module</strong></td>
-<td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br>For more information on CCE Guidance Module - Sexuality Education, please click <a href="/marymount-experience/curriculum/character-and-citizenship-education-cce/se/">here
-</a></td></tr>
+<td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br>For more information on CCE Guidance Module - Sexuality Education, please click <a href="/marymount-experience/curriculum/character-and-citizenship-education-cce/se/">here</a>.</td></tr>
 </tbody>
 </table>
 <h4><strong>CCE @ MCS</strong></h4>
