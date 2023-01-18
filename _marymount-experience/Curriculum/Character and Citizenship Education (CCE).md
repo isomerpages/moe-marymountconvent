@@ -25,7 +25,7 @@ third_nav_title: Curriculum
 </tr>
 <tr>
 <td style="text-align: center;"><strong>CCE Guidance Module</strong></td>
-<td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br>For more information on CCE Guidance Module - Sexuality Education, please click <a href="/marymount-experience/Curriculum/sexualityeducation/">here.
+<td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br>For more information on CCE Guidance Module - Sexuality Education, please click <a href="/marymount-experience/Curriculum/sexualityeducation/">here
 </a></td></tr>
 </tbody>
 </table>
