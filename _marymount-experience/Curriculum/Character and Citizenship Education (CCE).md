@@ -12,6 +12,10 @@ third_nav_title: Curriculum
 <table>
 <tbody>
 <tr>
+<td style="text-align: center;"><strong>Social Studies</strong></td>
+<td style="text-align: center;">At MCS, we believe that every child can grow to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society as well as to show concern for community and the nation.</td>
+</tr>
+<tr>
 <td style="text-align: center;"><strong>CCE Lessons</strong></td>
 <td style="text-align: center;">CCE lessons in the primary levels are taught in the Mother Tongue Languages (MTL). For pupils who are offered the non-Tamil Indian Languages (NTIL), who are exempted from taking MTL, CCE lessons are taught in English.<br><br>These lessons provide the time for teachers to engage and build relationships with their students through discussions and effective classroom strategies.</td>
 </tr>
