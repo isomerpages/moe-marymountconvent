@@ -609,7 +609,7 @@ description: ""
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Attire</span></p>
 <img src="/images/Uniforms1.jpg" style="width: 50%;">
-<span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
+<span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">Acceptable Shoes</span></p>
 <img src="/images/Uniforms2.jpg" style="width: 50%;">
 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family: Lato, sans-serif; font-size: 15px;">&nbsp;</span></p>
