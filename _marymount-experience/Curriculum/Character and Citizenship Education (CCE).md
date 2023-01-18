@@ -21,18 +21,17 @@ third_nav_title: Curriculum
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education and Career Guidance (ECG)</strong></td>
-<td style="text-align: center;">&nbsp;ECG is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their education and career pathways and lifelong learning throughout their lives. At the primary level, with the diversity of secondary education pathways, ECG provides students with opportunities to explore their values, interests, personality and skills, raise their awareness of different types of education and career pathways and equips them with the values, skills and dispositions of lifelong learning to make informed choices regarding their secondary school education.</td>
+<td style="text-align: center;">&nbsp;ECG is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their education and career pathways and lifelong learning throughout their lives. <br>At the primary level, with the diversity of secondary education pathways, ECG provides students with opportunities to explore their values, interests, personality and skills, raise their awareness of different types of education and career pathways and equips them with the values, skills and dispositions of lifelong learning to make informed choices regarding their secondary school education.</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>CCE Guidance Module</strong></td>
 <td style="text-align: center;">Sexuality Education (SEd)&nbsp;<br>For more information on CCE Guidance Module - Sexuality Education, please click <a href="/marymount-experience/Curriculum/sexualityeducation/">here.
-</a></td></tr></tbody>
+</a></td></tr>
+</tbody>
 </table>
-<h4><strong>CCE @ MCS</strong></h4><table>
+<h4><strong>CCE @ MCS</strong></h4>
+<table>
 <tbody>
-<tr>
-
-</tr>
 <tr>
 <td style="text-align: center;"><strong>Values Education Programme (VEP)</strong></td>
 <td style="text-align: center;">Customised values-in-education lessons are conducted weekly for all pupils. Through the use of inspirational videos, newspaper articles and stories, the lessons encourage pupils to display positive behaviour by expressing the schools values - gratitude, zeal and compassion. Resources are carefully designed and chosen by teachers to provide depth and relevance to the daily experiences of the pupils.&nbsp;</td>
