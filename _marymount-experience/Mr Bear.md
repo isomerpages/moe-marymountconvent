@@ -3,6 +3,8 @@ title: Mr Bear
 permalink: /marymount-experience/mr-bear/
 description: ""
 ---
+
+
 <h4><strong>The Story of Mr Bear</strong></h4>
 <p>Mr Bear came to prominence at Marymount Convent School in 2017 and has become a very popular character in MCS ever since. Our girls absolutely look forward to meeting him.&nbsp;</p>
 <p>Our Principal, Mrs Lim, who introduced Mr Bear back in 2017, shared that it has always been her belief that our girls are kind, helpful and honest, exemplifying our school values. She recognises that every child is on the journey of growth because character formation is not a destination but a journey.</p>
