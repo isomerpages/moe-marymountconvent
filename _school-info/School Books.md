@@ -5,6 +5,7 @@ description: ""
 ---
 <table border="0">
 <tbody>
+<table>
 <tr>
 <td>Textbooks&nbsp;</td>
 <td>Pacific Bookstores Pte Ltd</td>
@@ -12,7 +13,6 @@ description: ""
 <tr>
 <td>Address</td>
 <td>14 Arumugam Road Lion Building C #08-01 Singapore 409958
-
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ description: ""
 <h4><strong>School Bookshop</strong></h4>
 <p>Opening Hours During School Term (excluding weekends, school holidays and public holidays):</p>
 <p>Monday - Friday (8.30am to 2.30pm)</p>
-<p>Lunch Hour: 12.00pm to 1.00pm (bookshop closed)</p>
+<p>Lunch Hour: 12.30pm to 1.30pm (bookshop closed)</p>
 <h4><strong>Booklist - 2022</strong></h4>
 <p><a href="/files/Book%20List/MMCS%20P1%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 1</a>
 </p>
