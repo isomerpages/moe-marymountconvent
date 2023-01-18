@@ -37,7 +37,7 @@ description: ""
 <p>Opening Hours During School Term (excluding weekends, school holidays and public holidays):</p>
 <p>Monday - Friday (8.30am to 2.30pm)</p>
 <p>Lunch Hour: 12.30pm to 1.30pm (bookshop closed)</p>
-<h4><strong>Booklist - 2022</strong></h4>
+<h4><strong>Booklist - 2023</strong></h4>
 <p><a href="/files/Book%20List/MMCS%20P1%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 1</a>
 </p>
 <p><a href="/files/Book%20List/MMCSP22023booklist.pdf" target="_blank" rel="noopener">Primary 2</a></p>
