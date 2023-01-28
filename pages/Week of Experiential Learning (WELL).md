@@ -1,9 +1,11 @@
 ---
 title: Week of Experiential Learning (WELL)
-permalink: /marymount-experience/signature-programmes/week-of-experiential-learning-well/
+permalink: /Marymountxperiential-learning-well/
 description: ""
-third_nav_title: Signature Programmes
 ---
+
+
+
 <h4><strong>Our Philosophy</strong></h4>
 <p>The WELL Programme is a week-long experiential programme for Primary 1-6 students with an emphasis on self-discovery and VIA. It is a 6-year thematic programme for the MCS girl to learn about her special talents and the neighbourhood in the lower primary, progressing to learning about her community, heritage and culture at mid primary and finally the understanding that with all her strengths, there is a need to be grateful for what she has and to use her strengths to contribute back to society at the upper primary.</p>
 <h4><strong>Our Approach</strong></h4>
