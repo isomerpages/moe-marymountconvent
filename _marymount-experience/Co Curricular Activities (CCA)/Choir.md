@@ -15,7 +15,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;"><strong>P3 &ndash; P6<br /></strong>
-<p>Mondays<br />2.15 p.m. &ndash; 4.30 p.m.</p>
+Mondays<br />2.15 p.m. &ndash; 4.30 p.m.
 </td>
 </tr>
 <tr>
