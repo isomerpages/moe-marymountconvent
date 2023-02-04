@@ -16,16 +16,16 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<p><strong>P3 &ndash; P6<br /></strong>Fridays<br />2.15 p.m. &ndash; 4.15 p.m.</p>
+<p><strong>P4 &ndash; P6<br /></strong>Monday<br />2.15 p.m. &ndash; 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Training Venue</strong></td>
-<td style="text-align: center;">Dance Room (Block D)</td>
+<td style="text-align: center;">2G Classroom</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong></td>
-<td style="text-align: center;">Mdm Azimah (OIC)<br />Ms Chong Shing Yee&nbsp;</td>
+<td style="text-align: center;">Mdm Azimah (OIC)<br />Ms Joanna Aw (2IC)&nbsp;</td>
 </tr>
 </tbody>
 </table>
