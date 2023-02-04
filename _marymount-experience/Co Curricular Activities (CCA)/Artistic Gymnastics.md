@@ -17,9 +17,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <td style="text-align: center;"><strong>Training Day / Time</strong>&nbsp;</td>
 <td style="text-align: center;">
 <p><strong>Monday<br /></strong>2.00pm to 5.00pm<strong>&nbsp;(School Team)&nbsp;</strong>2.15pm to 4.15pm<strong>&nbsp;(Recreation)</strong></p>
-<p><strong>Tuesday<br /></strong>2.15pm to 4.15pm<strong>&nbsp;(Training Team)<br /></strong></p>
 <p><strong>Wednesday<br /></strong>2.00pm to 5.00pm<strong>&nbsp;(School Team)<br /></strong></p>
-<p><strong>Thursday<br /></strong>2.15pm to 4.15pm<strong>&nbsp;(Training Team)<br /></strong></p>
 <p><strong>Friday<br /></strong>2.00pm to 5.00pm<strong> (School Team)<br /></strong>2.15pm to 4.15pm<strong>&nbsp;(Recreation)</strong></p>
 </td>
 </tr>
@@ -30,8 +28,8 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;">&nbsp;<strong>Teacher OIC</strong></td>
 <td style="text-align: center;">
-<p>Ms Joanna Aw (1<sup>st</sup>&nbsp;IC)<br />Ms Claudia Kiang&nbsp;(2<sup>nd</sup>&nbsp;IC)&nbsp;</p>
-<p>Ms Chen Ying<br />Mrs Evelyn Heah<br />Mdm Clara Chew<br />Mdm Kasthuri Bai VLV<br />Mdm Nazhatulshima Abu Samah<br />Mdm Normala Bte Salleh<br />Mr Eugene Tan</p>
+Mr Eugene Tan (1<sup>st</sup>&nbsp;IC)<br>Ms Claudia Kiang&nbsp;(2<sup>nd</sup>&nbsp;IC)&nbsp;
+<br>Ms Chen Ying<br>Mrs Evelyn Heah<br>Mdm Clara Chew<br>Mdm Kasthuri Bai VLV<br>Mdm Nazhatulshima Abu Samah<br />Mdm Normala Bte Salleh<br>
 </td>
 </tr>
 </tbody>
