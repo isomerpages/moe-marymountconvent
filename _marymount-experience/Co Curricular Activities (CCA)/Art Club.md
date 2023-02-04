@@ -16,7 +16,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
 <strong>P3 &ndash; P6</strong>
-Core and Recreational Teams<br>
+Core and Recreational Group<br>
 Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
 </td>
 </tr>
@@ -24,8 +24,11 @@ Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
 <td style="text-align: center;"><strong>Training Venue</strong></td>
 <td style="text-align: center;">
 <strong>P3 &ndash; P6</strong>
-Core and Recreational Teams<br>
-Art Rooms 1 & 2
+Core Group<br>
+Art Rooms<br>
+<strong>P3 &ndash; P6</strong>
+Recreational Group<br>
+Art Rooms / Classrooms / Comp Labs
 </td>
 </tr>
 <tr>
