@@ -37,8 +37,8 @@ third_nav_title: Co Curricular Activities (CCA)
     </tr>
     <tr>
       <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club/"><img src="/images/cca7.jpg" alt="cca7"></a>ENVIRONMENTAL SCIENCE CLUB
-      </td>
+        <a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club/"><img src="/images/Env3.jpeg" alt="cca7"></a>ENVIRONMENTAL SCIENCE CLUB
+      </td>      
       <td style="width: 33.3333%; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/netball/"><img src="/images/cca8.jpg" alt="cca8"></a>NETBALL
       </td>
