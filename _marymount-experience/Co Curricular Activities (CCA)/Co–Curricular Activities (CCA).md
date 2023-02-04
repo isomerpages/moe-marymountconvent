@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <p>CCAs are an integral part of our pupils&rsquo; holistic education. Our philosophy of CCA is for our girls/pupils to discover their interests and talents while developing values and competencies that will prepare them for the rapidly changing world.&nbsp;</p>
 <p>We recognise that participation through CCA fosters social integration as pupils build friendships that are not bound by their diverse backgrounds while they learn, play and grow together. It also deepens the girls&rsquo; / pupils&rsquo; sense of belonging, commitment and responsibility to school, community and nation.</p>
-<p><strong>CCA Schedule for 2022</strong></p>
+<p><strong>CCA Schedule for 2023</strong></p>
 <p>Please click&nbsp;<a href="/files/2022%20CCA%20Information.pdf">here</a>&nbsp;for the schedule.</p>
 
 <br>
