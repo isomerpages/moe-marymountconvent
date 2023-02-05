@@ -34,11 +34,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Training Venue</strong>&nbsp;</td>
-<td style="text-align: center;">&nbsp;Hall &amp; Indoor Sports Hall&nbsp;</td>
+<td style="text-align: center;">Ee Peng Liang Hall</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong></td>
-<td style="text-align: center;">&nbsp;Ms Li Fangqin (1<sup>st</sup>&nbsp;IC)<br />Ms Deepa Supramaniam (2<sup>nd</sup>&nbsp;IC)</td>
+<td style="text-align: center;">&nbsp;Ms Jacqueline Kwek (OIC)<br>Ms Deepa Supramaniam (2IC)</td>
 </tr>
 </tbody>
 </table>
