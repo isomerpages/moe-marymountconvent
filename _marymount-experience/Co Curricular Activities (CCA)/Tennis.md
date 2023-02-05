@@ -15,16 +15,22 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<p><strong>P3 &ndash; P6<br /></strong>Mondays &amp; Fridays<br />2.15 p.m. &ndash; 4.30 p.m.</p>
+<strong>P3 &ndash; P6</strong><br>Monday <br>2.15 p.m. &ndash; 4.15 p.m. <strong> (School Team) </strong><br>
+	
+Friday<br>
+2.15 p.m. &ndash; 4.15 p.m. <strong> (School Team) </strong><br>
+2.15 p.m. &ndash; 4.15 p.m. <strong> (Recreational Team) </strong>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Training Venue</strong></td>
-<td style="text-align: center;">School / Kallang Tennis Centre</td>
+<td style="text-align: center;">
+	ISH <strong> (School Team) </strong><br>
+	ISH and Netball Court <strong> (Recreational Team)</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
-<td style="text-align: center;">&nbsp;Mr Eugene Tan</td>
+<td style="text-align: center;">Mr Harvinder Singh (OIC)<br>Mr Jeremy Koh (2IC)</td>
 </tr>
 </tbody>
 </table>
