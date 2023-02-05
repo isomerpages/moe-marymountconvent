@@ -24,7 +24,7 @@ Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
 <strong>Training Venue</strong>
 </td>
 <td style="text-align: center;" width="268">
-Dance Room (Block D)&nbsp;
+Library
 </td>
 </tr>
 <tr>
