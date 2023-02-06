@@ -110,7 +110,7 @@ description: ""
             </td>
             <td style="width:153.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#00B050;padding:0in 5.4pt 0in 5.4pt;height:29.2pt;">
                 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Head of Department</span></strong></p>
-                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Information and Communication Technology</span></strong></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:white;'>Information and Communication Technology (Internal)</span></strong></p>
             </td>
         </tr>
         <tr>
