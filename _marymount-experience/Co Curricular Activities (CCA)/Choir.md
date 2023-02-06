@@ -25,7 +25,7 @@ Mondays<br />2.15 p.m. &ndash; 4.30 p.m.
 <tr>
 <td style="text-align: center;"><strong>&nbsp;Teacher OIC</strong></td>
 <td style="text-align: center;">
-<p>Mrs Joanne Lee (OIC)<br />Ms Marie Ong (2IC)<br />Mdm Toh Gek Ing<br />Mrs Ong York Sheng</p>
+Mrs Joanne Lee (OIC)<br />Ms Marie Ong (2IC)<br />Mdm Toh Gek Ing<br />Mrs Ong York Sheng
 </td>
 </tr>
 </tbody>
