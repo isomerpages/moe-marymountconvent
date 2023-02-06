@@ -1,131 +1,240 @@
 ---
 title: Calendar of Events
-permalink: /calendar-of-events
+permalink: /calendar-of-events/
 description: ""
 ---
-<p>School Calendar<br />(Updated as at 15 July 2022)</p>
-<p><strong><u>Term 3</u></strong></p>
-<table style="height: 828px;" width="623">
-<tbody>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;"><strong>Date of Event</strong></td>
-<td style="height: 18px; width: 429.531px; text-align: center;"><strong>Event Name</strong></td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">27 July 2022<br />Monday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Start of Term 3</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">4 July 2022<br />Monday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Youth Day School Holiday</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">11 July 2022<br />Monday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Hari Raya Haji Off-in-lieu</td>
-</tr>
-<tr style="height: 72px;">
-<td style="height: 72px; width: 177.469px; text-align: center;">12 &ndash; 15 July 2022<br />Tuesday &ndash; Friday<br />18 &ndash; 22 July 2022<br />Monday - Friday</td>
-<td style="height: 72px; width: 429.531px; text-align: center;">Mother Tongue Fortnight</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">18 &ndash; 22 July 2022<br />Monday - Friday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">P6/P4 NAPFA Run Retest Week</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">22 July 2022<br />Friday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Racial Harmony Day</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">22 July 2022<br />Friday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Arts Festival</td>
-</tr>
-<tr style="height: 54px;">
-<td style="height: 54px; width: 177.469px; text-align: center;">25 &ndash; 27 July 2022<br />Monday &ndash; Wednesday</td>
-<td style="height: 54px; width: 429.531px; text-align: center;">P6 Prelim EL &amp; MTL Oral</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">28 July 2022<br />Thursday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">St Mary Euphrasia's Birthday &amp; Non-Staff Appreciation Day</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">28 &ndash; 29 July 2022<br />Thursday &ndash; Friday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">Shepherd's Cove Sale</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">1 &ndash; 5 August 2022<br />Monday &ndash; Friday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">P3 and P5 Weighted Assessment 2</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">3 August 2022<br />Wednesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">P6 Prelim EL Paper 1</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">4 August 2022<br />Thursday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">P6 Prelim MTL Paper 1</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">8 August 2022<br />Monday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">National Day Celebration</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">9 August 2022<br />Tuesday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">National Day Public Holiday</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">10 August 2022<br />Wednesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">National Day School Holiday</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">12 August 2022<br />Friday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">School Preparation for PSLE Oral Exams</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">15 August 2022<br />Monday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Assumption of the Blessed Virgin Mary (Day of Obligation)</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">15 &ndash; 16 August 2022<br />Monday &ndash; Tuesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">PSLE Oral</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">15 &ndash; 16 August 2022<br />Monday &ndash; Tuesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">E-learning Days</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">17 August 2022<br />Wednesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">P3 GEP Test</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">18, 19, 22, 23 August 2022<br />Thursday &ndash; Tuesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">P3 and P5 Weighted Assessment 2P4 Weighted Assessment 2 (Science Only)</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">22 August 2022<br />Monday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">P6 Prelim MTL Paper</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">23 August 2022<br />Tuesday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">P6 Prelim Science Paper</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">24 August 2022<br />Wednesday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">P6 Prelim HMTL Papers 1 &amp; 2</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">26 August 2022<br />Friday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">P3 Outdoor Experience</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">1 September<br />Thursday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Teachers&rsquo; Day Celebration</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 177.469px; text-align: center;">2 September<br />Friday</td>
-<td style="height: 18px; width: 429.531px; text-align: center;">Teachers&rsquo; Day School Holiday</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 177.469px; text-align: center;">3 &ndash; 11 September 2022<br />Saturday - Sunday</td>
-<td style="height: 36px; width: 429.531px; text-align: center;">September School Holiday</td>
-</tr>
-</tbody>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'>Term 1</span></u></strong></p>
+<table style="width: 3.5e+2pt;border: none;margin-left:.25pt;border-collapse:collapse;">
+    <tbody>
+        <tr>
+            <td style="width: 143.5pt;border: 1pt solid windowtext;padding: 0in 5.4pt;height: 14.25pt;vertical-align: bottom;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Date of Event&nbsp;</span></strong></p>
+            </td>
+            <td style="width: 207pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 14.25pt;vertical-align: bottom;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Lato",sans-serif;color:black;'>Event Name&nbsp;</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>3 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Tuesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Start of Term 1 (for P1s only)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>4 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Wednesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Start of Term 1 (for all)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>9 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>School Team CCA begins</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>11 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Wednesday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Temperature taking exercise</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>12 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Thursday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Opening of the School Year Mass</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>12 &ndash; 13 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Thursday &ndash; Friday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Shephard&rsquo;s Cove Sale</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>20 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Friday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Lunar New Year Celebration (School dismissal 130pm)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>22 &ndash; 24 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Sunday &ndash; Tuesday &nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Lunar New Year Public Holiday (no school)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>27 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Friday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>PSG Engagement Tea Session</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>30 January 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P3 &ndash; P6 CCA commences</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>10, 13 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Friday and Monday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P1 and P6 Photo taking for SCHOOL SMART CARD</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>16 &ndash; 17 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Thursday &ndash; Friday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Shephard&rsquo;s Cove Sale</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>20 &ndash; 21 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday &ndash; Tuesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P1 &ndash; P6 HBL</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>21 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Tuesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P5 Parents&rsquo; Briefing</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>22 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Wednesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Ash Wednesday Mass</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>24 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Friday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Last Friday of the month Mass</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>27 February 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Prefects&rsquo; Investiture</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>1 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Wednesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P3 Parents&rsquo; Briefing&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>6 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P4 - P6 Throwing Event (Final)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>9 &ndash; 10 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Thursday &ndash; Friday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Shephard&rsquo;s Cove Sale</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>9 &ndash; 10 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Thursday &ndash; Friday</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>P6 Camp</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>13 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Catholic Education Conference</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>13 &ndash; 14 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Monday &ndash; Tuesday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>NE Ambassadors Training (Beginner)&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:143.5pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>11 &ndash; 20 March 2023</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>Saturday &ndash; Sunday&nbsp;</span></p>
+            </td>
+            <td style="width:207.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-family:"Lato",sans-serif;color:black;'>March Holidays</span></p>
+            </td>
+        </tr>
+    </tbody>
 </table>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'><span style="text-decoration:none;">&nbsp;</span></span></u></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'><span style="text-decoration:none;">&nbsp;</span></span></u></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'><span style="text-decoration:none;">&nbsp;</span></span></u></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'><span style="text-decoration:none;">&nbsp;</span></span></u></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'><span style="text-decoration:none;">&nbsp;</span></span></u></strong></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><u><span style='font-size:16px;line-height:107%;font-family:"Lato",sans-serif;'><span style="text-decoration:none;">&nbsp;</span></span></u></strong></p>
