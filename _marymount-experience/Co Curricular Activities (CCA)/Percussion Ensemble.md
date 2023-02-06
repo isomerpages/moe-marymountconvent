@@ -16,7 +16,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<p><strong>Mondays<br /></strong>2.15 p.m. &ndash; 4.15 p.m.</p>
+<strong>Mondays<br></strong>2.15 p.m. &ndash; 4.15 p.m.
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
-<td style="text-align: center;">&nbsp;Ms Tan Yiang Hoon<br>Ms Patricia James</td>
+<td style="text-align: center;">&nbsp;Ms Tan Yiang Hoon (OIC)<br>Miss Irene Leong (2IC)</td>
 </tr>
 </tbody>
 </table>

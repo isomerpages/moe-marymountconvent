@@ -15,20 +15,25 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<p><strong>P3 &ndash; P6</strong></p>
-<p>Mondays<br />2.15 p.m. &ndash; 4.15 p.m.</p>
+<strong>P3 &ndash; P6</strong>
+Core and Recreational Group<br>
+Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Training Venue</strong></td>
 <td style="text-align: center;">
-<p>&nbsp;<strong>P3 &ndash; P6</strong></p>
-<p>Art Rooms 1 &amp; 2&nbsp;</p>
+<strong>P3 &ndash; P6</strong>
+Core Group<br>
+Art Rooms<br>
+<strong>P3 &ndash; P6</strong>
+Recreational Group<br>
+Art Rooms / Classrooms / Comp Labs
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong></td>
-<td style="text-align: center;">Miss Adeline Gwee (OIC)<br />Mdm Rachel Leow<br />Ms Tan Li Kiang<br />Mdm Khoo Ying Poh</td>
+<td style="text-align: center;">Miss Adeline Gwee (OIC)<br />Mdm Jessica Kho (2IC)<br />Ms Tan Li Kiang<br />Mdm Khoo Ying Poh</td>
 </tr>
 </tbody>
 </table>

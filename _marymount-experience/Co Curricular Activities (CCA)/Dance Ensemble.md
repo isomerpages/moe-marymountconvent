@@ -18,20 +18,20 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<p><strong>P3 - P6</strong></p>
-<p>Mondays<br />2.15 p.m. &ndash; 4.15 p.m.</p>
+<strong>P3 - P6</strong>
+Mondays<br />2.15 p.m. &ndash; 4.15 p.m.
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Training Venue</strong>&nbsp;</td>
-<td style="text-align: center;">Dance Room, Aesthetic Room, PAL Room</td>
+<td style="text-align: center;">PAL Room</td>
 </tr>
 <tr>
 <td style="text-align: center;">
 <p><strong>Teacher OIC</strong>&nbsp;</p>
 </td>
 <td style="text-align: center;">
-<p>Ms Siti Fatihah Khan (IC for Chinese Dance)<br />Mrs Jasmine Lim (IC for Modern Dance)<br />Mrs Fiona Khong<br />Ms Amanda Yeo</p>
+<p>Ms Siti Fatihah Khan (OIC)<br />Mrs Jasmine Lim (2IC)<br />Ms Amanda Yeo</p>
 </td>
 </tr>
 </tbody>

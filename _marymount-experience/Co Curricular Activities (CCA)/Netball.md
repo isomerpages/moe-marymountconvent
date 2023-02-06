@@ -12,11 +12,13 @@ third_nav_title: Co Curricular Activities (CCA)
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p><strong>Training Day / Time</strong></p>
+<strong>Training Day / Time</strong>
 </td>
 <td style="text-align: center;">
-<p><strong>Mondays<br /></strong>2.00pm to 4.15pm&nbsp;<strong>(School Team)<br /></strong>2.00m to 4.00pm&nbsp;<strong>(Recreation)</strong></p>
-<p><strong>Wednesdays<br /></strong>2.00pm to 4.15pm<br /><strong>(School Team &amp; Training Team)</strong></p>
+<strong>Mondays<br></strong>2.00 p.m. to 4.15 p.m.&nbsp;<strong>(School Team)<br></strong>2.15 p.m. to 4.00 p.m.&nbsp;<strong>(Recreation)</strong><br>
+	
+<strong>Wednesdays</strong><br>
+2.00 p.m. to 4.15 p.m. <strong>(School Team)</strong><br>
 </td>
 </tr>
 <tr>

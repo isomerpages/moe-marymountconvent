@@ -12,25 +12,25 @@ third_nav_title: Co Curricular Activities (CCA)
 <tbody>
 <tr>
 <td style="text-align: center;" width="186">
-<p><strong>Training Day / Time</strong></p>
+<strong>Training Day / Time</strong>
 </td>
 <td style="text-align: center;" width="268">
-<p><strong>P3 &ndash; P6</strong></p>
-<p>Mondays<br />2.15 p.m. &ndash; 4.15 p.m.</p>
+<strong>P3 &ndash; P6</strong><br>
+Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="186">
-<p><strong>Training Venue</strong></p>
+<strong>Training Venue</strong>
 </td>
 <td style="text-align: center;" width="268">
-<p>Dance Room (Block D)&nbsp;</p>
+Library
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
 <td style="text-align: center;">
-<p>Ms Kaiel (OIC)<br />Ms Zaccheus<br />Mdm Katherine Warsono&nbsp;</p>
+Ms Kaiel (OIC)<br>Mdm Katherine Warsono (2IC)&nbsp;
 </td>
 </tr>
 </tbody>
@@ -51,7 +51,3 @@ third_nav_title: Co Curricular Activities (CCA)
 <img style="width: 75%;" src="/images/Drama2.jpeg"><br>
 
 <img style="width: 75%;" src="/images/Drama3.jpeg">
-
-
-
-

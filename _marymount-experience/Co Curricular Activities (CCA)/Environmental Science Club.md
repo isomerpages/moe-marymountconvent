@@ -13,7 +13,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<p><strong>P3 &ndash; P6<br /></strong>Mondays<br />2.15 p.m. &ndash; 4.15 p.m.</p>
+<strong>P3 &ndash; P6<br></strong>Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
 </td>
 </tr>
 <tr>
@@ -22,8 +22,8 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong>&nbsp;</td>
-<td style="text-align: center;">Mrs Evelyn Chia
-	<br>Mr Jeremy Koh<br>Ms Elaine Han</td>
+<td style="text-align: center;">Mrs Evelyn Chia (OIC) <br>
+Ms Patricia James (2IC) </td>
 </tr>
 </tbody>
 </table>

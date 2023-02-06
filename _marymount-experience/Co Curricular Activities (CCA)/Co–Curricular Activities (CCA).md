@@ -6,8 +6,8 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <p>CCAs are an integral part of our pupils&rsquo; holistic education. Our philosophy of CCA is for our girls/pupils to discover their interests and talents while developing values and competencies that will prepare them for the rapidly changing world.&nbsp;</p>
 <p>We recognise that participation through CCA fosters social integration as pupils build friendships that are not bound by their diverse backgrounds while they learn, play and grow together. It also deepens the girls&rsquo; / pupils&rsquo; sense of belonging, commitment and responsibility to school, community and nation.</p>
-<p><strong>CCA Schedule for 2022</strong></p>
-<p>Please click&nbsp;<a href="/files/2022%20CCA%20Information.pdf">here</a>&nbsp;for the schedule.</p>
+<p><strong>CCA Schedule for 2023</strong></p>
+<p>Please click&nbsp;<a href="/files/2023%20Schedule%20for%20Co-Curricular%20Activities.pdf">here</a>&nbsp;for the schedule.</p>
 
 <br>
 
@@ -37,8 +37,8 @@ third_nav_title: Co Curricular Activities (CCA)
     </tr>
     <tr>
       <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club/"><img src="/images/cca7.jpg" alt="cca7"></a>ENVIRONMENTAL SCIENCE CLUB
-      </td>
+        <a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club/"><img src="/images/Env3.jpeg" alt="cca7"></a>ENVIRONMENTAL SCIENCE CLUB
+      </td>      
       <td style="width: 33.3333%; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/netball/"><img src="/images/cca8.jpg" alt="cca8"></a>NETBALL
       </td>

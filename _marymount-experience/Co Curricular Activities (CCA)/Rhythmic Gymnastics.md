@@ -18,27 +18,24 @@ third_nav_title: Co Curricular Activities (CCA)
 <p><strong>Training Day / Time</strong></p>
 </td>
 <td style="text-align: center;">
-<p><strong>Mondays</strong></p>
-<p>2.00pm to 5.00pm&nbsp;<strong>(School Team)</strong></p>
-<p>2.15pm to 4.15pm (<strong>(Recreation)</strong></p>
-<p><strong>Tuesdays</strong></p>
-<p>2.15pm to 4.15pm<strong>(Training Team)</strong></p>
-<p><strong>Wednesdays</strong></p>
-<p>2.00pm to 5.00pm&nbsp;<strong>(School Team)</strong></p>
-<p><strong>Thursdays</strong></p>
-<p>2.15pm to 4.15pm&nbsp;<strong>(Training Team)</strong></p>
-<p><strong>Fridays</strong></p>
-<p>2.00pm to 5.00pm</p>
-<p><strong>(School Team)</strong></p>
+<strong>Monday</strong><br>
+2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
+2.15pm to 4.15pm <strong>(Recreation)</strong><br>
+	
+<strong>Wednesday</strong><br>
+2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
+
+<strong>Friday</strong><br>
+2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Training Venue</strong>&nbsp;</td>
-<td style="text-align: center;">&nbsp;Hall &amp; Indoor Sports Hall&nbsp;</td>
+<td style="text-align: center;">Ee Peng Liang Hall</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong></td>
-<td style="text-align: center;">&nbsp;Ms Li Fangqin (1<sup>st</sup>&nbsp;IC)<br />Ms Deepa Supramaniam (2<sup>nd</sup>&nbsp;IC)</td>
+<td style="text-align: center;">&nbsp;Ms Jacqueline Kwek (OIC)<br>Ms Deepa Supramaniam (2IC)</td>
 </tr>
 </tbody>
 </table>
