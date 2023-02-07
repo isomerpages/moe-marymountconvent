@@ -40,7 +40,7 @@ third_nav_title: Curriculum
 <li>To encourage pupils to work hard and increase their enthusiasm in mathematics;</li>
 <li>To recognise, celebrate and affirm achievements in mathematics learning.</li>
 </ul>
-<p>Mathematics teachers play an important role in motivating their pupils. Through their observations in class and of work submitted, teachers reward pupils with the MCS MATHS STARS cards to affirm them of their effort. Upon collection of ten cards, pupils will receive a customised MCS MATHS STARS badge and get a chance to meet Mr Bear!</p>
+<p>Mathematics teachers play an important role in motivating their pupils. Through their observations in class and of work submitted, teachers reward pupils with the MCS MATHS STARS card and stamp to affirm them of their effort.</p>
 <p><strong>Mathematics Games @ MCS</strong></p>
 <p>On the last Friday of every month, all our Maths teachers will conduct 30 minutes of In-Class Mathematics Games for all Primary 1 to Primary 6 girls. The games include a series of Mathematics-related puzzles and quizzes, which have been carefully curated by the Maths Department, so as to give our girls opportunities to experience a wide genre of games from Primary 1 to Primary 6.</p>
 <img src="/images/math5.png">
