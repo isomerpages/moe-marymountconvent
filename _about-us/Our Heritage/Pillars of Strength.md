@@ -17,7 +17,6 @@ third_nav_title: Our Heritage
 <p>Ms Cecilia Ee, daughter of the late Dr Ee Peng Liang, has been a continuous support to the school and the Good Shepherd Mission. She is a former pupil of Marymount Convent School and in 1999 to 2001, she was the school supervisor. She has always been an active member in the school management committee and in the school alumnae. MCS is truly blessed and proud to call Ms Cecilia Ee our stalwart Daughter of Marymount.&nbsp;</p>
 <p style="text-align: center;">A Thank You Dinner (2014) for alumnae who worked hard to raise funds for the school upgrading.</p>
 <img style="width: 75%;" src="/images/pil3.png" />
-<img style="width: 100%;" src="/images/pil4.png" />
-<img style="width: 100%;" src="/images/pil4.png" />
-<img style="width: 100%;" src="/images/pil4.png" />
-<img style="width: 100%;" src="/images/pil4.png" />
+<img style="width: 50%;" src="/images/DrEe.jpg" />
+<img style="width: 50%;" src="/images/DrChen.jpg" />
+<img style="width: 50%;" src="/images/DrGEe.jpg" />
