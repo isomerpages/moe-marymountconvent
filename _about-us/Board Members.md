@@ -15,5 +15,4 @@ description: ""
 <p style="text-align: center;"><strong>Mrs Cheryl Doraisamy&nbsp;</strong></p>
 <p style="text-align: center;"><strong>Ms Denise Sara Bryan</strong></p>
 <p style="text-align: center;"><strong>Mr Gerald Chew</strong></p>
-<p style="text-align: center;"><strong>Ms Kuang Ser Yee</strong></p>
 <p style="text-align: center;"><strong>Mdm Neo Kee Joon<br /></strong>(Members)</p>
