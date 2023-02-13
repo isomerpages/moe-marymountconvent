@@ -33,7 +33,7 @@ third_nav_title: Curriculum
 <h4><strong>Our Department Programmes</strong></h4>
 
 <p><strong>MCS MATHS STARS</strong></p>
-<p>MCS Mathematics Pupils Taking Actions and Responsibility for Success<br />(MCS MATHS STARS)</p>
+<p>MCS Mathematics Students Taking Actions and Responsibility for Success<br />(MCS MATHS STARS)</p>
 <img src="/images/math4.png">
 <p>Objectives:</p>
 <ul>
@@ -46,7 +46,7 @@ third_nav_title: Curriculum
 <img src="/images/math5.png">
 <p>The Maths Department will also run the Mathematics Recess Games once a month. The genre of games will follow that of the In-Class Games closely, so as to give our girls opportunities to practise what they have learnt in class.&nbsp;</p>
 <img style="width: 75%;" 	 src="/images/math6.jpg">
-<p>Game play promotes Mathematics Talk and give pupils opportunities to explore fundamental number concepts and applying these concepts in a wide variety of contexts, in a fun and engaging way.</p>
+<p>Game play promotes Mathematics Talk and gives pupils opportunities to explore fundamental number concepts and applying these concepts in a wide variety of contexts, in a fun and engaging way.</p>
 <img style="width: 75%;" 		 src="/images/math7.jpg">
 <h4><strong>Our Mathematics Talent Development Programmes</strong></h4>
 <p><strong>Our Philosophy</strong></p>
@@ -71,7 +71,6 @@ third_nav_title: Curriculum
 <li>has a good record in Conduct.</li>
 </ul>
 <p>As part of their development, pupils in our Maths Talent Development Programme can look forward to participation in the following:</p>
-<img src="/images/math8.jpg">
 <p><strong><u>P3 Maths Numb3r5 D&rsquo;Light Programme</u></strong></p>
 <p>The objectives of the P3 Mathematics Numb3r5 D&rsquo;Light Enrichment Programme are to allow pupils to:</p>
 <ul>
