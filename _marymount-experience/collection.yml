@@ -2,7 +2,6 @@ collections:
   marymount-experience:
     output: true
     order:
-      - Mr Bear.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English.md
@@ -28,16 +27,19 @@ collections:
       - Co Curricular Activities (CCA)/Percussion Ensemble.md
       - Co Curricular Activities (CCA)/Rhythmic Gymnastics.md
       - Co Curricular Activities (CCA)/Tennis.md
+      - Signature Programmes/.keep
       - Signature Programmes/Signature Programmes.md
-      - Signature Programmes/Learning for Life Program (Sports & Outdoor
+      - Signature Programmes/English Applied Learning Programme (ALP).md
+      - Signature Programmes/Learning for Life Programme (Sports and Outdoor
         Education).md
       - Signature Programmes/Our Expanded Learning Experience (OELE).md
-      - Signature Programmes/.keep
+      - Signature Programmes/Week of Experiential Learning (WELL).md
       - Our Marymount Tradition/.keep
       - Our Marymount Tradition/Our Marymount Tradition.md
       - Our Marymount Tradition/Light Ceremony.md
+      - MCS Library/.keep
       - MCS Library/MCS Library.md
       - MCS Library/Online Services.md
       - MCS Library/Programmes.md
       - MCS Library/Reading Lists.md
-      - MCS Library/.keep
+      - Mr Bear.md
