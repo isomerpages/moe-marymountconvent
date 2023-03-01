@@ -8,7 +8,7 @@ third_nav_title: Signature Programmes
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/marymount-experience/signature-programmes/english-applied-learning-programme/"><img src="/images/sp1.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/marymount-experience/signature-programmes/learning-for-life-program-sports-n-outdoor-education"><img src="/images/sp2.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/marymount-experience/signature-programmes/learning-for-life-program-sports-n-outdoor-education/"><img src="/images/sp2.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/marymount-experience/signature-programmes/week-of-experiential-learning-well"><img src="/images/sp3.jpg"></a></td>
 </tr>
 <tr>

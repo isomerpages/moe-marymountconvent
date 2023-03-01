@@ -1,9 +1,12 @@
 ---
 title: Learning for Life Programme (Sports and Outdoor Education)
-permalink: /marymount-experience/signature-programmes/sports-and-outdoor-education/
+permalink: /marymount-experience/signature-programmes/learning-for-life-program-sports-n-outdoor-education/
 description: ""
 third_nav_title: Signature Programmes
 ---
+
+
+
 
 <h4><strong>Our Philosophy</strong></h4>
 <p><strong>Enhancing Holistic Health through Sports and Outdoor Education (LLP)<br /></strong>Aimed at developing students who are healthy in body, mind and soul, the Sports and Outdoor Education modules of the school seek to prepare our students holistically to meet the challenges of the 21st century.&nbsp;The school&rsquo;s Outdoor Education Programme (OEP) spans the three domains indicated below and is a platform to facilitate values education and imbibe social emotional learning.</p>
