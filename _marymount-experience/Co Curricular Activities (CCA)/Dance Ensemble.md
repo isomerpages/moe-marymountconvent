@@ -28,10 +28,10 @@ Mondays<br />2.15 p.m. &ndash; 4.15 p.m.
 </tr>
 <tr>
 <td style="text-align: center;">
-<p><strong>Teacher OIC</strong>&nbsp;</p>
+<strong>Teacher OIC</strong>&nbsp;
 </td>
 <td style="text-align: center;">
-<p>Ms Siti Fatihah Khan (OIC)<br />Mrs Jasmine Lim (2IC)<br />Ms Amanda Yeo</p>
+Ms Siti Fatihah Khan (OIC)<br />Mrs Jasmine Lim (2IC)<br />
 </td>
 </tr>
 </tbody>
