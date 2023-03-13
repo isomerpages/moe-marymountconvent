@@ -33,7 +33,7 @@ Art Rooms / Classrooms / Comp Labs
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Teacher OIC</strong></td>
-<td style="text-align: center;">Miss Adeline Gwee (OIC)<br />Mdm Jessica Kho (2IC)<br />Ms Tan Li Kiang<br />Mdm Khoo Ying Poh</td>
+<td style="text-align: center;">Miss Adeline Gwee (OIC)<br />Mdm Jessica Kho (2IC)<br /></td>
 </tr>
 </tbody>
 </table>
