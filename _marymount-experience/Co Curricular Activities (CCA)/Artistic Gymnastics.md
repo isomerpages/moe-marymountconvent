@@ -28,8 +28,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;">&nbsp;<strong>Teacher OIC</strong></td>
 <td style="text-align: center;">
-Mr Eugene Tan (1<sup>st</sup>&nbsp;IC)<br>Ms Claudia Kiang&nbsp;(2<sup>nd</sup>&nbsp;IC)&nbsp;
-<br>Ms Chen Ying<br>Mrs Evelyn Heah<br>Mdm Clara Chew<br>Mdm Kasthuri Bai VLV<br>Mdm Nazhatulshima Abu Samah<br />Mdm Normala Bte Salleh<br>
+Mr Eugene Tan (1<sup>st</sup>&nbsp;IC)<br>Ms Claudia Kiang&nbsp;(2<sup>nd</sup>&nbsp;IC)
 </td>
 </tr>
 </tbody>
