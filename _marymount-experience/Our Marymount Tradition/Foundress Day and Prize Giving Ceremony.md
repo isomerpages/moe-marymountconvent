@@ -4,6 +4,7 @@ permalink: /Marymount-experience/our-Marymount-tradition/foundress-day-and-prize
 description: ""
 third_nav_title: Our Marymount Tradition
 ---
+
 Our Foundress Day and Prize Giving Ceremony is held on 22 April every year.
 
 <img style="width: 60%;" src="/images/pg1.jpg">
