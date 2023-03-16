@@ -9,10 +9,10 @@ third_nav_title: Curriculum
 <h4><strong>Our Approach</strong></h4>
 <div>
 <p><strong><u>PAL @MCS<br /></u></strong>The pupils will undergo six PAL modules that include Sports and Games, Outdoor Education, Performing Arts (Drama) and Visual Arts.<br />These PAL modules are developed with the following objectives:</p>
-<ol>
-<li>To facilitate holistic development of pupils in the five domains of moral, cognitive, physical, social and aesthetics.</li>
-<li>To provide varied avenues for pupils to develop social and emotional competencies.</li>
-</ol>
+
+* To facilitate holistic development of pupils in the five domains of moral, cognitive, physical, social and aesthetics.
+* To provide varied avenues for pupils to develop social and emotional competencies.
+
 <h4><strong>Our Programmes</strong></h4>
 <p><strong>PAL Outdoor Education<br /></strong>The pupils are required to measure the girth of a single tree. This task requires the pupils to be socially aware and to apply relationship management skills e.g. turn taking. Debrief sessions will involve pupils sharing their emotions to enhance pupils&rsquo; understanding of how their words and actions affect others.</p>
 <img src="/images/pal1.jpg">
