@@ -6,6 +6,9 @@ third_nav_title: Signature Programmes
 ---
 <h4><strong>Our Philosophy</strong></h4>
 <p>Our Expanded Learning Experiences (OELE) is an after school programme with a comprehensive curriculum which seeks to expose our students to a broad range of non-academic activities and experiences with a focus on developing the students in social-emotional and 21st century skills.</p>
+
+<img style="width: 60%;" src="/images/oele11.jpg">
+
 <p>The objectives of OELE are to:</p>
 <ul>
 <li>instill life skills through interactive and experiential activities;&nbsp;</li>
@@ -14,6 +17,8 @@ third_nav_title: Signature Programmes
 </ul>
 <h4><strong>Our Approach</strong></h4>
 <p>The OELE curriculum is experiential in nature, integrates learning in a creative and fun manner, and provides ample opportunities for students to explore, create and make connections of their learning in a meaningful approach. Experiences include workshops on self-management skills and ICT skills such as coding.</p>
+
+<img style="width: 60%;" src="/images/oele12.jpg">
 
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style="font-size: 16px; font-family: Lato, sans-serif;">Primary 1</span></strong></p>
 <ul style="list-style-type: disc;">
@@ -24,6 +29,9 @@ third_nav_title: Signature Programmes
     </li>
 </ul>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Lato, sans-serif;">Very importantly, our school places strong emphasis on student leadership and encourages all students to seize the many opportunities provided for them. The school aims to provide every student a leadership opportunity, equipping them with the necessary leadership skills and competencies which will help them to confidently assume the various leadership roles offered by the school. Skills and competencies learnt will also be reinforced during curriculum time.</span></p>
+
+<img style="width: 60%;" src="/images/oele9.jpg"><br>
+
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Lato, sans-serif;">&bull; To enhance students&rsquo; social-emotional competencies to lead self effectively.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Lato, sans-serif;">&bull; To allow students to understand the different leadership styles and discover their own style of leadership.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Lato, sans-serif;">&bull; To incorporate design thinking principles in solving daily authentic problems.</span></p>
@@ -36,6 +44,7 @@ third_nav_title: Signature Programmes
         </ol>
     </li>
 </ul>
+<img style="width: 50%;" src="/images/oele6.jpg">
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Lato, sans-serif;">Besides honing their leadership skills, our school aims to provide a platform for students to explore and experience various sports and aesthetics. The rope skipping and dance lessons will not only help students to develop a keen sense of balance and rhythm but also enhance their motor skills, coordination, and dexterity. At the same time, students get to pick up a new skill while interacting with their schoolmates in the same level.</span></p>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px; font-family: Lato, sans-serif;">&nbsp;</span></p>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size: 16px;"><strong><span style="font-family: Lato, sans-serif;">Primary 2</span></strong></span></p>
