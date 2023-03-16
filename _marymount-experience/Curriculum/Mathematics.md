@@ -34,8 +34,8 @@ third_nav_title: Curriculum
 
 <p><strong>MCS MATHS STARS</strong></p>
 <p>MCS Mathematics Students Taking Actions and Responsibility for Success<br />(MCS MATHS STARS)</p>
-<img src="/images/math4.png">
-<p>Objectives:</p>
+<img  style="width: 35%;" src="/images/MCS Bear.png">
+Objectives:
 <ul>
 <li>To encourage pupils to work hard and increase their enthusiasm in mathematics;</li>
 <li>To recognise, celebrate and affirm achievements in mathematics learning.</li>

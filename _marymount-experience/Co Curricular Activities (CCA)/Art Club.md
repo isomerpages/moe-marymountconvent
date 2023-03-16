@@ -7,7 +7,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <img style="width: 75%;" src="/images/Artclub1.jpeg"/>
 <h4><strong>CCA Information</strong></h4>
 <p>Art Club caters to pupils who are interested in art and craft. It encourages pupils to express their creativity and art ideas in their art making processes, by drawing from their experiences and external resources to create their artwork.</p>
-<img style="width: 75%;" src="/images/Artclub2.jpeg"/><br>
+<img style="width: 75%;" src="/images/Art2.jpeg"/><br>
 <p>Different art forms are introduced so as to develop pupils in different art genres. Art Club also provides opportunities for pupils to display the school values, develop their socio-emotional learning (SEL) competencies and nurture them into confident 21<sup>st</sup>&nbsp;century young artists.</p>
 
 <table>
@@ -37,7 +37,7 @@ Art Rooms / Classrooms / Comp Labs
 </tr>
 </tbody>
 </table>
-<img style="width: 75%;" src="/images/Artclub3.jpeg"/><br>
+<img style="width: 75%;" src="/images/Art3.jpeg"/><br>
 <h4><strong>CCA Highlights</strong></h4>
 <p><strong>SYF Art 2021</strong></p>
 <p>P2 Art Club pupils working on their SYF art based on the theme, &lsquo;Artist and Technology&rsquo;. They discussed and brainstormed art ideas on how technology has impacted and shaped their lives.&nbsp;</p>
