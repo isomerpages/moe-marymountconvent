@@ -12,6 +12,9 @@ locations:
       - days: Monday to Friday
         time: 6.30 a.m. to 6.00 p.m.
         description: (School Days)
+      - days: Monday to Friday
+        time: 8.00 a.m. to 6.00 p.m.
+        description: (School Holidays, excluding Public Holidays)
     maps_link: https://goo.gl/maps/H3W2GPV6AU1raZE5A
     title: Address
 contacts:
