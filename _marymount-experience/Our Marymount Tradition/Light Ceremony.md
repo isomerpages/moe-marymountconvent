@@ -20,9 +20,8 @@ third_nav_title: Our Marymount Tradition
 <p>Another teacher, Ms Amanda Yeo, shared similar sentiments. &ldquo;The pasting of the candles allows the girls to feel part of the community even though they took part in the Ceremony via Zoom&rdquo; especially as each class candle was then proudly put up on the class notice board.</p>
 <h4><strong>Shining the light</strong></h4>
 <p>The highlight of the Ceremony is the passing of the flame from Sr Delphine as school supervisor to the school leaders, and then to the teachers, and finally to the student representatives, all happening while the same hymn Pass It On is played. </p>
-<img style="width: 60%;" src="/images/Light8.jpg" />
 <p>It is always a meaningful moment when all members of the school pledge to commit themselves to lead and help one another to grow in knowledge, wisdom and grace, guided by God&rsquo;s unconditional love.</p>
-<img style="width: 60%;" src="/images/Light3.jpg" />
+<img style="width: 60%;" src="/images/Light8.jpg" />
 <p>Explained Vice-Principal Mdm Anna Tan, &ldquo;The Light Ceremony is a very significant event in the life of a new student in Marymount Convent where she is welcomed into our school family in Primary 1. For the next five years here, she is reminded of the love she receives from God through this family, and how she can spread this love to others. This is a beautiful tradition which we want all our students to remember fondly.&rdquo;</p>
 <p>Mdm Elaine Han, who just joined the school this year as a senior teacher, said, &ldquo;Being new to the school, this was my first time taking part in the Light Ceremony. I was touched when the hymns were being played. I felt that it was a meaningful experience for the girls and staff as all of them, Catholics and non-Catholics alike, especially at the start of the year.&rdquo;</p>
 <img style="width: 45%;" src="/images/Light4.jpg" />
