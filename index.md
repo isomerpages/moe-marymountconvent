@@ -12,7 +12,10 @@ sections:
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events
-        - title: News & Announcements
+        - title: News & announcements
           description: ""
           url: /news-n-announcements
+        - title: MCS Voice
+          description: ""
+          url: /mcsvoice
 ---
