@@ -166,7 +166,8 @@ description: ""
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Physical Ed &amp; CCA</span></strong></p>
             </td>
             <td style="width: 31.9599%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(0, 176, 80); padding: 0in 5.4pt; height: 13.45pt;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">&nbsp; &nbsp; &nbsp; &nbsp;Covering HOD&nbsp; &nbsp; &nbsp;&nbsp;</span></strong><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Information and Communication Technology</span></strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Covering HOD&nbsp;</span></strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Information and Communication Technology</span></strong></p>
             </td>
         </tr>
         <tr>
