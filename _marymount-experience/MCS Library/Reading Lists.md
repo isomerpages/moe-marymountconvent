@@ -58,9 +58,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/P1-P2%20Malay%20Book%20List%202022%20min.pdf"><img src="/images/read7.jpg"></a></th>
-<th><a href="/files/P3-P4%20Malay%20Book%20List%202022%20min.pdf"><img src="/images/read8.jpg"></a></th>
-<th><a href="/files/P5-P6%20Malay%20Book%20List%202022%20min.pdf"><img src="/images/read9.jpg"></a></th>
+<th><a href="/files/Booklist%202023/mlp1p2.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p1%20dan%20p2_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/mlp3p4.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p3%20dan%20p4_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/mlp5p6.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p5%20dan%20p6.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
