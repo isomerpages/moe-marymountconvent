@@ -29,9 +29,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/Booklist%202023/p1p2cl2023.pdf"><img src="/images/Library%202023/p1-p2%20chinese%20book%20list_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/p3p4cl2023.pdf"><img src="/images/Library%202023/p3-p4%20chinese%20book%20list_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/p5p6cl2023.pdf"><img src="/images/Library%202023/p5-p6%20chinese%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/p1p2cl2023.pdf"><img style="width: 60%;" src="/images/Library%202023/p1-p2%20chinese%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/p3p4cl2023.pdf"><img style="width: 150%;" src="/images/Library%202023/p3-p4%20chinese%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/p5p6cl2023.pdf"><img style="width: 65%;" src="/images/Library%202023/p5-p6%20chinese%20book%20list_page_1.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
