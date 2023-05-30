@@ -15,8 +15,8 @@ third_nav_title: MCS Library
 <tbody>
 <tr>
 <th><a href="/files/Booklist%202023/p1el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
-<th><a href="/files/P3-P4%20English%20Book%20List%202022%20min.pdf"><img src="/images/read2.jpg"></a></th>
-<th><a href="/files/P5-P6%20English%20Book%20List%202022%20min.pdf"><img src="/images/read3.jpg"></a></th>
+<th><a href="/files/Booklist%202023/p2el23.pdf"><img src="/images/Library%202023/p2%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist%202023/p3el23.pdf"><img src="/images/Library%202023/p3%20english%20book%20list%20_page_2.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>P1 </strong></td>
@@ -28,14 +28,14 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/Booklist%202023/p1el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
-<th><a href="/files/P3-P4%20English%20Book%20List%202022%20min.pdf"><img src="/images/read2.jpg"></a></th>
-<th><a href="/files/P5-P6%20English%20Book%20List%202022%20min.pdf"><img src="/images/read3.jpg"></a></th>
+<th><a href="/files/Booklist%202023/p4el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist%202023/p5el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist%202023/p6el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
-<td style="text-align: center;"><strong>&nbsp;P3 &amp; P4</strong></td>
-<td style="text-align: center;"><strong>P5 &amp; P6&nbsp;</strong></td>
+<td style="text-align: center;"><strong>P4</strong></td>
+<td style="text-align: center;"><strong>P5</strong></td>
+<td style="text-align: center;"><strong>P6</strong></td>
 </tr>
 </tbody>
 </table>
