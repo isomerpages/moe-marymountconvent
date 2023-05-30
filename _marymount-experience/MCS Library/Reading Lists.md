@@ -73,9 +73,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/P1-P2%20Tamil%20Book%20List%202022%20min.pdf"><img src="/images/read10.jpg"></a></th>
-<th><a href="/files/P3-P4%20Tamil%20Book%20List%202022%20min.pdf"><img src="/images/read11.jpg"></a></th>
-<th><a href="/files/P5-P6%20Tamil%20Book%20List%202022%20min.pdf"><img src="/images/read12.jpg"></a></th>
+<th><a href="/files/Booklist%202023/tlp1p2.pdf"><img src="/images/Library%202023/p1-p2%20tamil%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/tlp3p4.pdf"><img src="/images/Library%202023/p3-p4%20tamil%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist%202023/tlp5p6.pdf"><img src="/images/Library%202023/p5-p6%20tamil%20book%20list_page_1.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
