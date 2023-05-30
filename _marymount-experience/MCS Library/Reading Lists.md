@@ -60,7 +60,7 @@ third_nav_title: MCS Library
 <tr>
 <th><a href="/files/Booklist%202023/mlp1p2.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p1%20dan%20p2_page_1.png"></a></th>
 <th><a href="/files/Booklist%202023/mlp3p4.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p3%20dan%20p4_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/mlp5p6.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p5%20dan%20p6.png"></a></th>
+<th><a href="/files/Booklist%202023/mlp5p6.pdf"><img style="width: 90%;" src="/images/Library%202023/senarai%20buku%20bacaan%20p5%20dan%20p6.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
