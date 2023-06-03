@@ -19,9 +19,6 @@ sections:
         - title: News & announcements
           description: ""
           url: /news-n-announcements
-        - title: MCS Voice
-          description: ""
-          url: /mcsvoice
   - infopic:
       title: MCS Outreach 2023
       description: The school would like to invite prospective parents (whose children
