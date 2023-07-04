@@ -19,12 +19,4 @@ sections:
         - title: News & announcements
           description: ""
           url: /news-n-announcements
-  - infopic:
-      title: MCS Outreach 2023
-      description: The school would like to invite prospective parents (whose children
-        are entering P1 2024) to sign up for Marymount’s Engagement Sessions.
-      button: Engagement Session
-      url: https://go.gov.sg/joinmcs2023
-      alt: Image alt text
-      image: /images/mcs outreach 2023.png
 ---
