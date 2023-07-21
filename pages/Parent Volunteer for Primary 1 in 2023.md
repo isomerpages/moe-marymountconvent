@@ -1,6 +1,6 @@
 ---
 title: Parent Volunteer for Primary 1 in 2023
-permalink: /for-parents/parent-volunteer-for-primary-1-in-2023
+permalink: /for-parents/parent-volunteer-for-primary-1-in-2023/
 description: ""
 ---
 <p>Girls who are eligible to register for Primary 1 admission in 2023 must be a Singapore Citizen / Singapore Permanent Resident and must be born between 2 January 2016 and 1 January 2017 (both dates inclusive).</p>
