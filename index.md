@@ -18,7 +18,8 @@ sections:
   - infopic:
       title: P1 Orientation 2023
       subtitle: 17 Oct 2023, 8.30 a.m.
-      description: Join us to find out how to prepare your child for Primary School.
+      description: "Join us to find out more about preparing your daughter for her MCS
+        journey. "
       alt: Image alt text
       image: /images/pic for website.jpg
 ---
