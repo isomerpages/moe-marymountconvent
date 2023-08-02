@@ -17,7 +17,8 @@ sections:
           url: /news-n-announcements
   - infopic:
       title: P1 Orientation 2023
-      subtitle: "17 Oct 2023, 8.30 a.m. "
-      description: Join us to learn how to prepare your child for Primary School.
+      subtitle: 17 Oct 2023, 8.30 a.m.
+      description: Join us to find out how to prepare your child for Primary School.
       alt: Image alt text
+      image: /images/pic for website.jpg
 ---
