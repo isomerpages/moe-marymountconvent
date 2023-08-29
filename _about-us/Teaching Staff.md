@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /about-us/teaching-staff/
 description: ""
 ---
-<p style="margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;background:white;"><strong><span style="font-size:29px;font-family:&quot;Lato&quot;,sans-serif;color:#009639;">TEACHING STAFF (2023)</span></strong></p>
+<p style="margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;background:white;"><strong><span style="font-size:29px;font-family:&quot;Lato&quot;,sans-serif;color:#009639;">TEACHING STAFF </span></strong></p>
 <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;background:white;"><strong><span style="font-size:29px;font-family:&quot;Lato&quot;,sans-serif;color:#009639;">&nbsp;</span></strong></p>
 <table style="width:454.25pt;border-collapse:collapse;border:none;">
     <tbody>
