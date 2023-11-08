@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /about-us/teaching-staff/
 description: ""
+variant: markdown
 ---
 <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;background:white;"><strong><span style="font-size:29px;font-family:&quot;Lato&quot;,sans-serif;color:#009639;">TEACHING STAFF&nbsp;</span></strong></p>
 <p style="margin-top:3.0pt;margin-right:0in;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;background:white;"><strong><span style="font-size:29px;font-family:&quot;Lato&quot;,sans-serif;color:#009639;">&nbsp;</span></strong></p>
@@ -625,7 +626,7 @@ description: ""
         <tr>
             <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
                 <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">&nbsp;Ms May Chang&nbsp;</span></p>
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">(School Counsellor)</span></p>
+                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">(Senior School Counsellor)</span></p>
             </td>
             <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
                 <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">chang_chiu-mei@moe.edu.sg</span></p>
