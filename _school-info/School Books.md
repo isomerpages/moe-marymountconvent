@@ -41,12 +41,12 @@ variant: markdown
 <p>Monday - Friday (8.30am to 2.30pm)</p>
 <p>Lunch Hour: 12.30pm to 1.30pm (bookshop closed)</p>
 <h4><strong>Booklist - 2024</strong></h4>
-<p><a href="/files/Booklist%202023/mmcs-p1.pdf" target="_blank" rel="noopener">Primary 1</a>
+<p><a href="/files/Booklist/mmcs-p1.pdf" target="_blank" rel="noopener">Primary 1</a>
 </p>
-<p><a href="/files/Booklist%202023/mmcs-p2.pd" target="_blank" rel="noopener">Primary 2</a></p>
-<p><a href="/files/Book%20List/MMCS%20P3%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 3</a></p>
-<p><a href="/files/Book%20List/MMCS%20P4%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 4</a></p>
-<p><a href="/files/Book%20List/MMCS%20P5%20FDN%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 5</a></p>
-<p><a href="/files/Book%20List/MMCSP5FDN2023booklist.pdf" target="_blank" rel="noopener">Primary 5(Fdn)</a></p>
-<p><a href="/files/Book%20List/MMCS%20P6%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 6</a></p>
-<p><a href="/files/Book%20List/MMCS%20P6%20FDN%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 6(Fdn)</a></p>
+<p><a href="/files/Booklist/mmcs-p2.pdf" target="_blank" rel="noopener">Primary 2</a></p>
+<p><a href="/files/Booklist/mmcs-p3.pdf" target="_blank" rel="noopener">Primary 3</a></p>
+<p><a href="/files/Booklist/mmcs-p4.pdf" target="_blank" rel="noopener">Primary 4</a></p>
+<p><a href="/files/Booklist/mmcs-p5.pdf" target="_blank" rel="noopener">Primary 5</a></p>
+<p><a href="/files/Booklist/mmcs-p5fdn.pdf" target="_blank" rel="noopener">Primary 5(Fdn)</a></p>
+<p><a href="/files/Booklist/mmcs-p6.pdf" target="_blank" rel="noopener">Primary 6</a></p>
+<p><a href="/files/Booklist/mmcs-p6fdn.pdf" target="_blank" rel="noopener">Primary 6(Fdn)</a></p>
