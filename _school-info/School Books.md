@@ -2,9 +2,10 @@
 title: School Books
 permalink: /school-info/school-books/
 description: ""
+variant: markdown
 ---
 <table>
-  <tr>
+  <tbody><tr>
     <td>Textbooks&nbsp;</td>
     <td>Pacific Bookstores Pte Ltd</td>
   </tr>
@@ -32,15 +33,15 @@ description: ""
       <a href="https://www.pacificbookstores.com/" target="_blank" rel="noopener">https://www.pacificbookstores.com</a>
     </th>
   </tr>
-</table>
+</tbody></table>
 <table border="0"></table>
 
 <h4><strong>School Bookshop</strong></h4>
 <p>Opening Hours During School Term (excluding weekends, school holidays and public holidays):</p>
 <p>Monday - Friday (8.30am to 2.30pm)</p>
 <p>Lunch Hour: 12.30pm to 1.30pm (bookshop closed)</p>
-<h4><strong>Booklist - 2023</strong></h4>
-<p><a href="/files/Book%20List/MMCS%20P1%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 1</a>
+<h4><strong>Booklist - 2024</strong></h4>
+<p><a href="/files/Booklist%202023/mmcs-p1.pdf" target="_blank" rel="noopener">Primary 1</a>
 </p>
 <p><a href="/files/Book%20List/MMCSP22023booklist.pdf" target="_blank" rel="noopener">Primary 2</a></p>
 <p><a href="/files/Book%20List/MMCS%20P3%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 3</a></p>
