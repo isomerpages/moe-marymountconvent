@@ -43,7 +43,7 @@ variant: markdown
 <h4><strong>Booklist - 2024</strong></h4>
 <p><a href="/files/Booklist%202023/mmcs-p1.pdf" target="_blank" rel="noopener">Primary 1</a>
 </p>
-<p><a href="/files/Book%20List/MMCSP22023booklist.pdf" target="_blank" rel="noopener">Primary 2</a></p>
+<p><a href="/files/Booklist%202023/mmcs-p2.pd" target="_blank" rel="noopener">Primary 2</a></p>
 <p><a href="/files/Book%20List/MMCS%20P3%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 3</a></p>
 <p><a href="/files/Book%20List/MMCS%20P4%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 4</a></p>
 <p><a href="/files/Book%20List/MMCS%20P5%20FDN%202023%20book%20list.pdf" target="_blank" rel="noopener">Primary 5</a></p>
