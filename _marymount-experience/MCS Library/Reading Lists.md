@@ -3,6 +3,7 @@ title: Reading Lists
 permalink: /marymount-experience/mcs-library/reading-lists/
 description: ""
 third_nav_title: MCS Library
+variant: markdown
 ---
 <p>Dear Parents/Guardians,</p>
 <p>In these attachments, you will find some suggested book titles for you and your child to enjoy. The books have been categorised into lower, middle and upper primary for our girls.</p>
@@ -14,9 +15,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/Booklist%202023/p1el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
-<th><a href="/files/Booklist%202023/p2el23.pdf"><img style="width: 80%;" src="/images/Library%202023/p2%20english%20book%20list%20_page_2.png"></a></th>
-<th><a href="/files/Booklist%202023/p3el23.pdf"><img src="/images/Library%202023/p3%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist/p1el23.pdf"><img src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist/p2el23.pdf"><img style="width: 80%;" src="/images/Library%202023/p2%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist/p3el23.pdf"><img src="/images/Library%202023/p3%20english%20book%20list%20_page_2.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>P1 </strong></td>
@@ -28,9 +29,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>	
-<th><a href="/files/Booklist%202023/p4el23.pdf"><img style="width: 80%;" src="/images/Library%202023/p4%20english%20book%20list_page_2.png"></a></th>
-<th><a href="/files/Booklist%202023/p5el23.pdf"><img src="/images/Library%202023/p5%20english%20book%20list%20_page_2.png"></a></th>
-<th><a href="/files/Booklist%202023/p6el23.pdf"><img style="width: 90%;" src="/images/Library%202023/p6%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist/p4el23.pdf"><img style="width: 80%;" src="/images/Library%202023/p4%20english%20book%20list_page_2.png"></a></th>
+<th><a href="/files/Booklist/p5el23.pdf"><img src="/images/Library%202023/p5%20english%20book%20list%20_page_2.png"></a></th>
+<th><a href="/files/Booklist/p6el23.pdf"><img style="width: 90%;" src="/images/Library%202023/p6%20english%20book%20list%20_page_2.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>P4</strong></td>
@@ -43,9 +44,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/Booklist%202023/p1p2cl2023.pdf"><img style="width: 60%;" src="/images/Library%202023/p1-p2%20chinese%20book%20list_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/p3p4cl2023.pdf"><img style="width: 150%;" src="/images/Library%202023/p3-p4%20chinese%20book%20list_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/p5p6cl2023.pdf"><img style="width: 65%;" src="/images/Library%202023/p5-p6%20chinese%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist/p1p2cl2023.pdf"><img style="width: 60%;" src="/images/Library%202023/p1-p2%20chinese%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist/p3p4cl2023.pdf"><img style="width: 150%;" src="/images/Library%202023/p3-p4%20chinese%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist/p5p6cl2023.pdf"><img style="width: 65%;" src="/images/Library%202023/p5-p6%20chinese%20book%20list_page_1.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
@@ -58,9 +59,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/Booklist%202023/mlp1p2.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p1%20dan%20p2_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/mlp3p4.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p3%20dan%20p4_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/mlp5p6.pdf"><img style="width: 90%;" src="/images/Library%202023/senarai%20buku%20bacaan%20p5%20dan%20p6.png"></a></th>
+<th><a href="/files/Booklist/mlp1p2.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p1%20dan%20p2_page_1.png"></a></th>
+<th><a href="/files/Booklist/mlp3p4.pdf"><img src="/images/Library%202023/senarai%20buku%20bacaan%20p3%20dan%20p4_page_1.png"></a></th>
+<th><a href="/files/Booklist/mlp5p6.pdf"><img style="width: 90%;" src="/images/Library%202023/senarai%20buku%20bacaan%20p5%20dan%20p6.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
@@ -73,9 +74,9 @@ third_nav_title: MCS Library
 <table>
 <tbody>
 <tr>
-<th><a href="/files/Booklist%202023/tlp1p2.pdf"><img src="/images/Library%202023/p1-p2%20tamil%20book%20list_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/tlp3p4.pdf"><img src="/images/Library%202023/p3-p4%20tamil%20book%20list_page_1.png"></a></th>
-<th><a href="/files/Booklist%202023/tlp5p6.pdf"><img src="/images/Library%202023/p5-p6%20tamil%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist/tlp1p2.pdf"><img src="/images/Library%202023/p1-p2%20tamil%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist/tlp3p4.pdf"><img src="/images/Library%202023/p3-p4%20tamil%20book%20list_page_1.png"></a></th>
+<th><a href="/files/Booklist/tlp5p6.pdf"><img src="/images/Library%202023/p5-p6%20tamil%20book%20list_page_1.png"></a></th>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>&nbsp;P1 &amp; P2</strong></td>
