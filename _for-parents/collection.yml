@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Primary 1 Orientation.md
       - Parent Support Group.md
       - Primary One Registration Exercise.md
       - Group Personal Accident (GPA) Insurance for Students.md
