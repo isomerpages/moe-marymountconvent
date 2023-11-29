@@ -2,6 +2,7 @@
 title: Key Personnel
 permalink: /about-us/key-personnel/
 description: ""
+variant: markdown
 ---
 <table style="border-collapse:collapse;border:none;">
     <tbody>
@@ -159,8 +160,7 @@ description: ""
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Physical Ed &amp; CCA</span></strong></p>
             </td>
             <td style="width:148.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#00B050;padding:0in 5.4pt 0in 5.4pt;height:13.45pt;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Covering Head of Department</span></strong></p>
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Information and Communication Technology</span></strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Covering Head of Department &nbsp;&nbsp;</span></strong><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Information and Communication Technology / Level Head Science</span></strong></p>
             </td>
         </tr>
         <tr>
@@ -220,7 +220,7 @@ description: ""
             </td>
             <td style="width:148.5pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#00B050;padding:0in 5.4pt 0in 5.4pt;height:17.95pt;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Level Head</span></strong></p>
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Mother Tongue</span></strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:115%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:13px;line-height:115%;font-family:&quot;Lato&quot;,sans-serif;color:white;">Chinese Language</span></strong></p>
             </td>
         </tr>
         <tr>
