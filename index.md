@@ -23,4 +23,5 @@ sections:
       button: Link to slides
       url: https://marymountconvent.moe.edu.sg/p1orientation/
       image: /images/New Photos/Frontage for Website (13).jpg
+      alt: P1 students
 ---
