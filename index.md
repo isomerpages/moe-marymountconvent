@@ -23,9 +23,9 @@ sections:
         - title: Principal's Briefing Slides
           description: ""
           linktext: Here
-          url: "[]/files/P1_Orientation_2023_Admin.pdf"
+          url: /files/P1_Orientation_2023_Admin.pdf
         - title: Admin Briefing Slides
           description: ""
           linktext: Here
-          url: "[]/files/P1_Orientation_2023_Admin.pdf"
+          url: /files/P1_Orientation_2023_Admin.pdf
 ---
