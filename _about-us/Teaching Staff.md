@@ -537,26 +537,10 @@ variant: markdown
         </tr>
         <tr>
             <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Ms Chen Ying</span></p>
+                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Mrs Sri Kala Sankaran nair</span></p>
             </td>
             <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">chen_ying_b@moe.edu.sg</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Mrs Leong Mui Hian&nbsp;</span></p>
-            </td>
-            <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">lim_mui_hian@moe.edu.sg&nbsp;</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Mr Alan Leong Chen Cheong</span></p>
-            </td>
-            <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">leong_chen_cheong_alan@moe.edu.sg</span></p>
+                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">sri_kala_sankaran_nair@moe.edu.sg</span></p>
             </td>
         </tr>
         <tr>
@@ -577,14 +561,6 @@ variant: markdown
         </tr>
         <tr>
             <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">&nbsp;Ms Joyce Chan Hwee Jin</span></p>
-            </td>
-            <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">joyce_chan_hwee_jin@moe.edu.sg</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
                 <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">&nbsp;Ms Uma d/o Surendran</span></p>
             </td>
             <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
@@ -593,18 +569,10 @@ variant: markdown
         </tr>
         <tr>
             <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Mdm Lee Soh Fei&nbsp;</span></p>
+                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Mdm Bai Xu</span></p>
             </td>
             <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">lee_soh_fei@moe.edu.sg</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:242.75pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">Mdm Fatimah Isnin</span></p>
-            </td>
-            <td style="width:211.5pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;" colspan="2">
-                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">fatimah_isnin@moe.edu.sg</span></p>
+                <p style="margin-top:3.0pt;margin-right:-4.2pt;margin-bottom:3.0pt;margin-left:0in;line-height:normal;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#3B3838;">bai_xu@moe.edu.sg</span></p>
             </td>
         </tr>
         <tr>
