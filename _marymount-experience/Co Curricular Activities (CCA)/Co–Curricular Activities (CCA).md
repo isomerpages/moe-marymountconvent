@@ -20,7 +20,7 @@ variant: markdown
         <a href="/marymount-experience/co-curricular-activities-cca/artistic-gymnastics"><img src="/images/cca2.jpg" alt="cca2"></a>ARTISTIC GYMNASTICS
       </td>
       <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/badminton"><img src="/images/cca3.jpg" alt="cca3"></a>BADMINTON
+        <a href="/marymount-experience/co-curricular-activities-cca/badminton"><img src="/images/badminton.jpeg" alt="cca3"></a>BADMINTON
       </td>
     </tr>
     <tr>
