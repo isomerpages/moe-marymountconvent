@@ -42,7 +42,7 @@ variant: markdown
         <a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club/"><img src="/images/Env3.jpeg" alt="cca7"></a>ENVIRONMENTAL SCIENCE CLUB
       </td>      
       <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/innoplay/"><img src="/images/cca8.jpg" alt="cca8"></a>INNOPLAY
+        <a href="/marymount-experience/co-curricular-activities-cca/innoplay/"><img src="/images/innoplay.png" alt="cca8"></a>INNOPLAY
       </td>
     </tr>
     <tr>
