@@ -57,7 +57,7 @@ variant: markdown
 		</tr>
 		<tr>
 			  <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/science-club"><img src="/images/cca1.jpg" alt="c1"></a> SCIENCE CLUB
+        <a href="/marymount-experience/co-curricular-activities-cca/science-club"><img src="/images/science.jpg" alt="c1"></a> SCIENCE CLUB
       </td>
       <td style="width: 33.3333%; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/tennis"><img src="/images/cca11.jpg" alt="cca11"></a>TENNIS
