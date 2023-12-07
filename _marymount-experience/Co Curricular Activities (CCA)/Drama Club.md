@@ -3,10 +3,13 @@ title: Drama Club
 permalink: /marymount-experience/co-curricular-activities-cca/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <img style="width: 75%;" src="/images/Drama4.jpeg">
 <h4><strong>CCA Information</strong></h4>
-<p>The club caters to pupils who are not only interested in performing but also in the production of plays. Pupils in the club get the opportunity to dabble with script writing and props making as well. Pupils put up yearly productions at school events.</p>
+<p>This CCA caters to students who want to be orator, scriptwriter, debater or actress. The students will be trained in 4 disciplines – speaking, writing, debating and acting. Students will be equipped with the necessary skills in effective communication and artistic expression using the English Language. 
+
+They will be given opportunities to showcase their skills at competitions and during school events.</p>
 <img style="width: 75%;" src="/images/Drama1.jpeg"><br>
 <table width="0">
 <tbody>
@@ -15,8 +18,8 @@ third_nav_title: Co Curricular Activities (CCA)
 <strong>Training Day / Time</strong>
 </td>
 <td style="text-align: center;" width="268">
-<strong>P3 &ndash; P6</strong><br>
-Mondays<br>2.15 p.m. &ndash; 4.15 p.m.
+<strong>P3 – P6</strong><br>
+Mondays<br>2.15 p.m. – 4.15 p.m.
 </td>
 </tr>
 <tr>
@@ -43,7 +46,7 @@ Ms Kaiel (OIC)<br>Mdm Katherine Warsono (2IC)&nbsp;
 <p>A variety of acting games are played with the objective of breaking the ice, building group dynamics, improving focus and encouraging creativity.</p>
 <img style="width: 75%;" src="/images/dram3.jpg">
 <p><strong>Script Writing</strong>&nbsp;</p>
-<p>The seniors pair up with the juniors to improve the juniors&rsquo; monologue pieces at one of the sessions; passing on their knowledge and experience gained from their years in the club.</p>
+<p>The seniors pair up with the juniors to improve the juniors’ monologue pieces at one of the sessions; passing on their knowledge and experience gained from their years in the club.</p>
 <img src="/images/dram4.png">
 <p><strong>Presentation</strong></p>
 <p>In pairs or groups of three, pupils write and present their skits. Their audience (other members) highlight the areas of strengths and weaknesses in their skits in terms of projection of voice, expressiveness, use of body and immersion into the character.</p>
