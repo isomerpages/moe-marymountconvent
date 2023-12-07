@@ -56,20 +56,11 @@ variant: markdown
       </td>
 		</tr>
 		<tr>
+			  <td style="width: 33.3333%; text-align: center;">
+        <a href="/marymount-experience/co-curricular-activities-cca/science-club"><img src="/images/cca1.jpg" alt="c1"></a> SCIENCE CLUB
+      </td>
       <td style="width: 33.3333%; text-align: center;">
         <a href="/marymount-experience/co-curricular-activities-cca/tennis"><img src="/images/cca11.jpg" alt="cca11"></a>TENNIS
-      </td>
-      <td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
-    </tr>
-		    <tr>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/art-club"><img src="/images/cca1.jpg" alt="c1"></a> ART CLUB
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/artistic-gymnastics"><img src="/images/cca2.jpg" alt="cca2"></a>ARTISTIC GYMNASTICS
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/brownies"><img src="/images/cca3.jpg" alt="cca3"></a>BROWNIES
       </td>
     </tr>
   </tbody>
