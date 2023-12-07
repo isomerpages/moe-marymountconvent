@@ -18,10 +18,10 @@ Netballers identified to be part of the School Team are expected to train twice 
 <strong>Training Day / Time</strong>
 </td>
 <td style="text-align: center;">
-<strong>Mondays<br></strong>2.00 p.m. to 4.15 p.m.&nbsp;<strong>(School Team)<br></strong>2.15 p.m. to 4.00 p.m.&nbsp;<strong>(Recreation)</strong><br>
+<strong>Mondays<br></strong>2.00 p.m. to 5.00 p.m.&nbsp;<strong>(School Team)<br></strong>2.15 p.m. to 4.15 p.m.&nbsp;<strong>(Recreation)</strong><br>
 	
 <strong>Wednesdays</strong><br>
-2.00 p.m. to 4.15 p.m. <strong>(School Team)</strong><br>
+2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
 </td>
 </tr>
 <tr>
