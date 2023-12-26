@@ -14,7 +14,8 @@ variant: markdown
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<strong>P3 – P6<br></strong>Mondays<br>2.15 p.m. – 4.15 p.m.
+<strong>P3 – P6<br></strong>Mondays<br>2.15 p.m. – 4.15 p.m.<br>
+Fridays<br>2.15 p.m. – 4.15 p.m.
 </td>
 </tr>
 <tr>
