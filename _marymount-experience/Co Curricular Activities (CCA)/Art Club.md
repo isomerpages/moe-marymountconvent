@@ -19,7 +19,8 @@ Different art forms are introduced to develop students in different art genres. 
 <td style="text-align: center;">
 <strong>P3 – P6</strong><br>
 Core and Recreational Group<br>
-Mondays<br>2.15 p.m. – 4.15 p.m.
+Mondays<br>2.15 p.m. – 4.15 p.m.  <br> or <br>
+Fridays<br>2.15 p.m. – 4.15 p.m.
 </td>
 </tr>
 <tr>
@@ -49,4 +50,3 @@ Art Rooms / Classrooms / Comp Labs
 <p>Pupils in action planning for their upcoming SYF art and sharing their ideas with one another during the sessions. Through such meaningful art discussions, we aim to develop a classroom culture that celebrates differences of opinions as well as instill the school values.</p>
 <img style="width: 75%;" src="/images/ac4.jpg"><br>
 <img style="width: 75%;" src="/images/ac5.jpg">
-
