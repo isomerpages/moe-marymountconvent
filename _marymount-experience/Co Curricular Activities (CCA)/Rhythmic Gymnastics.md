@@ -22,13 +22,14 @@ variant: markdown
 <td style="text-align: center;">
 <strong>Monday</strong><br>
 2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
-2.15pm to 4.15pm <strong>(Recreation)</strong><br>
+2.15pm to 4.15pm <strong>(Recreation)</strong> or<br>
 	
 <strong>Wednesday</strong><br>
 2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
 
 <strong>Friday</strong><br>
-2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong>
+2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
+2.15pm to 4.15pm <strong>(Recreation)</strong>
 </td>
 </tr>
 <tr>
