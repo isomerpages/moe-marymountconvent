@@ -20,7 +20,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<strong>P3 - P6</strong>
+<strong>P3 - P6</strong><br>
 Mondays<br>2.15 p.m. – 4.15 p.m.
 </td>
 </tr>
