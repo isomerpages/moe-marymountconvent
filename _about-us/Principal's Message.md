@@ -15,7 +15,7 @@ She was fiddling with her sling bag, trying to dig for something or zip it up. I
 
 Suddenly, I heard someone speak in *Hokkien* dialect walking beside me. 
 
-*Ai yo …tsk, tsk …don’t walk behind her. *
+*Ai yo …tsk, tsk …don’t walk behind her.*
 
 With some disdain, she and her husband walked swiftly to the right of the hunched over lady; and quickly walked ahead as if the latter was diseased and unclean.  
 
