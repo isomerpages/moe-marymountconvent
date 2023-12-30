@@ -37,7 +37,7 @@ I sincerely hope that you will stand with me on this aspiration I have for our g
 
 <center>Train up a child in the way he (she) should go; <br>even when he (she) is old he (she) will not depart from it.<br>Proverbs 22:6</center>
 
-Have a blessed year ahead!
+Have a Blessed 2024!
 
 Miss Minnie Cheong Hwee Khim
 
