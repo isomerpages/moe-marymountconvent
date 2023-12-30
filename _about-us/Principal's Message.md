@@ -13,7 +13,7 @@ A lady who is not young, maybe about 65 to 70 years old – was hunched over wit
 
 She was fiddling with her sling bag, trying to dig for something or zip it up. I could not tell as she was slightly ahead of me. 
 
-Suddenly, I heard someone speak in *Hokkien* dialect walking beside me. 
+Suddenly, I heard someone speak in *Hokkien*  dialect walking beside me. 
 
 *Ai yo …tsk, tsk …don’t walk behind her.*
 
