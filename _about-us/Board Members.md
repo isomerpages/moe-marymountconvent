@@ -2,17 +2,6 @@
 title: Board Members
 permalink: /about-us/board-members/
 description: ""
+variant: tiptap
 ---
-<p style="text-align: center;"><strong>Ms Cecilia Ee<br /></strong>(Chairperson)</p>
-<p style="text-align: center;"><strong>Sister Salomi Cruz<br /></strong>(Provincial Leader)</p>
-<p style="text-align: center;"><strong>Sister Delphine Kang<br /></strong>(Supervisor)</p>
-<p style="text-align: center;"><strong>Mr Edwin Hooi<br /></strong>(Treasurer)</p>
-<p style="text-align: center;"><strong>Miss Cheong Hwee Khim<br /></strong>(Secretary)</p>
-<p style="text-align: center;"><strong>Mdm Anna Tan<br /></strong>(Asst Secretary)</p>
-<p style="text-align: center;"><strong>Mrs Debbie Chow<br /></strong>(Asst Secretary)<strong><br /></strong></p>
-<p style="text-align: center;"><strong>Mr Adrian Lim</strong></p>
-<p style="text-align: center;"><strong>Prof Berinderjeet Kaur</strong></p>
-<p style="text-align: center;"><strong>Mrs Cheryl Doraisamy&nbsp;</strong></p>
-<p style="text-align: center;"><strong>Ms Denise Sara Bryan</strong></p>
-<p style="text-align: center;"><strong>Mr Gerald Chew</strong></p>
-<p style="text-align: center;"><strong>Mdm Neo Kee Joon<br /></strong>(Members)</p>
+<table><tbody><tr><th rowspan="1" colspan="2"><p>Chairperson</p></th></tr><tr><td rowspan="1" colspan="2"><p>Mr Edwin Hooi</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Provincial Leader</strong></p></td><td rowspan="1" colspan="1"><p><strong>Supervisor</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Sister Salomi Cruz</p></td><td rowspan="1" colspan="1"><p>Sister Delphine Kang</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Treasurer</strong></p></td><td rowspan="1" colspan="1"><p><strong>Secretary</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Denise Sara Bryan</p></td><td rowspan="1" colspan="1"><p>Miss Cheong Hwee Khim</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Adrian Lim</p></td><td rowspan="1" colspan="1"><p>Prof Berinderjeet Kaur</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Gerald Chew</p></td><td rowspan="1" colspan="1"><p>Mdm Neo Kee Joon</p></td></tr></tbody></table><p></p>
