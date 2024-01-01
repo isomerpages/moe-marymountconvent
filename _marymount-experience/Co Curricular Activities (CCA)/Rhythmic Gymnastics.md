@@ -3,12 +3,14 @@ title: Rhythmic Gymnastics
 permalink: /marymount-experience/co-curricular-activities-cca/rhythmic-gymnastics/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <img style="width: 75%;" src="/images/Rgym1.jpeg">
 <h4><strong>CCA Information</strong></h4>
-<p>Rhythmic Gymnastics combines multidisciplinary elements of ballet, dance and gymnastics. Club members use apparatus such as clubs, ropes, hoops and balls to perform their routines on the floor, accompanied by the tune of catchy songs or music.</p>
+<p>Rhythmic Gymnastics combines multi-disciplinary elements of ballet, dance and gymnastics. Students use apparatus such as clubs, ropes, hoops and balls to perform their routines on the floor, accompanied by the tune of catchy songs or music. Additionally, they work on exercises that develop or display physical agility and coordination. For school team athletes, they will progress to work with handheld apparatus and perform in routines with leaps, contortions and dance that flow in time to music.
+</p>
 <img style="width:75%;" src="/images/Rgym2.jpeg">
-<p>Pupils in this club are grouped into either School Team or Recreation. Pupils in the School Team are expected to train more than once a week. These pupils will be selected to represent the school at the annual National School Games in March/April. In addition to that, this CCA also provides several opportunities for School Team members and selected pupils from the Recreation group to put up performances at major school events.</p>
+<p>Students in this club are grouped into either School or Recreation Team. Students in the School Team are expected to train thrice a week. These students will be selected to represent the school at the annual National School Games. In addition to that, this CCA also provides several opportunities for School Team members and selected students from the Recreation Team to put up performances at school events.</p>
 <img style="width:75%;" src="/images/Rgym3.jpeg">
 <p>This fun, vibrant CCA not only moulds our girls to be expressive performers but it also teaches them to be committed, disciplined and resilient.</p>
 <table>
@@ -20,13 +22,14 @@ third_nav_title: Co Curricular Activities (CCA)
 <td style="text-align: center;">
 <strong>Monday</strong><br>
 2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
-2.15pm to 4.15pm <strong>(Recreation)</strong><br>
+2.15pm to 4.15pm <strong>(Recreation)</strong> or<br>
 	
 <strong>Wednesday</strong><br>
 2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
 
 <strong>Friday</strong><br>
-2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong>
+2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong><br>
+2.15pm to 4.15pm <strong>(Recreation)</strong>
 </td>
 </tr>
 <tr>
@@ -52,9 +55,9 @@ At the start of every session, the coach gets the students to do warm-up exercis
 <li><span class="">speedy run</span></li>
 <li><span class="" lang="EN">jump and turn at 180 and/or 360 degree</span></li>
 <li><span class="" lang="EN">back bend with changing legs</span></li>
-<li>side split leap </span>&nbsp;</li>
+<li>side split leap &nbsp;</li>
 </ul>
-<img style="width: 75%;" src="/images/rg4.jpeg" />
+<img style="width: 75%;" src="/images/rg4.jpeg">
 <p class=""><strong>Apparatus Handling</strong>
 <br>Learning to handle different apparatus, like ball, rope, hoop and clubs.</p>
 <img style="width: 75%;" src="/images/rg5.jpeg">

@@ -3,14 +3,16 @@ title: Dance Ensemble
 permalink: /marymount-experience/co-curricular-activities-cca/dance-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
-<img style="width: 75%;" src="/images/Dance3.jpeg" />
+<img style="width: 75%;" src="/images/Dance3.jpeg">
 <h4><strong>CCA Information</strong></h4>
-<p>The Dance Ensemble caters to pupils who are passionate about Contemporary Dance and Chinese Dance. Pupils in the club will put up yearly performances at school events and compete in the biennial Singapore Youth Festival. Pupils may also be given the opportunity to be involved in national events such as Chingay and the National Day Parade.</p>
-<img style="width: 75%;" src="/images/Dance1.jpeg" /><br>
-<img style="width: 75%;" src="/images/Dance2.jpeg" /><br>
-<img style="width: 75%;" src="/images/cd1.jpg" /><br>
-<img style="width: 75%;" src="/images/de1.png" />
+<p>The CCA caters to students who are passionate about Contemporary and Chinese Dances. Students in the CCA will put up performances at school events and may be selected to perform at the biennial Singapore Youth Festival (SYF). Students may have the opportunity to perform at national events such as Chingay and National Day Parade on some years.</p>
+<img style="width: 75%;" src="/images/Dance1.jpeg"><br>
+<img style="width: 75%;" src="/images/Dance2.jpeg">
+<p>Students may have additional CCA sessions on Fridays if they must prepare for public performances. More information will be shared when the students are invited to perform.</p><br>
+<img style="width: 75%;" src="/images/cd1.jpg"><br>
+<img style="width: 75%;" src="/images/de1.png">
 
 <br>
 <table>
@@ -18,8 +20,8 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td style="text-align: center;"><strong>Training Day / Time</strong></td>
 <td style="text-align: center;">
-<strong>P3 - P6</strong>
-Mondays<br />2.15 p.m. &ndash; 4.15 p.m.
+<strong>P3 - P6</strong><br>
+Mondays<br>2.15 p.m. – 4.15 p.m.
 </td>
 </tr>
 <tr>
@@ -31,7 +33,7 @@ Mondays<br />2.15 p.m. &ndash; 4.15 p.m.
 <strong>Teacher OIC</strong>&nbsp;
 </td>
 <td style="text-align: center;">
-Ms Siti Fatihah Khan (OIC)<br />Mrs Jasmine Lim (2IC)<br />
+Ms Siti Fatihah Khan (OIC)<br>Mrs Jasmine Lim (2IC)<br>
 </td>
 </tr>
 </tbody>
@@ -45,10 +47,10 @@ Ms Siti Fatihah Khan (OIC)<br />Mrs Jasmine Lim (2IC)<br />
 <p><strong>Prize-giving Performance</strong></p>
 <p>This performance presented by the Modern Dance girls was a representation of the hectic year that they had gone through. They took part in the National Day Parade, which they spent many weekends at the floating platform preparing for the performance. Even though they had to juggle their time between dance practice and studies, they enjoyed themselves nevertheless as they found joy in the midst of busyness.</p><img style="width:75%;" src="/images/de4.jpeg">
 <h4><strong>CCA Achievements</strong></h4>
-<p><strong>Performance at St Theresa&rsquo;s Nursing Home</strong></p>
-<p>Pupils brought smiles and joy to the residence of St Theresa&rsquo;s Nursing Home with their lively and jovial dance item.</p>
+<p><strong>Performance at St Theresa’s Nursing Home</strong></p>
+<p>Pupils brought smiles and joy to the residence of St Theresa’s Nursing Home with their lively and jovial dance item.</p>
 <img style="width: 75%;" src="/images/de5.jpg"><br>
-<p><strong>Assisi&rsquo;s Hospice Christmas Performance</strong></p>
+<p><strong>Assisi’s Hospice Christmas Performance</strong></p>
 <p>The Dance Ensemble members went through a virtual lesson to master the dance. Through these bubbly dance moves, they brought joy to the patients in the Hospice during the time of the pandemic.&nbsp;</p><img style="width:75%;" src="/images/de6.jpeg">
 <p><strong>Chingay Performance</strong></p>
 <p>The Dance Ensemble participated in Chingay and the performance that they were in was awarded as one of the Best performances of Chingay in 2019.</p>
