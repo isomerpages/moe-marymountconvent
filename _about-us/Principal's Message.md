@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-Christmas Eve, 2023, about 2.15pm. Entrance of Tampines Mall.
+<center>Christmas Eve, 2023, about 2.15pm. Entrance of Tampines Mall.</center>
 
 
 I am writing this piece for the school’s website in an unconventional way.  I simply want to share a real story from my heart with you, parents or anyone who is reading this, and my thoughts about it. Here it is…
