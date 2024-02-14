@@ -38,8 +38,12 @@ links:
         url: /school-info/safety-n-security-procedures
       - title: Rationale For Car Decals
         url: /school-info/rationale-for-car-decals
+      - title: School Canteen
+        url: /school-info/schoolcanteen/
       - title: School Attire
         url: /school-info/school-attire
+      - title: IFMISS
+        url: /school-info/income-family-micro-insurance-and-savings-scheme-ifmiss
       - title: School Books
         url: /school-info/school-books
       - title: School Bus
@@ -50,8 +54,6 @@ links:
         url: /school-info/school-alumnae
       - title: Schemes for Students
         url: /school-info/schemes-for-students-from-low-income-families
-      - title: IFMISS
-        url: /school-info/income-family-micro-insurance-and-savings-scheme-ifmiss
   - title: Marymount Experience
     url: /marymount-experience/curriculum
     sublinks:
