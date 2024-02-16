@@ -2,17 +2,18 @@
 title: Calendar of Events
 permalink: /calendar-of-events/
 description: ""
+variant: tiptap
 ---
-# Term 4 (2023) 
-
-[Primary 1](/files/Calender/p1term4.pdf)
-
-[Primary 2](/files/Calender/p2term4.pdf)
-
-[Primary 3](/files/Calender/p3term4.pdf)
-
-[Primary 4](/files/Calender/p4term4.pdf)
-
-[Primary 5](/files/Calender/p5term4.pdf)
-
-[Primary 6](/files/Calender/p6term4.pdf)
+<h1>Term 4 (2023)</h1>
+<p><a href="/files/Calender/p1term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+</p>
+<p><a href="/files/Calender/p2term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+</p>
+<p><a href="/files/Calender/p3term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+</p>
+<p><a href="/files/Calender/p4term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+</p>
+<p><a href="/files/Calender/p5term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
+</p>
+<p><a href="/files/Calender/p6term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+</p>
