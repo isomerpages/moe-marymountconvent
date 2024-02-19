@@ -54,7 +54,7 @@ hardcopy from the School's General Office.</p>
 email OR to the School's General Office.</p>
 </li>
 </ol>
-<p>Address: 20 Marymount Convent Singapore 297754</p>
+<p>Address: 20 Marymount Road Singapore 297754</p>
 <p>Contact No: 6256 6701</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">mmcs@moe.edu.sg</a>
 </p>
