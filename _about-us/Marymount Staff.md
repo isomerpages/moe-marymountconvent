@@ -438,7 +438,7 @@ variant: tiptap
 <p>5I</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="teo_su_ping_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Lee</a>
+<p><a href="mailto:teo_su_ping_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Lee</a>
 </p>
 <p></p>
 <p></p>
@@ -561,13 +561,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="ho_nyit_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho Nyit Pheng</a>
+<p><a href="mailto:ho_nyit_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho Nyit Pheng</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur</a>
+<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -597,7 +597,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="chang_chiu-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms May Chang</a>
+<p><a href="mailto:chang_chiu-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms May Chang</a>
 </p>
 <p>(Senior School Counsellor)</p>
 </td>
