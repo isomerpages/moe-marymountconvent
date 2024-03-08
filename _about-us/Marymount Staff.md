@@ -285,8 +285,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Yapp</p>
-<p>Ms Lum Hui Lin</p>
+<p><a href="lum_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lum Hui Lin</a>
+</p>
 </td>
 </tr>
 <tr>
