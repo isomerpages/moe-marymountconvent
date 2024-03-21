@@ -76,7 +76,7 @@ variant: tiptap
 <p>1I</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:selene_kang_bee_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Selene Kang</a>
+<p><a href="mailto:lim_hui_zhen_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lim Hui Zhen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
