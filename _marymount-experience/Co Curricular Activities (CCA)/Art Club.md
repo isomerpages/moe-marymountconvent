@@ -52,8 +52,8 @@ them into confident 21st century young artists.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Tian Nu Dulcia (OIC)</p>
-<p>Prisca Fernandez (OIC)
-<br>Rachel Leow</p>
+<p>Prisca Fernandez (OIC)</p>
+<p>Rachel Leow</p>
 <p>Kasthuri Bai</p>
 <p>Tan Li Kiang</p>
 <p>A Ha Serene Nabiesah</p>
@@ -69,8 +69,7 @@ them into confident 21st century young artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155110.jpg">
 </div>
-<h4><strong>CCA Highlights</strong></h4>
-<p>Art Display at Toa Payoh Public Library</p>
+<h4></h4>
 <p></p>
 <p></p>
 <p>
