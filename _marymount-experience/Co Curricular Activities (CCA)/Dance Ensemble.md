@@ -44,7 +44,7 @@ are invited to perform.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 - P6</strong>
+<p><strong>P3 - P6</strong> 
 <br>Mondays
 <br>2.15 p.m. – 4.15 p.m.</p>
 </td>
