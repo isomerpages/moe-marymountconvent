@@ -50,15 +50,15 @@ the 3Rs: Reduce, Reuse and Recycle.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Evelyn Chia (OIC)</p>
-<p>Mrs Low York Sheng (OIC)
-<br>Ms Joanna Aw</p>
+<p>Mrs Low York Sheng (OIC)</p>
+<p>Ms Joanna Aw</p>
 <p>Mrs Adeline Choo</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<p><strong>Greening Our School</strong>
+<p><strong>Greening Our School</strong> 
 <br>Our club carries out gardening activities to grow plants to beautify the
 school environment.</p>
 <div class="isomer-image-wrapper">
@@ -70,21 +70,21 @@ by the use of technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ess2.jpg">
 </div>
-<p><strong>Nurturing Passion Through Inquiry</strong>
+<p><strong>Nurturing Passion Through Inquiry</strong> 
 <br>Members carried out experiments in groups to find out how edible plants
 grow in water are different from plants that grow in soil. They also build
 their own simple plant hydroponics system by upcycling plastic bottles.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ess3.jpg">
 </div>
-<p><strong>Upcycling Our Way To Sustainability</strong>
+<p><strong>Upcycling Our Way To Sustainability</strong> 
 <br>Through upcycling activities, our members explore how materials can be
 reused to reduce waste. During one of the sessions, they tear, soak, blend
 and sieve unwanted paper in order to make them into new usable paper.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ess4.jpg">
 </div>
-<p><strong>Enriching Learning Beyond School</strong>
+<p><strong>Enriching Learning Beyond School</strong> 
 <br>During the trip to the Clean &amp; Green Carnival organised by the National
 Environment Agency, our members learnt more about caring for our environment
 and adopting a clean, green and sustainable lifestyle.</p>
@@ -129,7 +129,7 @@ of water to encourage the whole school community to save water.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ess6.jpg">
 </div>
-<p><strong>Youth for Environment / Earth Week</strong>
+<p><strong>Youth for Environment / Earth Week</strong> 
 <br>Every year, our school celebrates Earth Day on 22 April. To demonstrate
 our support for environmental protection, our members carried out upcycling
 activities during recess to promote environmental awareness and inspire
@@ -137,7 +137,7 @@ others to save the Earth.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ess7.jpg">
 </div>
-<p><strong>World Animal Day</strong>
+<p><strong>World Animal Day</strong> 
 <br>To save animals in the world, our members carried out a research project
 on endangered animals and created posters that were used for one of the
 activities on Children’s Day, in conjunction with World Animal Day.</p>
