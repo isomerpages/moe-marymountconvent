@@ -16,7 +16,6 @@ to create their artwork.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Art2.jpeg">
 </div>
-<p></p>
 <p>Different art forms are introduced to develop students in different art
 genres. Art Club also provides opportunities for students to display school
 values, develop their socio-emotional learning (SEL) competencies and nurture
