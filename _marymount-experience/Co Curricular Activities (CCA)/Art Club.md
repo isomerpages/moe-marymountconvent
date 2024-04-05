@@ -29,10 +29,10 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays
+<p><strong>Mondays </strong>
 <br>2.15 p.m. – 4.15 p.m.
 <br>or
-<br>Fridays
+<br><strong>Fridays</strong> 
 <br>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
@@ -61,40 +61,23 @@ them into confident 21st century young artists.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Art3.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155026.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155110.jpg">
+</div>
 <h4><strong>CCA Highlights</strong></h4>
-<p><strong>SYF Art 2021</strong>
-</p>
-<p>P2 Art Club pupils working on their SYF art based on the theme, ‘Artist
-and Technology’. They discussed and brainstormed art ideas on how technology
-has impacted and shaped their lives.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ac2.jpg">
-</div>
+<p>Art Display at Toa Payoh Public Library</p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ac3.jpg">
-</div>
-<p><strong>SYF Art 2021 (P3-P6 Art Club)</strong>
-</p>
-<p>Pupils in action planning for their upcoming SYF art and sharing their
-ideas with one another during the sessions. Through such meaningful art
-discussions, we aim to develop a classroom culture that celebrates differences
-of opinions as well as instill the school values.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ac4.jpg">
-</div>
+<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ac5.jpg">
-</div>
 <p></p>
