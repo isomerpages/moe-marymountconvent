@@ -47,16 +47,25 @@ them into confident 21st century young artists.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher OIC</strong>
+<p><strong>Teachers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Tian Nu Dulcia (OIC)</p>
-<p>Prisca Fernandez (OIC)</p>
-<p>Rachel Leow</p>
-<p>Kasthuri Bai</p>
-<p>Tan Li Kiang</p>
-<p>A Ha Serene Nabiesah</p>
+<p>Ms Ong Tian Nu Dulcia (OIC)</p>
+<p>Ms Prisca Fernandez (OIC)</p>
+<p>Mdm Rachel Leow</p>
+<p>Mrs Kasthuri Bai</p>
+<p>Mdm Tan Li Kiang</p>
+<p>Ms A Ha Serene Nabiesah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
