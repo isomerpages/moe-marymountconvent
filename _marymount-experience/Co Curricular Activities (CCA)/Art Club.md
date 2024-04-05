@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Artclub1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/IMG_20240219_WA0024.jpg">
 </div>
 <h4><strong>CCA Information</strong></h4>
 <p>The Art Club caters to students who are interested in art and craft. It
@@ -16,9 +16,7 @@ to create their artwork.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Art2.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>Different art forms are introduced to develop students in different art
 genres. Art Club also provides opportunities for students to display school
 values, develop their socio-emotional learning (SEL) competencies and nurture
@@ -31,9 +29,7 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 – P6</strong> 
-<br>Core and Recreational Group
-<br>Mondays
+<p>Mondays
 <br>2.15 p.m. – 4.15 p.m.
 <br>or
 <br>Fridays
@@ -46,12 +42,7 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 – P6</strong> 
-<br>Core Group
-<br>Art Rooms
-<br><strong>P3 – P6</strong> 
-<br>Recreational Group
-<br>Art Rooms / Classrooms / Comp Labs</p>
+<p>Art Rooms</p>
 </td>
 </tr>
 <tr>
@@ -60,10 +51,12 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Adeline Gwee (OIC)
-<br>Mdm Jessica Kho (2IC)
-<br>
-</p>
+<p>Ong Tian Nu Dulcia (OIC)</p>
+<p>Prisca Fernandez (OIC)
+<br>Rachel Leow</p>
+<p>Kasthuri Bai</p>
+<p>Tan Li Kiang</p>
+<p>A Ha Serene Nabiesah</p>
 </td>
 </tr>
 </tbody>
