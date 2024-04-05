@@ -31,7 +31,7 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 – P6</strong>
+<p><strong>P3 – P6</strong> 
 <br>Core and Recreational Group
 <br>Mondays
 <br>2.15 p.m. – 4.15 p.m.
@@ -46,10 +46,10 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 – P6</strong>
+<p><strong>P3 – P6</strong> 
 <br>Core Group
 <br>Art Rooms
-<br><strong>P3 – P6</strong>
+<br><strong>P3 – P6</strong> 
 <br>Recreational Group
 <br>Art Rooms / Classrooms / Comp Labs</p>
 </td>
