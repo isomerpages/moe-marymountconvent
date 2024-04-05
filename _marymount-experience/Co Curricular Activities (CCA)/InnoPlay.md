@@ -5,9 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/InnoPlay 2024/20240126_152717.jpg">
+</div>
+<p></p>
 <p>InnoPlay is a multi-faceted CCA that combines the joy of playing board
 games with the thrill of problem-solving. It aims to foster logical thinking
 to challenge students’ decision-making abilities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/InnoPlay 2024/20240126_152705.jpg">
+</div>
 <p>Students will also apply their creative and logical thinking to tackle
 real-world problems, providing innovative solutions through a structured
 thinking process. This blend of entertainment and education not only nurtures
