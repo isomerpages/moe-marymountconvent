@@ -4,16 +4,17 @@ permalink: /calendar-of-events/
 description: ""
 variant: tiptap
 ---
-<h1>Term 4 (2023)</h1>
-<p><a href="/files/Calender/p1term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
-</p>
-<p><a href="/files/Calender/p2term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
-</p>
-<p><a href="/files/Calender/p3term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
-</p>
-<p><a href="/files/Calender/p4term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
-</p>
-<p><a href="/files/Calender/p5term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
-</p>
-<p><a href="/files/Calender/p6term4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
-</p>
+<h4><strong>2024 Calendar of Events</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/001_2024_Welcome_Letter_from_Principal_Page_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/001_2024_Welcome_Letter_from_Principal_Page_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/001_2024_Welcome_Letter_from_Principal_Page_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/001_2024_Welcome_Letter_from_Principal_Page_8.jpg">
+</div>
+<p></p>
