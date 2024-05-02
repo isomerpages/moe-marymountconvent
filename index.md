@@ -25,6 +25,7 @@ sections:
         July 2024 OR Wednesday, 7 August 2024. Click on the link below to
         register your interest.
       button: Registration link
-      url: "https://go.gov.sg/mcsoutreach2024 "
+      url: https://go.gov.sg/mcsoutreach2024
       alt: Image alt text
+      image: /images/Outreach.png
 ---
