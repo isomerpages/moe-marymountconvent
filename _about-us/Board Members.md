@@ -35,7 +35,7 @@ variant: tiptap
 <p>Sr Helena Vytialingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sister Jean Marie</p>
+<p>Sister Jean Marie Fernandez</p>
 </td>
 </tr>
 <tr>
