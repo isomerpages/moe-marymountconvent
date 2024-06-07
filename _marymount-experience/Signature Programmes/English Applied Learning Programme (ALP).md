@@ -30,7 +30,8 @@ Lives, Restoring Rights, and Upholding Dignity).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Speakwell2.jpg">
 </div>
-<p>With these in mind, the Effective Communication @ MCS programme aims to:</p>
+<p>With these in mind, the English Applied Learning Programme @ MCS programme
+aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop Marymount Girls who communicate with clarity and confidence</p>
