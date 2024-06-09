@@ -27,9 +27,6 @@ The ALP will focus on the language discipline, developing and honing effective
 communicators, thereby supporting our school vision (Ladies of Compassion,
 Eloquence and Intellect, with God as our Shepherd) and mission (Empowering
 Lives, Restoring Rights, and Upholding Dignity).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Live@MCS/keilani .jpg">
-</div>
 <p>With these in mind, the English Applied Learning Programme @ MCS aims
 to:</p>
 <ul data-tight="true" class="tight">
