@@ -17,7 +17,7 @@ description: ""
 <p>International Korean / Japanese (Halal or Non-Halal)</p>
 </li>
 </ol>
-<p><strong>Closing Date for Application: 30 April 2024</strong>
+<p><strong>Closing Date for Application: 31 July 2024</strong>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
