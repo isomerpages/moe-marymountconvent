@@ -21,7 +21,11 @@ the 3Rs: Reduce, Reuse and Recycle.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -30,8 +34,6 @@ the 3Rs: Reduce, Reuse and Recycle.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays
-<br>2.15 p.m. – 4.15 p.m.
-<br>Fridays
 <br>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
@@ -92,7 +94,12 @@ and adopting a clean, green and sustainable lifestyle.</p>
 <img style="width:75%;" height="auto" width="100%" src="/images/ess5.jpg">
 </div>
 <h4><strong>CCA Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
