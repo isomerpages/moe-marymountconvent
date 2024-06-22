@@ -39,7 +39,7 @@ are owned by, licensed to or controlled by Marymount Convent School.</p>
 <p></p>
 </li>
 <li>
-<p>Click here to review this Web Site <a href="https://marymountconvent.moe.edu.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
+<p>Click here to review this Web Site <a href="https://marymountconvent.moe.edu.sg/school-info/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
 <p></p>
 <h4>Restrictions on Use of Materials</h4>
 <p></p>
