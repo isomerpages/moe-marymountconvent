@@ -11,7 +11,7 @@ this Web Site, you shall be deemed to have accepted to be legally bound
 by these Terms of Use. If you do not agree to these Terms of Use, please
 do not use this Web Site.</p>
 <p></p>
-<h4>General </h4>
+<h4>General</h4>
 <p></p>
 </li>
 <li>
@@ -20,7 +20,7 @@ on this page and your use of this Web Site after such changes have been
 posted will constitute your agreement to the modified Terms of Use and
 all of the changes.</p>
 <p></p>
-<h4>Proprietary Rights </h4>
+<h4>Proprietary Rights</h4>
 <p></p>
 </li>
 <li>
@@ -38,9 +38,9 @@ are owned by, licensed to or controlled by Marymount Convent School.</p>
 <p></p>
 </li>
 <li>
-<p>Click here to review this Web Site Privacy Statement.</p>
+<p>Click here to review this Web Site <a href="https://marymountconvent.moe.edu.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>.</p>
 <p></p>
-<h4>Restrictions on Use of Materials </h4>
+<h4>Restrictions on Use of Materials</h4>
 <p></p>
 </li>
 <li>
@@ -60,7 +60,7 @@ other intellectual property rights. Graphics and images on this Web Site
 are protected by copyright and may not be reproduced or appropriated in
 any manner without written permission of Marymount Convent School.</p>
 <p></p>
-<h4>Right of Access </h4>
+<h4>Right of Access</h4>
 <p></p>
 </li>
 <li>
@@ -69,7 +69,7 @@ to this Web Site to any particular person, or to block access from a particular
 external address to this Web Site, at any time, without ascribing any reasons
 whatsoever.</p>
 <p></p>
-<h4>Disclaimer of Warranties and Liability </h4>
+<h4>Disclaimer of Warranties and Liability</h4>
 <p></p>
 </li>
 <li>
@@ -106,7 +106,7 @@ shall Marymount Convent School be considered to be associated or affiliated
 with any trade or service marks, logos, insignia or other devices used
 or appearing on web sites to which this Web Site is linked.</p>
 <p></p>
-<h4>Links to This Web Site from Other Web Sites </h4>
+<h4>Links to This Web Site from Other Web Sites</h4>
 <p></p>
 </li>
 <li>
