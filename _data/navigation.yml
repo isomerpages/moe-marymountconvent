@@ -25,10 +25,6 @@ links:
         url: /about-us/teachers-profile
       - title: Marymount Staff
         url: /about-us/marymount-staff/
-      - title: FAQ
-        url: /about-us/faq
-      - title: Privacy Policy
-        url: /about-us/privacy-policy
   - title: School Info
     url: /school-info/school-rules-code-of-conduct-for-pupils
     sublinks:
@@ -54,6 +50,12 @@ links:
         url: /school-info/school-alumnae
       - title: Schemes for Students
         url: /school-info/schemes-for-students-from-low-income-families
+      - title: Frequently Asked Questions
+        url: /school-info/faq/
+      - title: Privacy Policy
+        url: /school-info/privacy-policy/
+      - title: Privacy Statement
+        url: /school-info/privacy-statement/
   - title: Marymount Experience
     url: /marymount-experience/curriculum
     sublinks:

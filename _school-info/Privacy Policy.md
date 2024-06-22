@@ -1,11 +1,9 @@
 ---
 title: Privacy Policy
-permalink: /about-us/privacy-policy/
+permalink: /school-info/privacy-policy/
 description: ""
+variant: tiptap
 ---
-
-
-
 <p>Privacy Statement</p>
 <p>This is the official website for Marymount Convent School&nbsp;</p>
 <p>We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.</p>

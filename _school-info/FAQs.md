@@ -1,7 +1,8 @@
 ---
 title: FAQs
-permalink: /about-us/faq/
+permalink: /school-info/faq/
 description: ""
+variant: tiptap
 ---
 <h4>FREQUENTLY ASKED QUESTIONS</h4>
 <p><strong>What is the start-time for regular school days?<br></strong>Morning assembly starts at 7.35am on regular school days.</p>
