@@ -52,6 +52,8 @@ links:
         url: /school-info/school-alumnae
       - title: Schemes for Students
         url: /school-info/schemes-for-students-from-low-income-families
+      - title: Frequently Asked Questions
+        url: /school-info/faq/
   - title: Marymount Experience
     url: /marymount-experience/curriculum
     sublinks:
