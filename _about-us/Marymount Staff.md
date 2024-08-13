@@ -604,9 +604,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:chang_chiu-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms May Chang</a>
+<p><a href="mailto:nur_farhanis_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Farhanis Bte Othman</a>
 </p>
-<p>(Senior School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:liew_tsae_woei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liew Tsae Woei</a>
@@ -619,23 +618,14 @@ variant: tiptap
 <p>(Senior SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:nur_farhanis_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Farhanis Bte Othman</a>
+<p><a href="mailto:chang_chiu-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms May Chang</a>
 </p>
+<p>(Senior School Counsellor)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:goh_sock_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Sock Ngee&nbsp;</a>
-</p>
-<p>(SEN Officer)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:quek_kai_jie_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quek Kai Jie Kenneth</a>
 </p>
 <p>(SEN Officer)&nbsp;</p>
 </td>
