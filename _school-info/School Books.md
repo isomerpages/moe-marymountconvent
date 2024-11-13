@@ -73,7 +73,7 @@ variant: tiptap
 and public holidays):</p>
 <p>Monday - Friday (8.30am to 2.30pm)</p>
 <p>Lunch Hour: 12.30pm to 1.30pm (bookshop closed)</p>
-<h4><strong>Booklist - 2024</strong></h4>
+<h4><strong>Booklist - 2025</strong></h4>
 <p><a href="/files/Booklist 2025/P1__2025___1_.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
 <p><a href="/files/Booklist 2025/P2__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
