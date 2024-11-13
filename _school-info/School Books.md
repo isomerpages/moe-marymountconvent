@@ -76,17 +76,17 @@ and public holidays):</p>
 <h4><strong>Booklist - 2024</strong></h4>
 <p><a href="/files/Booklist 2024/P1__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p2.pdf" rel="noopener" target="_blank">Primary 2</a>
+<p><a href="/files/Booklist 2025/P2__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p3.pdf" rel="noopener" target="_blank">Primary 3</a>
+<p><a href="/files/Booklist 2025/P3__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p4.pdf" rel="noopener" target="_blank">Primary 4</a>
+<p><a href="/files/Booklist 2025/P4__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p5.pdf" rel="noopener" target="_blank">Primary 5</a>
+<p><a href="/files/Booklist 2025/P5__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p5fdn.pdf" rel="noopener" target="_blank">Primary 5 (Foundation)</a>
+<p><a href="/files/Booklist 2025/P5__FDN_2025_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (Foundation)</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p6.pdf" rel="noopener" target="_blank">Primary 6</a>
+<p><a href="/files/Booklist 2025/P6__2025_.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
 </p>
-<p><a href="/files/Booklist/mmcs-p6fdn.pdf" rel="noopener" target="_blank">Primary 6 (Foundation)</a>
+<p><a href="/files/Booklist 2025/P6__FDN_2025_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (Foundation)</a>
 </p>
