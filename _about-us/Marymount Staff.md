@@ -568,7 +568,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:eng_yi-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Toh</a>
+<p><a href="mailto:ou_xin_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ou Xin Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -582,8 +582,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:liew_tsae_woei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liew Tsae Woei</a>
+<p><a href="mailto:ng_sock_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Sock Ling</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Pamela Zhang</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto: haymalatha_sithambaram@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Haymalatha d/o Sithambaram</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Cheryl Yapp</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -594,7 +611,7 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><a href="mailto:jonica_chong_chan_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jonica Chong</a>
 </p>
-<p>(Senior School Counsellor)</p>
+<p>(School Counsellor)</p>
 </td>
 </tr>
 <tr>
