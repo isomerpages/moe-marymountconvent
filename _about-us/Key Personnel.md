@@ -4,7 +4,11 @@ permalink: /about-us/key-personnel/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -73,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eng_yi-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs May Toh</a>
+<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur</a>
 </p>
 </td>
 </tr>
@@ -93,7 +97,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur</a>
+<p><a href="mailto:ou_xin_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ou Xin Ying</a>
 </p>
 </td>
 </tr>
@@ -119,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - English Language</strong>
+<p><strong>Head of Department - English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:durgha_devi_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Durga Devi</a>
+<p><a href="mailto:yang_qing_an_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonathan Yang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,6 +178,26 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sally_neo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sally Neo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Primary 1 &amp; 2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alicia_bernice_gomes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gomes Alicia Bernice</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_shing_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shanice Chong Shing Yee</a>
 </p>
 </td>
 </tr>
@@ -299,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Learning Needs and Educational Support</strong>
+<p><strong>Senior Teacher - Art</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,7 +332,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tien_siew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tien Siew Ling</a>
+<p><a href="mailto:teng_poh_yin_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teng Poh Yin Julia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
