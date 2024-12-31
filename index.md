@@ -22,9 +22,10 @@ sections:
         - title: Sale of Helpmate
           date: 02 January 2025
           announcement: The Helpmate will be available for sale from the School Bookshop
-            from 2 January 2025. All classes have been allocated time to
-            purchase the Helpmate. All parents are encouraged to prepare exact
-            amount for your child to purchase the Helpmate.
+            from 3 January 2025. All classes have been scheduled time to
+            purchase the Helpmate at the bookshop. Parents are encouraged to
+            prepare the exact amount for your child to purchase the Helpmate at
+            the school bookshop.
           link_text: ""
           link_url: ""
 ---
