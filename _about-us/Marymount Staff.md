@@ -591,8 +591,7 @@ variant: tiptap
 <p>Ms Pamela Zhang</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto: haymalatha_sithambaram@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Haymalatha d/o Sithambaram</a>
-</p>
+<p>Mdm Suhaibah Rasman</p>
 </td>
 </tr>
 <tr>
@@ -600,7 +599,7 @@ variant: tiptap
 <p>Ms Cheryl Yapp</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Lee En Yun</p>
 </td>
 </tr>
 <tr>
