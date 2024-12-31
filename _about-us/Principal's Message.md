@@ -43,9 +43,7 @@ but he was not. He seemed to be contemplating on something.&nbsp;</p>
 <p>Okay, maybe they don’t need it. Maybe they don’t want it.&nbsp;</p>
 <p>Then she said this…&nbsp;</p>
 <p></p>
-<p><em>Being old is hard.</em>
-</p>
-<p>&nbsp;</p>
+<p><em>Being old is hard.</em>&nbsp;</p>
 <p>I knew there was nothing more I could do. I bade them goodbye; walking
 away was hard and her words of pain rang in my ears. <em>It certainly does look hard.</em>&nbsp;</p>
 <p>Both look wretched and lonely. Where are their kids?</p>
@@ -75,5 +73,6 @@ dream for our girls this 2025!&nbsp;</p>
 </p>
 <p><em>in the spirit of our Good Shepherd Mission.</em>&nbsp;</p>
 <p>Have a blessed year ahead!</p>
+<p>Miss Minnie Cheong</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
