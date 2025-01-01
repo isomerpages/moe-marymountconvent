@@ -30,7 +30,11 @@ to put up performances at school events.</p>
 </div>
 <p>This fun, vibrant CCA not only moulds our girls to be expressive performers
 but it also teaches them to be committed, disciplined and resilient.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,10 +75,8 @@ but it also teaches them to be committed, disciplined and resilient.</p>
 <br>Ms Deepa Supramaniam (2IC)</p>
 <p>Mrs Sarah Tan</p>
 <p>Mrs Yao Hwee Hong</p>
-<p>Miss Loh Soo Gek</p>
-<p>Ms Lee Phui Hong</p>
-<p>Miss Normala</p>
-<p>Ms Shanice Chong</p>
+<p>Ms Durgha Devi Subramaniam</p>
+<p>Mrs Chan Cheng Guan</p>
 </td>
 </tr>
 </tbody>
@@ -116,7 +118,11 @@ exercises which involve:</p>
 <img style="width: 75%;" height="auto" width="100%" src="/images/rg5.jpeg">
 </div>
 <h4><strong>Performances</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -141,7 +147,12 @@ exercises which involve:</p>
 </tbody>
 </table>
 <h4><strong>CCA Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -162,7 +173,10 @@ exercises which involve:</p>
 <p>National School Games 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -183,7 +197,10 @@ exercises which involve:</p>
 <p>2020 RG Virtual Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
