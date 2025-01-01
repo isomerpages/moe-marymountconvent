@@ -27,7 +27,11 @@ sports competitions.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,9 +62,9 @@ sports competitions.</p>
 <p><strong>Teacher OIC</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Harvinder Singh (OIC)</p>
-<p>Mrs Yu Kai Ling (2IC)</p>
-<p>Ms Tien Siew Ling</p>
+<p>Mr Phui Yu Jim (OIC)</p>
+<p>Ms Tien Siew Ling (2IC)</p>
+<p>Mrs Yu Kai Ling</p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +93,12 @@ rally in a pre-determined number of times with an opponent.</p>
 <br>Pupils reflect on the day’s activities and the transfer of the value to
 their daily life.&nbsp;</p>
 <h4><strong>CCA Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
