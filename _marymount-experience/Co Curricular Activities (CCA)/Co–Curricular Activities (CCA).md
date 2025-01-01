@@ -29,11 +29,9 @@ and nation.</p>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/art-club/" rel="noopener nofollow" target="_blank">ART CLUB</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cca2" src="/images/cca2.jpg">
-</div>
-<p>ARTISTIC GYMNASTICS</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/artistic-gymnastics/"><img style="width: 100%" height="auto" width="100%" alt="cca2" src="/images/cca2.jpg"></a>
+<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/artistic-gymnastics/" rel="noopener nofollow" target="_blank">ARTISTICS GYMNASTICS</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
