@@ -12,7 +12,11 @@ of activities, including conducting science experiments and attending learning
 journeys to science-related destinations. Students of Science Club will
 have opportunities to share their knowledge with their peers and to participate
 in team projects.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,6 +44,7 @@ in team projects.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Elaine Han (OIC)</p>
 <p>Mr Paul Teo (2IC)</p>
+<p>Ms Karin Lee</p>
 </td>
 </tr>
 </tbody>
