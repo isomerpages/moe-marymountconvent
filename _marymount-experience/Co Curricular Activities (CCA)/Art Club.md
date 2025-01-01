@@ -20,7 +20,11 @@ to create their artwork.</p>
 genres. Art Club also provides opportunities for students to display school
 values, develop their socio-emotional learning (SEL) competencies and nurture
 them into confident 21st century young artists.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -50,21 +54,12 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Tian Nu Dulcia (OIC)</p>
-<p>Ms Prisca Fernandez (OIC)</p>
+<p>Mrs Julia Chua (OIC)</p>
+<p>Mrs Eswarren Raj (2IC)</p>
+<p>Ms Prisca Fernandez</p>
+<p>Ms Ong Tian Nu Dulcia</p>
 <p>Mdm Rachel Leow</p>
-<p>Mrs Kasthuri Bai</p>
-<p>Mdm Tan Li Kiang</p>
-<p>Ms A Ha Serene Nabiesah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p>Mrs Adeline Choo</p>
 </td>
 </tr>
 </tbody>

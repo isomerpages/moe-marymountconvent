@@ -30,7 +30,11 @@ to put up performances at school events.</p>
 <p></p>
 <p>This fun, vibrant CCA not only moulds our girls to be exemplary performers
 but it also teaches them to be dedicated, disciplined and resilient.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
