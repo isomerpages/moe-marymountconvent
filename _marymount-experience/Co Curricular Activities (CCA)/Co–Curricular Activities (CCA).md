@@ -17,9 +17,8 @@ and nation.</p>
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -33,16 +32,18 @@ and nation.</p>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/artistic-gymnastics/" rel="noopener nofollow" target="_blank">ARTISTICS GYMNASTICS</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/badminton/"><img style="width: 100%" height="auto" width="100%" alt="cca3" src="/images/badminton.jpeg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/badminton/" rel="noopener nofollow" target="_blank">BADMINTON</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/brownies/"><img style="width: 100%" height="auto" width="100%" alt="cca3" src="/images/cca3.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/brownies/" rel="noopener nofollow" target="_blank">BROWNIES</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/choir/"><img style="width: 100%" height="auto" width="100%" alt="cca4" src="/images/cca4.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/choir/" rel="noopener nofollow" target="_blank">CHOIR</a>
 </p>
@@ -64,16 +65,18 @@ and nation.</p>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/innoplay/" rel="noopener nofollow" target="_blank">INNOPLAY</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/netball/"><img style="width: 100%" height="auto" width="100%" alt="cca8" src="/images/cca8.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/netball/" rel="noopener nofollow" target="_blank">NETBALL</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/orators-club/"><img style="width: 100%" height="auto" width="100%" alt="cca6" src="/images/cca6.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/orators-club/" rel="noopener nofollow" target="_blank">ORATOR'S CLUB</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/percussion-ensemble/"><img style="width: 100%" height="auto" width="100%" alt="cca9" src="/images/cca9.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/percussion-ensemble/" rel="noopener nofollow" target="_blank">PERCUSSION ENSEMBLE</a>
 </p>
@@ -84,7 +87,7 @@ and nation.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/rope-skipping/"><img style="width: 100%" height="auto" width="100%" alt="cca10" src="/images/cca10.jpg"></a>
+<td rowspan="1" colspan="1">
 <p><a href="https://marymountconvent.moe.edu.sg/rope-skipping/" rel="noopener nofollow" target="_blank">ROPE SKIPPING</a>
 </p>
 </td>
@@ -92,9 +95,14 @@ and nation.</p>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/science-club/" rel="noopener nofollow" target="_blank">SCIENCE CLUB</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/tennis/"><img style="width: 100%" height="auto" width="100%" alt="cca11" src="/images/cca11.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/tennis/" rel="noopener nofollow" target="_blank">TENNIS</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
