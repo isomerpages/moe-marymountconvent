@@ -93,41 +93,6 @@ and adopting a clean, green and sustainable lifestyle.</p>
 <img style="width:75%;" height="auto" width="100%" src="/images/ess5.jpg">
 </div>
 <h4><strong>CCA Achievements</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Level (Div)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Environment Quiz&nbsp;2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Isabelle Ho&nbsp;
-<br>13<sup>th</sup>&nbsp;Place (Individual)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>World Water Day</strong> 
 <br>On World Water Day, our club members took charge of the water rationing
 activities during recess. They also shared a presentation about the importance
