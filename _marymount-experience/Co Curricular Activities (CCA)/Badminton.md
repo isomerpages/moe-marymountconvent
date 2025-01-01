@@ -18,7 +18,11 @@ will be encouraged to participate in National School Games.</p>
 </div>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,9 +47,8 @@ will be encouraged to participate in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Yu Jim (OIC)</p>
+<p>Ms Melissa Chong (OIC)</p>
 <p>Mdm Sathya (2IC)</p>
-<p>Ms Melissa Chong</p>
 </td>
 </tr>
 </tbody>
