@@ -25,11 +25,9 @@ and nation.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/cca1.jpg">
-</div>
-<p>ART CLUB</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/art-club/"><img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/cca1.jpg"></a>
+<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/art-club/" rel="noopener nofollow" target="_blank">ART CLUB</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
