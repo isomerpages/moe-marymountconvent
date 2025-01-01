@@ -3,64 +3,121 @@ title: Co–Curricular Activities (CCA)
 permalink: /marymount-experience/co-curricular-activities-cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
-<p>CCAs are an integral part of our pupils’ holistic education. Our philosophy of CCA is for our girls/pupils to discover their interests and talents while developing values and competencies that will prepare them for the rapidly changing world.&nbsp;</p>
-<p>We recognise that participation through CCA fosters social integration as pupils build friendships that are not bound by their diverse backgrounds while they learn, play and grow together. It also deepens the girls’ / pupils’ sense of belonging, commitment and responsibility to school, community and nation.</p>
-
+<p>CCAs are an integral part of our pupils’ holistic education. Our philosophy
+of CCA is for our girls/pupils to discover their interests and talents
+while developing values and competencies that will prepare them for the
+rapidly changing world.&nbsp;</p>
+<p>We recognise that participation through CCA fosters social integration
+as pupils build friendships that are not bound by their diverse backgrounds
+while they learn, play and grow together. It also deepens the girls’ /
+pupils’ sense of belonging, commitment and responsibility to school, community
+and nation.</p>
+<p>
 <br>
-<table style="border-collapse: collapse; width: 100%; height: 90px;" border="1">
-  <tbody>
-    <tr>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/art-club"><img src="/images/cca1.jpg" alt="c1"></a> ART CLUB
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/artistic-gymnastics"><img src="/images/cca2.jpg" alt="cca2"></a>ARTISTIC GYMNASTICS
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/badminton"><img src="/images/badminton.jpeg" alt="cca3"></a>BADMINTON
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 33.3333%; text-align: center;">
-				<a href="/marymount-experience/co-curricular-activities-cca/brownies"><img src="/images/cca3.jpg" alt="cca3"></a>BROWNIES
-				</td>
-				<td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/choir"><img src="/images/cca4.jpg" alt="cca4"></a>CHOIR
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/dance-ensemble"><img src="/images/cca5.jpg" alt="cca5"></a>DANCE ENSEMBLE
-      </td>
-    </tr>
-    <tr>
-					<td style="width: 33.3333%; text-align: center;">
-				 <a href="/marymount-experience/co-curricular-activities-cca/drame-club"><img src="/images/cca6.jpg" alt="cca6"></a>DRAMA CLUB
-			</td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/environmental-science-club/"><img src="/images/Env3.jpeg" alt="cca7"></a>ENVIRONMENTAL SCIENCE CLUB
-      </td>      
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/innoplay/"><img src="/images/innoplay.png" alt="cca8"></a>INNOPLAY
-      </td>
-    </tr>
-    <tr>
-			   <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/netball/"><img src="/images/cca8.jpg" alt="cca8"></a>NETBALL
-			  </td><td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/percussion-ensemble"><img src="/images/cca9.jpg" alt="cca9"></a>PERCUSSION ENSEMBLE
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/rhythmic-gymnastics"><img src="/images/cca10.jpg" alt="cca10"></a>RHYTHMIC GYMNASTICS
-      </td>
-		</tr>
-		<tr>
-			  <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/science-club"><img src="/images/science.jpg" alt="c1"></a> SCIENCE CLUB
-      </td>
-      <td style="width: 33.3333%; text-align: center;">
-        <a href="/marymount-experience/co-curricular-activities-cca/tennis"><img src="/images/cca11.jpg" alt="cca11"></a>TENNIS
-      </td>
-    </tr>
-  </tbody>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/cca1.jpg">
+</div>
+<p>ART CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca2" src="/images/cca2.jpg">
+</div>
+<p>ARTISTIC GYMNASTICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca3" src="/images/badminton.jpeg">
+</div>
+<p>BADMINTON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca3" src="/images/cca3.jpg">
+</div>
+<p>BROWNIES</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca4" src="/images/cca4.jpg">
+</div>
+<p>CHOIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca5" src="/images/cca5.jpg">
+</div>
+<p>DANCE ENSEMBLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marymount-experience/co-curricular-activities-cca/orators-club/"><img style="width: 100%" height="auto" width="100%" alt="cca6" src="/images/cca6.jpg"></a>
+<p>ORATOR'S CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca7" src="/images/Env3.jpeg">
+</div>
+<p>ENVIRONMENTAL SCIENCE CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca8" src="/images/innoplay.png">
+</div>
+<p>INNOPLAY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca8" src="/images/cca8.jpg">
+</div>
+<p>NETBALL</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca9" src="/images/cca9.jpg">
+</div>
+<p>PERCUSSION ENSEMBLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca10" src="/images/cca10.jpg">
+</div>
+<p>RHYTHMIC GYMNASTICS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/science.jpg">
+</div>
+<p>SCIENCE CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cca11" src="/images/cca11.jpg">
+</div>
+<p>TENNIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
