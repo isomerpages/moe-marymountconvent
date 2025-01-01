@@ -22,7 +22,11 @@ real-world problems, providing innovative solutions through a structured
 thinking process. This blend of entertainment and education not only nurtures
 critical thinking but also inspires students to become innovative problem
 solvers, equipping them with skills that will serve them well.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,8 +53,7 @@ solvers, equipping them with skills that will serve them well.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jane Chen (OIC)</p>
-<p>Ms Lam Shuzhen (2IC)</p>
-<p>Mr Mohd Faizal</p>
+<p>Ms Shanice Chong (2IC)</p>
 </td>
 </tr>
 </tbody>
