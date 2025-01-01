@@ -29,7 +29,11 @@ useful life of upholding the Brownie Motto – LEND A HAND.</p>
 <p>Brownies enjoy working for interest badges and awards that will help them
 develop new skills. Some examples of badges include craft, artist, environmentalist,
 pathfinder, music lover, cook and many more!</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -56,9 +60,9 @@ pathfinder, music lover, cook and many more!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azimah (OIC)
-<br>Mrs Rebecca Goh (2IC)</p>
-<p>Mrs Long Hui Lin</p>
+<p>Mrs Rebecca Goh (OIC)
+<br>Mrs Long Hui Lin (2IC)</p>
+<p>Mdm Lee Phui Hong</p>
 </td>
 </tr>
 </tbody>
