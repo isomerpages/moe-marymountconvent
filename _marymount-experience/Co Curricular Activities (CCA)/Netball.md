@@ -23,7 +23,11 @@ twice a week. Recreation Team will train once a week on Mondays.</p>
 <br>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,12 +59,12 @@ p.m. to 4.15 p.m.&nbsp;<strong>(Recreation)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Wilfred (OIC)</p>
-<p>Mr Chan Jian Yi (2IC)</p>
-<p>Mrs Qiaolin Joel</p>
+<p>Mr Chan Jian Yi (OIC)</p>
+<p>Mr Wildred Aaron Nathan (2IC)</p>
+<p>Mr Mohammad Faizal Bin Ramli</p>
 <p>Ms Novia Aw</p>
-<p>Mrs Sheila Bala</p>
-<p>Ms Yeo Sheue Yann</p>
+<p>Ms Alicia Gomes</p>
+<p>Mrs Valerie Ng</p>
 </td>
 </tr>
 </tbody>
@@ -107,7 +111,12 @@ striving for excellence!</p>
 to broaden their range of experience. They always enjoy the time spent
 together competing as a team!</p>
 <h4><strong>CCA Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
