@@ -51,10 +51,9 @@ the 3Rs: Reduce, Reuse and Recycle.</p>
 <p><strong>Teacher OIC</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Evelyn Chia (OIC)</p>
 <p>Mrs Low York Sheng (OIC)</p>
-<p>Ms Joanna Aw</p>
-<p>Mrs Adeline Choo</p>
+<p>Ms Joanna Aw (2IC)</p>
+<p>Mrs Sheila Bala</p>
 </td>
 </tr>
 </tbody>
