@@ -66,14 +66,15 @@ to 4.15pm<strong>&nbsp;(Recreation)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Tan (OIC)</p>
-<p>Ms Leny Nuurlina (2IC)</p>
+<p>Ms Leny Nuurlina (OIC)</p>
+<p>Mr Eugene Tan (2IC)</p>
 <p>Ms Claudia Kiang</p>
 <p>Mdm Nazhatulshima</p>
+<p>Ms Loh Soo Gek</p>
 <p>Ms Pang Rui Ting</p>
 <p>Ms Jasmine Tan</p>
 <p>Ms Sharryl Tang</p>
-<p>Ms Serene Chua</p>
+<p>Ms Serene Nabiesah</p>
 </td>
 </tr>
 </tbody>
