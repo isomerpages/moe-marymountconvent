@@ -43,11 +43,9 @@ and nation.</p>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/brownies/" rel="noopener nofollow" target="_blank">BROWNIES</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cca4" src="/images/cca4.jpg">
-</div>
-<p>CHOIR</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/choir/"><img style="width: 100%" height="auto" width="100%" alt="cca4" src="/images/cca4.jpg"></a>
+<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/choir/" rel="noopener nofollow" target="_blank">CHOIR</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
