@@ -30,7 +30,11 @@ CCA sessions on Fridays if they must prepare for public performances.</p>
 <img style="width:75%;" height="auto" width="100%" src="/images/En5.jpeg">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -56,8 +60,7 @@ CCA sessions on Fridays if they must prepare for public performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yiang Hoon (OIC)
-<br>Miss Irene Leong (2IC)</p>
-<p>Miss Cheryl Huin</p>
+<br>Miss Cheryl Huin (2IC)</p>
 </td>
 </tr>
 </tbody>
