@@ -4,8 +4,7 @@ permalink: /marymount-experience/curriculum/character-and-citizenship-education-
 description: ""
 variant: tiptap
 ---
-<p><strong>Marymount Convent School&nbsp;</strong>
-</p>
+<h4><strong>Marymount Convent School&nbsp;</strong></h4>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
