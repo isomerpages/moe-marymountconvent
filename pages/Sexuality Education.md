@@ -4,25 +4,6 @@ permalink: /marymount-experience/curriculum/character-and-citizenship-education-
 description: ""
 variant: tiptap
 ---
-<p><strong>Information on MOE Sexuality Education to be posted on</strong>
-</p>
-<p><strong>Primary Schools’ Websites for 2025</strong>
-</p>
-<p></p>
-<p><u>Important Instructions</u>
-</p>
-<p>This document aims to assist you in updating your school’s Sexuality Education
-webpage. &nbsp;Please follow the given instructions carefully:</p>
-<p><u>Customise</u> those portions highlighted in yellow according to your
-school’s Sexuality Education programme.</p>
-<p><u>Copy-and-paste</u> the given information onto your school’s website
-to ensure that <u>all</u> updates have been included.</p>
-<p><u>Ensure</u> that the information uploaded is in a non-editable and non-downloadable
-format, with the exception of the parent opt-out forms, which <u>must be</u> in
-PDF format.</p>
-<p><u>Insert and activate</u> the relevant hyperlinks stated in the document.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Marymount Convent School&nbsp;</strong>
 </p>
 <p><strong>Moe Sexuality Education in Schools</strong>
