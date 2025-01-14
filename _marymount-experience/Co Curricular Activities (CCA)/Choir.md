@@ -103,7 +103,7 @@ classical and contemporary choral works, as well as folk music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/CAT_A1_03_Marymount_Convent_Choir_Clean_7.jpg">
 </div>
-<p><strong>Voices of Singapore Festival </strong>
+<p><strong>Voices of Singapore Festival</strong>
 </p>
 <p>With its exquisite Gothic-style design and excellent acoustics, our choristers
 enjoy a beautiful choral experience performing in a non-competitive setting
