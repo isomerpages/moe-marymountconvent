@@ -54,10 +54,10 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Julia Chua (OIC)</p>
+<p>Ms Julia Teng (OIC)</p>
 <p>Mrs Eswarren Raj (2IC)</p>
 <p>Ms Prisca Fernandez</p>
-<p>Ms Ong Tian Nu Dulcia</p>
+<p>Ms Dulcia Ong</p>
 <p>Mdm Rachel Leow</p>
 <p>Mrs Adeline Choo</p>
 </td>
