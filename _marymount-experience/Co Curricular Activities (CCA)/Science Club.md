@@ -33,7 +33,7 @@ in team projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Lab</p>
+<p>Computer Lab 3 (Level 3) or Science Lab (Level 4)</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ in team projects.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Elaine Han (OIC)</p>
 <p>Mr Paul Teo (2IC)</p>
-<p>Ms Karin Lee</p>
+<p>Mrs Ong-Low York Sheng</p>
 </td>
 </tr>
 </tbody>
