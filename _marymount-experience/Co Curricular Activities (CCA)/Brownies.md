@@ -122,4 +122,3 @@ a performance for the concert.</p>
 <img style="width: 50%;" height="auto" width="100%" src="/images/br7.jpg">
 </div>
 <p></p>
-<p></p>
