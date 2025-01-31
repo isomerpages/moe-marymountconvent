@@ -9,11 +9,10 @@ variant: tiptap
 <img style="width: 75%;" height="auto" width="100%" src="/images/Agym2.jpeg">
 </div>
 <h4><strong>Artistic Gymnastics: Where Strength Meets Grace</strong></h4>
-<p>&nbsp;</p>
-<p>Artistic Gymnastics is a dynamic and challenging sport that demands strength,
-flexibility, and coordination. Our CCA offers a unique opportunity for
-students to develop their physical skills while cultivating valuable life
-lessons.</p>
+<p>&nbsp;Artistic Gymnastics is a dynamic and challenging sport that demands
+strength, flexibility, and coordination. Our CCA offers a unique opportunity
+for students to develop their physical skills while cultivating valuable
+life lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Agym1.jpeg">
@@ -25,12 +24,11 @@ goals. Discipline and time management become essential tools, as they balance
 training, schoolwork, and personal life. Teamwork and communication are
 also fostered, as gymnasts support each other, provide feedback, and work
 together towards common goals.</p>
-<p>&nbsp;</p>
-<p>As our gymnasts progress, they develop confidence and self-esteem, cultivating
-a growth mindset that embraces challenges and celebrates successes. Artistic
-Gymnastics also promotes physical and mental well-being, helping students
-develop strength, flexibility, and coordination while managing stress and
-pressure.</p>
+<p>&nbsp;As our gymnasts progress, they develop confidence and self-esteem,
+cultivating a growth mindset that embraces challenges and celebrates successes.
+Artistic Gymnastics also promotes physical and mental well-being, helping
+students develop strength, flexibility, and coordination while managing
+stress and pressure.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Agym5.jpeg">
