@@ -5,30 +5,39 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/br1.jpg">
-</div>
 <h4><strong>CCA Information</strong></h4>
-<p>As Marymount Convent School’s only Uniformed Group (UG), Brownies are
-encouraged to explore and discover the world around them and to become
-individuals that are more confident. Brownies learn to work and play independently
-and also in teams. They are constantly learning new skills and are challenged
-to try new and adventurous activities that will inspire them to think about
-what they want to be and do in the future.</p>
+<p>Welcome to the <strong>Brownies</strong> - a vibrant and adventurous group
+under <strong>Girl Guides Singapore</strong> for Primary 3 to Primary 6 girls!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Br2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_04_at_3_36_45_PM__2_.jpg">
 </div>
-<p>Brownies are guided by a comprehensive 5-Point Programme, which develops
-them in the following areas: Personal &amp; Social Development, Home, Outdoor,
-Community and International. Students will go through a series of educational
-and fun activities during weekly CCA meetings to learn about leading a
-useful life of upholding the Brownie Motto – LEND A HAND.</p>
+<p>Being a Brownie is all about <strong>learning, growing, and making a difference</strong> in
+our school and community. Through <strong>games, outdoor activities, and hands-on projects</strong>,
+Brownies develop important life skills like teamwork, leadership, and creativity.
+Whether it’s <strong>camping under the stars, learning first aid, baking treats, or giving back to the community</strong>,
+every activity is an opportunity to <strong>discover, explore, and shine</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Br1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_20_at_8_04_16_AM.jpg">
 </div>
-<p>Brownies enjoy working for interest badges and awards that will help them
-develop new skills. Some examples of badges include craft, artist, environmentalist,
-pathfinder, music lover, cook and many more!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_20_at_3_46_37_PM.jpg">
+</div>
+<p></p>
+<p>At the heart of Brownies is the <strong>Brownie Promise and Law</strong>,
+guiding each girl to be <strong>kind, responsible, and always ready to lend a helping hand</strong>.
+Along the way, they earn <strong>badges</strong> that recognize their achievements
+in areas like <strong>science, nature, the arts, and more</strong> - turning
+every learning moment into an exciting challenge!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_20_at_3_47_05_PM.jpg">
+</div>
+<p>Joining the Brownies isn’t just about having fun - it’s about guiding
+our girls to become the best version of themselves, while making unforgettable
+memories with lifelong friends in Marymount Convent School.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -51,7 +60,7 @@ pathfinder, music lover, cook and many more!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2G Classroom</p>
+<p>Dance Room (Blk D, Level 2)</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +71,7 @@ pathfinder, music lover, cook and many more!</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Rebecca Goh (OIC)
 <br>Mrs Long Hui Lin (2IC)</p>
-<p>Mdm Lee Phui Hong</p>
+<p>Mrs Sheila Bala</p>
 </td>
 </tr>
 </tbody>
@@ -82,7 +91,6 @@ activities include outdoor trekking and Zumba.&nbsp;</p>
 <img style="width: 50%;" height="auto" width="100%" src="/images/br3.jpeg">
 </div>
 <p><strong>National Brownies Revel and South Division Day</strong>
-<br>
 </p>
 <p>Brownies go for nationwide competition during the National Brownies Revel
 and join in activities on South Division Day. We also get ourselves involved
@@ -113,4 +121,5 @@ a performance for the concert.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br7.jpg">
 </div>
+<p></p>
 <p></p>
