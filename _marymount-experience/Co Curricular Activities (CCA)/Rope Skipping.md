@@ -40,7 +40,7 @@ fun and rewarding CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Rooms</p>
+<p>PE Area</p>
 </td>
 </tr>
 <tr>
