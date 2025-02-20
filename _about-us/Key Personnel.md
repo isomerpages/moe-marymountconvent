@@ -307,7 +307,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Science</strong>
+<p><strong>Senior Teacher - Higher Ability Learners</strong>
 </p>
 </td>
 </tr>
@@ -317,7 +317,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_sue_ning_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Han Sue Ning Elaine</a>
+<p><a href="mailto:lee_karin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Karin Lee</a>
 </p>
 </td>
 </tr>
@@ -327,18 +327,36 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Art</strong>
+<p><strong>Senior Teacher - Science</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_york_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong - Low York Sheng</a>
+<p><a href="mailto:han_sue_ning_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Han Sue Ning Elaine</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:low_york_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong - Low York Sheng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher - Art</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:teng_poh_yin_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Julia Chua</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
