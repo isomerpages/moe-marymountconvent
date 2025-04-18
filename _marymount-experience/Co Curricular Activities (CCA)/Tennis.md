@@ -10,17 +10,14 @@ variant: tiptap
 </div>
 <h4><strong>CCA Information</strong></h4>
 <p>The Tennis CCA aims to equip all our students with the necessary skills,
-knowledge and attitudes that are required of a Tennis player. Students
+knowledge and attitudes that are required of a tennis player. Students
 learn basic tennis skills such as forehand, backhand and serve, and also
-learn to play in modified matches in singles and doubles. Students who
-are skillful and proficient in the gameplay may be selected to represent
-the school to participate in the National School Games.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Ten2.jpeg">
-</div>
-<p>Through the trainings, the students will develop good character including
-sportsman qualities such as sportsmanship, fair play etc. through healthy
-sports competitions.</p>
+learn to play in modified singles and doubles matches. Students who are
+skillful and proficient in the gameplay may be selected to represent the
+school to participate in the National School Games.</p>
+<p>Through trainings sessions and competitions, the students will develop
+good character traits such as sportsmanship.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Ten4.jpeg">
 </div>
@@ -41,9 +38,7 @@ sports competitions.</p>
 <td rowspan="1" colspan="1">
 <p><strong>P3 – P6</strong>
 <br>Friday
-<br>2.15 p.m. – 4.15 p.m. <strong>(School Team) </strong>
-<br>2.15 p.m. – 4.15 p.m. <strong>(Recreational Team)</strong>
-</p>
+<br>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -52,9 +47,7 @@ sports competitions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH <strong>(School Team) </strong>
-<br>ISH and Netball Court <strong>(Recreational Team)</strong>
-</p>
+<p>Netball Court</p>
 </td>
 </tr>
 <tr>
@@ -73,57 +66,17 @@ sports competitions.</p>
 <p><strong>Warm Up</strong>
 <br>At the start of every CCA session, pupils will perform a series of warm
 up exercises to increase blood flow to the muscles and to prevent injuries.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ten2.jpg">
-</div>
+<p></p>
 <p><strong>Practice</strong>
 <br>Pupils are divided into groups depending on their ability levels. Pupils
-practise their forehand, backhand and serve. Both teachers and the coach
-provide feedback on their technique.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ten.jpg">
-</div>
+practise their forehand, backhand and serve. Teachers provide feedback
+on their technique.&nbsp;</p>
+<p></p>
 <p><strong>Game</strong>
 <br>Pupils put their skills into practice in a game of “Jail”. Pupils will
 rally in a pre-determined number of times with an opponent.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/ten3.jpg">
-</div>
+<p></p>
 <p><strong>Reflection</strong>
 <br>Pupils reflect on the day’s activities and the transfer of the value to
 their daily life.&nbsp;</p>
-<h4><strong>CCA Achievements</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Level (Div)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Tennis Championship 2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>

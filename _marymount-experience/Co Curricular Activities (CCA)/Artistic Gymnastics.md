@@ -72,7 +72,7 @@ expert coaching, and a journey of growth, learning, and achievement!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Teachers</strong>
+<p><strong>Teachers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
