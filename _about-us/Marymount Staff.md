@@ -235,8 +235,7 @@ variant: tiptap
 <p><a href="mailto:subathira_d_o_barathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Subathira d/o Barathan</a>
 </p>
 <p></p>
-<p><a href="mailto:yeo_shu_li_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amanda Yeo</a>
-</p>
+<p>Ms Amanda Yeo</p>
 </td>
 </tr>
 <tr>
