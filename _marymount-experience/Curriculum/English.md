@@ -67,9 +67,20 @@ peers in class, and representatives from each class would do similarly
 during assembly, to a wider audience. With the shift to e-assembly, our
 students design a deck of slides to accompany their speeches, making their
 presentations even more engaging to the audience.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/el1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/20250203_072329.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
+</div>
+<p></p>
+<p></p>
 <p><strong><u>MCS Reading Programme</u></strong>
 </p>
 <p>This programme aims to introduce students to different genres and inculcate
@@ -77,7 +88,7 @@ in them a love for reading. Through a series of lessons, students will
 read for enjoyment and explore the common features and thematic elements
 of various genres. The lessons are designed not only to engage, delight
 and entertain pupils, but also to teach and reinforce values.</p>
-<p><strong><u>Termly Early Bird English Book Sharing</u></strong>
+<p><strong><u>Termly English Book Sharing</u></strong>
 </p>
 <p>In each term, we introduce new genres and recommend good reads to our
 students. The focus of each term is as follows.</p>
@@ -85,9 +96,7 @@ students. The focus of each term is as follows.</p>
 <p>Term 2: Books on the Environment</p>
 <p>Term 3: Books by Local Authors</p>
 <p>Term 4: Realistic Fiction Genre</p>
-<p>The termly book sharing is done during the school’s Early Bird Programme
-(a programme that meaningfully engages our students before school starts).
-The books that we recommend can be found in our school library so that
+<p>The books that we recommend can be found in our school library so that
 students have access to them. More information on MCS’ library programmes
 may be found at the following link:&nbsp;<a href="/marymount-experience/mcs-library" rel="noopener noreferrer nofollow" target="_blank">https://marymountconvent.moe.edu.sg/marymount-experience/mcs-library</a>
 </p>
