@@ -14,10 +14,10 @@ description: ""
 <p>Halal Stall – Rice / Noodles</p>
 </li>
 <li>
-<p>International Korean / Japanese (Halal or Non-Halal)</p>
+<p>International Korean (Halal or Non-Halal)</p>
 </li>
 </ol>
-<p><strong>Closing Date for Application: 31 July 2024</strong>
+<p><strong>Closing Date for Application: 31 July 2025</strong>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
@@ -58,8 +58,8 @@ email OR to the School's General Office.</p>
 <p>Contact No: 6256 6701</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">mmcs@moe.edu.sg</a>
 </p>
-<p><strong>(Email Subject: ATTN: Mdm Janice Pang – Application for Canteen Stall)</strong>&nbsp;</p>
-<p>Contact Person: Mdm Janice Pang (Administration Manager)&nbsp;</p>
+<p><strong>(Email Subject: ATTN: Mdm Anna Tan, Vice-Principal: Application for Canteen Stall)</strong>&nbsp;</p>
+<p>Contact Person: Mdm Anna Tan, Vice-Principal</p>
 <p><strong>How to get here?&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
