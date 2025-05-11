@@ -68,9 +68,5 @@ only.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Child Consent Portal</strong></h4>
-<p>For parents who do not have SingPass access to log into the Child Consent
-Portal:</p>
-<p>FormSG link for Primary 1 students only -&nbsp;<a href="https://go.gov.sg/pri-consent-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pri-consent-form</a>
-<br>FormSG link for Primary 2 to Primary 6 students -&nbsp;<a href="https://go.gov.sg/2024-pri-imm-consent" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<h4></h4>
+<p></p>
