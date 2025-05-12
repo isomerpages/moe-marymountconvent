@@ -120,7 +120,7 @@ artists to showcase their work. It is also a good platform to expose students
 to art appreciation using thinking routines.</p>
 <p>The exhibition is segmented into two showcases – featuring selected curriculum
 artworks from the P1 to P6 and selected artworks from Art Club.&nbsp;</p>
-<p><strong><u>Our MCS Gallery</u></strong>
+<p><strong>Our MCS Gallery</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -142,29 +142,9 @@ artworks from the P1 to P6 and selected artworks from Art Club.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>MCS Recess Performance</strong>
-</p>
-<p>Our students brought vibrant energy and talent to the school during the
-Recess Performance Showcase, where they performed for their peers in a
-lively and supportive atmosphere. From melodic renditions on musical instruments
-to heartfelt vocal performances, each act reflected the students’ dedication
-and passion for the performing arts. The initiative provided a platform
-for students to share their gifts beyond the classroom, and it was heartening
-to see how warmly their peers received them—cheering, clapping, and showing
-enthusiastic support throughout. The performances not only brightened up
-the recess break but also fostered a strong sense of camaraderie and school
-spirit among the student body.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241008_102402.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241008_102102.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0112.jpg">
-</div>
+<p></p>
 <h4></h4>
 <p></p>
