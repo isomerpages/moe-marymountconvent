@@ -59,6 +59,7 @@ or competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/mt1.png">
 </div>
+<p></p>
 <p><u>Festive Celebrations<br></u>In the Marymount Family, we learn to respect
 different races and cultures. Festivals are the best platforms to learn
 to appreciate others’ cultures and traditions. When friends from other
@@ -75,6 +76,9 @@ them too!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241028_WA0018.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250407_WA0025.jpg">
 </div>
 <p></p>
@@ -82,86 +86,16 @@ them too!</p>
 for language learning. In Marymount, we aim to bring about a vibrant reading
 environment to support our pupils’ learning. The reading programme includes
 reading workshops for parents, scheduled library visits, class library,
-book fairs, reading projects and more!</p>
+reading projects and more!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/mt5.jpg">
 </div>
-<h4><strong>Our Mother Tongue Talent Development Programmes</strong></h4>
-<p><strong>Our Philosophy</strong>
+<h4></h4>
+<p>
+<br>
+<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Believe that every pupil is endowed with talent in specific domains and
-can be developed into her fullest potential;</p>
-</li>
-<li>
-<p>Strive to enable each pupil to discover and develop her core academics
-talents;</p>
-</li>
-<li>
-<p>Believe in empowering every pupil to enhance their strengths and pursue
-their passions for lifelong learning.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Tl1.jpeg">
-</div>
-<p><strong>Our Approach<br></strong>Our Mother Tongue Talent Development
-Programme aims to provide opportunities for P3 – P5 pupils who have the
-passion and desire in Mother Tongue to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>explore and deepen their interest in Mother Tongue;</p>
-</li>
-<li>
-<p>broaden their exposure in Mother Tongue-related disciplines;</p>
-</li>
-<li>
-<p>be creative and eloquent speakers;</p>
-</li>
-<li>
-<p>interact and collaborate with other budding Mother Tongue talents.</p>
-</li>
-</ul>
-<p>The programme seeks to develop pupils who</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>demonstrates a keen interest in Mother Tongue (e.g. by active participation
-in Mother Tongue-related enrichment activities, projects or competitions);</p>
-</li>
-<li>
-<p>obtained excellent results in school-based Mother Tongue assessments;
-and</p>
-</li>
-<li>
-<p>has a good record in Conduct.&nbsp;</p>
-</li>
-</ul>
-<p>As part of their development, pupils in our Mother Tongue Talent Development
-Programme can look forward to participation in the following:</p>
-<p><strong>Speech and Drama (P1 and P2)</strong>
-</p>
-<p>We aim to ignite our young pupils’ passion in their Mother Tongue languages
-through in-curriculum Speech and Drama courses. The opportunity to present
-before an audience would also build pupils’ confidence in speaking the
-languages. This is in line with our school’s vision of nurturing our pupils
-to be eloquent speakers.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/mt6.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/mt7.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/mt8.jpg">
-</div>
 <p></p>
