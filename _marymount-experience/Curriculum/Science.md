@@ -134,7 +134,7 @@ their passions for lifelong learning.</p>
 </li>
 </ul>
 <p>Our Science Talent Development Programme aims to provide opportunities
-for P3 – P6 pupils who have the passion and desire in Science to:</p>
+for P4 – P6 pupils who have the passion and desire in Science to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>explore and deepen their interest in Science;</p>
