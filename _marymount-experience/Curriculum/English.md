@@ -80,7 +80,6 @@ presentations even more engaging to the audience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
 </div>
 <p></p>
-<p></p>
 <p><strong><u>MCS Reading Programme</u></strong>
 </p>
 <p>This programme aims to introduce students to different genres and inculcate
@@ -161,3 +160,8 @@ our students will explore different text types and genres of writing. They
 will produce a portfolio of writing pieces that capture their personal
 voice, interest and style. Some students may also&nbsp;have the opportunity
 to participate in international writing competitions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0100.jpg">
+</div>
+<p></p>
