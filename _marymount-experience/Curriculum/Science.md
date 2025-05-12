@@ -156,12 +156,14 @@ during class discussions / science related activities during recess or
 curriculum.)</p>
 </li>
 <li>
-<p>obtained excellent results in school-based science assessments; and</p>
-</li>
-<li>
-<p>has a good record in Conduct.</p>
+<p>displays strong aptitude in Science in school-based science assessments</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240215_WA0017.jpg">
+</div>
+<p></p>
 <p>As part of their development, pupils in our Science Talent Development
 Programme can look forward to participation in the following:</p>
 <div class="isomer-image-wrapper">
@@ -181,112 +183,12 @@ resourcefulness, critical and inventive thinking, and effective communication
 skills in our pupils.</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci7.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250313_WA0090.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci8.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci9.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Young Scientists at work</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Creative solutions by pupils</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Testing out solutions</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>P5 Science Olympiad Training</u>
-</p>
-<p>The Science Olympiad Programme follows closely the MOE Primary Science
-syllabus and a typical primary Science Olympiad syllabus. Central to the
-programme structure is the inculcation of the spirit of scientific inquiry
-through inquiry-based instruction.</p>
-<p>The duration of each lesson is typically 2 hours, filled with hands-on
-inquiry-based experiments, followed by typical Science Olympiad MCQ questions.
-The whole programme also aimed to develop the various scientific process
-skills which are essential in any science curriculum.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci10.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci11.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Proving Scientific Laws</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Investigating how sound travels</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>P5 South Zone Cluster Run Workshops</u>
-</p>
-<p>A series of various workshops to raise pupils’ awareness and interest
-in the learning of Sciences. The series of workshops will focus on both
-Life and Physical Sciences activities and experiments and is open to High-Progress
-pupils from Primary 5 classes in the S3 cluster primary schools.</p>
-<p>Participating pupils can look forward to completing various scientific
-tasks, experiments and hands-on challenges. Through their participation,
-it is hoped that students will appreciate the academic and humanistic aspects
-of Sciences and enjoy the process of exploring and enquiring science through
-fun and engaging experiences.</p>
-<p><strong>Interacting and collaborating with science talents in the cluster</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/sci12.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/sci13.jpeg">
-</div>
-<p><strong>Investigating Time</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/sci14.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/sci15.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250314_WA0041.jpg">
 </div>
 <p></p>
