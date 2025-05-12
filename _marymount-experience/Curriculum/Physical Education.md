@@ -35,14 +35,18 @@ agencies.</p>
 <img style="width:75%;" height="auto" width="100%" src="/images/Pe2.jpeg">
 </div>
 <h4><strong>Our Department Programmes</strong></h4>
-<p><strong>Sports Day</strong>
+<p><strong>Mini Sports Day</strong>
 </p>
-<p>Sports Day is an annual event for our Primary 3 to 6 students where they
-showcase their athletic talents on the track. In light of the COVID-19
-pandemic, it was Sports Day in a different format where sporting challenges
-were held in school.</p>
+<p>To provide our students with opportunities to showcase their sporting
+talents, they participate in Mini Sports Day activities that have been
+specially-curated for the different age groups. It also helps them build
+camaraderie among their House mates and school spirit.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ped2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241003_WA0037.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241003_085927.jpg">
 </div>
 <p><strong>Outdoor Adventure Camp</strong>
 </p>
@@ -51,37 +55,45 @@ Through outdoor adventure camps, students learn about themselves, build
 friendship amongst their team and actively help each other to achieve team
 goals in an inclusive manner. In addition, they get to understand the importance
 of caring for the environment.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/ped3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250226_WA0117.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/ped4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250226_WA0051.jpg">
 </div>
-<p><strong>Outdoor Treks</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250224_WA0223.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250224_WA0176.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250224_WA0188.jpg">
+</div>
+<p><strong>P6 Outdoor Experience</strong>
 </p>
 <p>Students participate in outdoor experiences that help build their confidence
 and resilience, forge camaraderie with others through common experiences
 and cultivate responsible citizenry and affinity for Singapore. This will
 help to build a foundation for active and healthy living for our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/ped5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0091.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0057.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0054.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/ped6.jpg">
-</div>
-<p><strong>Mini Sports Day</strong>
-</p>
-<p>To provide P1 &amp; P2 students with opportunities to showcase their sporting
-talents, they participate in Mini Sports Day activities that are suited
-to their age and capability. It also helps them build camaraderie among
-their House mates and school spirit.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ped7.png">
-</div>
+<p></p>
 <p></p>
