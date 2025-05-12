@@ -120,6 +120,33 @@ artists to showcase their work. It is also a good platform to expose students
 to art appreciation using thinking routines.</p>
 <p>The exhibition is segmented into two showcases – featuring selected curriculum
 artworks from the P1 to P6 and selected artworks from Art Club.&nbsp;</p>
+<p><strong>MCS-Toa Payoh National Library Exhibition</strong>
+</p>
+<p>This exhibition celebrates the creativity and artistic talents of our
+girls, providing them with a valuable platform to showcase their work beyond
+the classroom. Each artwork reflects our students’ unique perspectives
+and their thoughtful expression of the world around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0065.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0068.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0074.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0083.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0086.jpg">
+</div>
+<p></p>
 <p><strong>Our MCS Gallery</strong>
 </p>
 <table style="minWidth: 50px">
