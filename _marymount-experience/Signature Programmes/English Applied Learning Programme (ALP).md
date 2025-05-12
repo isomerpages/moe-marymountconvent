@@ -73,6 +73,15 @@ up their sleeves to learn to make roti prata.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Language LJ/p2 roti prata 2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0078.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/IMG_20240918_WA0023.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Talent Development Programme</strong> - There are other platforms
