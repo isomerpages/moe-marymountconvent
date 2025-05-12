@@ -45,9 +45,7 @@ for the pupils.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/ml1.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>Our Department Programmes</strong></h4>
 <p><strong><u>Mother Tongue Fortnight</u></strong>
 <br>
@@ -68,9 +66,7 @@ them too!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/mt2.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/mt3.jpg">
 </div>
