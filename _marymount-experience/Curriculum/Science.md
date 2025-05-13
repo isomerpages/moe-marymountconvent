@@ -12,7 +12,7 @@ leverages on and seeks to fuel this spirit of curiosity providing the students
 with learning opportunities in valuing science as an important tool in
 helping them explore their natural and physical world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/sc1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/sc1.jpeg">
 </div>
 <h4><strong>Our Approach</strong></h4>
 <p>The Department inculcates in our learners the spirit of scientific inquiry.
@@ -20,7 +20,7 @@ Pupils embark on experiential learning, which heightens their curiosity
 about the world around them, and become equipped with relevant process
 skills and attitudes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/sc2.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/sc2.jpeg">
 </div>
 <h4><strong>Our Department Programmes</strong></h4>
 <p><u>Inquiry Based Lessons</u>
@@ -161,7 +161,7 @@ curriculum.)</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240215_WA0017.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240215_WA0017.jpg">
 </div>
 <p></p>
 <p>As part of their development, pupils in our Science Talent Development
@@ -185,7 +185,10 @@ skills in our pupils.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250313_WA0090.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250313_WA0090.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250313_WA0110.jpg">
+</div>
 <p></p>
