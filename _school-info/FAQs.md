@@ -22,7 +22,8 @@ check MOE’s website for the vacancies available.
 a Catholic school, there are spirituality development programmes for Catholic
 students. These include the weekly Catholic Values Education lessons, masses
 held once a month on Fridays at 7.00 a.m., holy days of obligation masses,
-penitential services and retreats etc.
+penitential services and retreats etc.</p>
+<p>
 <br>Non-Catholic students have the option of attending the Values Education
 programme instead of the Catholic Values Education Programme.</p>
 <p><strong>I would like to apply for Leave of Absence (LOA) for my child. How should I go about with the application? <br></strong>You

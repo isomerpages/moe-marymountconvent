@@ -4,21 +4,18 @@ permalink: /school-info/schoolcanteen/
 variant: tiptap
 description: ""
 ---
+<p>Our school canteen offers a wide variety of tasty and affordable food
+options that cater to the diverse needs of our students. With a focus on
+promoting healthy eating habits, the meals are thoughtfully prepared to
+be both nutritious and balanced. Students can enjoy delicious food choices
+each day, all at pocket-friendly prices that support their well-being and
+energy throughout the school day.</p>
+<p></p>
+<p></p>
 <p><strong>Opening for School Canteen Stalls</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Chinese Noodles Stall</p>
-</li>
-<li>
-<p>Halal Stall – Rice / Noodles</p>
-</li>
-<li>
-<p>International Korean / Japanese (Halal or Non-Halal)</p>
-</li>
-</ol>
-<p><strong>Closing Date for Application: 31 July 2024</strong>
-</p>
+<p>There are currently <strong>no</strong> vacancies for canteen stalls.</p>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -58,8 +55,7 @@ email OR to the School's General Office.</p>
 <p>Contact No: 6256 6701</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">mmcs@moe.edu.sg</a>
 </p>
-<p><strong>(Email Subject: ATTN: Mdm Janice Pang – Application for Canteen Stall)</strong>&nbsp;</p>
-<p>Contact Person: Mdm Janice Pang (Administration Manager)&nbsp;</p>
+<p></p>
 <p><strong>How to get here?&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
