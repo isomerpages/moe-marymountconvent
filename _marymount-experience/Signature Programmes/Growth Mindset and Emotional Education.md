@@ -17,6 +17,10 @@ very qualities that predict the flourishing of ability over time. On the
 other hand, people with fixed mindsets believe their intelligence or talent
 alone creates success – without effort. A fixed mindset turns pupils away
 from learning, even when that learning is crucial to their future success.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250312_WA0087.jpg">
+</div>
 <p>At MCS, we unpack the strategies required to cultivate a Growth Mindset
 through:</p>
 <ol data-tight="true" class="tight">
