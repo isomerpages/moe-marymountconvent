@@ -17,7 +17,6 @@ very qualities that predict the flourishing of ability over time. On the
 other hand, people with fixed mindsets believe their intelligence or talent
 alone creates success – without effort. A fixed mindset turns pupils away
 from learning, even when that learning is crucial to their future success.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250312_WA0087.jpg">
 </div>
@@ -52,6 +51,11 @@ Mindset in our learners.</p>
 <p>• Develops adaptive thinking and resourcefulness in problem solving</p>
 <p>• Improves academic performance and achievement</p>
 <p>• Prepares students for future success in a VUCA and BANI world</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250502_075106.jpg">
+</div>
+<p></p>
 <p><strong>Goals and Objectives of the Implementation</strong>
 </p>
 <p>School Strategic Goal:</p>
