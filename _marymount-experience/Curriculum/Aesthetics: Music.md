@@ -11,11 +11,11 @@ expression, allowing them to communicate through music and able to appreciate
 local and global music. The music curriculum also provides the basis to
 develop an informed and life-long involvement in music for our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Mu1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Mu1.jpeg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Mu2.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Mu2.jpeg">
 </div>
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Music Curriculum</strong>
@@ -97,7 +97,7 @@ programmes as below.</p>
 </p>
 <p>Selected levels showcase their instrumental pieces during school events.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/mu7.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/mu7.jpg">
 </div>
 <p>P2 pupils performing their mixed-instrumental piece</p>
 <p><strong>MCS’ Got Talent</strong>
@@ -109,15 +109,15 @@ audition process with a solo or ensemble performance. Students who are
 successful in the audition, will get to showcase their performance during
 Teachers’ Day celebration and/or other events.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240829_094103.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20240829_094103.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240829_092130.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20240829_092130.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240829_WA0053.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240829_WA0053.jpg">
 </div>
 <p><strong>MCS Recess Performance</strong>
 </p>
@@ -133,18 +133,18 @@ the recess break but also fostered a strong sense of camaraderie and school
 spirit among the student body.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241008_102402.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20241008_102402.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0112.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0112.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250310_094918.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250310_094918.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241008_102102.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20241008_102102.jpg">
 </div>
 <p></p>
