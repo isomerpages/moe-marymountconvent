@@ -17,7 +17,7 @@ We also seek to engage our pupils in an active and interactive manner in
 the teaching and learning process, allowing our learners to experience
 joy of learning while catering to their diverse learning needs.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Cl1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Cl1.jpeg">
 </div>
 <h4><strong>Our Approach</strong></h4>
 <ul data-tight="true" class="tight">
@@ -43,7 +43,7 @@ for the pupils.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ml1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/ml1.jpeg">
 </div>
 <p></p>
 <h4><strong>Our Department Programmes</strong></h4>
@@ -64,18 +64,18 @@ to appreciate others’ cultures and traditions. When friends from other
 races celebrate the festivals close to their hearts, we share the joy with
 them too!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/mt2.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/mt2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/mt3.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/mt3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241028_WA0018.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20241028_WA0018.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250407_WA0025.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250407_WA0025.jpg">
 </div>
 <p></p>
 <p><strong><u>Library Programmes<br></u></strong>Reading is the foundation
@@ -84,7 +84,7 @@ environment to support our pupils’ learning. The reading programme includes
 reading workshops for parents, scheduled library visits, class library,
 reading projects and more!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/mt5.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/mt5.jpg">
 </div>
 <h4></h4>
 <p>
