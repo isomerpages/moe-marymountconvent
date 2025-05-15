@@ -12,13 +12,13 @@ our students to appreciate the nuances of the English language, develop
 critical thinking skills and equip them with the necessary competencies
 that are essential for communicating in the real world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(9).jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(9).jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(14).jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(14).jpg">
 </div>
 <h4><strong>Our Approach</strong></h4>
 <p>We use Strategies for English Language Learning and Reading (STELLAR)
@@ -29,7 +29,7 @@ speaking, reading, viewing and writing into the language learning process.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(12).jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(12).jpg">
 </div>
 <p>
 <br>
@@ -69,15 +69,15 @@ students design a deck of slides to accompany their speeches, making their
 presentations even more engaging to the audience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/20250203_072329.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/20250203_072329.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
 </div>
 <p></p>
 <p><strong><u>MCS Reading Programme</u></strong>
@@ -162,6 +162,6 @@ voice, interest and style. Some students may also&nbsp;have the opportunity
 to participate in international writing competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0100.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0100.jpg">
 </div>
 <p></p>
