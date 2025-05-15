@@ -8,7 +8,7 @@ variant: tiptap
 <p>Our Foundress Day and Prize Giving Ceremony is held on 22 April every
 year.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/pg1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250424_WA0196.jpg">
 </div>
 <p>As we celebrate Foundress Day, we look to St Mary Euphrasia's strength,
 determination and faith in God, to make a difference, even in the face
