@@ -14,12 +14,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sp1.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/sp1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sp2.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/sp2.jpg">
 </div>
 </td>
 </tr>
@@ -29,6 +29,25 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LEARNING FOR LIFE PROGRAM (SPORTS &amp; OUTDOOR EDUCATION)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250502_WA0002.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GROWTH MINDSET AND EMOTIONAL EDUCATION (GEM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
