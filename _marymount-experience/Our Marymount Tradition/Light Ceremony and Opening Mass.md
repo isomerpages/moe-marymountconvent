@@ -69,7 +69,6 @@ into our school family in Primary 1. For the next five years here, she
 is reminded of the love she receives from God through this family, and
 how she can spread this love to others. This is a beautiful tradition which
 we want all our students to remember fondly.”</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250116_083645.jpg">
 </div>
@@ -78,7 +77,6 @@ said, “Being new to the school, this was my first time taking part in the
 Light Ceremony. I was touched when the hymns were being played. I felt
 that it was a meaningful experience for the girls and staff as all of them,
 Catholics and non-Catholics alike, especially at the start of the year.”</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250116_083702.jpg">
 </div>
@@ -90,7 +88,6 @@ and to share God’s Light with others through our gifts, our strengths and
 values, especially with our students and the whole school community.</p>
 <p><em>This article was first published on Catholic News on 26 January 2022. The photos are taken from 2023 Light Ceremony.</em>
 </p>
-<p></p>
 <h4><strong>Opening Mass</strong></h4>
 <p>At Marymount Convent School, the academic year begins with the Light Ceremony
 and Opening Mass, a cherished tradition that unites the school community
