@@ -47,7 +47,7 @@ Mindset in our learners.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/GEM.png">
 </div>
 <p></p>
-<p>We believed that Growth Mindset are important as:</p>
+<p>We believe that Growth Mindset are important as it:</p>
 <p>• Enhances student motivation and engagement</p>
 <p>• Promotes resilience in face of challenges</p>
 <p>• Fosters a love for learning and self-improvement</p>
