@@ -91,13 +91,11 @@ values, especially with our students and the whole school community.</p>
 <p><em>This article was first published on Catholic News on 26 January 2022. The photos are taken from 2023 Light Ceremony.</em>
 </p>
 <p></p>
-<h4>Opening Mass</h4>
-<p></p>
-<p>At Marymount Convent School, the academic year begins with the Opening
-Mass, a cherished tradition that unites the school community in faith and
-purpose. Held early in the school year, this Mass sets a reflective and
-hopeful tone for the months ahead.</p>
-<p></p>
+<h4><strong>Opening Mass</strong></h4>
+<p>At Marymount Convent School, the academic year begins with the Light Ceremony
+and Opening Mass, a cherished tradition that unites the school community
+in faith and purpose. Held early in the school year, this Mass sets a reflective
+and hopeful tone for the months ahead.</p>
 <p>During the Opening Mass, students, teachers, and staff come together to
 seek blessings for the new academic journey. The ceremony includes prayers,
 hymns, and readings that emphasize the school's values of compassion, eloquence,
@@ -109,3 +107,4 @@ the entire Marymount family to reaffirm their shared mission and to inspire
 one another to live out the school's ethos in their daily lives. By commencing
 the year with this solemn and unifying event, Marymount Convent School
 underscores the importance of faith and community in its educational approach.</p>
+<p></p>
