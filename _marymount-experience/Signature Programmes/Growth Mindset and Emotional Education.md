@@ -35,6 +35,9 @@ communication.</p>
 (Social and Emotional Learning) competencies</p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250328_WA0022.jpg">
+</div>
 <p>Our approach equips students with effective effort and strategies aligned
 to the development of a Growth Mindset. This is illustrated in the diagrams
 below, which demonstrates how these elements work together to foster Growth
@@ -51,11 +54,9 @@ Mindset in our learners.</p>
 <p>• Develops adaptive thinking and resourcefulness in problem solving</p>
 <p>• Improves academic performance and achievement</p>
 <p>• Prepares students for future success in a VUCA and BANI world</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250502_075106.jpg">
 </div>
-<p></p>
 <p><strong>Goals and Objectives of the Implementation</strong>
 </p>
 <p>School Strategic Goal:</p>
@@ -71,6 +72,9 @@ growth.</p>
 <p>5. Enhance students' self-reflection and metacognitive skills.</p>
 <p>6. Develop students' ability to set and pursue meaningful, challenging
 goals by being adaptive.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250404_WA0011.jpg">
+</div>
 <p>To create a growth-oriented and intellectually safe learning environment.</p>
 <p>To provide structured opportunities to apply and process GEM learning
 in identified opportunities in co-curriculum.</p>
@@ -79,11 +83,7 @@ students' awareness of their own emotions.</p>
 <p>To refine and implement tiered leadership development programmes which
 promote GEM in student leaders.</p>
 <p>Engage parents in supporting growth mindset development at home.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250502_WA0002.jpg">
+</div>
 <p></p>
