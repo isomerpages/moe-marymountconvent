@@ -125,14 +125,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leow_guet_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rachel Leow</a>
 </p>
-<p></p>
-<p>Mrs Lina Goh</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2G</p>
+<p>G</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:sri_kala_sankaran_nair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sri Kala Sankaran Nair</a>
@@ -610,8 +607,7 @@ variant: tiptap
 <p>(School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto: tan_li_choo_alice@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Li Choo</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
