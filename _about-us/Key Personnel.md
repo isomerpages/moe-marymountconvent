@@ -53,7 +53,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Henry Loh</p>
+<p><a href="mailto: loh_yeh_chang_henry@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Henry Loh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:andrew_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Yong</a>
