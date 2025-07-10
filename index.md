@@ -17,5 +17,5 @@ sections:
       button: Click here for registration
       url: https://go.gov.sg/mcsopenhouse2025
       alt: Image alt text
-      image: /images/Outreach_Poster__3_.png
+      image: /images/Outreach_Poster_Updated.jpg
 ---
