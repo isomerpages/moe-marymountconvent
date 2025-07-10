@@ -13,7 +13,7 @@ locations:
         time: 6.30 a.m. to 6.00 p.m.
         description: (School Days)
       - days: Monday to Friday
-        time: 7.00 a.m. to 5.30 p.m.
+        time: 8.00 a.m. to 5.00 p.m.
         description: (School Holidays, closed on Public Holidays)
     maps_link: https://goo.gl/maps/H3W2GPV6AU1raZE5A
     title: Address
@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: +65 6256 6701
       - email: mmcs@moe.edu.sg
-      - other: "Bus Services: 54, 851"
+      - other: "Bus Services: 54, 59, 141, 230, 231, 851"
     title: Telephone
   - content:
       - phone: +65 6254 3080
@@ -43,4 +43,5 @@ contacts:
       - email: ""
       - other: https://www.schoolbag.edu.sg/
     title: Schoolbag - The Education News
+feedback: ""
 ---
