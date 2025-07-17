@@ -82,10 +82,14 @@ of them in training!</p>
 support means our netballers are able to manage their tough schedule of
 both academic rigor, CCA training and competing in the National School
 Games.</p>
-<p><em>Photo 1</em>
-</p>
-<p><em>Photo 2</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2.jpg">
+</div>
 <p><em>Couldn’t have done it without the support of the parents!</em>
 </p>
 <p></p>
@@ -94,8 +98,14 @@ Games.</p>
 and effort spent in training not only during CCA sessions but also during
 recess and holiday training during competition periods. They are always
 striving for excellence!</p>
-<p><em>Photo 3, Photo 4 (side by side)</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/3.jpg">
+</div>
 <p><em>Our netballers training hard and listening to feedback from coach.</em>
 </p>
 <p></p>
@@ -105,16 +115,22 @@ striving for excellence!</p>
 to help out in training to pass on their knowledge and love for the sport
 to their juniors. Some of them, like Jamie Lim, play at the highest level,
 representing Singapore at international tournaments!</p>
-<p><em>Photo 5</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/5.jpg">
+</div>
 <p><em>Jamie Lim, National Team GD/GK, giving the girls some advice in training.</em>
 </p>
-<p><em>Photo 6</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/6.jpg">
+</div>
 <p><em>Alumni come back to train their juniors even during the holidays.</em>
 </p>
-<p><em>Photo 7</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/7.jpg">
+</div>
 <p><em>With a heart of gratitude, the alumni netballers display what it means to be servant leaders.</em>
 </p>
 <p></p>
@@ -124,12 +140,20 @@ representing Singapore at international tournaments!</p>
 sport from different aspects. They learn the rules and regulations and
 review matches that they have played to continually improve their performance
 as a team.</p>
-<p><em>Photo 8</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/8.jpg">
+</div>
 <p><em>Our senior girls reviewing the previous match for both good performance and areas for improvement.</em>
 </p>
-<p><em>Photo 9, Photo 10 (side by side)</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/9.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/10.jpg">
+</div>
 <p><em>Our girls study basic rules and regulations and work together to revise different team strategies.</em>
 </p>
 <p><em>&nbsp;</em>
@@ -139,19 +163,19 @@ as a team.</p>
 to broaden their range of experience. Even non-school team players have
 an opportunity to compete in external netball carnivals. They always enjoy
 the time spent together competing as a team!</p>
-<p><em>Photo 11</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/11.jpg">
+</div>
 <p><em>Our netballers shooting confidently with their team behind them.</em>
 </p>
-<p><em>Photo 12</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/12.jpg">
+</div>
 <p><em>Our netballers fly in to receive the pass!</em>
 </p>
 <p>
-<br>
+<br><strong>CCA Achievements</strong>
 </p>
-<p></p>
-<h4><strong>CCA Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
