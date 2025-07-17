@@ -41,6 +41,9 @@ and nation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Brownies/COVER_FOR_BROWNIES.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/COVER_FOR_BROWNIES.jpg">
 </div>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/brownies/" rel="noopener nofollow" target="_blank">BROWNIES</a>
