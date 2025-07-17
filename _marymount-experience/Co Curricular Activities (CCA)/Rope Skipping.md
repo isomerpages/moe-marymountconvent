@@ -5,19 +5,35 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cover_Picture.jpg">
+</div>
+<p></p>
 <h4><strong>CCA Information</strong></h4>
 <p>The inauguration of the Rope Skipping CCA provides students opportunities
 to develop their skills, build fitness, and participate in competitive
 activities on national platforms.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_01_27_at_3_48_57_PM.jpg">
+</div>
 <p>Through teamwork, communication, and collaboration, students forge relationships
 both within and outside the school. Most importantly, rope skipping helps
 students establish a healthy lifestyle and unlock their potential to shine
 and excel.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_01_27_at_4_19_49_PM__1_.jpg">
+</div>
 <p>We welcome passionate and dedicated students to join and explore this
 fun and rewarding CCA.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_01_27_at_3_30_09_PM.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
