@@ -32,7 +32,7 @@ variant: tiptap
 <p>Tel No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6464 0111</p>
+<p>6382 6789 Ext 203</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Email Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sales@oapl.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.oapl.sg/outlets/mcs" rel="noopener" target="_blank">https://www.pacificbookstores.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.oapl.sg/outlets/mcs</a></strong>
 </p>
 </th>
 </tr>
