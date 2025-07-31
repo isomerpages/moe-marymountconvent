@@ -15,7 +15,7 @@ variant: tiptap
 <p>Textbooks&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pacific Bookstores Pte Ltd</p>
+<p>Overseas Associates Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -23,7 +23,8 @@ variant: tiptap
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Arumugam Road Lion Building C #08-01 Singapore 409958</p>
+<p>7030 Ang Mo Kio Ave 5, #04-56 Northstar@AMK Singapore 569880</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ variant: tiptap
 <p>Tel No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6464 0111</p>
+<p>6382 6789 Ext 203</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,7 @@ variant: tiptap
 <p>Email Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sales@oapl.sg</a>
 </p>
 </td>
 </tr>
@@ -48,7 +49,9 @@ variant: tiptap
 <p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 5pm (Mon - Fri)</p>
+<p>School Term</p>
+<p>8 a.m. to 3 p.m. (Mon - Fri)</p>
+<p>excluding weekends, school holidays and public holidays</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +59,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.pacificbookstores.com/" rel="noopener" target="_blank">https://www.pacificbookstores.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.oapl.sg/outlets/mcs</a></strong>
 </p>
 </th>
 </tr>
@@ -68,11 +71,6 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<h4><strong>School Bookshop</strong></h4>
-<p>Opening Hours During School Term (excluding weekends, school holidays
-and public holidays):</p>
-<p>Monday - Friday (8.30am to 2.30pm)</p>
-<p>Lunch Hour: 12.30pm to 1.30pm (bookshop closed)</p>
 <h4><strong>Booklist - 2025</strong></h4>
 <p><a href="/files/Booklist 2025/P1__2025___1_.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
