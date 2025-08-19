@@ -26,8 +26,10 @@ penitential services and retreats etc.</p>
 <p>
 <br>Non-Catholic students have the option of attending the Values Education
 programme instead of the Catholic Values Education Programme.</p>
-<p><strong>I would like to apply for Leave of Absence (LOA) for my child. How should I go about with the application? <br></strong>You
-can apply for Leave of Absence (LOA) through this link: <a href="https://form.gov.sg/60c819094dac2c0011872546" rel="noopener noreferrer nofollow" target="_blank"><br>Leave of Absence Form</a>
+<p><strong>I would like to apply for Leave of Absence (LOA) for my child. How should I go about with the application? <br></strong>Singapore
+Citizens and Singapore PR are eligible to apply for LOA if they fulfil
+the criteria as indicated on MOE website (<a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme</a>).&nbsp;&nbsp;</p>
+<p>You can apply for Leave of Absence (LOA) through this link: <a href="https://go.gov.sg/hiaqez" rel="noopener noreferrer nofollow" target="_blank"><br>Leave of Absence Form</a>
 </p>
 <p><strong>Where can I find out more about Education in Singapore?<br></strong> You
 can follow <a href="https://www.facebook.com/moesingapore/" rel="noopener noreferrer nofollow" target="_blank">MOE Facebook</a>,
