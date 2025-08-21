@@ -36,10 +36,17 @@ speaking, reading, viewing and writing into the language learning process.</p>
 </p>
 <p><strong>1. Reading @ MCS<br></strong>Reading is the cornerstone of acquiring
 language skills. Students are encouraged to engage in book exploration
-during their reading and library periods. Our school library hosts games
-and activities that excite our students to read and share their love for
-books with their peers. We organise book talks by authors, who share the
-process behind writing good stories.</p>
+during their reading and library periods.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250117_132416.jpg">
+</div>
+<p>Our school library hosts games and activities that excite our students
+to read and share their love for books with their peers. We organise book
+talks by authors, who share the process behind writing good stories.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250117_131319.jpg">
+</div>
 <p>At the Upper Primary levels, the study of current affairs is integrated
 into the curriculum where students read about world news. They reflect
 on these and express their thoughts through journal writing.</p>
@@ -160,7 +167,6 @@ our students will explore different text types and genres of writing. They
 will produce a portfolio of writing pieces that capture their personal
 voice, interest and style. Some students may also&nbsp;have the opportunity
 to participate in international writing competitions.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0100.jpg">
 </div>
