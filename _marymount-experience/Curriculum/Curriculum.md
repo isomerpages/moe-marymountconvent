@@ -17,17 +17,13 @@ variant: tiptap
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/" rel="noopener nofollow" target="_blank">ENGLISH</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="c2" src="/images/c2.jpg">
-</div>
-<p>MATHEMATICS</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mathematics/"><img style="width: 90%;" height="auto" width="100%" alt="c2" src="/images/c2.jpg"></a>
+<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mathematics/" rel="noopener nofollow" target="_blank">MATHEMATICS</a>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="c3" src="/images/c3.jpg">
-</div>
-<p>SCIENCE</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/"><img style="width: 70%;" height="auto" width="100%" alt="c3" src="/images/c3.jpg"></a>
+<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/" rel="noopener nofollow" target="_blank">SCIENCE</a>
+</p>
 </td>
 </tr>
 <tr>
