@@ -12,7 +12,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/"><img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/c1.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/"><img style="width: 75%;" height="auto" width="100%" alt="c1" src="/images/c1.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/" rel="noopener nofollow" target="_blank">ENGLISH</a>
 </p>
 </td>
