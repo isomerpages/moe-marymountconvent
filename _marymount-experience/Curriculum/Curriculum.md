@@ -5,76 +5,76 @@ description: ""
 third_nav_title: Curriculum
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/"><img style="width: 75%;" height="auto" width="100%" alt="c1" src="/images/c1.jpg"></a>
-<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/" rel="noopener nofollow" target="_blank">ENGLISH</a>
-</p>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mathematics/"><img style="width: 90%;" height="auto" width="100%" alt="c2" src="/images/c2.jpg"></a>
-<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mathematics/" rel="noopener nofollow" target="_blank">MATHEMATICS</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/"><img style="width: 100%;" height="auto" width="100%" alt="c3" src="/images/c3.jpg"></a>
-<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/" rel="noopener nofollow" target="_blank">SCIENCE</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ENGLISH" src="/images/c1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ENGLISH</div><div class="isomer-card-description">Nuturing eloquent and confident communicators through a rich curriculum that emphasizes oracy, critical reading, and creative writing.</div><div class="isomer-card-link">English Homepage</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mathematics/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c4" src="/images/c4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MATHS" src="/images/c2.jpg">
 </div>
-<p>MOTHER TONGUE LANGUAGES</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MATHS</div>
+<div class="isomer-card-description">Empowering every student to become a confident problem solver and critical
+thinker by relating mathematical concepts to everyday life.</div>
+<div class="isomer-card-link">Mathematics Homepage</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCIENCE" src="/images/c3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SCIENCE</div><div class="isomer-card-description">Cultivates a spirit of inquiry and a love for discovery through hands-on, inquiry-based learning and the integration of scientific principles with real-world applications.</div><div class="isomer-card-link">Science Homepage</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mother-tongue-languages/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c5" src="/images/c5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MOTHER TONGUE LANGUAGES" src="/images/MTL___CL_Class__5____Copy.jpg">
 </div>
-<p>PHYSICAL EDUCATION</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MOTHER TONGUE LANGUAGES</div>
+<div class="isomer-card-description">Develops confident and culturally-aware communicators by cultivating a
+deep appreciation for students' heritage and values through the mastery
+of their mother tongue.</div>
+<div class="isomer-card-link">Mother Tongue Languages Homepage</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/physical-education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PHYSICAL EDUCATION" src="/images/Agym3.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PHYSICAL EDUCATION</div><div class="isomer-card-description">Promoting a healthy and active lifestyle while instilling essential values of sportsmanship, teamwork, and resilience in every student.</div><div class="isomer-card-link">PE Homepage</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/aesthetics-art/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c6" src="/images/c6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ART" src="/images/IMG_20240205_WA0023.jpg">
 </div>
-<p>ART</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART</div>
+<div class="isomer-card-description">Empowering students to express themselves creatively and critically, cultivating
+their visual literacy and aesthetic appreciation through various artistic
+mediums.</div>
+<div class="isomer-card-link">Art Homepage</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/aesthetics-music/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MUSIC" src="/images/WhatsApp_Image_2025_08_19_at_10_30_18.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MUSIC</div><div class="isomer-card-description">Nurturing creativity and confidence in every student by fostering a deep appreciation for music and empowering them to express themselves through performance and collaboration.</div><div class="isomer-card-link">Music Homepage</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/character-and-citizenship-education-cce/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c7" src="/images/c7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CHARACTER AND CITIZENSHIP EDUCATION DEPARTMENT" src="/images/IMG_20240808_WA0046.jpg">
 </div>
-<p>MUSIC</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CHARACTER AND CITIZENSHIP EDUCATION DEPARTMENT</div>
+<div class="isomer-card-description">Nurturing compassionate and responsible citizens by instilling strong
+moral values and fostering a commitment to serving their community and
+country.</div>
+<div class="isomer-card-link">CCE Homepage</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/information-communication-and-technology-ict/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="INFORMATION, COMMUNICATIONS AND TECHNOLOGY (ICT)" src="/images/IMG_20241008_WA0067.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">INFORMATION, COMMUNICATIONS AND TECHNOLOGY (ICT)</div><div class="isomer-card-description">Empowering students to be responsible and creative digital learners, equipping them with essential 21st-century skills for a technology-driven world.</div><div class="isomer-card-link">ICT Homepage</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/programme-for-active-learning-pal/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c8" src="/images/c8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PROGRAMME FOR ACTIVE LEARNING (PAL)" src="/images/IMG_20240220_WA0009.jpg">
 </div>
-<p>CHARACTER AND CITIZENSHIP EDUCATION (CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c9" src="/images/c9.jpg">
 </div>
-<p>INFORMATION, COMMUNICATION AND TECHNOLOGY (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c0" src="/images/c0.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">PROGRAMME FOR ACTIVE LEARNING (PAL)</div>
+<div class="isomer-card-description">Providing a holistic and hands-on education, nurturing creativity, confidence,
+and social-emotional development through engaging activities in sports,
+outdoor education, and the arts.</div>
+<div class="isomer-card-link">PAL Homepage</div>
 </div>
-<p>PROGRAMME FOR ACTIVE LEARNING (PAL)</p>
-</td>
-</tr>
-</tbody>
-</table>
+</a>
+</div>
 <p></p>
