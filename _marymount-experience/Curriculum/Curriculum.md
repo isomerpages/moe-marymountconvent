@@ -13,18 +13,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="href=&quot;/marymount-experience/curriculum/english"><img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/c1.jpg"></a>
-<p>ENGLISH</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/"><img style="width: 100%" height="auto" width="100%" alt="c1" src="/images/c1.jpg"></a>
+<p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/english/" rel="noopener nofollow" target="_blank">ENGLISH</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c2" src="/images/c2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="c2" src="/images/c2.jpg">
 </div>
 <p>MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c3" src="/images/c3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="c3" src="/images/c3.jpg">
 </div>
 <p>SCIENCE</p>
 </td>
