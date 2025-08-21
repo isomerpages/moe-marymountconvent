@@ -12,40 +12,32 @@ our students to appreciate the nuances of the English language, develop
 critical thinking skills and equip them with the necessary competencies
 that are essential for communicating in the real world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(9).jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(9).jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(14).jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(14).jpg">
 </div>
 <h4><strong>Our Approach</strong></h4>
 <p>We use Strategies for English Language Learning and Reading (STELLAR)
 as our primary approach to deliver the national curriculum. Lessons are
 further enriched by our school-based programmes that integrate listening,
 speaking, reading, viewing and writing into the language learning process.</p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(12).jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/New%20Photos/EL%20Class%20(12).jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>1. Reading @ MCS<br></strong>Reading is the cornerstone of acquiring
 language skills. Students are encouraged to engage in book exploration
 during their reading and library periods.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250117_132416.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250117_132416.jpg">
 </div>
 <p>Our school library hosts games and activities that excite our students
 to read and share their love for books with their peers. We organise book
 talks by authors, who share the process behind writing good stories.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250117_131319.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250117_131319.jpg">
 </div>
 <p>At the Upper Primary levels, the study of current affairs is integrated
 into the curriculum where students read about world news. They reflect
@@ -74,17 +66,16 @@ peers in class, and representatives from each class would do similarly
 during assembly, to a wider audience. With the shift to e-assembly, our
 students design a deck of slides to accompany their speeches, making their
 presentations even more engaging to the audience.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/20250203_072329.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_072329.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
 </div>
 <p></p>
 <p><strong><u>MCS Reading Programme</u></strong>
@@ -168,6 +159,6 @@ will produce a portfolio of writing pieces that capture their personal
 voice, interest and style. Some students may also&nbsp;have the opportunity
 to participate in international writing competitions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0100.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/IMG_20240508_WA0100.jpg">
 </div>
 <p></p>
