@@ -16,7 +16,7 @@ Thus, producing imaginative and creative work arising from mathematical
 ideas while developing the abilities to reason logically and communicate
 mathematically.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Maths1.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Maths1.jpeg">
 </div>
 <p><strong>Vision:<br></strong>Every MCS Girl a critical thinker and passionate
 mathematics learner.</p>
@@ -40,7 +40,7 @@ curriculum strives to enable every MCS girl to:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/math1.png">
+<img style="width: 90%;" height="auto" width="100%" src="/images/math1.png">
 </div>
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Concrete-Pictorial-Abstract (C-P-A) Approach</strong>
@@ -52,7 +52,7 @@ and understandings. From concrete manipulatives and experiences to pictorial
 representations, students are guided to uncover abstract mathematical concepts
 or results.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Maths2.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Maths2.jpeg">
 </div>
 <p></p>
 <p><strong>Pólya’s Four-step Problem-solving Strategy</strong>
@@ -66,15 +66,15 @@ and models thinking aloud to make visible the thinking process.</p>
 <br>4) Check and reflect.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240731_WA0011.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20240731_WA0011.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240802_WA0024.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IMG_20240802_WA0024.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240802_WA0033.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20240802_WA0033.jpg">
 </div>
 <p><strong>Reasoning &amp; Communication @ MCS</strong>
 </p>
@@ -88,7 +88,7 @@ They make connections between mathematical ideas and everyday life. In
 MCS, we believe that reasoning, communication and problem solving skills
 are essential to lifelong learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/math3.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/math3.jpg">
 </div>
 <h4><strong>Our Department Programmes</strong></h4>
 <p><strong>MCS MATHS STARS</strong>
@@ -96,7 +96,7 @@ are essential to lifelong learning.</p>
 <p>MCS Mathematics Students Taking Actions and Responsibility for Success
 <br>(MCS MATHS STARS)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" src="/images/MCS Bear.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Bear_Sticker.png">
 </div>
 <p>Objectives:</p>
 <ul data-tight="true" class="tight">
@@ -126,14 +126,14 @@ month. The genre of games will follow that of the In-Class Games closely,
 so as to give our students opportunities to practise what they have learnt
 in class.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/math6.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/math6.jpg">
 </div>
 <p>Game play promotes Mathematics Talk and gives pupils opportunities to
 explore fundamental number concepts and applying these concepts in a wide
 variety of contexts, in a fun and engaging way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240924_WA0023.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20240924_WA0023.jpg">
 </div>
 <h4><strong>Our Mathematics Talent Development Programmes</strong></h4>
 <p><strong>Our Philosophy</strong>
@@ -153,7 +153,7 @@ their passions for lifelong learning.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Maths4.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Maths4.jpeg">
 </div>
 <p><strong>Our Approach</strong>
 </p>
@@ -210,7 +210,7 @@ as well as to gain important 21st century competencies such as critical
 and inventive thinking and effective communication skills.&nbsp;</p>
 <p>This programme is conducted by trained Maths E2K teachers in the school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Maths3.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Maths3.jpeg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
