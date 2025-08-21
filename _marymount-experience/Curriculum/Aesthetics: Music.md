@@ -45,7 +45,7 @@ Xylophone&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Primary 2 – Glockenspiels</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/mu2.jpg">
 </div>
 </td>
 </tr>
@@ -93,6 +93,9 @@ Xylophone&nbsp;</p>
 <p>On top of the curriculum music lessons, MCS also provides opportunities
 for our students to showcase their performances through our signature music
 programmes as below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_10_30_18.jpg">
+</div>
 <p><strong>Level Performance&nbsp;</strong>
 </p>
 <p>Selected levels showcase their instrumental pieces during school events.</p>
