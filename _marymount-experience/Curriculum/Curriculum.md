@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Curriculum
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -21,18 +20,20 @@ variant: tiptap
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/mathematics/" rel="noopener nofollow" target="_blank">MATHEMATICS</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/"><img style="width: 70%;" height="auto" width="100%" alt="c3" src="/images/c3.jpg"></a>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/"><img style="width: 100%;" height="auto" width="100%" alt="c3" src="/images/c3.jpg"></a>
 <p><a href="https://marymountconvent.moe.edu.sg/marymount-experience/curriculum/science/" rel="noopener nofollow" target="_blank">SCIENCE</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="c4" src="/images/c4.jpg">
 </div>
 <p>MOTHER TONGUE LANGUAGES</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="c5" src="/images/c5.jpg">
@@ -59,25 +60,19 @@ variant: tiptap
 </div>
 <p>CHARACTER AND CITIZENSHIP EDUCATION (CCE)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="c9" src="/images/c9.jpg">
 </div>
 <p>INFORMATION, COMMUNICATION AND TECHNOLOGY (ICT)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="c0" src="/images/c0.jpg">
 </div>
 <p>PROGRAMME FOR ACTIVE LEARNING (PAL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
