@@ -29,9 +29,19 @@ forms and mediums.</p>
 their MCS Visual Journals. Through a progressive approach in the writing
 of their artist statements that accompanies every artwork created, students
 also learn to be critical thinkers by having a voice in their artworks.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Art2.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_14_48_04.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_14_48_05.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_14_48_45.jpg">
+</div>
+<p></p>
 <p>Here are some of the modules our students experience in the respective
 levels:&nbsp;</p>
 <table style="minWidth: 50px">
@@ -124,6 +134,7 @@ artists to showcase their work. It is also a good platform to expose students
 to art appreciation using thinking routines.</p>
 <p>The exhibition is segmented into two showcases – featuring selected curriculum
 artworks from the P1 to P6 and selected artworks from Art Club.&nbsp;</p>
+<p></p>
 <p><strong>MCS-Toa Payoh National Library Exhibition</strong>
 </p>
 <p>This exhibition celebrates the creativity and artistic talents of our
