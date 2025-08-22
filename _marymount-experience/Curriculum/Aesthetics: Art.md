@@ -39,9 +39,8 @@ also learn to be critical thinkers by having a voice in their artworks.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_14_48_45.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/art.jpg">
 </div>
-<p></p>
 <p>Here are some of the modules our students experience in the respective
 levels:&nbsp;</p>
 <table style="minWidth: 50px">
@@ -59,8 +58,10 @@ levels:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2 Amazing Hand – exploring pointillism</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/art2.jpg">
+<img style="width: 40%;" height="auto" width="100%" src="/images/art2.jpg">
 </div>
 </td>
 </tr>
