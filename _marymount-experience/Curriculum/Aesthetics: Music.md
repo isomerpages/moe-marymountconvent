@@ -11,12 +11,13 @@ expression, allowing them to communicate through music and able to appreciate
 local and global music. The music curriculum also provides the basis to
 develop an informed and life-long involvement in music for our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Mu1.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Mu1.jpeg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Mu2.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Mu2.jpeg">
 </div>
+<p></p>
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Music Curriculum</strong>
 </p>
@@ -94,7 +95,7 @@ Xylophone&nbsp;</p>
 for our students to showcase their performances through our signature music
 programmes as below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_10_30_18.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_10_30_18.jpg">
 </div>
 <p><strong>Level Performance&nbsp;</strong>
 </p>
