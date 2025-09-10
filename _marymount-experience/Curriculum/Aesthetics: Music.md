@@ -11,18 +11,44 @@ expression, allowing them to communicate through music and able to appreciate
 local and global music. The music curriculum also provides the basis to
 develop an informed and life-long involvement in music for our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Mu1.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Mu1.jpeg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Mu2.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Mu2.jpeg">
 </div>
+<p></p>
 <h4><strong>Our Approach</strong></h4>
 <p><strong>Music Curriculum</strong>
 </p>
 <p>Our music teachers strive to provide a student-centric curriculum through
 the Experience-Concept-Apply approach in our lesson modules. A range of
 musical instruments are also covered extensively in our curriculum as follows:</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mu1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 1 – Boomwhackers</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,7 +71,7 @@ Xylophone&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Primary 2 – Glockenspiels</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/mu2.jpg">
 </div>
 </td>
 </tr>
@@ -93,6 +119,9 @@ Xylophone&nbsp;</p>
 <p>On top of the curriculum music lessons, MCS also provides opportunities
 for our students to showcase their performances through our signature music
 programmes as below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_10_30_18.jpg">
+</div>
 <p><strong>Level Performance&nbsp;</strong>
 </p>
 <p>Selected levels showcase their instrumental pieces during school events.</p>
@@ -123,23 +152,20 @@ Teachers’ Day celebration and/or other events.</p>
 </p>
 <p>Our students brought vibrant energy and talent to the school during the
 Recess Performance Showcase, where they performed for their peers in a
-lively and supportive atmosphere. From melodic renditions on musical instruments
-to heartfelt vocal performances, each act reflected the students’ dedication
-and passion for the performing arts. The initiative provided a platform
-for students to share their gifts beyond the classroom, and it was heartening
-to see how warmly their peers received them—cheering, clapping, and showing
-enthusiastic support throughout. The performances not only brightened up
-the recess break but also fostered a strong sense of camaraderie and school
-spirit among the student body.</p>
-<p></p>
+lively and supportive atmosphere.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20241008_102402.jpg">
 </div>
-<p></p>
+<p>From melodic renditions on musical instruments to heartfelt vocal performances,
+each act reflected the students’ dedication and passion for the performing
+arts. The initiative provided a platform for students to share their gifts
+beyond the classroom, and it was heartening to see how warmly their peers
+received them—cheering, clapping, and showing enthusiastic support throughout.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0112.jpg">
 </div>
-<p></p>
+<p>The performances not only brightened up the recess break but also fostered
+a strong sense of camaraderie and school spirit among the student body.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250310_094918.jpg">
 </div>
