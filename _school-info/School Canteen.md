@@ -60,11 +60,13 @@ email OR to the School's General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Caldecott (Circle Line)</p>
+<p>Nearest MRT: Caldecott (Circle Line/ Thomson Line)</p>
 </li>
 <li>
-<p>Bus nos: 141 (From Toa Payoh Interchange) / 54 (From Bishan Interchange)
-/ 851 (From Yishun Interchange)</p>
+<p>Bus nos: 230 (looping Toa Payoh Station, Lor 8, 6 &amp; 7)/ 235 (looping
+Braddell Station, Lor 3 &amp; 5, Toa Payoh Int)/ 141 (From Toa Payoh Interchange)
+/ 54 (From Bishan Interchange) / 851 (From Yishun Interchange)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Interested Applicants must meet the following criteria:</strong>
