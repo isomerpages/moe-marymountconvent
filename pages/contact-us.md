@@ -21,12 +21,20 @@ contacts:
   - content:
       - phone: +65 6256 6701
       - email: mmcs@moe.edu.sg
-      - other: "Bus Services: 54, 59, 141, 230, 231, 851"
+      - other: ""
     title: Telephone
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Nearest MRT: Caldecott (Circle Line/ Thomson Line)  Bus nos: 230
+          (looping Toa Payoh Station, Lor 8, 6 & 7)/ 235 (looping Braddell
+          Station, Lor 3 & 5, Toa Payoh Int)/ 141 (From Toa Payoh Interchange) /
+          54 (From Bishan Interchange) / 851 (From Yishun Interchange)"
+    title: How to get here?
   - content:
       - phone: +65 6254 3080
       - email: ""
-      - other: "Nearest MRT: Caldecott"
+      - other: ""
     title: Fax
   - content:
       - phone: ""
