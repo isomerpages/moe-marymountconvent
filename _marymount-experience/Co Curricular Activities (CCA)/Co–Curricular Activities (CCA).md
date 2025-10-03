@@ -19,7 +19,7 @@ and nation.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/artistic-gymnastics/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artistic Gymnastics" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Artistic Gymnastics" src="/images/rg2.jpeg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,9 +27,9 @@ and nation.</p>
 <div class="isomer-card-description">The Artistic Gymnastics club develops strength, flexibility, and coordination
 as students master graceful routines on apparatus like the beam, bars,
 and vault, building discipline and resilience.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Artistic Gymnastics</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BADMINTON" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BADMINTON</div><div class="isomer-card-description">The Badminton club develops speed, agility, and precision through structured training focusing on footwork, technical skills, and match play. It aims to build physical fitness and instill values like discipline, resilience, and teamwork in all players.</div><div class="isomer-card-link">BADMINTON</div></div></a>
 </div>
 <p>
 <br>
