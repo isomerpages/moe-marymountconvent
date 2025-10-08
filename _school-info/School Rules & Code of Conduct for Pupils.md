@@ -4,4 +4,791 @@ permalink: /school-info/school-rules-code-of-conduct-for-pupils/
 description: ""
 variant: tiptap
 ---
-<p>In MCS, we believe strongly in the character building of every student. We celebrate their growth and ensure we inculcate strong values in our students. The Code of Conduct therefore serves to show our students the corresponding good behaviour one will demonstrate when they practise good values.</p><p>&nbsp;</p><table><tbody><tr><td rowspan="1" colspan="2"><p><strong>Rule 1 : Be Present and Punctual for all School Activities</strong></p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Attendance</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>1.1</p></td><td rowspan="1" colspan="1"><p>Students must enter the school premises and be seated in the hall/classroom before 7.35 a.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>1.2&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must be on time for CCAs, extra classes and all other activities.</p></td></tr><tr><td rowspan="1" colspan="1"><p>1.3&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must be present for all lessons unless there is a valid reason.</p><p>Students’ absence from lessons must be accompanied by a medical certificate or letter of excuse from parent / guardian and promptly submitted to the Form Teacher(s) on the day the student returns to school.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>1.4&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must remain within the school grounds once they have reported to&nbsp;school. They are not allowed to leave school without permission during curriculum hours, CCA or other after-school activities before they are dismissed.</p></td></tr><tr><td rowspan="1" colspan="1"><p>1.5</p></td><td rowspan="1" colspan="1"><p>Absence during Curriculum Time</p><p>The school does not condone absence from school during school term unless on medical grounds.&nbsp;</p><p>Parents / Guardians are not encouraged to plan for holidays, family activities or any trips such that students will miss lessons and school activities (CCAs, remedial and supplementary lessons, learning journeys, enrichments, post-exam activities, school events like Sports Day etc.) Approval to be away from school must be sought in writing from the Principal or Vice-Principal through Form Teacher and Year Head at least 1 week prior to any absence.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Rule 2: Be Respectful</strong></p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>General Conduct</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2.1&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students who are Singapore citizens must sing the National Anthem and</p><p>take the Pledge. Students will take the Pledge with the right fist placed over the heart. Students must stand at attention throughout the flag raising ceremony.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.2 &nbsp; &nbsp; &nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must show respect to all school staff and their peers at all times.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.3</p></td><td rowspan="1" colspan="1"><p>Students must respect all official documents and property belonging to others.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.4</p></td><td rowspan="1" colspan="1"><p>Students must display integrity at all times.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.5</p></td><td rowspan="1" colspan="1"><p>Students are expected to be loving and kind to others. They are not allowed to abuse anyone verbally, physically, or in written form both online and offline.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.6 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are not allowed to extort any items from anyone.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.7</p></td><td rowspan="1" colspan="1"><p>Students are not allowed to sell any items to other students.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.8</p></td><td rowspan="1" colspan="1"><p>All students must vacate the classroom during recess. Students are allowed in the&nbsp;classroom only when there is a teacher with them.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.9&nbsp; &nbsp; &nbsp; &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must switch off their mobile phones once they are in school. Recordings of any sort using their devices are not allowed.&nbsp;</p><p>They are allowed to use mobile phones to make calls to their family members only outside of curriculum time in the foyer.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.10&nbsp; &nbsp; &nbsp;</p><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are not allowed to bring electronic devices (iPADs, hand-held games, etc.), related accessories (headphones, earphones, speakers, etc.).</p><p>Students are not allowed to bring toys, any kind of card games such as gambling cards or any other items that may disrupt learning.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.11</p></td><td rowspan="1" colspan="1"><p>All students are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others.</p><p>Scissors are allowed during lessons under the permission and supervision of the teacher/ instructor.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Rule 3: Responsibility</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>3.1&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are to check their bags the night before to ensure that they have what they need with them. With the exception of medication and food for those requiring a special diet, other items will not be allowed to be dropped off at school. Parents will be requested to turn around with the items they have brought with them.</p></td></tr><tr><td rowspan="1" colspan="1"><p>3.2&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are responsible and accountable for the safekeeping of their personal belongings. They are to label all their personal belongings and not leave their belongings unattended.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Rule 4: Be Proud of My Work</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>4.1</p></td><td rowspan="1" colspan="1"><p>Students are to bring the required books / worksheets / materials for lessons.</p></td></tr><tr><td rowspan="1" colspan="1"><p>4.2&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must hand in all written assignments and projects on time.</p></td></tr><tr><td rowspan="1" colspan="1"><p>4.3&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are allowed to use only correction tape when correcting their work.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Rule 5: Be Proud of My School</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>5.1&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are expected to take care of the school environment and school property.</p><p>They must not wilfully or maliciously destroy school or personal property or write graffiti.</p></td></tr><tr><td rowspan="1" colspan="1"><p>5.2&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are taught to care for the environment and be responsible for the cleanliness of the school. All litter must be disposed of in the plastic bins provided.</p></td></tr><tr><td rowspan="1" colspan="1"><p>5.3&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must ensure that all lights and fans are switched off when not in use.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>5.4&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>No eating or drinking is allowed outside the canteen, except during snack break. No sweetened drinks are allowed in any classroom, along the corridors and at the foyer.</p></td></tr><tr><td rowspan="1" colspan="1"><p>5.5&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must stand in line when buying food in the canteen or when purchasing stationery at the bookshop. They must return used utensils to the respective collection points after their meals.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Rule 6: Be Properly Attired</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>6.1&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>The school uniform is a representation of the school and its history. It is to be worn in a dignified manner that befits the image of the MCS girl.&nbsp;&nbsp;</p><p>Students are to wear the prescribed school uniform / school attire when they are in school or when attending all school functions within or outside school.&nbsp;&nbsp;</p><p>Modification to the school uniform is strictly not allowed. School skirts should be knee-length. Coloured name tags are to be sewn on school uniforms and PE T-shirts.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.2</p></td><td rowspan="1" colspan="1"><p>Students must be properly attired for PE lessons. PE T-shirts must be tucked in neatly at all times.&nbsp;&nbsp;</p><p>P1 and P2 students are allowed to be in their PE attire throughout the day on days when they have PE. P3 – P6 students are allowed to come to school in their PE T-shirts and skirts.&nbsp;&nbsp;</p><p>Students are to wear PE attire only on days when they have PE lessons.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.3&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are to wear only the school jacket or single colour tone black jacket.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.4&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must wear white #socks (ankle socks are not allowed) and black shoes when they are in school or when attending all school functions within or outside school.&nbsp;&nbsp;</p><p>Track shoes may be worn for CCAs and on special occasions such as Sports Day, with permission from the Teacher-In-Charge.&nbsp;</p><p>#Socks must be at least 5 cm above the ankle bone.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.5&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>A doctor’s memo or parent’s / guardian’s letter is required for students who have to wear sandals to school.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.6&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Brassiere straps must not be visible.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.7 &nbsp; &nbsp; &nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must wear their hair neatly. Fringes must be neat and above the eyebrows. Students with long fringes must use plain hair clips or hair bands. The long fringes are not to be tucked behind the ears. Hair length which touches the shoulder must be tied up. Only black hair accessories are allowed.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.8&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Ornaments and items such as charms, amulets etc. must not be worn in order not to compromise the safety of the child.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.9&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are allowed to wear only one set of plain gold/silver round studs of diameter 0.5 cm maximum or colourless ‘ear sticks’ on the earlobes. Students are discouraged from having multiple ear piercings. Other forms of piercing are not allowed.&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.10&nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students must keep their fingernails clean, short and unvarnished at all times.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.11&nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are not allowed to put on make-up.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.12&nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are not allowed to highlight or dye their hair. Hair extension and punky hairstyles are strictly prohibited.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.13&nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are to wear clear and colourless contact lenses if necessary.</p></td></tr><tr><td rowspan="1" colspan="1"><p>6.14&nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are not allowed to wear smart watches (capable of making phone calls, sending text messages, storing of data, capturing of images etc.) Smart&nbsp;watches are also prohibited during examination.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Others</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>7.1&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Birthday celebrations are not allowed in school. The distribution of tokens or goodie bags are also strongly discouraged so as to cultivate a culture of simplicity, as well as the increasing awareness of food allergies.</p></td></tr><tr><td rowspan="1" colspan="1"><p>7.2&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Students are taught that friendships are built on mutual care, love and understanding. They are discouraged to give or exchange gifts with their peers. Students should inform their teachers if their peers ask them for gifts so teachers could teach them how to make friends.</p></td></tr><tr><td rowspan="1" colspan="1"><p>7.3&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>To ensure our students enjoy a safe and pleasant bus journey, students are expected to observe safety rules and etiquette on the bus:</p><p>(a)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Put on the seat belt at all times.</p><p>(b)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Place your bags neatly on the floor/under your seat.</p><p>(c)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Remain seated at assigned seats at all times. Standing is strictly prohibited.</p><p>(d)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Having normal conversation is permitted; however, loud noises may distract the driver.</p><p>(e)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Keep hands, legs, objects and words to yourself.&nbsp;</p><p>(f)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Respect the personal space of your bus mates. Do not get too close to them, making them uncomfortable.&nbsp;</p><p>(g) &nbsp; &nbsp; &nbsp; &nbsp;Sit facing forward for the duration of the journey and keep feet on the floor in front and out of the bus aisle.</p><p>(h) &nbsp; &nbsp; &nbsp; &nbsp;Stay seated until the bus has completely stopped when getting off the&nbsp;bus.</p><p>(i) &nbsp; &nbsp; &nbsp; &nbsp; Do not cross in front of or behind the bus immediately after alighting. Wait for the bus to move off before crossing.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Minor Offences</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>1.</p></td><td rowspan="1" colspan="1"><p>Attendance</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>1.1&nbsp; &nbsp; &nbsp; &nbsp;Late-coming</p><p>1.2&nbsp; &nbsp; &nbsp; &nbsp;Skipping Class</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.</p></td><td rowspan="1" colspan="1"><p>Misconduct</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>2.1&nbsp; &nbsp; &nbsp; &nbsp;Improper Attire and Grooming</p><p>2.2&nbsp; &nbsp; &nbsp; &nbsp;Littering</p><p>2.3&nbsp; &nbsp; &nbsp; &nbsp;Not doing homework/assignment</p><p>2.4&nbsp; &nbsp; &nbsp; &nbsp;Touting</p><p>2.5&nbsp; &nbsp; &nbsp; &nbsp;Use of Profanities</p><p>2.6&nbsp; &nbsp; &nbsp; &nbsp;Unauthorised Entry to Teaching Block or rooms</p><p>2.7&nbsp; &nbsp; &nbsp; &nbsp;Abusing of mobile devices privilege</p><p>2.8&nbsp; &nbsp; &nbsp; &nbsp;Holding on to overdue library books with no valid reasons</p><p>2.9&nbsp; &nbsp; &nbsp; &nbsp;Other offences that do not fall in the above categories</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Consequences for Minor offences</strong></p></td></tr><tr><td rowspan="1" colspan="2"><p>For any minor offences, the school reserves the right to implement appropriate onsequence(s). These consequences include:</p><p>1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents/guardians to be informed</p><p>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Counselling by teacher</p><p>3.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Verbal warning</p><p>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Issuance of Minor Offence Letter</p><p>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offence record</p><p>6.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student to attend Restorative Practice (RP*) sessions with the Level Manager and/or Form Teachers.&nbsp;</p><p>7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Students to engage in activities that will allow them to “make things right”</p><p>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Conduct grade will be downgraded for the semester</p><p>9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The school reserves the right to confiscate mobile phones / unauthorised electronic devices when they are used during curriculum hours without the teacher’s permission.</p><p>* Minor offences committed repeatedly will be considered as a major offence.</p><p>* Restorative Practice (RP) is an approach that aims to:</p><ul data-tight="true" class="tight"><li><p>manage conflict and tension by repairing harm and strengthening relationship as a way of building community.&nbsp;</p></li><li><p>promote building respectful and trusting relationship as a foundation for teaching and learning.&nbsp;</p></li><li><p>provide an opportunity for students to learn about the consequences of their actions, develop empathy and work out a resolution.&nbsp;</p></li></ul><p>&nbsp;Students are guided through a series of reflective questions that enable them to learn from their wrongdoings and work out possible resolutions.</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Major Offences</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>1.</p></td><td rowspan="1" colspan="1"><p>Attendance</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>1.1&nbsp; &nbsp; &nbsp; &nbsp;Leaving school grounds without permission</p><p>1.2&nbsp; &nbsp; &nbsp; &nbsp;Truancy</p></td></tr><tr><td rowspan="1" colspan="1"><p>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Misconduct</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>2.1 &nbsp; &nbsp; &nbsp; Abuse of technology (i.e., uploading/sending negative posts, emails or &nbsp;messages via social media)</p><p>2.2 &nbsp; &nbsp; &nbsp; Bullying/ Cyberbullying</p><p>2.3&nbsp; &nbsp; &nbsp; &nbsp;Extortion</p><p>2.4&nbsp; &nbsp; &nbsp; &nbsp;Causing physical hurt</p><p>2.5&nbsp; &nbsp; &nbsp; &nbsp;Cheating in assessments/tests/exams</p><p>2.6&nbsp; &nbsp; &nbsp; &nbsp;Disruptive behaviour (in school and on the school bus)</p><p>2.7&nbsp; &nbsp; &nbsp; &nbsp;Forgery</p><p>2.8&nbsp; &nbsp; &nbsp; &nbsp;Open defiance and/or rudeness</p></td></tr><tr><td rowspan="1" colspan="1"><p>3. &nbsp; &nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Theft / Damage Of Property</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>3.1&nbsp; &nbsp; &nbsp; &nbsp;Arson</p><p>3.2&nbsp; &nbsp; &nbsp; &nbsp;Theft</p><p>3.3&nbsp; &nbsp; &nbsp; &nbsp;Vandalism (e.g. defacing/tearing off library books)</p></td></tr><tr><td rowspan="1" colspan="1"><p>4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Other Serious Offences</p></td></tr><tr><td rowspan="1" colspan="1"><p>4.1&nbsp; &nbsp; &nbsp; &nbsp;</p></td><td rowspan="1" colspan="1"><p>Possession of weapons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><p><strong>Consequences for Major offences</strong></p></td></tr><tr><td rowspan="1" colspan="2"><p>For any major offences, the school reserves the right to implement appropriate consequence(s). These consequences include:</p><p>1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents/guardians to be informed</p><p>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;FTs to partner parents to address the offence</p><p>3.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Counselling by FTs/YH/Teacher Counsellor/School Counsellor</p><p>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student to attend Restorative Practice (RP) sessions with the Level Manager and/or Form Teachers</p><p>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Students to engage in activities that will allow them to “make things right”</p><p>6.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Issuance of Major Offence Letter</p><p>7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offence record</p><p>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A ‘Fair’ for Conduct Grade to be given for the semester</p><p>9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student Leader to step down from leadership position</p><p>10.&nbsp; &nbsp; &nbsp; &nbsp;The school reserves the right to confiscate mobile phones/ unauthorised electronic devices when they are used during curriculum hours without the teacher’s permission.</p></td></tr></tbody></table><p>&nbsp;</p><p>Note:</p><p><em>The table above serves only as a guide. It is not possible to list the details of all offences and their consequences. The school reserves the right to take the necessary action(s) in the best interest of our students, school staff and the community.</em></p><p>&nbsp;</p><p><strong>School Attire</strong></p><p>&nbsp;</p><p>Acceptable Attire</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms1.jpg"></div><p>&nbsp;</p><p>Acceptable Shoes</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms2.jpg"></div><p>&nbsp;</p><p>Unacceptable Shoes</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms3.jpg"></div><p>&nbsp;</p><p>Acceptable Hairstyles</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms4.jpg"></div><p>&nbsp;</p><p>Unacceptable Hairstyles</p><div class="isomer-image-wrapper"><img style="width: 25%;" height="auto" width="100%" src="/images/Uniforms5.jpg"></div><p>&nbsp;</p><p>Acceptable Earrings</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms6.jpg"></div><p>&nbsp;</p><p>Unacceptable Earrings</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms7.jpg"></div><p>&nbsp;</p><p>Acceptable Hair Accessories</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms8.jpg"></div><p>&nbsp;</p><p>Unacceptable Hair Accessories</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms9.jpg"></div><p>&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>In MCS, we believe strongly in the character building of every student.
+We celebrate their growth and ensure we inculcate strong values in our
+students. The Code of Conduct therefore serves to show our students the
+corresponding good behaviour one will demonstrate when they practise good
+values.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Rule 1 : Be Present and Punctual for all School Activities</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Attendance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must enter the school premises and be seated in the hall/classroom
+before 7.35 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.2&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must be on time for CCAs, extra classes and all other activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.3&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must be present for all lessons unless there is a valid reason.</p>
+<p>Students’ absence from lessons must be accompanied by a medical certificate
+or letter of excuse from parent / guardian and promptly submitted to the
+Form Teacher(s) on the day the student returns to school.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.4&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must remain within the school grounds once they have reported
+to&nbsp;school. They are not allowed to leave school without permission
+during curriculum hours, CCA or other after-school activities before they
+are dismissed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Absence during Curriculum Time</p>
+<p>The school does not condone absence from school during school term unless
+on medical grounds.&nbsp;</p>
+<p>Parents / Guardians are not encouraged to plan for holidays, family activities
+or any trips such that students will miss lessons and school activities
+(CCAs, remedial and supplementary lessons, learning journeys, enrichments,
+post-exam activities, school events like Sports Day etc.) Approval to be
+away from school must be sought in writing from the Principal or Vice-Principal
+through Form Teacher and Year Head at least 1 week prior to any absence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Rule 2: Be Respectful</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>General Conduct</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.1&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students who are Singapore citizens must sing the National Anthem and</p>
+<p>take the Pledge. Students will take the Pledge with the right fist placed
+over the heart. Students must stand at attention throughout the flag raising
+ceremony.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.2 &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must show respect to all school staff and their peers at all
+times.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must respect all official documents and property belonging to
+others.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must display integrity at all times.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are expected to be loving and kind to others. They are not allowed
+to abuse anyone verbally, physically, or in written form both online and
+offline.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.6 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to extort any items from anyone.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to sell any items to other students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students must vacate the classroom during recess. Students are allowed
+in the&nbsp;classroom only when there is a teacher with them.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.9&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must switch off their mobile phones once they are in school.
+Recordings of any sort using their devices are not allowed.&nbsp;</p>
+<p>They are allowed to use mobile phones to make calls to their family members
+only outside of curriculum time in the foyer.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.10&nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to bring electronic devices (iPADs, hand-held
+games, etc.), related accessories (headphones, earphones, speakers, etc.).</p>
+<p>Students are not allowed to bring toys, any kind of card games such as
+gambling cards or any other items that may disrupt learning.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students are not allowed to have in their possession any weapons.
+They are also not allowed to bring any weapon-like items which can be used
+or intended to be used to cause harm to others.</p>
+<p>Scissors are allowed during lessons under the permission and supervision
+of the teacher/ instructor.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Rule 3: Responsibility</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.1&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are to check their bags the night before to ensure that they
+have what they need with them. With the exception of medication and food
+for those requiring a special diet, other items will not be allowed to
+be dropped off at school. Parents will be requested to turn around with
+the items they have brought with them.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.2&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are responsible and accountable for the safekeeping of their
+personal belongings. They are to label all their personal belongings and
+not leave their belongings unattended.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Rule 4: Be Proud of My Work</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are to bring the required books / worksheets / materials for
+lessons.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.2&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must hand in all written assignments and projects on time.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are allowed to use only correction tape when correcting their
+work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Rule 5: Be Proud of My School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.1&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are expected to take care of the school environment and school
+property.</p>
+<p>They must not wilfully or maliciously destroy school or personal property
+or write graffiti.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.2&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are taught to care for the environment and be responsible for
+the cleanliness of the school. All litter must be disposed of in the plastic
+bins provided.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must ensure that all lights and fans are switched off when not
+in use.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.4&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No eating or drinking is allowed outside the canteen, except during snack
+break. No sweetened drinks are allowed in any classroom, along the corridors
+and at the foyer.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.5&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must stand in line when buying food in the canteen or when purchasing
+stationery at the bookshop. They must return used utensils to the respective
+collection points after their meals.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Rule 6: Be Properly Attired</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.1&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school uniform is a representation of the school and its history.
+It is to be worn in a dignified manner that befits the image of the MCS
+girl.&nbsp;&nbsp;</p>
+<p>Students are to wear the prescribed school uniform / school attire when
+they are in school or when attending all school functions within or outside
+school.&nbsp;&nbsp;</p>
+<p>Modification to the school uniform is strictly not allowed. School skirts
+should be knee-length. Coloured name tags are to be sewn on school uniforms
+and PE T-shirts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must be properly attired for PE lessons. PE T-shirts must be
+tucked in neatly at all times.&nbsp;&nbsp;</p>
+<p>P1 and P2 students are allowed to be in their PE attire throughout the
+day on days when they have PE. P3 – P6 students are allowed to come to
+school in their PE T-shirts and skirts.&nbsp;&nbsp;</p>
+<p>Students are to wear PE attire only on days when they have PE lessons.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are to wear only the school jacket or single colour tone black
+jacket.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.4&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must wear white #socks (ankle socks are not allowed) and black
+shoes when they are in school or when attending all school functions within
+or outside school.&nbsp;&nbsp;</p>
+<p>Track shoes may be worn for CCAs and on special occasions such as Sports
+Day, with permission from the Teacher-In-Charge.&nbsp;</p>
+<p>#Socks must be at least 5 cm above the ankle bone.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.5&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A doctor’s memo or parent’s / guardian’s letter is required for students
+who have to wear sandals to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.6&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brassiere straps must not be visible.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.7 &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must wear their hair neatly. Fringes must be neat and above the
+eyebrows. Students with long fringes must use plain hair clips or hair
+bands. The long fringes are not to be tucked behind the ears. Hair length
+which touches the shoulder must be tied up. Only black hair accessories
+are allowed.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.8&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ornaments and items such as charms, amulets etc. must not be worn in order
+not to compromise the safety of the child.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.9&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are allowed to wear only one set of plain gold/silver round studs
+of diameter 0.5 cm maximum or colourless ‘ear sticks’ on the earlobes.
+Students are discouraged from having multiple ear piercings. Other forms
+of piercing are not allowed.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.10&nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must keep their fingernails clean, short and unvarnished at all
+times.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.11&nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to put on make-up.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.12&nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to have elaborate hairstyles, including hair
+colouring, highlighting, dyeing, or the use of hair extensions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.13&nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are to wear clear and colourless contact lenses if necessary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.14&nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to wear smart watches (capable of making phone
+calls, sending text messages, storing of data, capturing of images etc.)
+Smart&nbsp;watches are also prohibited during examination.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Others</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.1&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Birthday celebrations are not allowed in school. The distribution of tokens
+or goodie bags are also strongly discouraged so as to cultivate a culture
+of simplicity, as well as the increasing awareness of food allergies.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.2&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are taught that friendships are built on mutual care, love and
+understanding. They are discouraged to give or exchange gifts with their
+peers. Students should inform their teachers if their peers ask them for
+gifts so teachers could teach them how to make friends.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To ensure our students enjoy a safe and pleasant bus journey, students
+are expected to observe safety rules and etiquette on the bus:</p>
+<p>(a)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Put on the seat belt at all times.</p>
+<p>(b)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Place your bags neatly on the floor/under
+your seat.</p>
+<p>(c)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Remain seated at assigned seats at
+all times. Standing is strictly prohibited.</p>
+<p>(d)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Having normal conversation is permitted;
+however, loud noises may distract the driver.</p>
+<p>(e)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Keep hands, legs, objects and words
+to yourself.&nbsp;</p>
+<p>(f)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Respect the personal space of your
+bus mates. Do not get too close to them, making them uncomfortable.&nbsp;</p>
+<p>(g) &nbsp; &nbsp; &nbsp; &nbsp;Sit facing forward for the duration of
+the journey and keep feet on the floor in front and out of the bus aisle.</p>
+<p>(h) &nbsp; &nbsp; &nbsp; &nbsp;Stay seated until the bus has completely
+stopped when getting off the&nbsp;bus.</p>
+<p>(i) &nbsp; &nbsp; &nbsp; &nbsp; Do not cross in front of or behind the
+bus immediately after alighting. Wait for the bus to move off before crossing.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Minor Offences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attendance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1&nbsp; &nbsp; &nbsp; &nbsp;Late-coming</p>
+<p>1.2&nbsp; &nbsp; &nbsp; &nbsp;Skipping Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Misconduct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.1&nbsp; &nbsp; &nbsp; &nbsp;Improper Attire and Grooming</p>
+<p>2.2&nbsp; &nbsp; &nbsp; &nbsp;Littering</p>
+<p>2.3&nbsp; &nbsp; &nbsp; &nbsp;Not doing homework/assignment</p>
+<p>2.4&nbsp; &nbsp; &nbsp; &nbsp;Touting</p>
+<p>2.5&nbsp; &nbsp; &nbsp; &nbsp;Use of Profanities</p>
+<p>2.6&nbsp; &nbsp; &nbsp; &nbsp;Unauthorised Entry to Teaching Block or
+rooms</p>
+<p>2.7&nbsp; &nbsp; &nbsp; &nbsp;Abusing of mobile devices privilege</p>
+<p>2.8&nbsp; &nbsp; &nbsp; &nbsp;Holding on to overdue library books with
+no valid reasons</p>
+<p>2.9&nbsp; &nbsp; &nbsp; &nbsp;Other offences that do not fall in the above
+categories</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Consequences for Minor offences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>For any minor offences, the school reserves the right to implement appropriate
+onsequence(s). These consequences include:</p>
+<p>1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents/guardians to be informed</p>
+<p>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Counselling by teacher</p>
+<p>3.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Verbal warning</p>
+<p>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Issuance of Minor Offence Letter</p>
+<p>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offence record</p>
+<p>6.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student to attend Restorative Practice
+(RP*) sessions with the Level Manager and/or Form Teachers.&nbsp;</p>
+<p>7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Students to engage in activities that
+will allow them to “make things right”</p>
+<p>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Conduct grade will be downgraded for
+the semester</p>
+<p>9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The school reserves the right to confiscate
+mobile phones / unauthorised electronic devices when they are used during
+curriculum hours without the teacher’s permission.</p>
+<p>* Minor offences committed repeatedly will be considered as a major offence.</p>
+<p>* Restorative Practice (RP) is an approach that aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>manage conflict and tension by repairing harm and strengthening relationship
+as a way of building community.&nbsp;</p>
+</li>
+<li>
+<p>promote building respectful and trusting relationship as a foundation
+for teaching and learning.&nbsp;</p>
+</li>
+<li>
+<p>provide an opportunity for students to learn about the consequences of
+their actions, develop empathy and work out a resolution.&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;Students are guided through a series of reflective questions that
+enable them to learn from their wrongdoings and work out possible resolutions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Major Offences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attendance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1&nbsp; &nbsp; &nbsp; &nbsp;Leaving school grounds without permission</p>
+<p>1.2&nbsp; &nbsp; &nbsp; &nbsp;Truancy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Misconduct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.1 &nbsp; &nbsp; &nbsp; Abuse of technology (i.e., uploading/sending
+negative posts, emails or &nbsp;messages via social media)</p>
+<p>2.2 &nbsp; &nbsp; &nbsp; Bullying/ Cyberbullying</p>
+<p>2.3&nbsp; &nbsp; &nbsp; &nbsp;Extortion</p>
+<p>2.4&nbsp; &nbsp; &nbsp; &nbsp;Causing physical hurt</p>
+<p>2.5&nbsp; &nbsp; &nbsp; &nbsp;Cheating in assessments/tests/exams</p>
+<p>2.6&nbsp; &nbsp; &nbsp; &nbsp;Disruptive behaviour (in school and on the
+school bus)</p>
+<p>2.7&nbsp; &nbsp; &nbsp; &nbsp;Forgery</p>
+<p>2.8&nbsp; &nbsp; &nbsp; &nbsp;Open defiance and/or rudeness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3. &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Theft / Damage Of Property</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.1&nbsp; &nbsp; &nbsp; &nbsp;Arson</p>
+<p>3.2&nbsp; &nbsp; &nbsp; &nbsp;Theft</p>
+<p>3.3&nbsp; &nbsp; &nbsp; &nbsp;Vandalism (e.g. defacing/tearing off library
+books)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other Serious Offences</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.1&nbsp; &nbsp; &nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Possession of weapons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Consequences for Major offences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>For any major offences, the school reserves the right to implement appropriate
+consequence(s). These consequences include:</p>
+<p>1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents/guardians to be informed</p>
+<p>2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;FTs to partner parents to address
+the offence</p>
+<p>3.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Counselling by FTs/YH/Teacher Counsellor/School
+Counsellor</p>
+<p>4.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student to attend Restorative Practice
+(RP) sessions with the Level Manager and/or Form Teachers</p>
+<p>5.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Students to engage in activities that
+will allow them to “make things right”</p>
+<p>6.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Issuance of Major Offence Letter</p>
+<p>7.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offence record</p>
+<p>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A ‘Fair’ for Conduct Grade to be given
+for the semester</p>
+<p>9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Student Leader to step down from leadership
+position</p>
+<p>10.&nbsp; &nbsp; &nbsp; &nbsp;The school reserves the right to confiscate
+mobile phones/ unauthorised electronic devices when they are used during
+curriculum hours without the teacher’s permission.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Note:</p>
+<p><em>The table above serves only as a guide. It is not possible to list the details of all offences and their consequences. The school reserves the right to take the necessary action(s) in the best interest of our students, school staff and the community.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong>School Attire</strong>
+</p>
+<p>&nbsp;</p>
+<p>Acceptable Attire</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms1.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Acceptable Shoes</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms2.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Unacceptable Shoes</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms3.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Acceptable Hairstyles</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms4.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Unacceptable Hairstyles</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" src="/images/Uniforms5.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Acceptable Earrings</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms6.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Unacceptable Earrings</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms7.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Acceptable Hair Accessories</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms8.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Unacceptable Hair Accessories</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms9.jpg">
+</div>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
