@@ -70,6 +70,11 @@ the image of God within them.</p>
 <p>Truly I tell you, whatever you did for one of the least of these brothers
 and sisters of mine, you did for me.</p>
 <p>Matthew 25:40</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/P_V1_edited_edited.jpg">
+</div>
+<p></p>
 <p>Have a blessed year ahead!</p>
 <p>Miss Minnie Cheong</p>
 <p>&nbsp;</p>
