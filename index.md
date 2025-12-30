@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_5796_edited.jpg
+      background: /images/IMG_5796_editedV1.jpg
       variant: center
 ---
