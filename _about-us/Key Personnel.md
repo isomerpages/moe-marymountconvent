@@ -63,6 +63,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Administrative Manager (AM)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leow_beng_ling_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lynn Ngui</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Operations Manager (OM)</strong>
 </p>
 </td>
@@ -79,6 +97,38 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ngui_shiyan_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lynn Ngui</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -288,16 +338,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher - Chinese Language</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phua_yu_jim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Phua Yu Jim</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_phui_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Phui Hong</a>
 </p>
 </td>
 </tr>
