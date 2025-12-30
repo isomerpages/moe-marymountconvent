@@ -4,74 +4,72 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>&nbsp;<em>Being old is hard.</em>&nbsp;</p>
-<p>Wretched countenance, dirty clothes, seated on a rusty rickety wheelchair
-with multiple dirty plastic bags tied to the back of the wheelchair. Hair
-unkempt. Bare feet resting on the pedestal of the wheelchair. Fingers large
-but deformed – suffering from arthritis? She is quite big in size. Squeezed
-tightly into a small wheelchair.&nbsp;</p>
-<p>I walked up from the car park in basement 2 of OG Albert, heading for
-a building called Fu Lu Shou Complex. I have never been there; but because
-I had to visit a bone setter there, I made my first visit.&nbsp;</p>
-<p>The moment I stepped onto the sidewalk of OG Albert, the sight of her
-greeted me. Her eyes quickly shifted away at that instance. I walked on.&nbsp;</p>
-<p>Wait. I stopped in my tracks. <em>Does she need any help? Maybe a cup of coffee? Maybe she needs assistance of some sort? She’s alone? But she did not seem very friendly.</em>&nbsp;</p>
-<p>I swiftly turned and walked back to her.&nbsp;</p>
-<p><em>Aunty. Why are you seated here alone? Do you need any help? Can I get you something to eat or drink?</em>&nbsp;</p>
-<p><em>No, no, no</em> was her reply in Mandarin. Then…<em>You help me? I want to drink water.</em>&nbsp;</p>
-<p><em>I buy you coffee?</em>&nbsp;</p>
-<p><em>No, no, no.&nbsp; Take out my water bottle. Behind.</em>&nbsp;</p>
-<p>I searched for it. Found a water bottle. It looked dirty and the water
-looked murky. There was little water in it. &nbsp;I helped her with opening
-the badly stained and scratched lid; and she finished the last bit of it.&nbsp;</p>
-<p><em>Thank you, she said.</em>&nbsp;</p>
-<p><em>Do you need any other help?</em>&nbsp;</p>
-<p><em>No, no, no.</em>&nbsp;</p>
-<p>Ok, but I could not leave her there looking lost. I walked back to my
-car to see if I had a bit of money to pass to her.&nbsp; I no longer carry
-cash nor an ATM card. It’s all in my phone. I found a $50 and a $10.&nbsp;
-I rushed back to her; she was still in the exact same spot.&nbsp; I told
-her that the money was for her tea.&nbsp;&nbsp;</p>
-<p><em>No, no, no.&nbsp; My husband is there. He will scold me. </em>She
-pointed him out to me.<em> Can you push me there?</em> Ah, she’s got her
-husband here as well!&nbsp;</p>
-<p>I pushed her over to where her equally elderly husband was sitting – on
-a narrow ledge of OG Albert.&nbsp; His head was hanging down, as if sleeping;
-but he was not. He seemed to be contemplating on something.&nbsp;</p>
-<p>His attention turned to us.&nbsp; I tried to pass him the little I had.&nbsp;</p>
-<p><em>No, no no.</em>&nbsp; The same refrain.&nbsp;</p>
-<p>Okay, maybe they don’t need it. Maybe they don’t want it.&nbsp;</p>
-<p>Then she said this…&nbsp;</p>
-<p></p>
-<p><em>Being old is hard.</em>&nbsp;</p>
-<p>I knew there was nothing more I could do. I bade them goodbye; walking
-away was hard and her words of pain rang in my ears. <em>It certainly does look hard.</em>&nbsp;</p>
-<p>Both look wretched and lonely. Where are their kids?</p>
-<p>Both look in need of a bath. Where is their home?</p>
-<p>Both look sad. Where is their happiness?&nbsp;</p>
-<p>Parents and anyone reading this…in case you are wondering why I am recounting
-this encounter in a Principal’s page of a school website, I have been pondering.
-We have more than 1200 girls in Marymount Convent School, close to 1300.
-If we grow our girls well to be sensitive to the needs of others; if we
-grow our girls well to be kind and compassionate; if we grow our girls
-well to be other-centred, can you imagine the difference they can make
-to the many needy and lonely who may just need a little kindness?&nbsp;</p>
-<p>No, it is not ‘If’.&nbsp; It is…&nbsp;</p>
-<p>When we grow our girls well to be sensitive to the needs of others;</p>
-<p>When we grow our girls well to be kind and compassionate; and</p>
-<p>When we grow our girls well to be other-centred…&nbsp;</p>
-<p>And when they each make a difference to just one other person, more than
-1200 people will be touched and blessed!&nbsp;</p>
-<p>Yes, 2024 saw our P6 girls do very well for PSLE, one of the best results
-over the last 3-4 years. Their stellar results amaze me; and I am grateful
-to God for blessing us with very good PSLE results.&nbsp; But I pray also
-that God will bless our girls with opportunities to reach out to someone
-in need, someone lonely, someone poor…no need to be in OG Albert…wherever
-they may be, including their loved ones at home! That’s my hope and my
-dream for our girls this 2025!&nbsp;</p>
-<p><em>Together, let us make the coming year one of faith, hope and love</em>
+<p><strong>Sawubona</strong>
+<br>I see you.
+<br>I notice you.
+<br>I hear you.
+<br>All of you.
+<br>Your dignity. Your value, and your worth.</p>
+<p>It was night, and the winds were strong. You were struggling on your motorcycle
+along Bartley Viaduct, trying to balance something heavy behind you, and
+you kept looking back. I kept a safe distance from you, deliberately following
+you so that no other cars would go behind you. After a while, you began
+to ride without turning back, seeming more reassured; and sometime later,
+you exited towards Bedok.</p>
+<p>You stood outside the Hindu temple along Serangoon Road. You looked frail
+in your weather-beaten frame. You struggled to stand steady and were shivering;
+yet you held out your hands – or were you holding something? I could not
+see clearly, but obviously, you were begging the devotees for a little
+money. I struggled within. It was very heavy traffic. I could not stop.
+I still think of you from time to time, wondering how you are.</p>
+<p>Seated in a coffee joint with full glass panels, I looked out at the rain
+outside. I love the rain! Then I saw you. You struggled to get off your
+motorcycle in your raincoat. You looked old. You walked gingerly towards
+the coffee joint. The moment you entered and walked towards the counter,
+I saw how you were treated with disrespect, and maybe even disdain, by
+the barista. You were slightly drenched and probably feeling cold, but
+you were still doing your food delivery job – collecting the hot coffee
+and food, which you probably needed more than anyone else, but which were
+for someone who had ordered.</p>
+<p>I walked up to you and said, “Uncle, ride carefully; it’s wet outside.”
+You were surprised. But you smiled.</p>
+<p>Later, I wrote a long email to the management of the coffee joint, detailing
+all my observations of that day. I received an offer of a free cuppa. I
+don’t need it. Do better next time.</p>
+<p>You sat on the floor at the school foyer, with your palms on your cheeks.
+I walked over. “Are you okay?” I asked. You said, “No.” I sat on the floor
+with you. You shared how tired you were from school and what had happened.
+I invited you to reframe and encouraged you to keep going. Your mum drove
+into the school. You got in, still looking tired. I feel you. It was a
+long day for you.</p>
+<p>You sat alone, eating at recess. I asked you, “Why aren’t you sitting
+with your friends?” You shrugged your shoulders. You seemed to want to
+be alone. I left you. I texted your teacher about it.</p>
+<p>With the weight of the laptop and everything else in your hands and bag,
+from afar, I could see that you looked a little drained. I texted, “Are
+you okay? You seem tired. Hope you get some rest. Teaching is a tiring
+job; I know.”</p>
+<p>I see you. I see your pain, but most of all, I see your dignity, your
+value, and your worth. Everyone has the same worth as everybody else. We
+are equal, made in the image of God – big or small, young or old, rich
+or poor.</p>
+<p>Am I better than everyone else with what I have shared above? No. Categorically,
+“No,” I say to you. It’s only this: I see you.</p>
+<p>This new year, 2026, I wish for all of us – teachers, non-teaching staff,
+and all our close to 1,300 girls. I wish that you will also say, “I see
+you.” Learn to notice one another – their joy, their pain, their tiredness,
+their dignity, value, and worth. Learn to feel the emotions of another
+person; and move beyond understanding and feeling – do something for the
+person(s): support, assistance, a listening ear. Be life-giving.</p>
+<p>Where did I learn this? From a simple Zulu, South African greeting—<em>Sawubona</em>.
+They don’t just say hi or hello. They say&nbsp;<em>Sawubona</em>, which
+means:&nbsp;<em>I see you.</em>
 </p>
-<p><em>in the spirit of our Good Shepherd Mission.</em>&nbsp;</p>
+<p>By truly seeing one another and doing something good for them, we recognise
+the image of God within them.</p>
+<p>Truly I tell you, whatever you did for one of the least of these brothers
+and sisters of mine, you did for me.</p>
+<p>Matthew 25:40</p>
 <p>Have a blessed year ahead!</p>
 <p>Miss Minnie Cheong</p>
 <p>&nbsp;</p>
