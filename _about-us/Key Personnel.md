@@ -67,16 +67,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Operations Manager (OM)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leow_beng_ling_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lynn Ngui</a>
+<p><a href="mailto:leow_beng_ling_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Leow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_yang_juay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Yang Juay</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yang_juay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Yang Juay</a>
+<p><a href="mailto:tan_boon_tiong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Boon Tiong Stanley</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
