@@ -103,38 +103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Year Head (Primary 1 &amp; 2)</strong>
 </p>
 </td>
@@ -155,27 +123,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Primary 5 &amp; 6)</strong>
+<p><strong>Year Head (Primary 3 &amp; 4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department - Character and Citizenship Education</strong>
+<p><strong>Year Head (Primary 5 &amp; 6)</strong>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Tan</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ou_xin_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ou Xin Ying</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_boon_ching_elkan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Elkan Lim</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department - Student Development</strong>
+<p><strong>Head of Department - Character and Citizenship Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +153,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suah_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suah Jun</a>
+<p><a href="mailto:lim_boon_ching_elkan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Elkan Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +167,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department - Mother Tongue</strong>
+<p><strong>Head of Department - Mathematics</strong>
 </p>
 </td>
 </tr>
@@ -209,7 +177,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_sor_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Chew</a>
+<p><a href="mailto:nai_miao_pei_nicole@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Nicole Chua</a>
 </p>
 </td>
 </tr>
@@ -219,63 +187,83 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department - Physical Education, Art, Music &amp; CCA</strong>
+<p><strong>Head of Department - Mother Tongue</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_lai_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Lai Lin</a>
+<p><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stan Lee Mun Hong</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_sor_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Chew</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department - Physical Education, Art, Music &amp; CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department - Information and Communication Technology&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:susan_tham_miew_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Tham</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Information and Communication Technology&nbsp;</strong>
+<p><a href="mailto:chia_chun_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Chun Kiat</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Assistant Year Head (Primary 1 &amp; 2)</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sally_neo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sally Neo</a>
+<p><strong>Assistant Year Head (Primary 3 &amp; 4)</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_bernice_gomes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gomes Alicia Bernice</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Primary 5 &amp; 6)</strong>
+<p><a href="mailto:quek_yan_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Yan Ping</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head - Character and Citizenship Education</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_shing_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shanice Chong</a>
+<p><strong>Subject Head - Student Management</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_gek_luang_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Adeline Choo</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_su_hsien_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Tan</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Student Management</strong>
+<p><strong>Subject Head - Outdoor Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_su_hsien_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Tan</a>
+<p><a href="mailto:sally_neo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sally Neo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,71 +283,81 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - Chinese Language</strong>
+<p><strong>Level Head - Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - Science</strong>
+<p><strong>Subject Head - Chinese Language</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hwee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yao Hwee Hong</a>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_faizal_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Faizal Ramli</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - Mathematics</strong>
+<p><a href="mailto:chong_shing_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shanice Chong</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head - Aesthetics</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_mun_hui_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Chen</a>
+<p><strong>Subject Head - Information and Communication Technology&nbsp;</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_tian_nu_dulcia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dulcia Ong</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Physical Education &amp; CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Chinese Language</strong>
+<p><a href="mailto:chen_mun_hui_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Chen</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Tamil Language</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher - English Language</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher - Mathematics</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kasthuri_bai_v_l@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eswarran Raj</a>
+<p><a href="mailto:sheila_bala@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheila Bala</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sheila_bala@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheila Bala</a>
+<p><a href="mailto:sheila_bala@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christine Yeo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher - Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher - Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_phui_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Phui Hong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kasthuri_bai_v_l@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eswarran Raj</a>
 </p>
 </td>
 </tr>
