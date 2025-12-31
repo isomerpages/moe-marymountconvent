@@ -20,8 +20,9 @@ to create their artwork.</p>
 genres. Art Club also provides opportunities for students to display school
 values, develop their socio-emotional learning (SEL) competencies and nurture
 them into confident 21st century young artists.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -31,7 +32,7 @@ them into confident 21st century young artists.</p>
 <p><strong>Training Day / Time</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Mondays </strong>
 <br>2.15 p.m. – 4.15 p.m.
 <br>or
@@ -44,7 +45,7 @@ them into confident 21st century young artists.</p>
 <p><strong>Training Venue</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Art Room</p>
 </td>
 </tr>
@@ -60,14 +61,17 @@ them into confident 21st century young artists.</p>
 <br>Ms Dulcia Ong
 <br>Mdm Rachel Leow
 <br>Mrs Adeline Choo
-<br>Mrs Yu Kai Ling
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yu Kai Ling
 <br>Mdm Chan Jing Ling
 <br>Mdm Leow Guet Li
 <br>Miss Loh Soo Gek
 <br>Mrs Tan Yan Ping
-<br>Ms Uma d/o Surendran
-<br>
-</p>
+<br>Ms Uma d/o Surendran</p>
 </td>
 </tr>
 </tbody>
