@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<h4><strong>CCA Information</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/IMG_20240219_WA0024.jpg">
 </div>
-<h4><strong>CCA Information</strong></h4>
 <p>The Art Club caters to students who are interested in art and craft. It
 encourages students to express their creativity and art ideas in their
 art making processes, by drawing from their experiences and external resources
