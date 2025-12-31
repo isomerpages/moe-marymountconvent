@@ -45,7 +45,7 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Rooms</p>
+<p>Art Room</p>
 </td>
 </tr>
 <tr>
@@ -54,12 +54,20 @@ them into confident 21st century young artists.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julia Teng (OIC)</p>
-<p>Mrs Eswarren Raj (2IC)</p>
-<p>Ms Prisca Fernandez</p>
-<p>Ms Dulcia Ong</p>
-<p>Mdm Rachel Leow</p>
-<p>Mrs Adeline Choo</p>
+<p>Ms Julia Teng (OIC)
+<br>Mrs Eswarren Raj (2IC)
+<br>Ms Prisca Fernandez
+<br>Ms Dulcia Ong
+<br>Mdm Rachel Leow
+<br>Mrs Adeline Choo
+<br>Mrs Yu Kai Ling
+<br>Mdm Chan Jing Ling
+<br>Mdm Leow Guet Li
+<br>Miss Loh Soo Gek
+<br>Mrs Tan Yan Ping
+<br>Ms Uma d/o Surendran
+<br>
+</p>
 </td>
 </tr>
 </tbody>
@@ -72,14 +80,4 @@ them into confident 21st century young artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155110.jpg">
 </div>
-<h4></h4>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
 <p></p>
