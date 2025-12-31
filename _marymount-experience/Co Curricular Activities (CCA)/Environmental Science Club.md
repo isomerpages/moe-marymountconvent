@@ -9,6 +9,16 @@ variant: tiptap
 <img style="width: 75%;" height="auto" width="100%" src="/images/Env3.jpeg">
 </div>
 <h4><strong>CCA Information</strong></h4>
+<p>The Science Club welcomes all individuals who have a genuine interest
+in science, and would like to further develop their knowledge, passion
+and interest in this discipline. Students will be engaged in a wide range
+of activities, including conducting science experiments and attending learning
+journeys to science-related destinations. Students of Science Club will
+have opportunities to share their knowledge with their peers and to participate
+in team projects.
+<br>
+</p>
+<p></p>
 <p>The Environmental Science Club aims to promote environmental awareness
 within and beyond the school community by engaging others in meaningful
 environment activities. Through hands-on activities, research and investigation
