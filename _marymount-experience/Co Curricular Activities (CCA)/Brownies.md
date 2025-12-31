@@ -6,34 +6,32 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h4><strong>CCA Information</strong></h4>
-<p>Welcome to the <strong>Brownies</strong> - a vibrant and adventurous group
-under <strong>Girl Guides Singapore</strong> for Primary 3 to Primary 6 girls!</p>
-<p></p>
+<p>Welcome to the Brownies - a vibrant and adventurous group under Girl Guides
+Singapore for Primary 3 to Primary 6 girls!
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_04_at_3_36_45_PM__2_.jpg">
-</div>
-<p>Being a Brownie is all about <strong>learning, growing, and making a difference</strong> in
-our school and community. Through <strong>games, outdoor activities, and hands-on projects</strong>,
-Brownies develop important life skills like teamwork, leadership, and creativity.
-Whether it’s <strong>camping under the stars, learning first aid, baking treats, or giving back to the community</strong>,
-every activity is an opportunity to <strong>discover, explore, and shine</strong>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_20_at_8_04_16_AM.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250222_WA0036.jpg">
 </div>
 <p></p>
+<p>Being a Brownie is all about learning, growing, and making a difference
+in our school and community. Through games, outdoor activities, and hands-on
+projects, Brownies develop important life skills like teamwork, leadership,
+and creativity. Whether it’s camping under the stars, learning first aid,
+baking treats, or giving back to the community, every activity is an opportunity
+to discover, explore, and shine.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_20_at_3_46_37_PM.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250222_WA0038.jpg">
 </div>
 <p></p>
-<p>At the heart of Brownies is the <strong>Brownie Promise and Law</strong>,
-guiding each girl to be <strong>kind, responsible, and always ready to lend a helping hand</strong>.
-Along the way, they earn <strong>badges</strong> that recognize their achievements
-in areas like <strong>science, nature, the arts, and more</strong> - turning
-every learning moment into an exciting challenge!</p>
-<p></p>
+<p>At the heart of Brownies is the Brownie Promise and Law, guiding each
+girl to be kind, responsible, and always ready to lend a helping hand.
+Along the way, they earn badges that recognize their achievements in areas
+like science, nature, the arts, and more - turning every learning moment
+into an exciting challenge!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_20_at_3_47_05_PM.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250222_WA0042.jpg">
 </div>
 <p>Joining the Brownies isn’t just about having fun - it’s about guiding
 our girls to become the best version of themselves, while making unforgettable
@@ -70,8 +68,8 @@ memories with lifelong friends in Marymount Convent School.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rebecca Goh (OIC)
-<br>Mrs Long Hui Lin (2IC)</p>
-<p>Ms Denise Yeoh</p>
+<br>Mrs Long Hui Lin (2IC)
+<br>Ms Denise Yeoh</p>
 </td>
 </tr>
 </tbody>
@@ -80,6 +78,7 @@ memories with lifelong friends in Marymount Convent School.</p>
 <p><strong>Craft Work</strong>
 </p>
 <p>Brownies learn different life skills such as craft during Brownies sessions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br2.jpeg">
 </div>
@@ -96,7 +95,7 @@ activities include outdoor trekking and Zumba.&nbsp;</p>
 and join in activities on South Division Day. We also get ourselves involved
 in community work.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/br4.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250222_WA0037.jpg">
 </div>
 <p><strong>Enrolment Ceremony</strong>
 </p>
