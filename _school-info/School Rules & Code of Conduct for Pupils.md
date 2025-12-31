@@ -601,13 +601,13 @@ their mistakes and explore possible solutions.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.1 Inappropriate use of mobile devices
-<br><em>This includes use of mobile device outside the designated time and location - including during lunch breaks. </em>
+<br><em>This includes use of mobile device outside the designated time and location - including during lunch breaks.</em>
 </p>
 <p>2.2 Improper attire and grooming
-<br><em>This includes an untidy uniform, hair that is not pinned up properly, an inappropriate haircut, nails that are not clean and trimmed, use of coloured hair bands, a uniform that is too short, etc. </em>
+<br><em>This includes an untidy uniform, hair that is not pinned up properly, an inappropriate haircut, nails that are not clean and trimmed, use of coloured hair bands, a uniform that is too short, etc.</em>
 </p>
 <p>2.3 Not meeting classroom expectations
-<br><em>This includes repeated non-submission of homework or assignments without a valid reason, off-task behaviour, sleeping in class, displaying an inappropriate attitude, tone, or comments, and dishonesty (e.g., lying). </em>
+<br><em>This includes repeated non-submission of homework or assignments without a valid reason, off-task behaviour, sleeping in class, displaying an inappropriate attitude, tone, or comments, and dishonesty (e.g., lying).</em>
 </p>
 <p>2.4 Littering</p>
 <p>2.5 Touting/Selling/Trading of items</p>
@@ -644,9 +644,9 @@ students (e.g. touching other students' belongings, etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><em>Note: Minor offences committed repeatedly will be considered as major offences. </em>
+<p><em>Note: Minor offences committed repeatedly will be considered as major offences.</em>
 </p>
-<p><strong>Consequences for Minor Offences </strong>
+<p><strong>Consequences for Minor Offences</strong>
 </p>
 <p>1. Parent/Guardian will be notified.</p>
 <p>2. Verbal warning by Form Teacher/Subject Teacher/Discipline Mistress/Year
@@ -657,7 +657,7 @@ Head.</p>
 <p>6. Mobile devices will be confiscated if students are found using them
 during school hours, in any pa rt of the school. Confiscated device(s)
 must be collected by a parent or guardian.</p>
-<p><strong>Major Offences </strong>
+<p><strong>Major Offences</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -695,7 +695,7 @@ reason)</p>
 <td rowspan="1" colspan="1">
 <p>3.1 Record, modify, upload, send, store, create or share inappropriate
 content through any digital means.</p>
-<p><em>This includes negative posts, emails, messages via social media, as well as inappropriate documents, presentations, pictures, or videos on phones or other devices. </em>
+<p><em>This includes negative posts, emails, messages via social media, as well as inappropriate documents, presentations, pictures, or videos on phones or other devices.</em>
 </p>
 <p>3.2 Possession of inappropriate materials / viewing of explicit content.</p>
 </td>
@@ -717,10 +717,10 @@ content through any digital means.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5.1 Cheating, attempting to cheat, or changing answers or marks in assessments</p>
-<p><em>This includes possessing unauthorised notes or materials, copying from others, allowing others to copy, or tampering with marks or assessment records. </em>
+<p><em>This includes possessing unauthorised notes or materials, copying from others, allowing others to copy, or tampering with marks or assessment records.</em>
 </p>
 <p>5.2 Forgery</p>
-<p><em>This includes forging signatures, medical certificates, consent forms, or other documents with the intent to deceive. </em>
+<p><em>This includes forging signatures, medical certificates, consent forms, or other documents with the intent to deceive.</em>
 </p>
 <p>5.3 Theft or other acts of dishonesty</p>
 </td>
@@ -732,7 +732,7 @@ content through any digital means.</p>
 <td rowspan="1" colspan="1">
 <p>6.1 Arson</p>
 <p>6.2 Vandalism</p>
-<p><em>This includes defacing property, tearing pages from a library book, etc. </em>
+<p><em>This includes defacing property, tearing pages from a library book, etc.</em>
 </p>
 </td>
 </tr>
@@ -760,11 +760,11 @@ of such items, including cigarettes and e-vaporisers.</p>
 </tbody>
 </table>
 <p></p>
-<p><em>Note: The tables provide guidance only and cannot cover all possible situations. The school reserves the right to take appropriate action in the best interest of students, staff and the learning environment, with each case assessed individually. </em>
+<p><em>Note: The tables provide guidance only and cannot cover all possible situations. The school reserves the right to take appropriate action in the best interest of students, staff and the learning environment, with each case assessed individually.</em>
 </p>
-<p><em>The school reserves the right to access the content(s) in a student's mobile device, bags or other materials in the presence of the student should any misuse be reported or for investigation purposes. </em>
+<p><em>The school reserves the right to access the content(s) in a student's mobile device, bags or other materials in the presence of the student should any misuse be reported or for investigation purposes.</em>
 </p>
-<p><strong>Consequences for Major Offences </strong>
+<p><strong>Consequences for Major Offences</strong>
 </p>
 <p>1. Parents/guardians will be notified.</p>
 <p>2. Verbal warning by Discipline Mistress/Year Head / School Leaders.</p>
@@ -788,7 +788,7 @@ the national penalties imposed by Health Sciences Authority. They are:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/v2.png">
 </div>
 <p>&nbsp;</p>
-<p><strong>Additional Support Measures </strong>
+<p><strong>Additional Support Measures</strong>
 </p>
 <p>As the primary focus is on facilitating student learning and growth, guidance
 and counselling may be provided by Form Teachers, Year Heads, Teacher Counsellors,
@@ -799,9 +799,7 @@ to address underlying concerns and develop better habits.</p>
 targeted counselling to understand the importance of integrity and develop
 honest academic practices.</p>
 <p></p>
-<p><strong>School Attire</strong>
-</p>
-<p>&nbsp;</p>
+<p><strong>School Attire</strong>&nbsp;</p>
 <p>Acceptable Attire</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms1.jpg">
