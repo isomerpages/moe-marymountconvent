@@ -731,20 +731,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:jonica_chong_chan_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jonica Chong</a>
-</p>
-<p>(School Counsellor)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:ngiam_yean_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Ngiam</a>&nbsp;</p>
-<p>(Senior SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:goh_sock_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Sock Ngee&nbsp;</a>
-</p>
-<p>(SEN Officer)&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -758,22 +745,53 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:magaswary_pichay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Magaswary Pichay</a>
+<p><a href="mailto:jonica_chong_chan_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jonica Chong</a>
 </p>
+<p>(School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: cheung_yuin_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Belinda Cheung</a>
+<p><a href="mailto:ngiam_yean_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Ngiam</a>&nbsp;</p>
+<p>(Senior SEN Officer)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sock_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Sock Ngee&nbsp;</a>
+</p>
+<p>(SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:magaswary_pichay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Magaswary Pichay</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tan_han_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Han Yin Christine</a>
+<p><a href="mailto: cheung_yuin_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Belinda Cheung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto: tan_han_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Han Yin Christine</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:chiang_siew_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Martha Chiang</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Isyraf Fikri Bin Ahmad Baharudin</p>
+<p>(Desktop Engineer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Iniasundaran Vijayan</p>
+<p>(Desktop Engineer)</p>
 </td>
 </tr>
 </tbody>
