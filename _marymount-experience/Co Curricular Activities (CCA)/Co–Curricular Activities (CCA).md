@@ -66,7 +66,7 @@ while gaining the confidence to perform on stage.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marymount-experience/co-curricular-activities-cca/guitar-ensemble/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUITAR [New]" src="/images/photo_1605020420620_20c943cc4669.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUITAR [New]</div><div class="isomer-card-description">Our Guitar Ensemble develops musical skill and harmony through the acoustic guitar. By practicing together, members improve their technique and teamwork while building the confidence to perform as a group.</div><div class="isomer-card-link">GUITAR [New]</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/guitar-ensemble/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUITAR [New]" src="/images/photo_1605020420620_20c943cc4669.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUITAR [New]</div><div class="isomer-card-description">Our Guitar Ensemble develops musical skill and harmony through the acoustic guitar. By practicing together, members improve their technique and teamwork while building the confidence to perform as a group.</div><div class="isomer-card-link">GUITAR [New]</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/innoplay/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -119,17 +119,13 @@ and perseverance.</div>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/science-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCIENCE CLUB" src="/images/IMG_20250926_WA0070.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SCIENCE CLUB</div><div class="isomer-card-description">Our Science Club sparks curiosity through hands-on experiments and discovery. By exploring the wonders of STEM, members develop critical thinking and problem-solving skills while learning to view the world through a scientific lens.</div><div class="isomer-card-link">SCIENCE CLUB</div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://placehold.co/600x400">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description"></div>
-<div class="isomer-card-link"></div>
+<div class="isomer-card-body"></div>
 </div>
-</a>
 </div>
 <p></p>
