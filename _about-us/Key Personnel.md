@@ -337,7 +337,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sheila_bala@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christine Yeo</a>
+<p><a href="mailto: lai_kai_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christine Yeo</a>
 </p>
 </td>
 </tr>
