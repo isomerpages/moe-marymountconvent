@@ -45,8 +45,7 @@ expert coaching, and a journey of growth, learning, and achievement!</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Developmental Team</strong>
-<br>Monday or Friday<strong><br></strong>2.00 p.m. to 4.15 p.m.<strong> </strong>
-</p>
+<br>Monday or Friday<strong><br></strong>2.00 p.m. to 4.15 p.m.</p>
 <p></p>
 <p><strong>Training Team</strong>
 <br>Monday, Wednesday or Friday
