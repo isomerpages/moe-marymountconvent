@@ -4,6 +4,12 @@ permalink: /about-us/marymount-staff/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/IMG_5902_edited.jpg">
+</div>
+<p></p>
+<p></p>
 <h4><strong>TEACHING STAFF&nbsp;&nbsp;</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
