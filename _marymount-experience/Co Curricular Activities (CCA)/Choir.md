@@ -81,7 +81,7 @@ contribute actively to the community.</p>
 share their musical knowledge and know-how, suggesting areas for improvement
 and development.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/masterclass with clinician.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/masterclass with clinician.jpg">
 </div>
 <p><strong>Singapore Youth Festival Arts Presentation</strong>
 <br>The SYF serves as a prominent arts and cultural festival, featuring a
@@ -91,7 +91,7 @@ dance, drama, and visual arts.</p>
 the arts, as well as a chance to demonstrate their passion and skill in
 front of a wider audience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/after syf.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/after syf.jpg">
 </div>
 <p><strong>Singapore International Choral Festival</strong>
 <br>Participating in the Singapore International Choral Festival offers our
@@ -108,7 +108,7 @@ enjoy a beautiful choral experience performing in a non-competitive setting
 at CHIJMES Hall. It is also a time of bonding as their families are invited
 to attend and bask in the ethereal ambience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/BBLA2005.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/BBLA2005.jpg">
 </div>
 <p><strong>Papal Mass 2024</strong>
 <br>Being a Catholic Mission school, our choristers were part of the choir
@@ -118,7 +118,7 @@ part of the choir for this special occasion was not just about singing;
 it was about being part of a historic event that will be remembered for
 years to come!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/papal mass .jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/papal mass .jpg">
 </div>
 <p><strong>Choir School Exchange</strong>
 <br>In November 2024, the choir participated in a choir exchange at Zhonghua
@@ -127,7 +127,7 @@ from other choirs. It was also a platform for our choristers to form friendships
 with choristers from other schools. This was an invaluable experience which
 our choristers thoroughly enjoyed!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/zhps choir exchange.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/zhps choir exchange.jpg">
 </div>
 <h4><strong>CCA Achievements</strong></h4>
 <p><strong>Competition:</strong>
