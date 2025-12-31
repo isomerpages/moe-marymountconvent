@@ -76,46 +76,39 @@ memories with lifelong friends in Marymount Convent School.</p>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
 <p><strong>Craft Work</strong>
-</p>
-<p>Brownies learn different life skills such as craft during Brownies sessions.</p>
-<p></p>
+<br>Brownies learn different life skills such as craft during Brownies sessions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br2.jpeg">
 </div>
 <p><strong>Keeping Fit</strong>
-</p>
-<p>Brownies take part in exercises and outdoor activities to keep fit. These
+<br>Brownies take part in exercises and outdoor activities to keep fit. These
 activities include outdoor trekking and Zumba.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br3.jpeg">
 </div>
 <p><strong>National Brownies Revel and South Division Day</strong>
-</p>
-<p>Brownies go for nationwide competition during the National Brownies Revel
+<br>Brownies go for nationwide competition during the National Brownies Revel
 and join in activities on South Division Day. We also get ourselves involved
 in community work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250222_WA0037.jpg">
 </div>
 <p><strong>Enrolment Ceremony</strong>
-</p>
-<p>The Tweenies go through an enrolment ceremony to be enrolled as Brownies.
+<br>The Tweenies go through an enrolment ceremony to be enrolled as Brownies.
 They are tested based on the points they need to know as Brownies and the
 tester will pin the enrolment badge onto their scarf.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br5.jpeg">
 </div>
 <p><strong>National Day Celebrations</strong>
-</p>
-<p>As the only uniformed group in the school, Brownies take part in the National
+<br>As the only uniformed group in the school, Brownies take part in the National
 Day Celebrations Parade Segment by marching in proudly with the state and
 school flag.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br6.jpg">
 </div>
 <p><strong>Teachers’ Day Celebrations</strong>
-</p>
-<p>Brownies take part in the Teachers’ Day Celebrations by coming up with
+<br>Brownies take part in the Teachers’ Day Celebrations by coming up with
 a performance for the concert.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/br7.jpg">
