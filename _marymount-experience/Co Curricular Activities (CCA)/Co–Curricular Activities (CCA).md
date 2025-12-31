@@ -15,7 +15,7 @@ while they learn, play and grow together. It also deepens the girls’ /
 pupils’ sense of belonging, commitment and responsibility to school, community
 and nation.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/art-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ART CLUB" src="/images/WhatsApp_Image_2025_08_19_at_14_48_04.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ART CLUB</div><div class="isomer-card-description">The Art Club provides a space for students to develop their creativity and artistic skills across different art and craft genres, helping to nurture them into confident young artists.</div><div class="isomer-card-link">ART CLUB</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/art-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ART CLUB" src="/images/WhatsApp_Image_2025_08_19_at_14_48_04.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ART CLUB</div><div class="isomer-card-description">The Art Club provides a space for students to develop their creativity and artistic skills across different art and craft genres, helping to nurture them into confident young artists.</div><div class="isomer-card-link">ART CLUB</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/artistic-gymnastics/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -29,11 +29,59 @@ as students master graceful routines on apparatus like the beam, bars,
 and vault, building discipline and resilience.</div>
 <div class="isomer-card-link">Artistic Gymnastics</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BADMINTON" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BADMINTON</div><div class="isomer-card-description">The Badminton club develops speed, agility, and precision through structured training focusing on footwork, technical skills, and match play. It aims to build physical fitness and instill values like discipline, resilience, and teamwork in all players.</div><div class="isomer-card-link">BADMINTON</div></div></a>
+</a>
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BADMINTON" src="/images/CCA/IMG_20250718_WA0143.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BADMINTON</div><div class="isomer-card-description">The Badminton club develops speed, agility, and precision through structured training focusing on footwork, technical skills, and match play. It aims to build physical fitness and instill values like discipline, resilience, and teamwork in all players.</div><div class="isomer-card-link">BADMINTON</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/brownies/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BROWNIES" src="/images/IMG_20250222_WA0029.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">BROWNIES</div>
+<div class="isomer-card-description">Brownies focus on discovery, teamwork, and play. Through hands-on activities,
+they build early confidence and learn the value of "lending a hand" to
+others.</div>
+<div class="isomer-card-link">BROWNIES</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/choir/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IMG_20250908_WA0029.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHOIR</div><div class="isomer-card-description">Our choir fosters vocal excellence and unity through disciplined harmony. By blending diverse voices into a single collective, members build the confidence and teamwork that define our school’s spirit.</div><div class="isomer-card-link">CHOIR</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://marymountconvent.moe.edu.sg/marymount-experience/co-curricular-activities-cca/dance-ensemble/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DANCE" src="/images/20250207_202537.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">DANCE</div>
+<div class="isomer-card-description">Our Dance Ensemble builds creativity and discipline through movement.
+By practicing together, members improve their coordination and teamwork
+while gaining the confidence to perform on stage.</div>
+<div class="isomer-card-link">DANCE</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
