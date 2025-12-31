@@ -11,8 +11,9 @@ experience, and that of their schoolmates, a safe, supportive, and joyful
 one. Guidance and support are given to students involved to take responsibility
 for their choices, learn from the consequences of their actions and live
 out the values of love, humility, respect and grace in words and deeds.</p>
-<p>In Marymount Convent School, we believe that</p>
-<p>• Every student can make good choices.
+<hr>
+<p>In Marymount Convent School, we believe that
+<br>• Every student can make good choices.
 <br>• Every student is responsible for her choice of actions.
 <br>• Every student needs to understand that wrong choices may lead to misbehaviours
 which lead to learning consequences.
@@ -60,9 +61,7 @@ before 7.30 a.m.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.3&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>1.3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must be present for all lessons unless there is a valid reason.
@@ -88,12 +87,12 @@ dismissed.</p>
 <p>1.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Absence during Curriculum Time</p>
-<p>The school does not condone absence during the school term, except on
-medical grounds.</p>
-<p>The school will only accept up to two parent's/guardian's letters per
-term. Other absences will be considered invalid.</p>
-<p>Parents/Guardians are discouraged from planning holidays, family activities
+<p><strong>Absence during Curriculum Time</strong>
+<br>The school does not condone absence during the school term, except on
+medical grounds.
+<br>The school will only accept up to two parent's/guardian's letters per
+term. Other absences will be considered invalid.
+<br>Parents/Guardians are discouraged from planning holidays, family activities
 or any trips such that students will miss lessons and school activities
 (CCAs, remedial and supplementary lessons, learning journeys, enrichments,
 post- exam activities, and school events like Sports Day etc.). Approval
@@ -121,7 +120,7 @@ ceremony.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.2 &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>2.2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must display integrity at all times.</p>
@@ -158,7 +157,7 @@ that may lead to bullying behaviours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.6 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p>2.6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are not allowed to extort any items from anyone.</p>
@@ -183,8 +182,7 @@ that may disrupt learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.9&nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>2.9&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All students must vacate the classroom during recess. Students are allowed
@@ -372,18 +370,18 @@ or alterations. School skirts should reach knee-length.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must be properly attired for PE lessons. PE T-shirts must be
-tucked in neatly at all times.</p>
-<p>Pl and P2 students are allowed to be in their PE attire throughout the
-day on days when they have PE or PAL.</p>
-<p>P3-P6 students must come to school in their PE T-shirts and skirts.</p>
-<p>Students are to wear PE attire only on days when they have PE lessons.</p>
-<p>For field trips or excursions, Pl and P2 students should wear the PE attire,
+tucked in neatly at all times.
+<br>Pl and P2 students are allowed to be in their PE attire throughout the
+day on days when they have PE or PAL.
+<br>P3-P6 students must come to school in their PE T-shirts and skirts.
+<br>Students are to wear PE attire only on days when they have PE lessons.
+<br>For field trips or excursions, Pl and P2 students should wear the PE attire,
 and P3 to P6 students should wear the PE T-shirt and school skirt.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>6.3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are to wear only the school jacket or a solid black jacket.</p>
@@ -412,7 +410,7 @@ who have to wear sandals to school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.6&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>6.6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brassiere straps must not be visible.</p>
@@ -460,7 +458,7 @@ times.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.11&nbsp; &nbsp; &nbsp;</p>
+<p>6.11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are not allowed to put on make-up.</p>
@@ -506,8 +504,8 @@ of simplicity and to be mindful of food allergies.</p>
 <td rowspan="1" colspan="1">
 <p>Students are taught that friendships are built on mutual care, love and
 understanding. They are discouraged from giving or exchanging gifts with
-their peers.</p>
-<p>Students should inform their teachers if their peers ask them for gifts
+their peers.
+<br>Students should inform their teachers if their peers ask them for gifts
 so that teachers can provide guidance on forming healthy friendships.</p>
 </td>
 </tr>
@@ -529,54 +527,56 @@ community.</p>
 <td rowspan="1" colspan="1">
 <p>To ensure our students enjoy a safe and pleasant bus journey, students
 are expected to observe safety rules and etiquette on the bus:
-<br>a. Put on the seat belt at all times.</p>
-<p>b. Place your bags neatly on the floor/under your seat.
-<br>C. Remain seated in your assigned seat at all times. Standing is strictly
+<br>a. Put on the seat belt at all times.
+<br>b. Place your bags neatly on the floor/under your seat.
+<br>c. Remain seated in your assigned seat at all times. Standing is strictly
 prohibited.
 <br>d. Having normal conversation is permitted; however, loud noises may distract
-the driver.</p>
-<p>e. Respect the personal space of your bus mates and avoid behaviour that
-may make them feel uncomfortable.</p>
-<p>f. Sit facing forward for the duration of the journey and keep feet on
-the floor in front and out of the bus aisle.</p>
-<p>g. Stay seated until the bus has come to a complete stop before alighting.</p>
-<p>h. Do not cross in front of or behind the bus immediately after alighting.
-f</p>
-<p>Wait for the bus to move off beore crossing.</p>
-<p>i. No eating and drinking on the bus.</p>
+the driver.
+<br>e. Respect the personal space of your bus mates and avoid behaviour that
+may make them feel uncomfortable.
+<br>f. Sit facing forward for the duration of the journey and keep feet on
+the floor in front and out of the bus aisle.
+<br>g. Stay seated until the bus has come to a complete stop before alighting.
+<br>h. Do not cross in front of or behind the bus immediately after alighting.
+Wait for the bus to move off beore crossing.
+<br>i. No eating and drinking on the bus.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<p>The school adopts MOE's Philosophy on Student Management.</p>
-<p>• Students learn well when there is order and discipline. At the same
+<p>The school adopts MOE's Philosophy on Student Management.
+<br>• Students learn well when there is order and discipline. At the same
 time, they need care, encouragement and space to learn from mistakes and
-improve.</p>
-<p>• Discipline is an educative process, and the goal is to instil self-discipline
-and good character in students.</p>
-<p>• Disciplinary measures are the consequences of poor choices made. They
+improve.
+<br>• Discipline is an educative process, and the goal is to instil self-discipline
+and good character in students.
+<br>• Disciplinary measures are the consequences of poor choices made. They
 are not punishments and must be meted out fairly, firmly, and appropriately.</p>
+<hr>
 <p></p>
 <p>Our educators adopt a caring, student-focussed approach when addressing
 disciplinary matters. All decisions made and actions taken by the school
-will focus on:</p>
-<p>• how to help students to learn to become a better person;</p>
-<p>• the impact of the offence on other students; and</p>
-<p>• the well-being of all students.</p>
+will focus on:
+<br>• how to help students to learn to become a better person;
+<br>• the impact of the offence on other students; and
+<br>• the well-being of all students.</p>
 <p></p>
 <p>As such, when incidents occur, students will be asked to share the facts
 of the matter, both through conversation and in writing.</p>
 <p>The school adopts Restorative Practice (RP) when guiding the student who
-has made a poor choice. This is an approach that aims to:</p>
-<p>• Manage conflict and tension by repairing harm and strengthening relationships
-to build community.</p>
-<p>• Foster respectful and trusting relationships as a foundation for teaching
-and learning.</p>
-<p>• Provide opportunities for students to learn about the consequences of
-their actions, develop empathy, and find resolutions.</p>
-<p>• Guide students through reflective questions to help them learn from
+has made a poor choice. This is an approach that aims to:
+<br>• Manage conflict and tension by repairing harm and strengthening relationships
+to build community.
+<br>• Foster respectful and trusting relationships as a foundation for teaching
+and learning.
+<br>• Provide opportunities for students to learn about the consequences of
+their actions, develop empathy, and find resolutions.
+<br>• Guide students through reflective questions to help them learn from
 their mistakes and explore possible solutions.&nbsp;</p>
+<hr>
 <p></p>
 <p><strong>Minor Offences</strong>
 </p>
@@ -591,8 +591,8 @@ their mistakes and explore possible solutions.&nbsp;</p>
 <p>Attendance Issues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.1 Late-coming</p>
-<p>1.2 Skipping class(Being absent from formal lessons without a valid reason)</p>
+<p>1.1 Late-coming
+<br>1.2 Skipping class(Being absent from formal lessons without a valid reason)</p>
 </td>
 </tr>
 <tr>
@@ -602,15 +602,12 @@ their mistakes and explore possible solutions.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>2.1 Inappropriate use of mobile devices
 <br><em>This includes use of mobile device outside the designated time and location - including during lunch breaks.</em>
-</p>
-<p>2.2 Improper attire and grooming
+<br>2.2 Improper attire and grooming
 <br><em>This includes an untidy uniform, hair that is not pinned up properly, an inappropriate haircut, nails that are not clean and trimmed, use of coloured hair bands, a uniform that is too short, etc.</em>
-</p>
-<p>2.3 Not meeting classroom expectations
+<br>2.3 Not meeting classroom expectations
 <br><em>This includes repeated non-submission of homework or assignments without a valid reason, off-task behaviour, sleeping in class, displaying an inappropriate attitude, tone, or comments, and dishonesty (e.g., lying).</em>
-</p>
-<p>2.4 Littering</p>
-<p>2.5 Touting/Selling/Trading of items</p>
+<br>2.4 Littering
+<br>2.5 Touting/Selling/Trading of items</p>
 </td>
 </tr>
 <tr>
@@ -618,9 +615,9 @@ their mistakes and explore possible solutions.&nbsp;</p>
 <p>Bullying and Harassment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.1 Minor scuffles during lessons or outside class</p>
-<p>3.2 Mischief (in words and actions) that may lead to bullying behaviours</p>
-<p><em>This includes use of profanities and/or unkind words (e.g. 'stupid?, inappropriate gestures, spreading rumours, cancel culture, etc. </em>
+<p>3.1 Minor scuffles during lessons or outside class
+<br>3.2 Mischief (in words and actions) that may lead to bullying behaviours.
+<br><em>This includes use of profanities and/or unkind words (e.g. 'stupid') inappropriate gestures, spreading rumours, cancel culture, etc. </em>
 <br>
 </p>
 </td>
@@ -646,17 +643,19 @@ students (e.g. touching other students' belongings, etc.)</p>
 </table>
 <p><em>Note: Minor offences committed repeatedly will be considered as major offences.</em>
 </p>
+<hr>
 <p><strong>Consequences for Minor Offences</strong>
 </p>
-<p>1. Parent/Guardian will be notified.</p>
-<p>2. Verbal warning by Form Teacher/Subject Teacher/Discipline Mistress/Year
-Head.</p>
-<p>3. Possible downgrade of conduct grade for the semester.</p>
-<p>4. Recess detention for up to 3 days.</p>
-<p>5. Attendance in RP sessions to help them "make things right''.</p>
-<p>6. Mobile devices will be confiscated if students are found using them
+<p>1. Parent/Guardian will be notified.
+<br>2. Verbal warning by Form Teacher/Subject Teacher/Discipline Mistress/Year
+Head.
+<br>3. Possible downgrade of conduct grade for the semester.
+<br>4. Recess detention for up to 3 days.
+<br>5. Attendance in RP sessions to help them "make things right''.
+<br>6. Mobile devices will be confiscated if students are found using them
 during school hours, in any pa rt of the school. Confiscated device(s)
 must be collected by a parent or guardian.</p>
+<hr>
 <p><strong>Major Offences</strong>
 </p>
 <table style="minWidth: 50px">
@@ -671,8 +670,8 @@ must be collected by a parent or guardian.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.1 Leaving school grounds without permission (after reporting but before
-the end of the school session without the school's approval)</p>
-<p>1.2 Truancy (Being absent from school or school activities without a valid
+the end of the school session without the school's approval)
+<br>1.2 Truancy (Being absent from school or school activities without a valid
 reason)</p>
 </td>
 </tr>
@@ -681,8 +680,8 @@ reason)</p>
 <p>Misconduct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.1 Open defiance and/or rudeness to teachers or school personnel</p>
-<p><em>This includes refusing to follow school rules, norms, and practices; disobeying teachers' instructions;displaying rudeness or disrespect through words or body language. </em>
+<p>2.1 Open defiance and/or rudeness to teachers or school personnel.
+<br><em>This includes refusing to follow school rules, norms, and practices; disobeying teachers' instructions;displaying rudeness or disrespect through words or body language. </em>
 <br>2.2 Repeated disruptive behaviour</p>
 <p><em>This includes in school and outside school, on the school bus.</em>
 </p>
@@ -694,10 +693,9 @@ reason)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.1 Record, modify, upload, send, store, create or share inappropriate
-content through any digital means.</p>
-<p><em>This includes negative posts, emails, messages via social media, as well as inappropriate documents, presentations, pictures, or videos on phones or other devices.</em>
-</p>
-<p>3.2 Possession of inappropriate materials / viewing of explicit content.</p>
+content through any digital means.
+<br><em>This includes negative posts, emails, messages via social media, as well as inappropriate documents, presentations, pictures, or videos on phones or other devices.</em>
+<br>3.2 Possession of inappropriate materials / viewing of explicit content.</p>
 </td>
 </tr>
 <tr>
@@ -705,10 +703,9 @@ content through any digital means.</p>
 <p>&nbsp;Bullying and Harassment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.1 Bullying of any form, including verbal, physical and</p>
-<p>cyberbullying</p>
-<p>4.2 Harassment /Threat</p>
-<p>4.3 Causing physical or emotional hurt</p>
+<p>4.1 Bullying of any form, including verbal, physical and cyberbullying
+<br>4.2 Harassment /Threat
+<br>4.3 Causing physical or emotional hurt</p>
 </td>
 </tr>
 <tr>
@@ -716,13 +713,11 @@ content through any digital means.</p>
 <p>Cheating and Dishonesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.1 Cheating, attempting to cheat, or changing answers or marks in assessments</p>
-<p><em>This includes possessing unauthorised notes or materials, copying from others, allowing others to copy, or tampering with marks or assessment records.</em>
-</p>
-<p>5.2 Forgery</p>
-<p><em>This includes forging signatures, medical certificates, consent forms, or other documents with the intent to deceive.</em>
-</p>
-<p>5.3 Theft or other acts of dishonesty</p>
+<p>5.1 Cheating, attempting to cheat, or changing answers or marks in assessments
+<br><em>This includes possessing unauthorised notes or materials, copying from others, allowing others to copy, or tampering with marks or assessment records.</em>
+<br>5.2 Forgery
+<br><em>This includes forging signatures, medical certificates, consent forms, or other documents with the intent to deceive.</em>
+<br>5.3 Theft or other acts of dishonesty</p>
 </td>
 </tr>
 <tr>
@@ -730,9 +725,9 @@ content through any digital means.</p>
 <p>Damage of Property</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.1 Arson</p>
-<p>6.2 Vandalism</p>
-<p><em>This includes defacing property, tearing pages from a library book, etc.</em>
+<p>6.1 Arson
+<br>6.2 Vandalism
+<br><em>This includes defacing property, tearing pages from a library book, etc.</em>
 </p>
 </td>
 </tr>
@@ -741,12 +736,12 @@ content through any digital means.</p>
 <p>Other Serious Offences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 .1 Extort ion</p>
-<p>7.2 Gambling</p>
-<p>7.3 Gangsterism / Fighting / Assault</p>
-<p>7.4 Smoking, vaping and substance abuse, or being found in possession
-of such items, including cigarettes and e-vaporisers.</p>
-<p>7.5 Possession of weapons and/or dangerous objects</p>
+<p>7 .1 Extortion
+<br>7.2 Gambling
+<br>7.3 Gangsterism / Fighting / Assault
+<br>7.4 Smoking, vaping and substance abuse, or being found in possession
+of such items, including cigarettes and e-vaporisers.
+<br>7.5 Possession of weapons and/or dangerous objects</p>
 </td>
 </tr>
 <tr>
@@ -764,30 +759,33 @@ of such items, including cigarettes and e-vaporisers.</p>
 </p>
 <p><em>The school reserves the right to access the content(s) in a student's mobile device, bags or other materials in the presence of the student should any misuse be reported or for investigation purposes.</em>
 </p>
+<hr>
 <p><strong>Consequences for Major Offences</strong>
 </p>
-<p>1. Parents/guardians will be notified.</p>
-<p>2. Verbal warning by Discipline Mistress/Year Head / School Leaders.</p>
-<p>3. Issuance of Major Offence Letter.</p>
-<p>4. A conduct grade of 'Fair' will be given for the semester.</p>
-<p>5. Student Leaders will be asked to step down from leadership positions.</p>
-<p>6. Recess detention for up to 7 days.</p>
-<p>7. Partial or full class suspension and out-of-school suspension may be
+<p>1. Parents/guardians will be notified.
+<br>2. Verbal warning by Discipline Mistress/Year Head / School Leaders.
+<br>3. Issuance of Major Offence Letter.
+<br>4. A conduct grade of 'Fair' will be given for the semester.
+<br>5. Student Leaders will be asked to step down from leadership positions.
+<br>6. Recess detention for up to 7 days.
+<br>7. Partial or full class suspension and out-of-school suspension may be
 considered, particularly if the student's presence poses a risk to other
-students.</p>
-<p>8. Attendance in RP sessions for students to learn about the consequences
-of their actions, develop empathy and find resolutions.</p>
-<p>9. The student may be required to pay for any damage to school property.</p>
-<p>10. Students caught cheating in assessments will be given a zero for the
-affected paper.</p>
-<p>11. Students caught vaping will be reported to the Health Sciences Authority.
+students.
+<br>8. Attendance in RP sessions for students to learn about the consequences
+of their actions, develop empathy and find resolutions.
+<br>9. The student may be required to pay for any damage to school property.
+<br>10. Students caught cheating in assessments will be given a zero for the
+affected paper.
+<br>11. Students caught vaping will be reported to the Health Sciences Authority.
 The school-based disciplinary actions will be meted out in addition to
-the national penalties imposed by Health Sciences Authority. They are:</p>
-<p></p>
+the national penalties imposed by Health Sciences Authority. They are:
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/v2.png">
 </div>
 <p>&nbsp;</p>
+<hr>
 <p><strong>Additional Support Measures</strong>
 </p>
 <p>As the primary focus is on facilitating student learning and growth, guidance
@@ -844,8 +842,5 @@ honest academic practices.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/Uniforms9.jpg">
 </div>
-<p>&nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
