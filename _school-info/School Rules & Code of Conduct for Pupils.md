@@ -4,12 +4,25 @@ permalink: /school-info/school-rules-code-of-conduct-for-pupils/
 description: ""
 variant: tiptap
 ---
-<p>In MCS, we believe strongly in the character building of every student.
-We celebrate their growth and ensure we inculcate strong values in our
-students. The Code of Conduct therefore serves to show our students the
-corresponding good behaviour one will demonstrate when they practise good
-values.</p>
-<p>&nbsp;</p>
+<p>Anchored in the beliefs and values of the Good Shepherd, the school is
+committed to nurturing a safe, supportive and enabling learning environment
+for every student. Students are responsible for making their own school
+experience, and that of their schoolmates, a safe, supportive, and joyful
+one. Guidance and support are given to students involved to take responsibility
+for their choices, learn from the consequences of their actions and live
+out the values of love, humility, respect and grace in words and deeds.</p>
+<p>In Marymount Convent School, we believe that</p>
+<p>• Every student can make good choices.
+<br>• Every student is responsible for her choice of actions.
+<br>• Every student needs to understand that wrong choices may lead to misbehaviours
+which lead to learning consequences.
+<br>• Every student has the right to learn without disruptions.
+<br>• Every student has the right to feel safe in school.
+<br>• Everyone must be respected at all times.</p>
+<p>School rules are established so that students can develop self-discipline
+and sound decision-making skills which are essential for success in life.
+The Code of Conduct serves to guide students in demonstrating behaviours
+that reflect the values they practise. &nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +31,7 @@ values.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Rule 1 : Be Present and Punctual for all School Activities</strong>
+<p><strong>Rule 1: Be Present and Punctual for all School Activities</strong>
 </p>
 </td>
 </tr>
@@ -34,7 +47,7 @@ values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must enter the school premises and be seated in the hall/classroom
-before 7.35 a.m.</p>
+before 7.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -52,10 +65,10 @@ before 7.35 a.m.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must be present for all lessons unless there is a valid reason.</p>
-<p>Students’ absence from lessons must be accompanied by a medical certificate
-or letter of excuse from parent / guardian and promptly submitted to the
-Form Teacher(s) on the day the student returns to school.&nbsp;</p>
+<p>Students must be present for all lessons unless there is a valid reason.
+Students' absence from lessons must be accompanied by a medical certificate
+or letter from parent/guardian and promptly submitted to the Form Teacher(s)
+on the day the student returns to school.</p>
 </td>
 </tr>
 <tr>
@@ -65,9 +78,9 @@ Form Teacher(s) on the day the student returns to school.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must remain within the school grounds once they have reported
-to&nbsp;school. They are not allowed to leave school without permission
-during curriculum hours, CCA or other after-school activities before they
-are dismissed.</p>
+to school. They are not allowed to leave school without permission during
+curriculum hours, CCA or other after-school activities before they are
+dismissed.</p>
 </td>
 </tr>
 <tr>
@@ -76,14 +89,16 @@ are dismissed.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Absence during Curriculum Time</p>
-<p>The school does not condone absence from school during school term unless
-on medical grounds.&nbsp;</p>
-<p>Parents / Guardians are not encouraged to plan for holidays, family activities
+<p>The school does not condone absence during the school term, except on
+medical grounds.</p>
+<p>The school will only accept up to two parent's/guardian's letters per
+term. Other absences will be considered invalid.</p>
+<p>Parents/Guardians are discouraged from planning holidays, family activities
 or any trips such that students will miss lessons and school activities
 (CCAs, remedial and supplementary lessons, learning journeys, enrichments,
-post-exam activities, school events like Sports Day etc.) Approval to be
-away from school must be sought in writing from the Principal or Vice-Principal
-through Form Teacher and Year Head at least 1 week prior to any absence.</p>
+post- exam activities, and school events like Sports Day etc.). Approval
+to be away from school must be sought in writing at least one week prior
+to any absence.</p>
 </td>
 </tr>
 <tr>
@@ -93,26 +108,28 @@ through Form Teacher and Year Head at least 1 week prior to any absence.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>General Conduct</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>2.1&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who are Singapore citizens must sing the National Anthem and</p>
-<p>take the Pledge. Students will take the Pledge with the right fist placed
-over the heart. Students must stand at attention throughout the flag raising
-ceremony.&nbsp;</p>
+<p>Students who are Singapore citizens must sing the National Anthem and
+take the pledge. Students will take the pledge with the right fist placed
+over the heart. Students must stand at attention throughout the flag-raising
+ceremony.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2.2 &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must display integrity at all times.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must show respect to all school staff and their peers at all
@@ -121,7 +138,7 @@ times.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.3</p>
+<p>2.4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must respect all official documents and property belonging to
@@ -130,20 +147,13 @@ others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students must display integrity at all times.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are expected to be loving and kind to others. They are not allowed
-to abuse anyone verbally, physically, or in written form both online and
-offline.</p>
+<p>Students are expected to be loving and kind to all school staff and their
+peers at all times. They are not allowed to do any form of mischief or
+abuse anyone (in words, actions or in written form both online and offline)
+that may lead to bullying behaviours.</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +169,7 @@ offline.</p>
 <p>2.7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are not allowed to sell any items to other students.</p>
+<p>Students are not allowed to trade, tout or sell any items to other students.</p>
 </td>
 </tr>
 <tr>
@@ -167,8 +177,8 @@ offline.</p>
 <p>2.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students must vacate the classroom during recess. Students are allowed
-in the&nbsp;classroom only when there is a teacher with them.</p>
+<p>Students are not allowed to bring toys, gambling cards, or any other items
+that may disrupt learning.</p>
 </td>
 </tr>
 <tr>
@@ -177,10 +187,8 @@ in the&nbsp;classroom only when there is a teacher with them.</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must switch off their mobile phones once they are in school.
-Recordings of any sort using their devices are not allowed.&nbsp;</p>
-<p>They are allowed to use mobile phones to make calls to their family members
-only outside of curriculum time in the foyer.&nbsp;</p>
+<p>All students must vacate the classroom during recess. Students are allowed
+in the classroom only when there is a teacher with them.</p>
 </td>
 </tr>
 <tr>
@@ -189,10 +197,11 @@ only outside of curriculum time in the foyer.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are not allowed to bring electronic devices (iPADs, hand-held
-games, etc.), related accessories (headphones, earphones, speakers, etc.).</p>
-<p>Students are not allowed to bring toys, any kind of card games such as
-gambling cards or any other items that may disrupt learning.</p>
+<p>Students are not allowed to use smartphones, and/or smartwatches during
+school hours, including recess, CCA, other school programmes and during
+examinations. Students may only use their handphones at the school foyer
+after curriculum hours. Those who bring these devices must turn them off
+and put them in their school bags before school starts.</p>
 </td>
 </tr>
 <tr>
@@ -200,11 +209,12 @@ gambling cards or any other items that may disrupt learning.</p>
 <p>2.11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students are not allowed to have in their possession any weapons.
-They are also not allowed to bring any weapon-like items which can be used
-or intended to be used to cause harm to others.</p>
-<p>Scissors are allowed during lessons under the permission and supervision
-of the teacher/ instructor.</p>
+<p>Students are not allowed to have in their possession any weapons. They
+are also not allowed to bring any weapon-like items that can be used or
+are intended to be used to cause harm to others.</p>
+<p>Students should not bring any personal sharp-pointed/sharp-edged tools
+to school (i.e. including scissors). Teachers will provide scissors and
+these must be returned after use.</p>
 </td>
 </tr>
 <tr>
@@ -230,9 +240,21 @@ the items they have brought with them.</p>
 <p>3.2&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Students who bring smartphones and/or smartwatches are to put them in
+their school bags before school starts. They can retrieve them after school
+ends. Students are only allowed to use smartphones and/or smartwatches
+at the school foyer after school hours.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Students are responsible and accountable for the safekeeping of their
 personal belongings. They are to label all their personal belongings and
-not leave their belongings unattended.&nbsp;</p>
+not leave their belongings unattended. The school will not be able to follow
+up on any loss of items, including communication devices.</p>
 </td>
 </tr>
 <tr>
@@ -246,8 +268,7 @@ not leave their belongings unattended.&nbsp;</p>
 <p>4.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are to bring the required books / worksheets / materials for
-lessons.</p>
+<p>Students are to bring the required books/worksheets/materials for lessons.</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +284,7 @@ lessons.</p>
 <p>4.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are allowed to use only correction tape when correcting their
+<p>Students are allowed to use correction tape only when correcting their
 work.</p>
 </td>
 </tr>
@@ -279,9 +300,8 @@ work.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are expected to take care of the school environment and school
-property.</p>
-<p>They must not wilfully or maliciously destroy school or personal property
-or write graffiti.</p>
+property. They must not wilfully or maliciously destroy school or personal
+property or write graffiti.</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +320,7 @@ bins provided.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must ensure that all lights and fans are switched off when not
-in use.&nbsp;</p>
+in use.</p>
 </td>
 </tr>
 <tr>
@@ -308,9 +328,10 @@ in use.&nbsp;</p>
 <p>5.4&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No eating or drinking is allowed outside the canteen, except during snack
-break. No sweetened drinks are allowed in any classroom, along the corridors
-and at the foyer.</p>
+<p>No eating or drinking is allowed outside the canteen, except during healthy
+bites.</p>
+<p>No sweetened drinks are allowed in any classroom, along the corridors,
+or at the foyer.</p>
 </td>
 </tr>
 <tr>
@@ -336,13 +357,13 @@ collection points after their meals.</p>
 <td rowspan="1" colspan="1">
 <p>The school uniform is a representation of the school and its history.
 It is to be worn in a dignified manner that befits the image of the MCS
-girl.&nbsp;&nbsp;</p>
-<p>Students are to wear the prescribed school uniform / school attire when
+girl.</p>
+<p>Students are to wear the prescribed school uniform/school attire when
 they are in school or when attending all school functions within or outside
-school.&nbsp;&nbsp;</p>
-<p>Modification to the school uniform is strictly not allowed. School skirts
-should be knee-length. Coloured name tags are to be sewn on school uniforms
-and PE T-shirts.</p>
+the school.</p>
+<p>The school uniform must be worn exactly as prescribed, without any modifications
+or alterations. School skirts should reach knee-length.</p>
+<p>Name tags are to be sewn on school uniforms and PE T-shirts.</p>
 </td>
 </tr>
 <tr>
@@ -351,11 +372,13 @@ and PE T-shirts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must be properly attired for PE lessons. PE T-shirts must be
-tucked in neatly at all times.&nbsp;&nbsp;</p>
-<p>P1 and P2 students are allowed to be in their PE attire throughout the
-day on days when they have PE. P3 – P6 students are allowed to come to
-school in their PE T-shirts and skirts.&nbsp;&nbsp;</p>
+tucked in neatly at all times.</p>
+<p>Pl and P2 students are allowed to be in their PE attire throughout the
+day on days when they have PE or PAL.</p>
+<p>P3-P6 students must come to school in their PE T-shirts and skirts.</p>
 <p>Students are to wear PE attire only on days when they have PE lessons.</p>
+<p>For field trips or excursions, Pl and P2 students should wear the PE attire,
+and P3 to P6 students should wear the PE T-shirt and school skirt.</p>
 </td>
 </tr>
 <tr>
@@ -363,8 +386,7 @@ school in their PE T-shirts and skirts.&nbsp;&nbsp;</p>
 <p>6.3&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are to wear only the school jacket or single colour tone black
-jacket.</p>
+<p>Students are to wear only the school jacket or a solid black jacket.</p>
 </td>
 </tr>
 <tr>
@@ -372,12 +394,11 @@ jacket.</p>
 <p>6.4&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must wear white #socks (ankle socks are not allowed) and black
-shoes when they are in school or when attending all school functions within
-or outside school.&nbsp;&nbsp;</p>
-<p>Track shoes may be worn for CCAs and on special occasions such as Sports
-Day, with permission from the Teacher-In-Charge.&nbsp;</p>
-<p>#Socks must be at least 5 cm above the ankle bone.</p>
+<p>Students must wear white *socks (ankle socks and high socks are not allowed)
+and black shoes when they are in school or when attending all school functions
+within or outside the school.</p>
+<p>Socks must be at least 5 cm above the ankle bone. Socks must not go beyond
+the mid-calf.</p>
 </td>
 </tr>
 <tr>
@@ -385,7 +406,7 @@ Day, with permission from the Teacher-In-Charge.&nbsp;</p>
 <p>6.5&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A doctor’s memo or parent’s / guardian’s letter is required for students
+<p>A doctor's memo or parent's/guardian's letter is required for students
 who have to wear sandals to school.</p>
 </td>
 </tr>
@@ -404,9 +425,8 @@ who have to wear sandals to school.</p>
 <td rowspan="1" colspan="1">
 <p>Students must wear their hair neatly. Fringes must be neat and above the
 eyebrows. Students with long fringes must use plain hair clips or hair
-bands. The long fringes are not to be tucked behind the ears. Hair length
-which touches the shoulder must be tied up. Only black hair accessories
-are allowed.&nbsp;</p>
+bands. The long fringes are not to be tucked behind the ears. Hair that
+touches the shoulder must be tied up. Only black hair accessories are allowed.</p>
 </td>
 </tr>
 <tr>
@@ -414,8 +434,8 @@ are allowed.&nbsp;</p>
 <p>6.8&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ornaments and items such as charms, amulets etc. must not be worn in order
-not to compromise the safety of the child.&nbsp;</p>
+<p>Personal adornments, accessories or any jewellery pieces (rings, bracelets,
+necklaces, fancy watches and earrings, etc.) are not allowed.</p>
 </td>
 </tr>
 <tr>
@@ -423,10 +443,10 @@ not to compromise the safety of the child.&nbsp;</p>
 <p>6.9&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are allowed to wear only one set of plain gold/silver round studs
-of diameter 0.5 cm maximum or colourless ‘ear sticks’ on the earlobes.
+<p>Students are allowed to wear one set of plain gold or silver round studs
+with a maximum diameter of 0.5 cm, or colourless 'ear sticks' on the earlobes.
 Students are discouraged from having multiple ear piercings. Other forms
-of piercing are not allowed.&nbsp;</p>
+of piercings are not allowed.</p>
 </td>
 </tr>
 <tr>
@@ -451,7 +471,7 @@ times.</p>
 <p>6.12&nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are not allowed to have elaborate hairstyles, including hair
+<p>Students are not permitted to have elaborate hairstyles, including hair
 colouring, highlighting, dyeing, or the use of hair extensions.</p>
 </td>
 </tr>
@@ -464,13 +484,8 @@ colouring, highlighting, dyeing, or the use of hair extensions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>6.14&nbsp; &nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students are not allowed to wear smart watches (capable of making phone
-calls, sending text messages, storing of data, capturing of images etc.)
-Smart&nbsp;watches are also prohibited during examination.</p>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
