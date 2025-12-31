@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/IMG_5902_edited.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/IMG_5842_edited.jpg">
+</div>
 <p>The MCS teacher is loved by the pupils and respected by colleagues and
 parents.</p>
 <p>As a Professional, committed to helping the school to achieve its Vision
