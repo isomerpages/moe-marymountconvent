@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<h4><strong>Artistic Gymnastics: Where Strength Meets Grace</strong></h4>
-<p>&nbsp;Artistic Gymnastics is a dynamic and challenging sport that demands
-strength, flexibility, and coordination. Our CCA offers a unique opportunity
-for students to develop their physical skills while cultivating valuable
-life lessons.</p>
+<h4><strong>CCA Information</strong></h4>
+<p>Artistic Gymnastics is a dynamic and challenging sport that demands strength,
+flexibility, and coordination. Our CCA offers a unique opportunity for
+students to develop their physical skills while cultivating valuable life
+lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250408_WA0084.jpg">
 </div>
