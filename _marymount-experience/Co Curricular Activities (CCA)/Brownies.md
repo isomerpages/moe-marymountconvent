@@ -50,7 +50,7 @@ memories with lifelong friends in Marymount Convent School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday</strong>
+<p>Monday
 <br>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ memories with lifelong friends in Marymount Convent School.</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Rebecca Goh (OIC)
 <br>Mrs Long Hui Lin (2IC)</p>
-<p>Mrs Sheila Bala</p>
+<p>Ms Denise Yeoh</p>
 </td>
 </tr>
 </tbody>
