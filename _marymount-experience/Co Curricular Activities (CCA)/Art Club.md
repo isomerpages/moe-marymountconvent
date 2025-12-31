@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/IMG_20240219_WA0024.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/IMG_20240219_WA0024.jpg">
 </div>
 <h4><strong>CCA Information</strong></h4>
 <p>The Art Club caters to students who are interested in art and craft. It
@@ -14,7 +14,7 @@ encourages students to express their creativity and art ideas in their
 art making processes, by drawing from their experiences and external resources
 to create their artwork.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Art2.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250819_WA0038.jpg">
 </div>
 <p>Different art forms are introduced to develop students in different art
 genres. Art Club also provides opportunities for students to display school
@@ -74,10 +74,10 @@ them into confident 21st century young artists.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155026.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155026.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155110.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club 2024/20240129_155110.jpg">
 </div>
 <p></p>
