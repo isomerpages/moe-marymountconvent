@@ -26,8 +26,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Retail:</strong>
-<br>4012 Ang Mo Kio Ave 10, #01-09</p>
-<p>Techplace 1 Singapore 569628</p>
+<br>4012 Ang Mo Kio Ave 10, #01-09
+<br>Techplace 1 Singapore 569628</p>
 </td>
 </tr>
 <tr>
@@ -45,13 +45,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday:</p>
-<p></p>
-<p>10am - 1pm, 2pm - 6pm</p>
-<p></p>
-<p>Saturday : 10am to 2pm</p>
-<p></p>
-<p>Sunday &amp; Public Holiday : Closed</p>
+<p>Monday to Friday:
+<br>10am - 1pm, 2pm - 6pm
+<br>Saturday : 10am to 2pm
+<br>Sunday &amp; Public Holiday : Closed</p>
 </td>
 </tr>
 <tr>
