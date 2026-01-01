@@ -7,5 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/V4.gif
+      background: /images/IMG_5796Photoshopped_edited.jpg
+      variant: center
+      key_highlights:
+        - title: Marymount Convent School
+          description: ""
+          url: ""
 ---

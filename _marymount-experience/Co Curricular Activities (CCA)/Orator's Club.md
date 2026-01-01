@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Drama4.jpeg">
-</div>
 <h4><strong>CCA Information</strong></h4>
 <p>This CCA caters to students who want to be orator, scriptwriter, debater
 or actress. The students will be trained in 4 disciplines – speaking, writing,
@@ -18,9 +15,6 @@ and during school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Drama1.jpeg">
 </div>
-<p>
-<br>
-</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -34,7 +28,7 @@ and during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays
+<p>Friday
 <br>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
@@ -53,7 +47,8 @@ and during school events.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kaiel (OIC)</p>
-<p>Ms Lam Shu Zhen (2IC)</p>
+<p>Miss Lee Karin (2IC)
+<br>Mdm Lam Shuzhen</p>
 </td>
 </tr>
 </tbody>

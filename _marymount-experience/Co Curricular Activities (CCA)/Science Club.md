@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<h4><strong>CCA Information</strong></h4>
 <p>The Science Club welcomes all individuals who have a genuine interest
 in science, and would like to further develop their knowledge, passion
 and interest in this discipline. Students will be engaged in a wide range
@@ -12,6 +13,9 @@ of activities, including conducting science experiments and attending learning
 journeys to science-related destinations. Students of Science Club will
 have opportunities to share their knowledge with their peers and to participate
 in team projects.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Env3.jpeg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,11 +46,16 @@ in team projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elaine Han (OIC)</p>
-<p>Mr Paul Teo (2IC)</p>
-<p>Mrs Ong-Low York Sheng</p>
+<p>Ms Elaine Han (OIC)
+<br>Mrs Ong-Low York Sheng (2IC)
+<br>Mr Paul Teo</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:75%;" height="auto" width="100%" src="/images/Env4.jpeg">
+</div>
+<p></p>
 <p></p>
