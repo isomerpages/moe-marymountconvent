@@ -103,21 +103,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Primary 1 &amp; 2)</strong>
+<p><strong>Year Head (Primary 1) </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Primary 3 &amp; 4)</strong>
+<p><strong>Year Head (Primary 2)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur</a>
+<p><a href="mailto:geraldine_robert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Geraldine Robert</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_robert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Geraldine Robert</a>
+<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur </a>
 </p>
 </td>
 </tr>
@@ -263,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Outdoor Education</strong>
+<p><strong>Subject Head - Student Development</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
