@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Primary 1) </strong>
+<p><strong>Year Head (Primary 1)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +117,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur </a>
+<p><a href="mailto:sabrina_kaur_jit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sabrina Kaur</a>
 </p>
 </td>
 </tr>
