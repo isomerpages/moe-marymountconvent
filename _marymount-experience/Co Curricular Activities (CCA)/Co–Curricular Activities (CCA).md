@@ -125,7 +125,9 @@ and perseverance.</div>
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://placehold.co/600x400">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 </div>
 <p></p>
