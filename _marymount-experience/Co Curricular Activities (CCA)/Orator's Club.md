@@ -47,7 +47,8 @@ and during school events.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kaiel (OIC)</p>
-<p>Miss Lee Karin (2IC)</p>
+<p>Miss Lee Karin (2IC)
+<br>Mdm Lam Shuzhen</p>
 </td>
 </tr>
 </tbody>
