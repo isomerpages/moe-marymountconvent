@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_5796Photoshopped_edited.jpg
+      background: /images/Novia_New.jpg
       variant: center
       key_highlights:
         - title: Marymount Convent School
