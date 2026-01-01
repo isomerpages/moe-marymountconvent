@@ -11,12 +11,10 @@ Netball. Besides learning new skills and playing the game of Netball, the
 CCA also seeks to foster a spirit of camaraderie, responsibility and discipline
 among teammates. CCA members also learn important life skills like eating
 right and journaling their Netball learning experience for future reference.</p>
-<p>Students in the Training Team are expected to train twice a week (Monday
+<p>
+<br>Students in the Training Team are expected to train twice a week (Monday
 &amp; Wednesday) while the Developmental Team will train once a week on
 Fridays.</p>
-<p>
-<br>
-</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,16 +28,13 @@ Fridays.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mondays</u><br></strong>2.00 p.m. to 5.00 p.m.&nbsp;<strong>(Training Team)<br></strong>
+<p><strong>Developmental Team</strong>
+<br>Friday
+<br>2.15 p.m. to 4.15 p.m.&nbsp;<strong><br></strong>
 </p>
-<p><strong><u>Wednesdays</u></strong>
-<br>2.00 p.m. to 5.00 p.m.&nbsp;<strong>(Training Team)</strong>
-</p>
-<p></p>
-<p><strong><u>Fridays</u></strong>
-</p>
-<p>2.15 p.m. to 4.15 p.m.&nbsp;<strong>(Developmental Team)</strong>
-</p>
+<p><strong>Training Team</strong>
+<br>Monday and Wednesday
+<br>2.00 p.m. to 5.00 p.m.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +43,8 @@ Fridays.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall &amp; PE Area&nbsp;</p>
+<p>Developmental Team: PE Area
+<br>Training Team: Indoor Sports Hall (ISH)</p>
 </td>
 </tr>
 <tr>
@@ -57,18 +53,17 @@ Fridays.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Jian Yi (OIC)</p>
-<p>Mr Wildred Aaron Nathan (2IC)</p>
-<p>Mr Mohammad Faizal Bin Ramli</p>
-<p>Ms Novia Aw</p>
-<p>Ms Alicia Gomes</p>
-<p>Mrs Valerie Ng</p>
+<p>Mr Chan Jian Yi (OIC)
+<br>Mr Wilfred Aaron Nathan (2IC)
+<br>Ms Alicia Gomes
+<br>Mrs Valerie Ng
+<br>Mrs Christine Yeo
+<br>Mrs Sheila Bala
+<br>Ms Sally Neo</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h4><strong>CCA Highlights</strong></h4>
 <p><strong><u>NSG 2023 Netball Junior Division Profile</u></strong>
 </p>
