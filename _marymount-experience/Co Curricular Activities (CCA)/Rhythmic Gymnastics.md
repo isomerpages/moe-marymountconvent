@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Rgym1.jpeg">
-</div>
 <h4><strong>CCA Information</strong></h4>
 <p>Rhythmic Gymnastics combines multi-disciplinary elements of ballet, dance
 and gymnastics. Students use apparatus such as clubs, ropes, hoops and
 balls to perform their routines on the floor, accompanied by the tune of
-catchy songs or music. Additionally, they work on exercises that develop
-or display physical agility and coordination. For school team athletes,
-they will progress to work with handheld apparatus and perform in routines
-with leaps, contortions and dance that flow in time to music.</p>
+catchy songs or music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Rgym1.jpeg">
+</div>
+<p>Additionally, they work on exercises that develop or display physical
+agility and coordination. For school team athletes, they will progress
+to work with handheld apparatus and perform in routines with leaps, contortions
+and dance that flow in time to music.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/Rgym2.jpeg">
 </div>
@@ -72,11 +73,13 @@ but it also teaches them to be committed, disciplined and resilient.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jacqueline Kwek (OIC)
-<br>Ms Deepa Supramaniam (2IC)</p>
-<p>Mrs Sarah Tan</p>
-<p>Mrs Yao Hwee Hong</p>
-<p>Ms Durgha Devi Subramaniam</p>
-<p>Mrs Chan Cheng Guan</p>
+<br>Ms Deepa Supramaniam (2IC)
+<br>Mrs Sarah Tan
+<br>Mrs Yao Hwee Hong
+<br>Ms Durgha Devi Subramaniam
+<br>Mrs Chan Cheng Guan
+<br>Miss Normala Bte Salleh
+<br>Mdm Zhang Hui</p>
 </td>
 </tr>
 </tbody>
@@ -117,104 +120,4 @@ exercises which involve:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/rg5.jpeg">
 </div>
-<h4><strong>Performances</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/rg6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/rg7.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 Orientation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prize Giving&nbsp;Day</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CCA Achievements</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Level (Div)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games 2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Junior &amp; Senior Division</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Division: 3<sup>rd</sup>&nbsp;Group Freehand</p>
-<p>Senior Division: 1<sup>st</sup> Group Freehand</p>
-<p>Various individual achievements</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020 RG Virtual Competition&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Junior &amp; Senior Division</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Place Team All Around</p>
-<p>Various individual achievements&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
