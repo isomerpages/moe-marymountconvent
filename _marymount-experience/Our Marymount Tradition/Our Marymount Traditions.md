@@ -41,7 +41,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="OPENING MASS" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OPENING MASS</div><div class="isomer-card-description">Each year, our school community gathers for our Opening Mass to dedicate the new academic year to God. As a Catholic school, we pray for blessings on all students and staff. It is a time to center our hearts on faith and commit to a year of learning, growth, and service.</div><div class="isomer-card-link">OPENING MASS</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="OPENING MASS" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OPENING MASS</div><div class="isomer-card-description">Each year, our school gathers for the Opening Mass and Light Ceremony to dedicate the new year to God. We pray for blessings and light candles to symbolise Christ’s light in us. It is a time to center our hearts on faith and commit to a year of learning, growth, and service.</div><div class="isomer-card-link">OPENING MASS</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
