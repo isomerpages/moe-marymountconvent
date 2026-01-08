@@ -60,30 +60,6 @@ Through outdoor adventure camps, students learn about themselves, build
 friendship amongst their team and actively help each other to achieve team
 goals in an inclusive manner. In addition, they get to understand the importance
 of caring for the environment.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250226_WA0117.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20240223_WA0151.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250226_WA0051.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250224_WA0223.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250224_WA0176.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250224_WA0188.jpg">
-</div>
 <p><strong>P6 Outdoor Experience</strong>
 </p>
 <p>Students participate in outdoor experiences that help build their confidence
@@ -94,9 +70,6 @@ help to build a foundation for active and healthy living for our students.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0091.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0057.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0054.jpg">
