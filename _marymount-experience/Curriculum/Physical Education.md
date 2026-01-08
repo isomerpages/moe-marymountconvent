@@ -94,9 +94,6 @@ help to build a foundation for active and healthy living for our students.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0091.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0057.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0054.jpg">
