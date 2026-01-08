@@ -103,9 +103,8 @@ health. The school aims to raise our daughters of Marymount by developing
 them cognitively, physically, socially and morally, to be ready for the
 21st century.</p>
 <h4><strong>Our Programmes</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -116,11 +115,6 @@ them cognitively, physically, socially and morally, to be ready for the
 <p>By Primary 6, students will be able to use local maps to navigate their
 way from the city to Sentosa using public transport.</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp2.jpg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -128,11 +122,6 @@ way from the city to Sentosa using public transport.</p>
 </p>
 <p>This is the highlight of the Primary 6 Camp where students get to overcome
 their fear of height and experience high elements at Sentosa.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp3.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -143,17 +132,6 @@ their fear of height and experience high elements at Sentosa.</p>
 Primary 5, students get to experience high and low elements at the camp,
 helping them to build resilience and perseverance.</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp6.jpg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -163,14 +141,6 @@ helping them to build resilience and perseverance.</p>
 to build confidence, resilience and friendship; and learn about Singapore.
 This will help them to apply the outdoor skills that they have learnt during
 PE lessons during the activity.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp8.jpg">
-</div>
 </td>
 </tr>
 </tbody>
