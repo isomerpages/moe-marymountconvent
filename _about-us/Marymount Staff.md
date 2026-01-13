@@ -232,11 +232,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: xu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Xu Yan</a>
+<p><a href="mailto: xu_yan_d@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Xu Yan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Hui</a>
+<p><a href="mailto:zhang_hui_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhang Hui</a>
 </p>
 </td>
 </tr>
