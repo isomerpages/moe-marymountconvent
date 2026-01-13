@@ -16,7 +16,7 @@ the many fun, interesting and thought-provoking books to be discovered
 by your child. These books are available at the school library so do encourage
 your daughter to borrow them.</p>
 <p>We hope that the girls will have a lovely time exploring the books!</p>
-<p><strong>Happy Reading!</strong>
+<p><strong>Happy Reading!</strong><a href="/files/Booklist/p1el23.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <h4><strong>English</strong></h4>
 <table style="minWidth: 75px">
