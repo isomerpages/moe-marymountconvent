@@ -293,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:durgha_devi_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Durgha Devi</a>
+<p><a href="mailto:durgha_devi_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Durgha Devi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

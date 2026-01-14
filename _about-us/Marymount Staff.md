@@ -454,7 +454,7 @@ variant: tiptap
 <p>4Z</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="durgha_devi_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Durga Devi</a>
+<p><a href="mailto:durgha_devi_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Durga Devi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
