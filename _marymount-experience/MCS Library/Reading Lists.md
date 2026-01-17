@@ -16,9 +16,46 @@ the many fun, interesting and thought-provoking books to be discovered
 by your child. These books are available at the school library so do encourage
 your daughter to borrow them.</p>
 <p>We hope that the girls will have a lovely time exploring the books!</p>
-<p><strong>Happy Reading!</strong><a href="/files/Booklist/p1el23.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><strong>Happy Reading!</strong>
 </p>
 <h4><strong>English</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/files/Booklist/p1el23.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 English Language</a></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Booklist/p2el23.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 English Language</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,9 +65,8 @@ your daughter to borrow them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/p1%20english%20book%20list%20_page_2.png">
-</div>
+<p><a href="/files/Booklist/p1el23.pdf" rel="noopener nofollow" target="_blank">P1 English Language</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
