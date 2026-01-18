@@ -19,43 +19,6 @@ your daughter to borrow them.</p>
 <p><strong>Happy Reading!</strong>
 </p>
 <h4><strong>English</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/files/Booklist/p1el23.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 English Language</a></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Booklist/p2el23.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 English Language</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,77 +27,36 @@ your daughter to borrow them.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Booklist/p1el23.pdf" rel="noopener nofollow" target="_blank">P1 English Language</a>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist/p1el23.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Library%202023/p2%20english%20book%20list%20_page_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/p3%20english%20book%20list%20_page_2.png">
-</div>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist/p2el23.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Booklist/p3el23.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P1</strong>
+<p><a href="/files/Booklist/p4el23.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2</strong>
+<p><a href="/files/Booklist/p5el23.pdf" rel="noopener nofollow" target="_blank">P5 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3</strong>
+<p><a href="/files/Booklist/p6el23.pdf" rel="noopener nofollow" target="_blank">P6 Booklist</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Library%202023/p4%20english%20book%20list_page_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/p5%20english%20book%20list%20_page_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Library%202023/p6%20english%20book%20list%20_page_2.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P6</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <h4><strong>Chinese Language</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -145,37 +67,21 @@ your daughter to borrow them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Library%202023/p1-p2%20chinese%20book%20list_page_1.png">
-</div>
+<p><a href="/files/Booklist/p1p2cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P1, P2 Booklist</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 150%;" height="auto" width="100%" src="/images/Library%202023/p3-p4%20chinese%20book%20list_page_1.png">
-</div>
+<p><a href="/files/Booklist/p3p4cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3, P4 Booklist</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/Library%202023/p5-p6%20chinese%20book%20list_page_1.png">
-</div>
+<p><a href="/files/Booklist/p5p6cl2023.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
+</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;P1 &amp; P2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;P3 &amp; P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P5 &amp; P6&nbsp;</strong>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Malay Language</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -185,38 +91,22 @@ your daughter to borrow them.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/senarai%20buku%20bacaan%20p1%20dan%20p2_page_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/senarai%20buku%20bacaan%20p3%20dan%20p4_page_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Library%202023/senarai%20buku%20bacaan%20p5%20dan%20p6.png">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;P1 &amp; P2</strong>
+<p><a href="/files/Booklist/mlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Books</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;P3 &amp; P4</strong>
+<p><a href="/files/Booklist/mlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Books</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 &amp; P6&nbsp;</strong>
+<p><a href="/files/Booklist/mlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Books</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Tamil Language</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -226,36 +116,20 @@ your daughter to borrow them.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/p1-p2%20tamil%20book%20list_page_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/p3-p4%20tamil%20book%20list_page_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Library%202023/p5-p6%20tamil%20book%20list_page_1.png">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;P1 &amp; P2</strong>
+<p><a href="/files/Booklist/tlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;P3 &amp; P4</strong>
+<p><a href="/files/Booklist/tlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 &amp; P6&nbsp;</strong>
+<p><a href="/files/Booklist/tlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <p></p>
