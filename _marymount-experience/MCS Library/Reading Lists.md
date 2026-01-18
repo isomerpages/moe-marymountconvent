@@ -66,22 +66,21 @@ your daughter to borrow them.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/p1p2cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P1, P2 Booklist</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/p3p4cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3, P4 Booklist</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/p5p6cl2023.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
 </p>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Malay Language</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -92,21 +91,20 @@ your daughter to borrow them.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/mlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Books</a>
+<p><a href="/files/Booklist/mlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/mlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Books</a>
+<p><a href="/files/Booklist/mlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/mlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Books</a>
+<p><a href="/files/Booklist/mlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Tamil Language</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -131,5 +129,4 @@ your daughter to borrow them.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
