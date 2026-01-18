@@ -39,14 +39,14 @@ the primary section.</p>
 <p><strong>Alemay Fernandez</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d1.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Alemay Fernandez" src="/images/d1.jpg">
 </div>
 <p>Ms Alemay Fernandez is a veteran jazz singer. She has been called "Singapore's
 most loved performer" and is a rising star on the Asian jazz scene.</p>
 <p><strong>Belinda Charles</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d2.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Belinda Charles" src="/images/d2.jpg">
 </div>
 <p>Mrs Belinda Charles helmed St Andrew’s Secondary for nine years and St
 Andrew’s Junior College for twelve years as principal and is now Dean at
@@ -54,7 +54,7 @@ the Academy of Principals (Singapore).</p>
 <p><strong>Bridget Tan</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/19422_bridgettan_st.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Bridget Tan" src="/images/19422_bridgettan_st.jpg">
 </div>
 <p>Ms Bridget Tan&nbsp;is a migrant worker's rights advocate and the founder
 of the&nbsp;<a href="https://en.wikipedia.org/wiki/Humanitarian_Organization_for_Migration_Economics" rel="noopener noreferrer nofollow" target="_blank">Humanitarian Organization for Migration Economics</a>.
@@ -68,7 +68,7 @@ in The Philippines. For her work, Tan has been honoured by the&nbsp;
 <p><strong>Cecilia Ee</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d4.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Cecilia Ee" src="/images/d4.jpg">
 </div>
 <p>Ms Cecilia Ee has been a long-time partner of Marymount Convent School
 and has known MCS as a young child, as her father was an early mission
@@ -79,7 +79,7 @@ Shepherd Sisters.</p>
 <p><strong>Christine Anne Kong</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d5.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Christine Anne Kong" src="/images/d5.jpg">
 </div>
 <p>Mrs Christine Kong was the principal of Catholic Junior College for seven
 years and is a Senior Teaching Fellow, Department Policy &amp; Leadership
@@ -87,7 +87,7 @@ Studies, at the National Institute of Education, Singapore</p>
 <p><strong>Indranee Thurai Rajah SC</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d6.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Indranee Thurai Rajah SC" src="/images/d6.jpg">
 </div>
 <p>Ms Indranee Thurai Rajah&nbsp;is the Minister in the Prime Minister’s
 Office. She is also Second Minister for Finance and Education. A lawyer
@@ -97,7 +97,7 @@ Constituency since 2001.</p>
 <p><strong>Jean Danker</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d7.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Jean Danker" src="/images/d7.jpg">
 </div>
 <p>Jean Danker is a Radio Presenter on Mediacorp's Class 95, a top radio
 station, bringing smiles to her listeners everyday. She is also a Television
@@ -107,7 +107,7 @@ way from donning the green uniform to becoming a household name.</p>
 <p><strong>Judith Prakash JA</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d8.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Judith Prakash JA" src="/images/d8.jpg">
 </div>
 <p>Justice Prakash was appointed Judicial Commissioner of the Supreme Court
 in 1992 and a High Court Judge in 1995. She specialises in complex commercial
@@ -117,7 +117,7 @@ the first woman to hold the post.</p>
 <p><strong>Low Shao Suan &amp; Low Shao Ying</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d9.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Low Shao Suan &amp; Low Shao Ying" src="/images/d9.jpg">
 </div>
 <p>Shao Suan and Shao Ying are award-winning pianists and composers.&nbsp;
 They have performed numerous times with the Singapore Symphony Orchestra,
@@ -127,7 +127,7 @@ www.lowshaoying.com for more details.</p>
 <p><strong>Margaret Mary Lim (Maggie)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d10.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Margaret Mary Lim (Maggie)" src="/images/d10.jpg">
 </div>
 <p>Margaret Mary Lim (Maggie) is a former radio personality and now is the
 Programme Director of Singapore’s Number 1 English radio station, Class
@@ -135,7 +135,7 @@ Programme Director of Singapore’s Number 1 English radio station, Class
 <p><strong>Marion Nicole&nbsp; Teo</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d11.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Marion Nicole&nbsp; Teo" src="/images/d11.jpg">
 </div>
 <p>Ms Marion Nicole Teo was a former Miss Singapore Universe and is a well-known
 and established Image Consultant, EQ Facilitator and Life Coach. She is
@@ -143,7 +143,7 @@ the GM at EQ Asia and a Director at Peak Performers Training &amp; Consultancy.<
 <p><strong>Noeleen Heyzer</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d12.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Noeleen Heyzer" src="/images/d12.jpg">
 </div>
 <p>Dr. Noeleen Heyzer, a social scientist, served as Under-Secretary-General
 of the United Nations (2007 - 2015) and the highest ranking Singaporean
@@ -153,7 +153,7 @@ since its founding in 1947. She is a Lee Kong Chian Distinguished Fellow.</p>
 <p><strong>Braema Mathi</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" src="/images/d13.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="Braema Mathi" src="/images/d13.jpg">
 </div>
 <p>Ms Braema Mathi is a Director of Advocacy, Research and Communications
 at ASEAN Corporate Social Responsibility network. She has worked as consultant
