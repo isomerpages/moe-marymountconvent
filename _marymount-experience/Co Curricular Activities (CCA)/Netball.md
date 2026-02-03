@@ -153,7 +153,7 @@ as a team.</p>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p><strong>Taking the Sot</strong>
+<p><strong>Taking the Shot</strong>
 <br>Our netballers are always eager to participate in plenty of external tournaments
 to broaden their range of experience. Even non-school team players have
 an opportunity to compete in external netball carnivals. They always enjoy

@@ -31,7 +31,7 @@ and Mission.</p>
 <p>An Adaptable, Life long Learner</p>
 </li>
 <li>
-<p>Enthusiastic, and a sense of Humour</p>
+<p>Enthusiastic, and has a sense of Humour</p>
 </li>
 </ul>
 <p></p>
