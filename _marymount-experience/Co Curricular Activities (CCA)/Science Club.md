@@ -10,13 +10,8 @@ third_nav_title: Co Curricular Activities (CCA)
 By exploring and communicating the wonders of Science, members develop
 eloquence, critical thinking and problem-solving skills while learning
 to view the world through a scientific lens.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Env3.jpeg">
 </div>
 <p>The Science Club welcomes all individuals who have a genuine interest
 in science, and would like to further develop their knowledge, passion
@@ -62,7 +57,6 @@ in team projects.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
 <p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -100,9 +94,4 @@ in team projects.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Env4.jpeg">
-</div>
-<p></p>
 <p></p>
