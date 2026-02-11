@@ -6,6 +6,7 @@ third_nav_title: Curriculum
 variant: tiptap
 ---
 <h4><strong>Our Philosophy</strong></h4>
+<h4><strong>Nurturing Visual Literacy and Artistic Expression<br><br><br><br></strong></h4>
 <p>The MCS art education aims to enable every student to be visually literate
 and to appreciate art. When our students are visually literate, they are
 able to observe, understand and make meaning of what they see. They will
