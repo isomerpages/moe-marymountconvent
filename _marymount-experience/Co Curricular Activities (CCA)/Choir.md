@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h4><strong>CCA Information</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/HFAX4429.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/02_Marymount_Convent_School_Choir_CLEAN_24.jpg">
 </div>
 <p>The Choir is made up of a group of students who share the joy of singing.
 Under the baton of Ms. Angila Tan, our young choristers have honed their
@@ -15,15 +16,15 @@ vocal quality, choral techniques and developed voices that resonate as
 one. The Choir’s extensive repertoire ranges from classical to contemporary,
 as well as local folk tunes.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250725_WA0093.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/vos 2025.jpg">
 </div>
 <p>Students in the CCA will put up performances at school events and may
 be selected to perform at the biennial Singapore Youth Festival (SYF),
 the annual Singapore International Choral Festival, at school events and
 other platforms such as Voices of Singapore. Students may have additional
-CCA sessions to better prepare for public performances and competitions.
-More information will be shared when the students are selected to perform.</p>
+CCA sessions to better prepare for public performances and competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250725_WA0105.jpg">
@@ -59,7 +60,7 @@ contribute actively to the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room</p>
+<p>Band Room</p>
 </td>
 </tr>
 <tr>
@@ -98,18 +99,33 @@ front of a wider audience.</p>
 choir the opportunity to showcase our repertoires, which can include both
 classical and contemporary choral works, as well as folk music.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250908_WA0056.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/sicf 2025 performing.jpg">
+</div>
 <p><strong>Voices of Singapore Festival</strong>
 <br>With its exquisite Gothic-style design and excellent acoustics, our choristers
 enjoy a beautiful choral experience performing in a non-competitive setting
 at CHIJMES Hall. It is also a time of bonding as their families are invited
 to attend and bask in the ethereal ambience.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/BBLA2005.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/vos 2025 with parents.jpg">
 </div>
+<p><strong>In Youthful Company at The Esplanade</strong>
+</p>
+<p>In April 2025, the Choir performed at The Esplanade as part of the In
+Youthful Company series. The choristers presented a delightful programme
+of songs from different cultures and genres, including folk tunes, classical
+favourites and well-loved musical theatre pieces. The concert also featured
+a special segment where family members joined the choir on stage, making
+the performance even more meaningful. It was a memorable and enriching
+experience which our choristers thoroughly enjoyed.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/esplanade 2025.jpg">
+</div>
+<p></p>
 <p><strong>Papal Mass 2024</strong>
 <br>Being a Catholic Mission school, our choristers were part of the choir
 contingent at the Papal Mass when Pope Francis made a state and apostolic
@@ -132,6 +148,6 @@ our choristers thoroughly enjoyed!</p>
 <h4><strong>CCA Achievements</strong></h4>
 <p><strong>Competition:</strong>
 </p>
-<p>Singapore International Choral Festival 2024 A1 Equal Voices: Silver</p>
+<p>Singapore International Choral Festival 2025 A1 Equal Voices: Silver</p>
 <p>Singapore Youth Festival Arts Presentation 2024 Primary School: Certificate
 of Distinction</p>
