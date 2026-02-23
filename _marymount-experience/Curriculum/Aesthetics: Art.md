@@ -6,188 +6,62 @@ third_nav_title: Curriculum
 variant: tiptap
 ---
 <h4><strong>Our Philosophy</strong></h4>
-<p>The MCS art education aims to enable every student to be visually literate
-and to appreciate art. When our students are visually literate, they are
-able to observe, understand and make meaning of what they see. They will
-also be able to communicate their ideas through art and recognize the relevance
-of art in their lives.</p>
+<h4><strong>Nurturing Visual Literacy and Artistic Expression<br></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/website_image___Photo_1.jpg">
+</div>
+<p><strong><em>Nurturing confident, expressive artists through creative exploration.</em></strong>
+</p>
+<p>At MCS, our art curriculum supports every student in learning to see,
+think and express themselves through art. Through observation, reflection
+and art-making, students develop visual literacy, creative thinking and
+confidence in communicating ideas.</p>
+<p>Art learning goes beyond creating finished works. Students explore ideas,
+ask questions and discover meaning through the creative process, learning
+that art is an evolving language for thinking, feeling and understanding
+the world.</p>
+<p>Aligned with the national syllabus, our curriculum develops visual literacy,
+critical thinking and artistic expression through art inquiry. Students
+explore local and global contexts, reflect on their learning and share
+their ideas through artist statements and exhibitions. Through this holistic
+approach, students grow to enjoy art, express themselves thoughtfully and
+develop values, social-emotional competencies and a lasting appreciation
+for the visual arts.</p>
 <p></p>
+<h4><strong>Art Learning Experiences</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20240827_WA0034.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/website_image___Photo_2.jpg">
 </div>
-<h4><strong>Our Approach</strong></h4>
-<p>Our art teachers strive to provide a student-centric curriculum through
-Inquiry-Based Learning and the use of thinking routines. Through our art
-curriculum, we also aim to expose students to an extensive variety of art
-forms and mediums.</p>
+<p><strong><em>Exploring ways to compose a landscape</em></strong>
+</p>
+<p>Our art lessons are student-centred and guided by Inquiry-Based Learning
+(IBL) and Art Thinking Routines. Students learn by exploring, discussing
+and reflecting ideas as their understanding deepens.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/website_image___Photo_3.jpg">
+</div>
+<p><strong><em>Creating transient art using water</em></strong>
+</p>
+<p>They are exposed to a wide range of art forms and mediums, encouraging
+experimentation, creative risk-taking and personal discovery. Students
+document their ideas and reflections in their visual journals and are guided
+to articulate their thinking through artist statements, developing a personal
+voice in their artworks.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241024_WA0027.jpg">
-</div>
-<p></p>
-<p>During the art making process, our students document their journey in
-their MCS Visual Journals. Through a progressive approach in the writing
-of their artist statements that accompanies every artwork created, students
-also learn to be critical thinkers by having a voice in their artworks.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_14_48_04.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_14_48_05.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/art.jpg">
-</div>
-<p>Here are some of the modules our students experience in the respective
-levels:&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 Food for Thought – exploring digital art</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>P2 Amazing Hand – exploring pointillism</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/art2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 Starry Night – exploring simulated texture</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Museum-Based Learning – learning about asking questions and analysing
-artworks</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/art4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5 Typography – discussing and noting their ideas in Visual Journals</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/art5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Zentangle – creating patterns inspired by organic objects</p>
-<div class="isomer-image-wrapper">
-<img style="width: 53%;" height="auto" width="100%" src="/images/art6.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>On top of the curriculum art lessons, MCS also provides opportunities
-for our students to experience various art forms through our signature
-art programmes as below.</p>
-<h4><strong>Our Department Programmes</strong></h4>
+<h4><strong>Signature School-Based Programmes</strong></h4>
+<p>To enrich learning beyond the classroom, we offer programmes that celebrate
+student creativity and authentic art experiences.</p>
 <p><strong>Art Legacy</strong>
 </p>
-<p>It is an MCS tradition where the P6 cohort will leave behind an Art Legacy
-piece. As part of the post-PSLE WELL programme and as a form of contribution
-back to MCS, students would create an artwork as a level and have it installed
-in spaces around the school.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>One of our Art Legacy pieces</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art10.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 pupils at work</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art11.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<p>A cherished tradition where graduating students create collaborative art
+pieces as a meaningful gift to the school, fostering pride, contribution
+and a sense of belonging.</p>
 <p><strong>MCS Budding Artist Exhibition</strong>
 </p>
-<p>Our annual MCS Budding Artist Exhibition provides opportunities for student
-artists to showcase their work. It is also a good platform to expose students
-to art appreciation using thinking routines.</p>
-<p>The exhibition is segmented into two showcases – featuring selected curriculum
-artworks from the P1 to P6 and selected artworks from Art Club.&nbsp;</p>
-<p></p>
-<p><strong>MCS-Toa Payoh National Library Exhibition</strong>
-</p>
-<p>This exhibition celebrates the creativity and artistic talents of our
-girls, providing them with a valuable platform to showcase their work beyond
-the classroom. Each artwork reflects our students’ unique perspectives
-and their thoughtful expression of the world around them.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0065.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0068.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0074.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0083.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20241107_WA0086.jpg">
-</div>
-<p></p>
-<p><strong>Our MCS Gallery</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art12.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art13.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4></h4>
+<p>An annual showcase of selected curriculum works and Art Club creations,
+encouraging art appreciation and thoughtful engagement.</p>
+<p><strong>MCS x Toa Payoh National Library Exhibition<br><br></strong>Public
+exhibitions that allow students to share their artworks with the wider
+community, highlighting how art connects to everyday life, culture and
+society.</p>
 <p></p>

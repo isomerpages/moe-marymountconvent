@@ -6,171 +6,58 @@ third_nav_title: Curriculum
 variant: tiptap
 ---
 <h4><strong>Our Philosophy</strong></h4>
-<p>The MCS music education aims to enable every student to have creative
-expression, allowing them to communicate through music and able to appreciate
-local and global music. The music curriculum also provides the basis to
-develop an informed and life-long involvement in music for our students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Mu1.jpeg">
-</div>
+<h4><strong>Nurturing Expression and Musical Understanding </strong></h4>
+<p>At MCS, our music curriculum aims to enable every student to enjoy music,
+express ideas and emotions, and communicate meaningfully through sound.
+Through listening, performing and creating, students develop musical understanding,
+confidence and an appreciation of local and global music traditions.</p>
+<p>Music learning extends beyond performance. Students explore musical ideas,
+reflect on their experiences and learn how music can express feelings,
+convey meaning and connect people. This supports the development of creativity,
+collaboration, self-awareness and social-emotional competencies.</p>
+<p>Aligned with the national syllabus, our curriculum develops musical literacy,
+critical listening and creative expression through active music-making.
+Through a holistic approach, students grow to enjoy music, express themselves
+confidently and develop a life-long appreciation for music.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Mu2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1_P1_Boomwhackers.png">
 </div>
-<p></p>
-<h4><strong>Our Approach</strong></h4>
-<p><strong>Music Curriculum</strong>
+<p><strong><em>Growing confident, expressive musicians through active music-making.</em></strong>
 </p>
-<p>Our music teachers strive to provide a student-centric curriculum through
-the Experience-Concept-Apply approach in our lesson modules. A range of
-musical instruments are also covered extensively in our curriculum as follows:</p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<h4><strong>Music Learning Experiences</strong></h4>
+<p>Our music lessons are student-centred and guided by the Experience–Concept–Apply
+(ECA) approach. Students learn through exploration, discussion and reflection,
+deepening their understanding as they connect musical concepts to practice.</p>
+<p>Students are exposed to a range of instruments, genres and musical cultures,
+encouraging experimentation, collaboration and creative risk-taking. Through
+these experiences, students build confidence, resilience and a sense of
+identity as musical learners.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mu1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2_Lower_P_music_making.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Primary 1 – Boomwhackers</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Primary 1 &amp; 2: Percussion (body and instruments) / Glockenspiel &amp;
-Xylophone&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1 – Boomwhackers</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 2 – Glockenspiels</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/mu2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Primary 3 &amp; 4: Glockenspiel / Handbells / iPad Garage Band</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 – Glockenspiel</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 – iPad Garage Band</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Primary 5 &amp; 6: Ukulele / Playing in an Ensemble&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5 – Ukulele</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 – Ensemble Playing</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mu6.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Our Department Programmes</strong></h4>
-<p>On top of the curriculum music lessons, MCS also provides opportunities
-for our students to showcase their performances through our signature music
-programmes as below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_19_at_10_30_18.jpg">
-</div>
-<p><strong>Level Performance&nbsp;</strong>
+<p><strong><em>Developing psychomotor skills through body percussion and singing.</em></strong>
 </p>
-<p>Selected levels showcase their instrumental pieces during school events.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/mu7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3_P3_Recorder.png">
 </div>
-<p>P2 pupils performing their mixed-instrumental piece</p>
-<p><strong>MCS’ Got Talent</strong>
+<p><strong><em>Learning recorder techniques through active playing and listening.</em></strong>
 </p>
-<p>Similar to the concept of America’s Got Talent, MCS’ Got Talent is our
-in-house competition for students to showcase their talents in singing,
-dance or playing a musical instrument. Interested students go through the
-audition process with a solo or ensemble performance. Students who are
-successful in the audition, will get to showcase their performance during
-Teachers’ Day celebration and/or other events.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20240829_094103.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4_P5_Ukulele_and_E_Ped.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20240829_092130.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240829_WA0053.jpg">
-</div>
-<p><strong>MCS Recess Performance</strong>
+<p><strong><em>Exploring fingerpicking techniques on the ukulele through hands-on practice and listening.</em></strong>
 </p>
-<p>Our students brought vibrant energy and talent to the school during the
-Recess Performance Showcase, where they performed for their peers in a
-lively and supportive atmosphere.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20241008_102402.jpg">
-</div>
-<p>From melodic renditions on musical instruments to heartfelt vocal performances,
-each act reflected the students’ dedication and passion for the performing
-arts. The initiative provided a platform for students to share their gifts
-beyond the classroom, and it was heartening to see how warmly their peers
-received them—cheering, clapping, and showing enthusiastic support throughout.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0112.jpg">
-</div>
-<p>The performances not only brightened up the recess break but also fostered
-a strong sense of camaraderie and school spirit among the student body.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250310_094918.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20241008_102102.jpg">
-</div>
+<h4><strong>Signature School-Based Programmes</strong></h4>
+<p>To extend learning beyond the classroom, we offer programmes that provide
+meaningful and authentic opportunities for musical expression.</p>
+<p><strong>Teachers’ Day Performance<br></strong>Selected students express
+gratitude through their performance, fostering confidence, appreciation
+and values-driven expression.</p>
+<p><strong>MCS Recess Performance<br></strong>A platform for students to
+share their musical talents with peers in a supportive environment, promoting
+school spirit, camaraderie and joy in music.</p>
 <p></p>
