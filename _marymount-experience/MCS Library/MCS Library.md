@@ -84,6 +84,42 @@ office.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>OPAC Station<br></strong>Pupils may use the OPAC (Online Public
+Access Catalogue) to check for books’ availability in the library.
+<br>OPAC can be accessed using the OPAC station in the library or at home
+in any PC with internet connection.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/opac.jpg">
+</div>
+<p></p>
+<p>To access OPAC, click <a href="https://schoolibrary.moe.edu.sg/marymountconvent/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>NLB discoveREADS</strong>
+<br>Pupils may access NLB discoveReads for the list of recommended books to
+read as well as the borrowing of eBooks online. NLB discoveReads can be
+accessed online via any PC with internet access.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="nlb" src="/images/nlb.png">
+</div>
+<p>To access NLB discoveREADS, click <a href="https://www.nlb.gov.sg/main/site/discovereads/children" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>Book Review Submissions</strong>
+</p>
+<p>Submit your book reviews online via these iPads at the library or by scanning
+the QR code below.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/review.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qr.png">
+</div>
+<p>To access the book review website, click <a href="https://go.gov.sg/mcslib-bookreview" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong>Library Policies<br></strong>All pupils are automatically registered
 as members of the school library. They can use their EZ-Link cards to borrow
 library items.</p>
