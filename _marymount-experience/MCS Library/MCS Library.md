@@ -113,10 +113,10 @@ the QR code below.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/review.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/review.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qr.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/qr.png">
 </div>
 <p>To access the book review website, click <a href="https://go.gov.sg/mcslib-bookreview" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
