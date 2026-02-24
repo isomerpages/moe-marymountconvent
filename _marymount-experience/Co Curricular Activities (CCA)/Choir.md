@@ -22,9 +22,9 @@ as well as local folk tunes.</p>
 </div>
 <p>Students in the CCA will put up performances at school events and may
 be selected to perform at the biennial Singapore Youth Festival (SYF),
-the annual Singapore International Choral Festival, at school events and
-other platforms such as Voices of Singapore. Students may have additional
-CCA sessions to better prepare for public performances and competitions.</p>
+the annual Singapore International Choral Festival (SICF), at school events
+and other platforms such as Voices of Singapore (VOS). Students may have
+additional CCA sessions to better prepare for public performances and competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250725_WA0105.jpg">
@@ -96,7 +96,7 @@ front of a wider audience.</p>
 </div>
 <p><strong>Singapore International Choral Festival</strong>
 <br>Participating in the Singapore International Choral Festival offers our
-choir the opportunity to showcase our repertoires, which can include both
+choir the opportunity to showcase our repertoire, which can include both
 classical and contemporary choral works, as well as folk music.</p>
 <p></p>
 <p></p>
@@ -114,13 +114,13 @@ to attend and bask in the ethereal ambience.</p>
 </div>
 <p><strong>In Youthful Company at The Esplanade</strong>
 </p>
-<p>In April 2025, the Choir performed at The Esplanade as part of the In
-Youthful Company series. The choristers presented a delightful programme
-of songs from different cultures and genres, including folk tunes, classical
-favourites and well-loved musical theatre pieces. The concert also featured
-a special segment where family members joined the choir on stage, making
-the performance even more meaningful. It was a memorable and enriching
-experience which our choristers thoroughly enjoyed.</p>
+<p>In April 2025, the Choir performed at The Esplanade as part of the <em>In Youthful Company</em> series.
+The choristers presented a delightful programme of songs from different
+cultures and genres, including folk tunes, classical favourites and well-loved
+musical theatre pieces. The concert also featured a special segment where
+family members joined the choir on stage, making the performance even more
+meaningful. It was a memorable and enriching experience which our choristers
+thoroughly enjoyed.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/esplanade 2025.jpg">
@@ -141,7 +141,7 @@ years to come!</p>
 Primary School in which they learnt new musical approaches and vocal techniques
 from other choirs. It was also a platform for our choristers to form friendships
 with choristers from other schools. This was an invaluable experience which
-our choristers thoroughly enjoyed!</p>
+our choristers thoroughly enjoyed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/zhps choir exchange.jpg">
 </div>
