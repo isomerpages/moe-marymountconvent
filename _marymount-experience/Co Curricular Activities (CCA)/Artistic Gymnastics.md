@@ -10,41 +10,23 @@ variant: tiptap
 flexibility, and coordination. Our CCA offers a unique opportunity for
 students to develop their physical skills while cultivating valuable life
 lessons.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/WhatsApp_Image_2025_11_05_at_14_59_33.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_14_59_33.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Training Team 2025/2026</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+<p><strong><em>Training Team 2025/2026</em></strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/WhatsApp_Image_2025_11_06_at_14_37_56.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_06_at_14_37_56.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Captains and Junior Leaders 2025/2026</div>
-<div class="isomer-card-description">L-R: Katelynn Amber Han (Junior Leader), Emily Faith Chia (Junior Leader),
-Grace Tan (Captain), Abigail Qin (Vice-Captain)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+<p><strong><em>L-R: Katelynn Amber Han (Junior Leader), Emily Faith Chia (Junior Leader), Grace Tan (Captain), Abigail Qin (Vice-Captain)</em></strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/WhatsApp_Image_2025_11_06_at_14_34_28.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_06_at_14_34_28.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2025 Training Team</div>
-<div class="isomer-card-description">A team that trains hard together, celebrates together.</div>
-</div>
-</div>
-</div>
+<p><strong><em>Training Team 2025 - A team that goes through thick and thin together.</em></strong>
+</p>
 <p>Through Artistic Gymnastics, our students develop essential values, skills,
 and competencies that extend beyond the gym. They learn resilience and
 perseverance, overcoming fears, setbacks, and injuries to achieve their
