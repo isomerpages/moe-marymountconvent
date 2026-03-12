@@ -23,8 +23,13 @@ variant: tiptap
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7030 Ang Mo Kio Ave 5, #04-56 Northstar@AMK Singapore 569880</p>
-<p></p>
+<p>7030 Ang Mo Kio Ave 5, #04-56 Northstar@AMK Singapore 569880
+<br>
+</p>
+<p><strong>School Bookshop</strong>
+<br>Marymount Convent School Book Shop (Blk F #F2-02)
+<br>20 Marymount Road
+<br>Singapore 297754</p>
 </td>
 </tr>
 <tr>
