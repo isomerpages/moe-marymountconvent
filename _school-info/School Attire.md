@@ -57,7 +57,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/marymount-convent-school</a>
+<p><a href="https://jeepsinguniform.com/collections/marymount-convent-school" rel="noopener nofollow" target="_blank">https://jeepsinguniform.com/collections/marymount-convent-school</a>
 </p>
 </td>
 </tr>
