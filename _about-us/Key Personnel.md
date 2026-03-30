@@ -37,28 +37,26 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:debbie_chow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Debbie Chow</a>
+<p><a href="mailto: helen_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Helen Ng</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Vice-Principal (Admin)</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: helen_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Helen Ng</a>
+<p><a href="mailto: loh_yeh_chang_henry@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Henry Loh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: loh_yeh_chang_henry@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Henry Loh</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
