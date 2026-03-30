@@ -44,9 +44,6 @@ to achieve common goals</p>
 <p>• Reflect meaningfully on their growth, communicating their insights whilst
 demonstrating teamwork, empathy, and responsible decision-making</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Sports Day" src="/images/IMG_20241003_WA0037.jpg">
-</div>
 <p><strong>Building Tomorrow's Leaders</strong>
 </p>
 <p>Through progressive outdoor experiences, students cultivate the social-emotional
