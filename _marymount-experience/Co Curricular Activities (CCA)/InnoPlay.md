@@ -10,16 +10,19 @@ third_nav_title: Co Curricular Activities (CCA)
 games with the thrill of problem-solving. It aims to foster logical thinking
 to challenge students’ decision-making abilities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250214_145022.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250214_145022.jpg">
 </div>
 <p>Students will also apply their creative and logical thinking to tackle
 real-world problems, providing innovative solutions through a structured
 thinking process. This blend of entertainment and education not only nurtures
 critical thinking but also inspires students to become innovative problem
 solvers, equipping them with skills that will serve them well.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250404_144825.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250404_144825.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250704_WA0054.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -34,7 +37,7 @@ solvers, equipping them with skills that will serve them well.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p><strong>Friday </strong>
 <br>2.15 p.m. to 4.15 p.m.</p>
 </td>
 </tr>
@@ -60,8 +63,4 @@ solvers, equipping them with skills that will serve them well.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_20250704_WA0054.jpg">
-</div>
 <p></p>
