@@ -106,6 +106,8 @@ our choristers thoroughly enjoyed.</p>
 <p>Singapore International Choral Festival 2025 A1 Equal Voices: Silver</p>
 <p>Singapore Youth Festival Arts Presentation 2024 Primary School: Certificate
 of Distinction</p>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
