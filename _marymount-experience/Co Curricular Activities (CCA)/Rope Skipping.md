@@ -28,6 +28,8 @@ fun and rewarding CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_01_27_at_3_30_09_PM.jpg">
 </div>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
