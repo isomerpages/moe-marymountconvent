@@ -85,6 +85,7 @@ and release moves.</p>
 </div>
 <p>Join us in Artistic Gymnastics, where you'll discover a supportive community,
 expert coaching, and a journey of growth, learning, and achievement!</p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
