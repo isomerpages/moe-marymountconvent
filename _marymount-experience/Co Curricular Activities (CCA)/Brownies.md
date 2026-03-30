@@ -76,6 +76,7 @@ a performance for the concert.</p>
 <img style="width: 50%;" height="auto" width="100%" src="/images/br7.jpg">
 </div>
 <p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
