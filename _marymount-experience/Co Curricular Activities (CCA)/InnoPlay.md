@@ -25,6 +25,7 @@ solvers, equipping them with skills that will serve them well.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250704_WA0054.jpg">
 </div>
 <p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
