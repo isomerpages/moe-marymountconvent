@@ -42,47 +42,61 @@ communication.</p>
 to the development of a Growth Mindset. This is illustrated in the diagrams
 below, which demonstrates how these elements work together to foster Growth
 Mindset in our learners.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/GEM.png">
 </div>
 <p></p>
 <p>We believe that Growth Mindset are important as it:</p>
-<p>• Enhances student motivation and engagement</p>
-<p>• Promotes resilience in face of challenges</p>
-<p>• Fosters a love for learning and self-improvement</p>
-<p>• Develops adaptive thinking and resourcefulness in problem solving</p>
-<p>• Improves academic performance and achievement</p>
-<p>• Prepares students for future success in a VUCA and BANI world</p>
+<p>• Enhances student motivation and engagement
+<br>• Promotes resilience in face of challenges
+<br>• Fosters a love for learning and self-improvement
+<br>• Develops adaptive thinking and resourcefulness in problem solving
+<br>• Improves academic performance and achievement
+<br>• Prepares students for future success in a VUCA and BANI world</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250502_075106.jpg">
 </div>
 <p><strong>Goals and Objectives of the Implementation</strong>
 </p>
-<p>School Strategic Goal:</p>
+<p><strong>School Strategic Goal:</strong>
+</p>
 <p>To instill growth mindset in every child.</p>
-<p>Department Objectives:</p>
+<p><strong>Department Objectives:</strong>
+</p>
 <p>To create, implement and review a 6-year spiral GEM curriculum:</p>
-<p>1. Increase student understanding of brain plasticity and learning processes.</p>
-<p>2. Improve students' academic performance and learning outcomes through
-active practice of effective effort.</p>
-<p>3. Develop students' ability to embrace challenges as opportunities for
-growth.</p>
-<p>4. Improve students' resilience and perseverance in face of setbacks.</p>
-<p>5. Enhance students' self-reflection and metacognitive skills.</p>
-<p>6. Develop students' ability to set and pursue meaningful, challenging
+<p>1. Increase student understanding of brain plasticity and learning processes.
+<br>2. Improve students' academic performance and learning outcomes through
+active practice of effective effort.
+<br>3. Develop students' ability to embrace challenges as opportunities for
+growth.
+<br>4. Improve students' resilience and perseverance in face of setbacks.
+<br>5. Enhance students' self-reflection and metacognitive skills.
+<br>6. Develop students' ability to set and pursue meaningful, challenging
 goals by being adaptive.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250404_WA0011.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>To create a growth-oriented and intellectually safe learning environment.</p>
+</li>
+<li>
 <p>To provide structured opportunities to apply and process GEM learning
 in identified opportunities in co-curriculum.</p>
+</li>
+<li>
 <p>To train staff on Growth Mindset principles and practices. To heighten
 students' awareness of their own emotions.</p>
+</li>
+<li>
 <p>To refine and implement tiered leadership development programmes which
 promote GEM in student leaders.</p>
+</li>
+<li>
 <p>Engage parents in supporting growth mindset development at home.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20250502_WA0002.jpg">
 </div>
