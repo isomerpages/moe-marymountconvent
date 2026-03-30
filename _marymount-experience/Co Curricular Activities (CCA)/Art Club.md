@@ -52,8 +52,9 @@ them into confident 21st century young artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
-<p><strong><em>Nagomi Art: Exploring soft pastels using fingers as a gentle drawing tool</em></strong><em><br><br></em>
+<p><strong><em>Nagomi Art: Exploring soft pastels using fingers as a gentle drawing tool</em></strong><em><br></em>
 </p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
