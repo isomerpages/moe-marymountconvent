@@ -6,143 +6,52 @@ third_nav_title: Signature Programmes
 variant: tiptap
 ---
 <h4><strong>Our Philosophy</strong></h4>
-<p><strong>Enhancing Holistic Health through Sports and Outdoor Education (LLP)<br></strong>Aimed
-at developing students who are healthy in body, mind and soul, the Sports
-and Outdoor Education modules of the school seek to prepare our students
-holistically to meet the challenges of the 21st century.&nbsp;The school’s
-Outdoor Education Programme (OEP) spans the three domains indicated below
-and is a platform to facilitate values education and imbibe social emotional
-learning.</p>
-<h4><strong>Our Approach</strong></h4>
-<p>The Sports Excellence (SPOEEX) @Marymount programme framework focusses
-on 3 levels of involvement, the first being enabling students to have a
-positive association through a progressive PE programme. The school’s PE
-lessons are distinctive due to a number of reasons. Social emotional competencies
-are foregrounded in certain PE lessons and these competencies are assessed
-and included in the PE Holistic Assessment reports that are issued once
-a semester to reflect students’ development. The second level focuses on
-enhancing the capacity of talented gymnasts, netball and tennis players
-through focused training and developmental programmes offered as competitive
-CCAs. At the third level, students are given exposure to the sporting arena
-beyond school – at the national and international levels.</p>
-<p>The school’s Outdoor Education Programme (OEP) spans the three domains
-indicated below and is a platform to facilitate values education and imbibe
-social emotional learning.</p>
+<p><strong>Life-long Learning Programme [LLP]</strong>
+</p>
+<p>Developing Future-Ready Learners Through Outdoor Education</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/llp1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="P5 Camp" src="/images/IMG_20250225_WA0500.jpg">
 </div>
-<p>The school has put in place a co-curricular programme, in which the OEP
-is embedded, the Week of Experiential Learning (a week dedicated to students’
-experiential learning outdoors which includes camps and outdoor learning
-journeys).</p>
-<p>The different Sports and Outdoor Education modules run as threads through
-the various programme components, serving as opportunities and platforms
-for students to develop the 21st century competencies and strive towards
-and actualise the student outcomes of :</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A Confident Person</p>
-</li>
-<li>
-<p>A Self-Directed Learner</p>
-</li>
-<li>
-<p>An Active Contributor</p>
-</li>
-<li>
-<p>A Concerned Citizen</p>
-</li>
-</ul>
-<p>These include :</p>
-<p>1. Camps for Primary 3 to 6 students to build independence, resilience
-and character.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>P3 students attend a day camp;</p>
-</li>
-<li>
-<p>P4 students attend a 2-day 1-night camp;</p>
-</li>
-<li>
-<p>P5 students attend a 3-day 2-night adventure camp;</p>
-</li>
-<li>
-<p>P6 students attend a 3-day 2-night camp in school.</p>
-</li>
-</ul>
-<p>2. During the WELL, students are also given opportunities to participate
-in outdoor learning activities such as trekking and water-based activities.
-These experiences are planned to heighten students’ environmental awareness
-and enhance students’ basic survival skills. The outdoor learning activities
-for the various levels are as such:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Primary 1 – Bishan Park</p>
-</li>
-<li>
-<p>Primary 2 – Singapore Botanic Gardens</p>
-</li>
-<li>
-<p>Primary 3 – Trekking at Labrador Park</p>
-</li>
-<li>
-<p>Primary 4 – Trekking at Coney Island</p>
-</li>
-<li>
-<p>Primary 5 – Trekking at Dairy Farm</p>
-</li>
-<li>
-<p>Primary 6 – Trekking at Southern Ridges</p>
-</li>
-</ul>
-<p>Collectively, pulling together the different threads of the various Sports
-and Outdoor Education modules in both the curriculum and co-curriculum,
-the school seeks to offer a comprehensive and integrated programme that
-is undergirded by the school values and designed to enhance students’ holistic
-health. The school aims to raise our daughters of Marymount by developing
-them cognitively, physically, socially and morally, to be ready for the
-21st century.</p>
-<h4><strong>Our Programmes</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Map Reading</strong>
+<p>Our LLP programme combines outdoor education with proven learning frameworks
+to nurture well-rounded, resilient students from Primary 3 to 6. Through
+carefully designed experiences that blend adventure with reflection, students
+develop essential 21st century skills whilst building confidence, emotional
+intelligence, and a lifelong love of learning.</p>
+<p><strong>What Makes Our Programme Special</strong>
 </p>
-<p>By Primary 6, students will be able to use local maps to navigate their
-way from the city to Sentosa using public transport.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Zip-line experience</strong>
+<p>The programme integrates Kolb's Experiential Learning Cycle with our 3E
+framework (Experience–Enhance–Enact), ensuring students don't just participate
+in activities but truly learn from them. We focus on developing five key
+growth mindset pillars: being resilient, effortful, adaptive, embracing
+challenges, and reflective. Our teachers use the School’s Growth Mindset
+and Emotional Education language to guide students through their learning
+journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20241008_WA0091.jpg">
+</div>
+<p><strong>Student Outcomes</strong>
 </p>
-<p>This is the highlight of the Primary 6 Camp where students get to overcome
-their fear of height and experience high elements at Sentosa.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Obstacles Course</strong>
+<p>By the end of Primary School, our students will:</p>
+<p>• Show resilience and persistence when facing new challenges, approaching
+difficulties with curiosity rather than fear</p>
+<p>• Adapt confidently to change, using creative and critical thinking to
+navigate unfamiliar situations</p>
+<p>• Communicate effectively and collaborate meaningfully, sharing ideas
+clearly, building on others' contributions, and working as cohesive teams
+to achieve common goals</p>
+<p>• Reflect meaningfully on their growth, communicating their insights whilst
+demonstrating teamwork, empathy, and responsible decision-making</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Sports Day" src="/images/IMG_20241003_WA0037.jpg">
+</div>
+<p><strong>Building Tomorrow's Leaders</strong>
 </p>
-<p>At Primary 3, students are exposed to low elements during Day Camp. At
-Primary 5, students get to experience high and low elements at the camp,
-helping them to build resilience and perseverance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Urban Trekking</strong>
-</p>
-<p>Trekking outdoors is part of the WELL activities whereby students get
-to build confidence, resilience and friendship; and learn about Singapore.
-This will help them to apply the outdoor skills that they have learnt during
-PE lessons during the activity.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Through progressive outdoor experiences, students cultivate the social-emotional
+skills and 21st century competencies they need to thrive in an ever-changing
+world. Our programme creates curious, adaptive, and community-minded learners
+who are prepared for whatever the future holds.</p>
+<p></p>
 <p></p>
