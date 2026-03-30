@@ -41,6 +41,7 @@ elevate our students’ playing skills and musical artistry.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Guitar_Picture3.jpg">
 </div>
 <p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
