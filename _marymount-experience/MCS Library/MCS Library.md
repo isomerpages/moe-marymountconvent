@@ -56,34 +56,30 @@ of teaching &amp; learning resources</p>
 bookdrops are available anytime during school hours for pupils to return
 their books. They are located outside the library and outside the general
 office.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/lib3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Outside Library" src="/images/lib3.jpeg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Outside Library</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/lib4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/lib4.jpeg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Outside Library</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outside General Office</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Outside General Office</div>
+<div class="isomer-card-description">Outside General Office</div>
+</div>
+</div>
+</div>
 <p></p>
 <p><strong>OPAC Station<br></strong>Pupils may use the OPAC (Online Public
 Access Catalogue) to check for books’ availability in the library.
