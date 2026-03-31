@@ -38,8 +38,6 @@ links:
         url: /school-info/schoolcanteen/
       - title: School Attire
         url: /school-info/school-attire
-      - title: IFMIS
-        url: /school-info/income-family-micro-insurance-scheme-ifmis/
       - title: School Books
         url: /school-info/school-books
       - title: School Bus
@@ -50,6 +48,8 @@ links:
         url: /school-info/school-alumnae
       - title: Schemes for Students
         url: /school-info/schemes-for-students-from-low-income-families
+      - title: IFMIS
+        url: /school-info/income-family-micro-insurance-scheme-ifmis/
       - title: Frequently Asked Questions
         url: /school-info/faq/
       - title: Privacy Statement
