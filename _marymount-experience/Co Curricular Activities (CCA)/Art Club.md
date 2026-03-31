@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>CCA Information</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <p><strong><em>Experimenting with paper collage while discussing and exploring themes inspired by Singapore’s culture and everyday life.</em></strong>
 </p>
@@ -27,7 +27,7 @@ or medium, but an evolving language for thinking and communicating.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
 <p><strong><em>Using acrylic paint and found materials, inspired by nature for texture and mark-making.</em></strong>
 <br>
@@ -38,22 +38,23 @@ values, develop their socio-emotional learning (SEL) competencies and nurture
 them into confident 21st century young artists.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
 </div>
 <p><strong><em>White-on-white paper diorama exploring form and texture.</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
 <p><strong><em>Exploring playful ways to work with paper through cutting, folding and layering.</em></strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
-<p><strong><em>Nagomi Art: Exploring soft pastels using fingers as a gentle drawing tool</em></strong><em><br><br></em>
+<p><strong><em>Nagomi Art: Exploring soft pastels using fingers as a gentle drawing tool</em></strong><em><br></em>
 </p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -103,8 +104,8 @@ them into confident 21st century young artists.</p>
 <p>Miss Loh Soo Gek
 <br>Mrs Tan Yan Ping
 <br>Ms Uma d/o Surendran
-<br>Mrs Eswarren Raj</p>
-<p>Mdm Chan Jing Ling</p>
+<br>Mrs Eswarren Raj
+<br>Mdm Chan Jing Ling</p>
 </td>
 </tr>
 </tbody>

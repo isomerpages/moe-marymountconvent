@@ -12,9 +12,22 @@ responsiveness and hand-eye coordination. As part of the gameplay, students
 will learn to play in modified matches in singles and doubles.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240718_WA0040.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240718_WA0040.jpg">
 </div>
 <p></p>
+<p>Students with no experience or with some background training in badminton
+are welcome to join. Students who are able to play skillfully and competitively
+will be encouraged to participate in National School Games.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240723_WA0009.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_20240723_WA0007.jpg">
+</div>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,15 +66,4 @@ will learn to play in modified matches in singles and doubles.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Students with no experience or with some background training in badminton
-are welcome to join. Students who are able to play skillfully and competitively
-will be encouraged to participate in National School Games.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240723_WA0009.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240723_WA0007.jpg">
-</div>
 <p></p>

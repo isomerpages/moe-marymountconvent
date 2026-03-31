@@ -12,7 +12,7 @@ may be selected to perform at the biennial Singapore Youth Festival (SYF).
 Students may have the opportunity to perform at national events such as
 Chingay and National Day Parade on some years.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250207_203852.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250207_203852.jpg">
 </div>
 <p>Students may have additional CCA sessions on Fridays if they must prepare
 for public performances. More information will be shared when the students
@@ -20,8 +20,23 @@ are invited to perform.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250207_202341.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250207_202341.jpg">
 </div>
+<p></p>
+<h4><strong>CCA Highlights</strong></h4>
+<p><strong>Prize-giving Performance</strong>
+</p>
+<p>This performance presented by the Modern Dance girls was a representation
+of the hectic year that they had gone through. They took part in the National
+Day Parade, which they spent many weekends at the floating platform preparing
+for the performance. Even though they had to juggle their time between
+dance practice and studies, they enjoyed themselves nevertheless as they
+found joy in the midst of busyness.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250424_090842.jpg">
+</div>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,17 +72,4 @@ are invited to perform.
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>CCA Highlights</strong></h4>
-<p><strong>Prize-giving Performance</strong>
-</p>
-<p>This performance presented by the Modern Dance girls was a representation
-of the hectic year that they had gone through. They took part in the National
-Day Parade, which they spent many weekends at the floating platform preparing
-for the performance. Even though they had to juggle their time between
-dance practice and studies, they enjoyed themselves nevertheless as they
-found joy in the midst of busyness.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/20250424_090842.jpg">
-</div>
 <p></p>

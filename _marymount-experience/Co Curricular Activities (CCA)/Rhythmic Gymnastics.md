@@ -11,14 +11,14 @@ and gymnastics. Students use apparatus such as clubs, ropes, hoops and
 balls to perform their routines on the floor, accompanied by the tune of
 catchy songs or music.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Rgym1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Rgym1.jpeg">
 </div>
 <p>Additionally, they work on exercises that develop or display physical
 agility and coordination. For school team athletes, they will progress
 to work with handheld apparatus and perform in routines with leaps, contortions
 and dance that flow in time to music.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Rgym2.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Rgym2.jpeg">
 </div>
 <p>Students in this club are grouped into either School or Recreation Team.
 Students in the School Team are expected to train thrice a week. These
@@ -27,10 +27,48 @@ School Games. In addition to that, this CCA also provides several opportunities
 for School Team members and selected students from the Recreation Team
 to put up performances at school events.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Rgym3.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Rgym3.jpeg">
 </div>
 <p>This fun, vibrant CCA not only moulds our girls to be expressive performers
 but it also teaches them to be committed, disciplined and resilient.</p>
+<h4><strong>CCA Highlights</strong></h4>
+<p><strong>Learning Body Techniques</strong>
+<br>Learning chest, waist, knee and ankle movements.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/rg2.jpeg">
+</div>
+<p><strong>Learning Basic Body Movements</strong>
+<br>Exercises for legs, shoulder, chest and waist.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/rg3.jpeg">
+</div>
+<p><strong>Stamina Training</strong>
+<br>At the start of every session, the coach gets the students to do warm-up
+exercises which involve:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>speedy run</p>
+</li>
+<li>
+<p>jump and turn at 180 and/or 360 degree</p>
+</li>
+<li>
+<p>back bend with changing legs</p>
+</li>
+<li>
+<p>side split leap &nbsp;</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/rg4.jpeg">
+</div>
+<p><strong>Apparatus Handling</strong> 
+<br>Learning to handle different apparatus, like ball, rope, hoop and clubs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/rg5.jpeg">
+</div>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,12 +83,9 @@ but it also teaches them to be committed, disciplined and resilient.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Monday</strong>
 <br>2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong>
-<br>2.15pm to 4.15pm <strong>(Recreation)</strong> or
-<br>
-</p>
+<br>2.15pm to 4.15pm <strong>(Recreation)</strong> or</p>
 <p><strong>Wednesday</strong>
 <br>2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong>
-<br>
 </p>
 <p><strong>Friday</strong>
 <br>2.00 p.m. to 5.00 p.m. <strong>(School Team)</strong>
@@ -84,40 +119,4 @@ but it also teaches them to be committed, disciplined and resilient.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Highlights</strong></h4>
-<p><strong>Learning Body Techniques</strong>
-<br>Learning chest, waist, knee and ankle movements.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/rg2.jpeg">
-</div>
-<p><strong>Learning Basic Body Movements</strong>
-<br>Exercises for legs, shoulder, chest and waist.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/rg3.jpeg">
-</div>
-<p><strong>Stamina Training</strong>
-<br>At the start of every session, the coach gets the students to do warm-up
-exercises which involve:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>speedy run</p>
-</li>
-<li>
-<p>jump and turn at 180 and/or 360 degree</p>
-</li>
-<li>
-<p>back bend with changing legs</p>
-</li>
-<li>
-<p>side split leap &nbsp;</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/rg4.jpeg">
-</div>
-<p><strong>Apparatus Handling</strong> 
-<br>Learning to handle different apparatus, like ball, rope, hoop and clubs.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/rg5.jpeg">
-</div>
 <p></p>

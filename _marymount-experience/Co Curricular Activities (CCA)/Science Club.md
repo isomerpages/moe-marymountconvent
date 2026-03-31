@@ -11,7 +11,7 @@ By exploring and communicating the wonders of Science, members develop
 eloquence, critical thinking and problem-solving skills while learning
 to view the world through a scientific lens.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover.jpg">
 </div>
 <p>The Science Club welcomes all individuals who have a genuine interest
 in science, and would like to further develop their knowledge, passion
@@ -24,39 +24,38 @@ in team projects.</p>
 <p><strong>Singapore Science Buskers Competition</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Science Buskers Competition" src="/images/Pic2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Singapore Science Buskers Competition" src="/images/Pic2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
 <p></p>
 <p><strong>Ice Ceam Making Workshop at the Science Centre</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
 <p></p>
 <p><strong>Season of Creation Activities during Recess</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
 <p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -12,10 +12,39 @@ debating and acting. Students will be equipped with the necessary skills
 in effective communication and artistic expression using the English Language.</p>
 <p>They will be given opportunities to showcase their skills at competitions
 and during school events.</p>
+<h4><strong>CCA Highlights</strong></h4>
+<p><strong>Warm-up sessions</strong>
+</p>
+<p>At the start of every session, the coach gets them to do warm-up exercises
+to project their voices, articulate clearly, respect the personal space
+of others and extend their vocal range.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Drama1.jpeg">
+<img style="width: 100%" height="auto" width="100%" src="/images/dram2.png">
 </div>
-<p></p>
+<p><strong>Acting Games</strong>
+</p>
+<p>A variety of acting games are played with the objective of breaking the
+ice, building group dynamics, improving focus and encouraging creativity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/dram3.jpg">
+</div>
+<p><strong>Script Writing</strong>&nbsp;</p>
+<p>The seniors pair up with the juniors to improve the juniors’ monologue
+pieces at one of the sessions; passing on their knowledge and experience
+gained from their years in the club.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/dram4.png">
+</div>
+<p><strong>Presentation</strong>
+</p>
+<p>In pairs or groups of three, pupils write and present their skits. Their
+audience (other members) highlight the areas of strengths and weaknesses
+in their skits in terms of projection of voice, expressiveness, use of
+body and immersion into the character.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Drama2.jpeg">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,41 +82,6 @@ and during school events.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Highlights</strong></h4>
-<p><strong>Warm-up sessions</strong>
-</p>
-<p>At the start of every session, the coach gets them to do warm-up exercises
-to project their voices, articulate clearly, respect the personal space
-of others and extend their vocal range.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/dram2.png">
-</div>
-<p><strong>Acting Games</strong>
-</p>
-<p>A variety of acting games are played with the objective of breaking the
-ice, building group dynamics, improving focus and encouraging creativity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/dram3.jpg">
-</div>
-<p><strong>Script Writing</strong>&nbsp;</p>
-<p>The seniors pair up with the juniors to improve the juniors’ monologue
-pieces at one of the sessions; passing on their knowledge and experience
-gained from their years in the club.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/dram4.png">
-</div>
-<p><strong>Presentation</strong>
-</p>
-<p>In pairs or groups of three, pupils write and present their skits. Their
-audience (other members) highlight the areas of strengths and weaknesses
-in their skits in terms of projection of voice, expressiveness, use of
-body and immersion into the character.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Drama2.jpeg">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Drama3.jpeg">
 </div>

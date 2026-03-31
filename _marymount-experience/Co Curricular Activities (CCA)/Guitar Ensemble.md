@@ -11,11 +11,9 @@ under the NAC Artist-in-School Scheme. This grant enabled us to engage
 a professional instructor to teach our students the fundamentals of classical
 guitar, with an emphasis on reading basic musical notation and an introduction
 to musical rudiments and guitar tablature.</p>
-<p></p>
 <p>Over the course of 10 structured sessions, students developed essential
 playing skills and successfully applied their learning by performing at
 the CCA Open House in November.</p>
-<p></p>
 <p>Recognising that participation in a guitar ensemble enhances cognitive
 development, musical depth, and long-term engagement, while also aligning
 well with the Singapore primary school context, including opportunities
@@ -23,7 +21,7 @@ such as SYF competitions, the school strongly encourages student participation
 in this programme. This year, we are pleased to have 30 students enrolled.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <p>Students are progressively trained in basic strumming, fingerpicking,
 and classical guitar techniques, equipping them with versatile musicianship
@@ -36,13 +34,14 @@ to work with renowned Polish composer and classical guitar pedagogue, Tatiana
 Stachak. We are confident that this invaluable exposure will significantly
 elevate our students’ playing skills and musical artistry.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Picture3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Guitar_Picture3.jpg">
 </div>
 <p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
