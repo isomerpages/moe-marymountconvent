@@ -43,12 +43,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bigonetransportation@gmail.com</p>
+<p><a href="mailto: bigonetransportation@gmail.com" rel="noopener nofollow" target="_blank">bigonetransportation@gmail.com</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Online Bus Order Form&nbsp;</strong>
+<p><strong>Website</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
