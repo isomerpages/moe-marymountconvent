@@ -1,6 +1,6 @@
 ---
 title: Income Family Micro Insurance Scheme (IFMIS)
-permalink: /school-info/income-family-micro-insurance-scheme-ifmiss/
+permalink: /school-info/income-family-micro-insurance-scheme-ifmis/
 description: ""
 variant: tiptap
 ---
