@@ -76,7 +76,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<h4><strong>Booklist - 2025</strong></h4>
+<h4><strong>Booklist - 2026</strong></h4>
 <p><a href="/files/Booklist_2026_MCS_P1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
 <p><a href="/files/Booklist_2026_MCS_P2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
