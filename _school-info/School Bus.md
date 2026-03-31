@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.bigonetransport.com" rel="noopener nofollow" target="_blank">www.bigonetransport.com</a>
+<p><a href="https://www.bigonetransport.com" rel="noopener nofollow" target="_blank">https://www.bigonetransport.com</a>
 </p>
 </td>
 </tr>
