@@ -67,15 +67,18 @@ your daughter to borrow them.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/p1p2cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P1, P2 Booklist</a>
+<p><a href="/files/Booklist/p1p2cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P1, P2 Boo</a>
+<a href="/files/P1_P2_Chinese_Book_List_2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/p1p2cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">klist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/p3p4cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3, P4 Booklist</a>
+<p><a href="/files/Booklist/p3p4cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3, </a>
+<a href="/files/P3_P4_Chinese_Book_List_2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/p3p4cl2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/p5p6cl2023.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
+<p><a href="/files/Booklist/p5p6cl2023.pdf" rel="noopener nofollow" target="_blank">P5</a>
+<a href="/files/P5_P6_Chinese_Book_List_2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/p5p6cl2023.pdf" rel="noopener nofollow" target="_blank">, P6 Booklist</a>
 </p>
 </td>
 </tr>
@@ -91,15 +94,18 @@ your daughter to borrow them.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/mlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Booklist</a>
+<p><a href="/files/Booklist/mlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 B</a>
+<a href="/files/Senarai_Buku_Bacaan_P1_dan_P2.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/mlp1p2.pdf" rel="noopener nofollow" target="_blank">ooklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/mlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Booklist</a>
+<p><a href="/files/Booklist/mlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Bo</a>
+<a href="/files/Senarai_Buku_Bacaan_P3_dan_P4.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/mlp3p4.pdf" rel="noopener nofollow" target="_blank">oklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/mlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
+<p><a href="/files/Booklist/mlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Boo</a>
+<a href="/files/Senarai_Buku_Bacaan_P5_dan_P6.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/mlp5p6.pdf" rel="noopener nofollow" target="_blank">klist</a>
 </p>
 </td>
 </tr>
@@ -115,15 +121,19 @@ your daughter to borrow them.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/tlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Booklist</a>
+<p><a href="/files/Booklist/tlp1p2.pdf" rel="noopener nofollow" target="_blank">P1, P2 Book</a>
+<a href="/files/P1_P2_Tamil_Book_List.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/tlp1p2.pdf" rel="noopener nofollow" target="_blank">list</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/tlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4 Booklist</a>
+<p><a href="/files/Booklist/tlp3p4.pdf" rel="noopener nofollow" target="_blank">P3, P4</a>
+<a href="/files/P3_P4_Tamil_Book_List.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/tlp3p4.pdf" rel="noopener nofollow" target="_blank"> Book</a>
+<a href="/files/P3_P4_Tamil_Book_List.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/tlp3p4.pdf" rel="noopener nofollow" target="_blank">list</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/tlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Booklist</a>
+<p><a href="/files/Booklist/tlp5p6.pdf" rel="noopener nofollow" target="_blank">P5, P6 Bo</a>
+<a href="/files/P5_P6_Tamil_Book_List.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Booklist/tlp5p6.pdf" rel="noopener nofollow" target="_blank">oklist</a>
 </p>
 </td>
 </tr>
