@@ -76,18 +76,23 @@ and abilities by speaking in front of peers.</p>
 </div>
 <p><strong><u>P4 Public Speaking Workshop</u></strong>
 </p>
-<p>As a post-exam activity, P4 students will learn the skills to speak and
-represent confidently and effectively their ideas according to purpose,
-audience and context, using positive body language, including posture,
-gestures, and eye contact, to support their message and engage the audience.</p>
+<p>As part of the post-exam programme, P4 students will develop the skills
+to speak confidently and effectively while representing their ideas according
+to purpose, audience, and context. Through engaging activities, students
+will learn to use positive body language — including posture, gestures,
+and eye contact — to support their message and engage their audience meaningfully.
+They will also develop E21CC competencies such as critical and adaptive
+thinking as they learn to present ideas clearly, logically, and coherently.</p>
 <p><strong><u>P3 Storytelling Workshop</u></strong>
 </p>
-<p>As a post-exam activity, P3 students will learn the skills to express
-ideas and emotions clearly and confidently through storytelling, using
-body language, facial expressions, appropriate tone, volume, and pace to
-engage the audience and convey emotions effectively. They will work in
-groups to tell a story to engage an audience incorporating all the skills
-they have learnt.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>As part of the post-exam programme, P3 students will develop the skills
+to express ideas and emotions clearly and confidently through storytelling.
+Students will learn to use body language, facial expressions, appropriate
+tone, volume, and pace to engage their audience and convey emotions effectively.
+Working collaboratively in groups, they will apply the storytelling techniques
+learnt to present engaging stories. Through these group activities, students
+will also strengthen E21CC competencies such as effective collaboration,
+teamwork, and conflict management.&nbsp;&nbsp;</p>
 <p><strong><u>Experiential Learning (Lower Primary)</u></strong>
 </p>
 <p>The ALP integrates experiential learning into the lower primary English
