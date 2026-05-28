@@ -74,6 +74,35 @@ and abilities by speaking in front of peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
 </div>
+<p><strong><u>P4 Public Speaking Workshop</u></strong>
+</p>
+<p>As a post-exam activity, P4 students will learn the skills to speak and
+represent confidently and effectively their ideas according to purpose,
+audience and context, using positive body language, including posture,
+gestures, and eye contact, to support their message and engage the audience.</p>
+<p><strong><u>P3 Storytelling Workshop</u></strong>
+</p>
+<p>As a post-exam activity, P3 students will learn the skills to express
+ideas and emotions clearly and confidently through storytelling, using
+body language, facial expressions, appropriate tone, volume, and pace to
+engage the audience and convey emotions effectively. They will work in
+groups to tell a story to engage an audience incorporating all the skills
+they have learnt.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong><u>Experiential Learning (Lower Primary)</u></strong>
+</p>
+<p>The ALP integrates experiential learning into the lower primary English
+curriculum, where students engage in hands-on activities to deepen their
+understanding of texts. For example, while reading the Stellar Reader,
+Mr Prata Man, P2 students learn to make pratas as a level, bringing the
+story to life through tactile experience.</p>
+<p>As for the P1 students, they discover the world of ants through the Ant
+Museum set up in school. They then present their observations and learning
+for the Stellar Unit on Ants In A Hurry.</p>
+<p>Such experiential learning promotes collaboration, simple presentations,
+(sharing their learning and experiences with their peers) helping students
+develop foundational communication and teamwork skills while fostering
+natural curiosity. By connecting classroom learning to real-life scenarios,
+students are motivated to develop a deep passion for the English Language.</p>
 <p></p>
 <p><strong><u>MCS Reading Programme</u></strong>
 </p>
