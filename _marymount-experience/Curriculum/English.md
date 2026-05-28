@@ -51,18 +51,17 @@ of the process is as important as the final product.</p>
 competency of the 21<sup>st</sup>Century. The aim of the Applied Learning
 Programme (ALP) at MCS seeks to achieve this desired outcome for every
 student. The ALP helps students appreciate the relevance and value of what
-they are learning in the academic curriculum and provide authentic and
-meaningful contexts for students to explore and learn the English Language.
-&nbsp;</p>
+they are learning in the English Language and provide authentic and meaningful
+contexts for students to explore and learn. &nbsp;</p>
 <h4><strong>Our Department Programmes</strong></h4>
-<p><strong><u>Live@MCS</u></strong>
+<p><strong><u>Live@MCS! - Love your voice, share your story</u></strong>
 </p>
-<p>Students from all ages come up to talk about a topic of their choice.
-It is held once a week during morning assembly and at recess. It aims to
-create a supportive platform where students gain confidence in their own
-voice and abilities by speaking in front of peers. Students can choose
-their own topics, affirming their interests and encouraging them to speak
-passionately and authentically.</p>
+<p><strong>Live@MCS! </strong>is a weekly student platform where students
+are given opportunities to speak confidently, share their ideas, and grow
+as ladies of eloquence. Students may present through live sharings at the
+hall or through our new vlog/video platform. This programme aims to create
+a supportive platform where students gain confidence in their own voice
+and abilities by speaking in front of peers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
