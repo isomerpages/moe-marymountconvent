@@ -6,44 +6,41 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h4><strong>CCA Information</strong></h4>
-<p>This CCA caters to students who want to be orator, scriptwriter, debater
-or actress. The students will be trained in 4 disciplines – speaking, writing,
-debating and acting. Students will be equipped with the necessary skills
-in effective communication and artistic expression using the English Language.</p>
-<p>They will be given opportunities to showcase their skills at competitions
-and during school events.</p>
+<p>This CCA caters to students who aspire to become confident orators and
+skilled debaters. Students are trained in three key disciplines — speaking,
+writing, and debating — through engaging and interactive activities. They
+are equipped with essential skills in effective communication, critical
+thinking, and artistic expression through the English Language. Through
+regular practice and collaborative learning experiences, students develop
+confidence, eloquence, and the ability to express their ideas clearly and
+persuasively in both formal and everyday settings.</p>
+<p>Students develop and apply a wide range of public speaking and debating
+skills through engaging and interactive training sessions. They learn to
+think critically, organise their ideas effectively, and respond confidently
+to unexpected arguments with poise and clarity. Through regular practice,
+students grow in confidence as articulate communicators who are able to
+express their viewpoints persuasively and respectfully.</p>
+<p>The CCA also emphasises character development and teamwork. Students are
+expected to demonstrate responsibility towards the club by being self-disciplined,
+focused, and committed during training sessions. They learn to respect
+differing perspectives, show empathy towards fellow members, and collaborate
+effectively with their teammates.</p>
+<p>Each session includes mini-debates where students spar in teams of three
+or four, providing authentic opportunities to sharpen their reasoning,
+rebuttal, and delivery skills in a supportive and encouraging environment.
+Through these experiences, students develop resilience, quick thinking,
+and the confidence to communicate effectively both on stage
+<br>
+</p>
 <h4><strong>CCA Highlights</strong></h4>
-<p><strong>Warm-up sessions</strong>
+<p><strong>Wits and Words 2026 - Inter-school Debate Competition</strong>
 </p>
-<p>At the start of every session, the coach gets them to do warm-up exercises
-to project their voices, articulate clearly, respect the personal space
-of others and extend their vocal range.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/dram2.png">
-</div>
-<p><strong>Acting Games</strong>
-</p>
-<p>A variety of acting games are played with the objective of breaking the
-ice, building group dynamics, improving focus and encouraging creativity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/dram3.jpg">
-</div>
-<p><strong>Script Writing</strong>&nbsp;</p>
-<p>The seniors pair up with the juniors to improve the juniors’ monologue
-pieces at one of the sessions; passing on their knowledge and experience
-gained from their years in the club.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/dram4.png">
-</div>
-<p><strong>Presentation</strong>
-</p>
-<p>In pairs or groups of three, pupils write and present their skits. Their
-audience (other members) highlight the areas of strengths and weaknesses
-in their skits in terms of projection of voice, expressiveness, use of
-body and immersion into the character.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Drama2.jpeg">
-</div>
+<p>The MCS Debate Team emerged victorious in both Preliminary Rounds, with
+one of our speakers clinching the Best Speaker Award in both rounds. Overall,
+the team distinguished itself as one of the top-performing schools in the
+South Zone. In addition, two of our speakers were recognised with the Good
+Speaker Awards, reflecting the team’s strong collaboration, eloquence,
+and critical thinking skills.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
