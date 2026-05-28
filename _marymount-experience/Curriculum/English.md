@@ -48,24 +48,21 @@ are guided through the different stages of writing (ideation, drafting,
 receiving feedback, editing, publishing) as we believe that the rigour
 of the process is as important as the final product.</p>
 <p><strong>3. Oracy @ MCS<br></strong>Communicating effectively is a key
-competency of the 21<sup>st</sup>Century. The Whole School Approach to
-Effective Communication (WSA-EC) seeks to achieve this desired outcome
-for every student through customised programmes. Some platforms for students
-to give oral presentations include ‘Characters come Alive!’, Readers’ Theatre
-and our Speak Well presentations.</p>
+competency of the 21<sup>st</sup>Century. The aim of the Applied Learning
+Programme (ALP) at MCS seeks to achieve this desired outcome for every
+student. The ALP helps students appreciate the relevance and value of what
+they are learning in the English Language and provide authentic and meaningful
+contexts for students to explore and learn. &nbsp;</p>
 <h4><strong>Our Department Programmes</strong></h4>
-<p><strong><u>Speak Well Programme</u></strong>
+<p><strong><u>Live@MCS! - Love your voice, share your story</u></strong>
 </p>
-<p>The Speak Well Programme aims to develop a sense of confidence and eloquence
-in our students through the explicit sharing of values.</p>
-<p>It requires our students to first write about a given theme that is tied
-to our school values. During the process, they do research and reflect
-on their own experiences to form convincing beliefs about the given theme.</p>
-<p>Students present their thoughts and share their experiences with their
-peers in class, and representatives from each class would do similarly
-during assembly, to a wider audience. With the shift to e-assembly, our
-students design a deck of slides to accompany their speeches, making their
-presentations even more engaging to the audience.</p>
+<p><strong>Live@MCS! </strong>is a weekly student platform where students
+are given opportunities to speak confidently, share their ideas, and grow
+as ladies of eloquence. Students may present through live sharings at the
+hall or through our new vlog/video platform. This programme aims to create
+a supportive platform where students gain confidence in their own voice
+and abilities by speaking in front of peers.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
 </div>
@@ -77,6 +74,40 @@ presentations even more engaging to the audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_072610.jpg">
 </div>
+<p><strong><u>P4 Public Speaking Workshop</u></strong>
+</p>
+<p>As part of the post-exam programme, P4 students will develop the skills
+to speak confidently and effectively while representing their ideas according
+to purpose, audience, and context. Through engaging activities, students
+will learn to use positive body language — including posture, gestures,
+and eye contact — to support their message and engage their audience meaningfully.
+They will also develop E21CC competencies such as critical and adaptive
+thinking as they learn to present ideas clearly, logically, and coherently.</p>
+<p><strong><u>P3 Storytelling Workshop</u></strong>
+</p>
+<p>As part of the post-exam programme, P3 students will develop the skills
+to express ideas and emotions clearly and confidently through storytelling.
+Students will learn to use body language, facial expressions, appropriate
+tone, volume, and pace to engage their audience and convey emotions effectively.
+Working collaboratively in groups, they will apply the storytelling techniques
+learnt to present engaging stories. Through these group activities, students
+will also strengthen E21CC competencies such as effective collaboration,
+teamwork, and conflict management.&nbsp;&nbsp;</p>
+<p><strong><u>Experiential Learning (Lower Primary)</u></strong>
+</p>
+<p>The ALP integrates experiential learning into the lower primary English
+curriculum, where students engage in hands-on activities to deepen their
+understanding of texts. For example, while reading the Stellar Reader,
+Mr Prata Man, P2 students learn to make pratas as a level, bringing the
+story to life through tactile experience.</p>
+<p>As for the P1 students, they discover the world of ants through the Ant
+Museum set up in school. They then present their observations and learning
+for the Stellar Unit on Ants In A Hurry.</p>
+<p>Such experiential learning promotes collaboration, simple presentations,
+(sharing their learning and experiences with their peers) helping students
+develop foundational communication and teamwork skills while fostering
+natural curiosity. By connecting classroom learning to real-life scenarios,
+students are motivated to develop a deep passion for the English Language.</p>
 <p></p>
 <p><strong><u>MCS Reading Programme</u></strong>
 </p>
