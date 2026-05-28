@@ -48,24 +48,22 @@ are guided through the different stages of writing (ideation, drafting,
 receiving feedback, editing, publishing) as we believe that the rigour
 of the process is as important as the final product.</p>
 <p><strong>3. Oracy @ MCS<br></strong>Communicating effectively is a key
-competency of the 21<sup>st</sup>Century. The Whole School Approach to
-Effective Communication (WSA-EC) seeks to achieve this desired outcome
-for every student through customised programmes. Some platforms for students
-to give oral presentations include ‘Characters come Alive!’, Readers’ Theatre
-and our Speak Well presentations.</p>
+competency of the 21<sup>st</sup>Century. The aim of the Applied Learning
+Programme (ALP) at MCS seeks to achieve this desired outcome for every
+student. The ALP helps students appreciate the relevance and value of what
+they are learning in the academic curriculum and provide authentic and
+meaningful contexts for students to explore and learn the English Language.
+&nbsp;</p>
 <h4><strong>Our Department Programmes</strong></h4>
-<p><strong><u>Speak Well Programme</u></strong>
+<p><strong><u>Live@MCS</u></strong>
 </p>
-<p>The Speak Well Programme aims to develop a sense of confidence and eloquence
-in our students through the explicit sharing of values.</p>
-<p>It requires our students to first write about a given theme that is tied
-to our school values. During the process, they do research and reflect
-on their own experiences to form convincing beliefs about the given theme.</p>
-<p>Students present their thoughts and share their experiences with their
-peers in class, and representatives from each class would do similarly
-during assembly, to a wider audience. With the shift to e-assembly, our
-students design a deck of slides to accompany their speeches, making their
-presentations even more engaging to the audience.</p>
+<p>Students from all ages come up to talk about a topic of their choice.
+It is held once a week during morning assembly and at recess. It aims to
+create a supportive platform where students gain confidence in their own
+voice and abilities by speaking in front of peers. Students can choose
+their own topics, affirming their interests and encouraging them to speak
+passionately and authentically.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/20250203_071816.jpg">
 </div>
